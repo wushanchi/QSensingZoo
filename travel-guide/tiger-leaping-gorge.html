@@ -1,0 +1,1417 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>虎跳峡 · 徒步全攻略</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;600;700&family=Noto+Sans+SC:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:        #f7f3ed;
+      --bg-dark:   #1a1410;
+      --bg-card:   #ffffff;
+      --text:      #2c2416;
+      --text-muted:#7a6a52;
+      --accent:    #b84a1e;
+      --accent2:   #2d6a4f;
+      --accent3:   #8b6914;
+      --border:    #e0d5c5;
+      --shadow:    rgba(44, 36, 22, 0.1);
+      --canyon:    #c17a3a;
+      --river:     #3a7fa8;
+      --trail:     #b84a1e;
+      --poi-bg:    rgba(184, 74, 30, 0.08);
+      --font-d: 'Noto Serif SC', serif;
+      --font-b: 'Noto Sans SC', sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 3px; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font-b);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.8;
+      font-size: 15px;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      position: relative;
+      height: 100vh;
+      min-height: 600px;
+      background: var(--bg-dark);
+      overflow: hidden;
+      display: flex;
+      align-items: flex-end;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 100% 80% at 50% 100%, rgba(184, 74, 30, 0.35) 0%, transparent 60%),
+        radial-gradient(ellipse 80% 60% at 30% 30%, rgba(45, 106, 79, 0.3) 0%, transparent 50%),
+        linear-gradient(160deg, #0f1a12 0%, #1a1410 40%, #2d1e0e 70%, #1a0e08 100%);
+    }
+
+    .hero-noise {
+      position: absolute;
+      inset: 0;
+      opacity: 0.05;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+      background-size: 180px;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      padding: 0 8vw 8vh;
+      width: 100%;
+    }
+
+    .hero-eyebrow {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.4);
+      margin-bottom: 16px;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s 0.2s ease forwards;
+    }
+
+    .hero-title {
+      font-family: var(--font-d);
+      font-size: clamp(3rem, 8vw, 7.5rem);
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.0;
+      letter-spacing: -0.02em;
+      margin-bottom: 20px;
+      opacity: 0;
+      transform: translateY(30px);
+      animation: fadeUp 0.9s 0.4s ease forwards;
+    }
+
+    .hero-title span {
+      display: block;
+      font-size: 0.38em;
+      font-weight: 300;
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.55);
+      margin-bottom: 8px;
+      font-family: var(--font-b);
+    }
+
+    .hero-subtitle {
+      font-size: 14px;
+      color: rgba(255,255,255,0.55);
+      max-width: 500px;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s 0.6s ease forwards;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 32px;
+      margin-top: 32px;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s 0.8s ease forwards;
+    }
+
+    .hero-stat {
+      padding-left: 16px;
+      border-left: 1px solid rgba(255,255,255,0.2);
+    }
+
+    .hero-stat strong {
+      display: block;
+      font-size: 22px;
+      font-family: var(--font-d);
+      color: rgba(255,255,255,0.9);
+      font-weight: 600;
+    }
+
+    .hero-stat span {
+      font-size: 11px;
+      color: rgba(255,255,255,0.4);
+      letter-spacing: 0.05em;
+    }
+
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── Nav ── */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(247, 243, 237, 0.95);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 8vw;
+    }
+
+    nav ul {
+      display: flex;
+      gap: 4px;
+      list-style: none;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    nav ul::-webkit-scrollbar { display: none; }
+
+    nav a {
+      display: block;
+      padding: 16px 18px;
+      font-size: 13px;
+      color: var(--text-muted);
+      text-decoration: none;
+      white-space: nowrap;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+      font-weight: 500;
+    }
+
+    nav a:hover, nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Container ── */
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 8vw; }
+    .section { padding: 80px 0; }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+
+    .section-title {
+      font-family: var(--font-d);
+      font-size: clamp(2rem, 4vw, 3rem);
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.2;
+      margin-bottom: 12px;
+    }
+
+    .divider { width: 50px; height: 3px; background: linear-gradient(to right, var(--accent), var(--accent2)); border-radius: 2px; margin: 20px 0; }
+
+    /* ── Map Section ── */
+    .map-section { padding: 60px 0; }
+
+    .map-container {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16/9;
+      background: linear-gradient(160deg, #e8e0d4 0%, #d4c8b8 50%, #c4b8a4 100%);
+      border-radius: 24px;
+      overflow: hidden;
+      box-shadow: 0 20px 60px rgba(44, 36, 22, 0.15);
+      border: 1px solid var(--border);
+    }
+
+    .map-svg {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* ── Legend ── */
+    .map-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-top: 20px;
+      padding: 16px 20px;
+      background: var(--bg-card);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+
+    .legend-line {
+      width: 24px;
+      height: 3px;
+      border-radius: 2px;
+    }
+
+    /* ── POI Tooltip ── */
+    .poi-info {
+      position: absolute;
+      background: rgba(26, 20, 16, 0.95);
+      color: #fff;
+      border-radius: 10px;
+      padding: 14px 18px;
+      font-size: 12px;
+      line-height: 1.6;
+      max-width: 200px;
+      pointer-events: none;
+      opacity: 0;
+      transform: translateY(6px);
+      transition: opacity 0.2s, transform 0.2s;
+      z-index: 10;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+    }
+
+    .poi-info::before {
+      content: '';
+      position: absolute;
+      top: -6px;
+      left: 20px;
+      width: 12px;
+      height: 12px;
+      background: rgba(26, 20, 16, 0.95);
+      transform: rotate(45deg);
+    }
+
+    .poi-info h4 {
+      font-family: var(--font-d);
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: #fff;
+    }
+
+    .map-container:hover .poi-info {
+      opacity: 0;
+    }
+
+    /* ── Info Cards ── */
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      margin-top: 40px;
+    }
+
+    .info-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .info-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 40px var(--shadow);
+    }
+
+    .info-card-icon {
+      font-size: 40px;
+      margin-bottom: 14px;
+    }
+
+    .info-card-title {
+      font-family: var(--font-d);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 10px;
+    }
+
+    .info-card-text {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.8;
+    }
+
+    .info-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 13px;
+    }
+
+    .info-row:last-child { border-bottom: none; }
+
+    .info-row .label { color: var(--text-muted); }
+    .info-row .value { font-weight: 600; color: var(--text); }
+    .info-row .value.highlight { color: var(--accent); }
+
+    /* ── Trail Detail ── */
+    .trail-section {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      overflow: hidden;
+      margin-top: 40px;
+    }
+
+    .trail-header {
+      background: linear-gradient(135deg, #1a1410 0%, #2d1e0e 100%);
+      padding: 28px 32px;
+      color: #fff;
+    }
+
+    .trail-header h3 {
+      font-family: var(--font-d);
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+
+    .trail-header p {
+      font-size: 13px;
+      color: rgba(255,255,255,0.55);
+    }
+
+    .trail-segments {
+      padding: 28px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .trail-segment {
+      display: flex;
+      gap: 20px;
+      position: relative;
+      padding-bottom: 24px;
+    }
+
+    .trail-segment:last-child { padding-bottom: 0; }
+
+    .trail-segment::before {
+      content: '';
+      position: absolute;
+      left: 11px;
+      top: 24px;
+      bottom: 0;
+      width: 2px;
+      background: var(--border);
+    }
+
+    .trail-segment:last-child::before { display: none; }
+
+    .trail-dot {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10px;
+      font-weight: 700;
+      flex-shrink: 0;
+      z-index: 1;
+    }
+
+    .trail-segment-info { flex: 1; }
+
+    .trail-segment-name {
+      font-family: var(--font-d);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+
+    .trail-segment-meta {
+      display: flex;
+      gap: 16px;
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    .trail-segment-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.7;
+    }
+
+    /* ── Timeline ── */
+    .timeline { padding-left: 32px; position: relative; }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 10px;
+      top: 6px;
+      bottom: 6px;
+      width: 2px;
+      background: linear-gradient(to bottom, var(--accent), var(--accent2));
+      border-radius: 1px;
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 32px;
+    }
+
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -26px;
+      top: 8px;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--bg-card);
+      border: 3px solid var(--accent);
+    }
+
+    .timeline-day {
+      display: inline-flex;
+      background: var(--accent);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 12px;
+      border-radius: 20px;
+      margin-bottom: 8px;
+    }
+
+    .timeline-name {
+      font-family: var(--font-d);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+
+    .timeline-meta {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+
+    .timeline-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.7;
+    }
+
+    /* ── Alert Box ── */
+    .alert {
+      background: #fdf3ee;
+      border: 1px solid #e8c9b8;
+      border-left: 4px solid var(--accent);
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin-top: 24px;
+    }
+
+    .alert-title {
+      font-family: var(--font-d);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .alert-text {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.8;
+    }
+
+    .alert.green {
+      background: #f0f7f2;
+      border-color: #b8d4c0;
+      border-left-color: var(--accent2);
+    }
+
+    .alert.green .alert-title { color: var(--accent2); }
+
+    .alert.yellow {
+      background: #faf6ec;
+      border-color: #e0d0a0;
+      border-left-color: var(--accent3);
+    }
+
+    .alert.yellow .alert-title { color: var(--accent3); }
+
+    /* ── Three Zones ── */
+    .zones-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      margin-top: 40px;
+    }
+
+    .zone-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+    }
+
+    .zone-header {
+      padding: 20px 24px;
+      color: #fff;
+    }
+
+    .zone-header.upper { background: linear-gradient(135deg, #3a7fa8, #2d6a8f); }
+    .zone-header.middle { background: linear-gradient(135deg, #c17a3a, #a86828); }
+    .zone-header.lower { background: linear-gradient(135deg, #5a8a4a, #4a7a3a); }
+
+    .zone-name {
+      font-family: var(--font-d);
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .zone-alt {
+      font-size: 12px;
+      opacity: 0.75;
+    }
+
+    .zone-body { padding: 20px 24px; }
+
+    .zone-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.8;
+      margin-bottom: 12px;
+    }
+
+    .zone-stat {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      padding: 4px 0;
+      color: var(--text-muted);
+    }
+
+    .zone-stat strong { color: var(--text); font-weight: 600; }
+
+    /* ── Pack ── */
+    .pack-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 12px;
+      margin-top: 40px;
+    }
+
+    .pack-cat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+    }
+
+    .pack-cat-title {
+      font-family: var(--font-d);
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .pack-items { display: flex; flex-direction: column; gap: 6px; }
+
+    .pack-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .pack-check {
+      width: 14px;
+      height: 14px;
+      border: 1.5px solid var(--border);
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--bg-dark);
+      color: rgba(255,255,255,0.4);
+      padding: 48px 8vw;
+      text-align: center;
+    }
+
+    footer p { font-size: 13px; line-height: 1.8; }
+
+    .reveal { opacity: 0; transform: translateY(20px); transition: opacity 0.7s, transform 0.7s; }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+
+    @media (max-width: 640px) {
+      .container { padding: 0 6vw; }
+      .section { padding: 60px 0; }
+      .hero-stats { flex-direction: column; gap: 16px; }
+      .info-grid { grid-template-columns: 1fr; }
+      .zones-grid { grid-template-columns: 1fr; }
+      .map-container { aspect-ratio: 4/3; }
+      .map-legend { gap: 10px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══ HERO ══ -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-noise"></div>
+  <div class="hero-content">
+    <p class="hero-eyebrow">Tiger Leaping Gorge · 世界最深峡谷之一</p>
+    <h1 class="hero-title"><span>虎跳峡</span>徒步全攻略</h1>
+    <p class="hero-subtitle">金沙江劈山而过，上虎跳、中虎跳、下虎跳三段各具特色，世界落差最大的峡谷之一。</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <strong>3790m</strong>
+        <span>峡谷最大落差</span>
+      </div>
+      <div class="hero-stat">
+        <strong>16km</strong>
+        <span>经典徒步路线</span>
+      </div>
+      <div class="hero-stat">
+        <strong>2.5h</strong>
+        <span>上虎跳游览时长</span>
+      </div>
+      <div class="hero-stat">
+        <strong>1800</strong>
+        <span>级天梯（中虎跳）</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ NAV ══ -->
+<nav>
+  <ul>
+    <li><a href="#map" class="active">峡谷地图</a></li>
+    <li><a href="#three-zones">三段介绍</a></li>
+    <li><a href="#hiking">徒步路线</a></li>
+    <li><a href="#transport">交通</a></li>
+    <li><a href="#tips">实用贴士</a></li>
+    <li><a href="#packing">装备清单</a></li>
+  </ul>
+</nav>
+
+<!-- ══ MAP SECTION ══ -->
+<section class="map-section" id="map">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">峡谷地图</p>
+      <h2 class="section-title">虎跳峡全景图</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="map-container reveal" id="mapContainer">
+      <svg class="map-svg" viewBox="0 0 1000 562" preserveAspectRatio="xMidYMid slice">
+        <defs>
+          <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#d0c8bc"/>
+            <stop offset="100%" stop-color="#e8e0d4"/>
+          </linearGradient>
+          <linearGradient id="riverGrad" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#3a7fa8"/>
+            <stop offset="50%" stop-color="#2a6f98"/>
+            <stop offset="100%" stop-color="#3a7fa8"/>
+          </linearGradient>
+          <linearGradient id="mountainLeft" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#4a3828"/>
+            <stop offset="100%" stop-color="#6a5040"/>
+          </linearGradient>
+          <linearGradient id="mountainRight" x1="1" y1="0" x2="0" y2="0">
+            <stop offset="0%" stop-color="#4a3828"/>
+            <stop offset="100%" stop-color="#6a5040"/>
+          </linearGradient>
+          <linearGradient id="canyonBase" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#c17a3a" stop-opacity="0.4"/>
+            <stop offset="100%" stop-color="#8b5a20"/>
+          </linearGradient>
+          <filter id="softGlow">
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+          </filter>
+          <pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <line x1="0" y1="0" x2="0" y2="4" stroke="rgba(44,36,22,0.08)" stroke-width="1"/>
+          </pattern>
+        </defs>
+
+        <!-- Sky -->
+        <rect width="1000" height="562" fill="url(#skyGrad)"/>
+
+        <!-- Distant Mountains Background -->
+        <polygon points="0,280 80,200 160,240 240,190 320,230 400,180 500,210 600,170 700,200 800,185 900,215 1000,195 1000,350 0,350" fill="#c4b8a4" opacity="0.5"/>
+        <polygon points="0,300 100,240 200,270 300,230 400,260 500,220 600,250 700,220 800,255 900,235 1000,260 1000,380 0,380" fill="#b4a894" opacity="0.4"/>
+
+        <!-- Canyon Walls - Left Mountain (Yao Mountain 玉龙雪山) -->
+        <polygon points="0,50 0,480 180,562 320,450 400,350 420,280 380,240 320,220 240,200 160,180 80,140 0,120" fill="url(#mountainLeft)" opacity="0.9"/>
+        <!-- Mountain texture left -->
+        <polygon points="0,50 0,480 180,562 320,450 400,350 420,280 380,240 320,220 240,200 160,180 80,140 0,120" fill="url(#hatch)"/>
+
+        <!-- Canyon Walls - Right Mountain (Haba Mountain 哈巴雪山) -->
+        <polygon points="1000,30 1000,460 820,562 680,450 600,360 580,290 620,250 700,230 780,210 860,180 940,140 1000,120" fill="url(#mountainRight)" opacity="0.9"/>
+        <polygon points="1000,30 1000,460 820,562 680,450 600,360 580,290 620,250 700,230 780,210 860,180 940,140 1000,120" fill="url(#hatch)"/>
+
+        <!-- Canyon Base / Valley Floor -->
+        <polygon points="320,450 420,280 380,240 440,230 500,240 580,290 600,360 680,450 820,562 180,562" fill="url(#canyonBase)"/>
+
+        <!-- Jinsha River / Yangtze River (金沙江) - Upper -->
+        <path d="M 0,380 C 100,375 200,370 300,365 C 400,360 450,355 500,358 C 550,361 600,360 700,355 C 800,350 900,355 1000,350 L 1000,370 C 900,375 800,370 700,365 C 600,360 550,361 500,358 C 450,355 400,360 300,365 C 200,370 100,375 0,380 Z" fill="url(#riverGrad)" opacity="0.7"/>
+
+        <!-- Jinsha River - through the gorge -->
+        <path d="M 420,280 C 430,285 445,290 460,295 C 480,300 495,305 500,310 C 505,305 520,300 540,295 C 560,290 570,285 580,290" fill="url(#riverGrad)"/>
+        <path d="M 420,280 C 430,285 445,290 460,295 C 480,300 495,305 500,310 C 505,305 520,300 540,295 C 560,290 570,285 580,290 L 580,300 C 570,295 560,300 540,305 C 520,310 505,315 500,320 C 495,315 480,310 460,305 C 445,300 430,295 420,290 Z" fill="url(#riverGrad)" opacity="0.85"/>
+
+        <!-- River foam/highlights -->
+        <path d="M 440,293 C 460,298 480,303 500,308 C 520,303 540,298 560,293" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+        <path d="M 460,302 C 480,307 500,312 520,307" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+
+        <!-- ── HIKING TRAIL ── -->
+        <!-- Trail: Qutou → Upper Tiger Leaping Gorge -->
+        <path d="M 145,200 C 160,210 175,225 185,245 C 195,265 200,285 215,305 C 225,320 240,340 255,360 C 265,375 275,390 290,408" 
+              fill="none" stroke="#c45d2a" stroke-width="3.5" stroke-dasharray="12,6" stroke-linecap="round"/>
+
+        <!-- Trail: Upper Tiger → Middle Tiger (steep path) -->
+        <path d="M 290,408 C 305,425 320,445 340,460 C 355,472 370,480 390,490 C 405,498 415,505 425,515 C 432,522 438,532 445,542" 
+              fill="none" stroke="#c45d2a" stroke-width="3" stroke-dasharray="8,5" stroke-linecap="round"/>
+
+        <!-- Trail: Middle Tiger → Tina's Guesthouse -->
+        <path d="M 445,542 C 455,555 468,562 480,562 L 520,562 C 535,560 550,558 565,555 C 580,552 595,550 610,545" 
+              fill="none" stroke="#c45d2a" stroke-width="2.5" stroke-dasharray="8,5" stroke-linecap="round"/>
+
+        <!-- ── ROAD (Highway) ── -->
+        <!-- Road: Lijiang direction to Upper Tiger -->
+        <path d="M 0,330 C 60,325 120,320 180,315 C 230,310 270,308 320,305" 
+              fill="none" stroke="#9a8a78" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+        
+        <!-- Road: Upper Tiger → Tina's → Daju -->
+        <path d="M 320,305 C 350,300 380,295 420,290 C 460,285 500,280 540,278 C 580,280 620,285 660,295 C 700,305 740,318 780,335 C 810,348 840,360 870,372 C 890,380 910,386 940,392 C 960,396 980,398 1000,400" 
+              fill="none" stroke="#9a8a78" stroke-width="3.5" stroke-linecap="round" opacity="0.5"/>
+
+        <!-- Road dashed continuation -->
+        <path d="M 940,392 C 960,396 980,398 1000,400" 
+              fill="none" stroke="#9a8a78" stroke-width="4" stroke-linecap="round" opacity="0.6" stroke-dasharray="0"/>
+
+        <!-- ── ELEVATION MARKERS ── -->
+        <!-- Left wall elevation markers -->
+        <line x1="50" y1="180" x2="50" y2="420" stroke="rgba(44,36,22,0.15)" stroke-width="1" stroke-dasharray="3,3"/>
+        <text x="30" y="180" font-size="10" fill="rgba(44,36,22,0.4)" font-family="Noto Sans SC">3800m</text>
+        <text x="30" y="300" font-size="10" fill="rgba(44,36,22,0.4)" font-family="Noto Sans SC">2600m</text>
+        <text x="30" y="420" font-size="10" fill="rgba(44,36,22,0.4)" font-family="Noto Sans SC">1800m</text>
+
+        <!-- Right wall elevation markers -->
+        <line x1="950" y1="160" x2="950" y2="440" stroke="rgba(44,36,22,0.15)" stroke-width="1" stroke-dasharray="3,3"/>
+        <text x="955" y="165" font-size="10" fill="rgba(44,36,22,0.4)" font-family="Noto Sans SC">4200m</text>
+        <text x="955" y="300" font-size="10" fill="rgba(44,36,22,0.4)" font-family="Noto Sans SC">2800m</text>
+        <text x="955" y="445" font-size="10" fill="rgba(44,36,22,0.4)" font-family="Noto Sans SC">1850m</text>
+
+        <!-- ── POI: Upper Tiger (上虎跳) ── -->
+        <circle cx="285" cy="295" r="10" fill="#b84a1e" opacity="0.9"/>
+        <circle cx="285" cy="295" r="18" fill="none" stroke="#b84a1e" stroke-width="2" opacity="0.3"/>
+        <text x="285" y="299" text-anchor="middle" font-size="11" fill="#fff" font-weight="700">▲</text>
+        <!-- Label -->
+        <rect x="200" y="260" width="85" height="30" rx="6" fill="rgba(26,20,16,0.85)"/>
+        <text x="242" y="271" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.6)" font-family="Noto Sans SC">上虎跳</text>
+        <text x="242" y="283" text-anchor="middle" font-size="11" fill="#fff" font-family="Noto Sans SC" font-weight="600">1800m</text>
+
+        <!-- ── POI: Middle Tiger (中虎跳) ── -->
+        <circle cx="455" cy="530" r="10" fill="#b84a1e" opacity="0.9"/>
+        <circle cx="455" cy="530" r="18" fill="none" stroke="#b84a1e" stroke-width="2" opacity="0.3"/>
+        <text x="455" y="534" text-anchor="middle" font-size="11" fill="#fff" font-weight="700">▲</text>
+        <!-- Label -->
+        <rect x="375" y="530" width="75" height="30" rx="6" fill="rgba(26,20,16,0.85)"/>
+        <text x="412" y="541" text-anchor="middle" font-size="11" fill="#fff" font-family="Noto Sans SC" font-weight="600">中虎跳</text>
+        <text x="412" y="553" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.5)" font-family="Noto Sans SC">1800级阶梯</text>
+
+        <!-- ── POI: Tina's Guesthouse ── -->
+        <circle cx="570" cy="548" r="8" fill="#2d6a4f" opacity="0.9"/>
+        <text x="570" y="552" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">🏠</text>
+        <!-- Label -->
+        <rect x="475" y="548" width="90" height="30" rx="6" fill="rgba(26,20,16,0.85)"/>
+        <text x="520" y="559" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.6)" font-family="Noto Sans SC">Tina's 青年旅舍</text>
+        <text x="520" y="571" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)" font-family="Noto Sans SC">中转站</text>
+
+        <!-- ── POI: Lower Tiger (下虎跳) ── -->
+        <circle cx="680" cy="430" r="8" fill="#3a7fa8" opacity="0.8"/>
+        <circle cx="680" cy="430" r="14" fill="none" stroke="#3a7fa8" stroke-width="1.5" opacity="0.3"/>
+        <text x="680" y="434" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">▲</text>
+        <!-- Label -->
+        <rect x="600" y="430" width="75" height="24" rx="5" fill="rgba(26,20,16,0.85)"/>
+        <text x="637" y="446" text-anchor="middle" font-size="11" fill="#fff" font-family="Noto Sans SC" font-weight="600">下虎跳</text>
+
+        <!-- ── POI: Qutou (桥头镇) ── -->
+        <circle cx="150" cy="190" r="8" fill="#8b6914" opacity="0.8"/>
+        <text x="150" y="194" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">●</text>
+        <!-- Label -->
+        <rect x="90" y="165" width="60" height="22" rx="5" fill="rgba(26,20,16,0.85)"/>
+        <text x="120" y="180" text-anchor="middle" font-size="11" fill="#fff" font-family="Noto Sans SC" font-weight="600">桥头</text>
+
+        <!-- ── POI: Daju (大具) ── -->
+        <circle cx="850" cy="395" r="8" fill="#8b6914" opacity="0.8"/>
+        <text x="850" y="399" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">●</text>
+        <!-- Label -->
+        <rect x="810" y="410" width="55" height="22" rx="5" fill="rgba(26,20,16,0.85)"/>
+        <text x="837" y="425" text-anchor="middle" font-size="11" fill="#fff" font-family="Noto Sans SC" font-weight="600">大具</text>
+
+        <!-- ── POI: Halfway Guesthouse (中途客栈) ── -->
+        <circle cx="380" cy="490" r="7" fill="#2d6a4f" opacity="0.85"/>
+        <text x="380" y="494" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">🏠</text>
+        <!-- Label -->
+        <rect x="305" y="490" width="72" height="24" rx="5" fill="rgba(26,20,16,0.85)"/>
+        <text x="341" y="506" text-anchor="middle" font-size="10" fill="#fff" font-family="Noto Sans SC" font-weight="600">中途客栈</text>
+
+        <!-- ── POI: 28 Bends (二十八道拐) ── -->
+        <circle cx="330" cy="420" r="6" fill="#c17a3a" opacity="0.8"/>
+        <!-- Label -->
+        <rect x="260" y="420" width="65" height="20" rx="4" fill="rgba(26,20,16,0.75)"/>
+        <text x="292" y="433" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.8)" font-family="Noto Sans SC">二十八道拐</text>
+
+        <!-- ── Arrow: Trail Direction ── -->
+        <polygon points="290,408 298,415 290,422 285,415" fill="#c45d2a" opacity="0.6"/>
+        <polygon points="445,542 453,549 445,556 440,549" fill="#c45d2a" opacity="0.6"/>
+
+        <!-- ── Canyon Width Indicator ── -->
+        <line x1="420" y1="270" x2="580" y2="270" stroke="rgba(184,74,30,0.5)" stroke-width="1.5" stroke-dasharray="4,3"/>
+        <line x1="420" y1="264" x2="420" y2="276" stroke="rgba(184,74,30,0.5)" stroke-width="1.5"/>
+        <line x1="580" y1="264" x2="580" y2="276" stroke="rgba(184,74,30,0.5)" stroke-width="1.5"/>
+        <text x="500" y="266" text-anchor="middle" font-size="9" fill="rgba(184,74,30,0.7)" font-family="Noto Sans SC">峡谷最窄处约30m</text>
+
+        <!-- ── North Arrow ── -->
+        <g transform="translate(940, 80)">
+          <circle cx="0" cy="0" r="20" fill="rgba(26,20,16,0.1)" stroke="rgba(26,20,16,0.2)" stroke-width="1"/>
+          <text x="0" y="-26" text-anchor="middle" font-size="10" fill="rgba(44,36,22,0.5)" font-family="Noto Sans SC">N</text>
+          <polygon points="0,-16 -5,0 0,-4 5,0" fill="rgba(44,36,22,0.5)"/>
+          <polygon points="0,16 -5,0 0,4 5,0" fill="rgba(44,36,22,0.2)"/>
+        </g>
+
+        <!-- ── Title in Map ── -->
+        <text x="500" y="540" text-anchor="middle" font-size="13" fill="rgba(44,36,22,0.25)" font-family="Noto Serif SC" font-weight="600" letter-spacing="4">虎跳峡地形示意图</text>
+      </svg>
+
+      <!-- POI hover overlays -->
+      <div class="poi-info" id="poi-upper" style="left: 32%; top: 40%;">
+        <h4>上虎跳</h4>
+        <p>海拔 1800m，景区栈道约2公里，老少皆宜。游览时长 1.5-2小时。</p>
+      </div>
+      <div class="poi-info" id="poi-middle" style="left: 50%; top: 88%;">
+        <h4>中虎跳</h4>
+        <p>徒步路线约16公里，1800级天梯。高阶徒步者首选，体力消耗大。</p>
+      </div>
+    </div>
+
+    <!-- Legend -->
+    <div class="map-legend reveal">
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#b84a1e;"></div>
+        景点/徒步点
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#2d6a4f;"></div>
+        住宿/客栈
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#8b6914;"></div>
+        城镇/入口
+      </div>
+      <div class="legend-item">
+        <div class="legend-line" style="background:#c45d2a;"></div>
+        徒步路线
+      </div>
+      <div class="legend-item">
+        <div class="legend-line" style="background:#9a8a78;"></div>
+        公路
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#3a7fa8; border-radius:2px;"></div>
+        金沙江
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ THREE ZONES ══ -->
+<section class="section" id="three-zones">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">三段峡谷</p>
+      <h2 class="section-title">上虎跳 · 中虎跳 · 下虎跳</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="zones-grid reveal">
+      <div class="zone-card">
+        <div class="zone-header upper">
+          <div class="zone-name">上虎跳</div>
+          <div class="zone-alt">Upper Tiger Leaping Gorge · 海拔 1800m</div>
+        </div>
+        <div class="zone-body">
+          <p class="zone-desc">最成熟的景区段，全程修建了安全栈道，难度最低老少皆宜。可以看到最震撼的江水冲击礁石场景，"中流砥柱"巨石的标志性观景点。</p>
+          <div class="zone-stat"><span>推荐游览时长</span><strong>1.5-2.5 小时</strong></div>
+          <div class="zone-stat"><span>徒步距离</span><strong>约 2 公里（栈道）</strong></div>
+          <div class="zone-stat"><span>难度</span><strong>⭐ 极低</strong></div>
+          <div class="zone-stat"><span>门票</span><strong>50 元（含景区大巴）</strong></div>
+          <div class="zone-stat"><span>最佳时段</span><strong>上午 9-11 点</strong></div>
+        </div>
+      </div>
+
+      <div class="zone-card">
+        <div class="zone-header middle">
+          <div class="zone-name">中虎跳</div>
+          <div class="zone-alt">Middle Tiger · 徒步 16km · 海拔 1800-2650m</div>
+        </div>
+        <div class="zone-body">
+          <p class="zone-desc">最经典的徒步段，途经二十八道拐、茶马客栈、Halfway客栈等。高差大、视野开阔，能从山顶俯瞰金沙江在峡谷底部奔涌。是徒步爱好者的必选之路。</p>
+          <div class="zone-stat"><span>推荐游览时长</span><strong>4-6 小时（纯徒步）</strong></div>
+          <div class="zone-stat"><span>徒步距离</span><strong>约 16 公里</strong></div>
+          <div class="zone-stat"><span>难度</span><strong>⭐⭐⭐ 中高</strong></div>
+          <div class="zone-stat"><span>门票</span><strong>约 30 元（本地村民收取）</strong></div>
+          <div class="zone-stat"><span>主要挑战</span><strong>1800级天梯 + 陡坡</strong></div>
+        </div>
+      </div>
+
+      <div class="zone-card">
+        <div class="zone-header lower">
+          <div class="zone-name">下虎跳</div>
+          <div class="zone-alt">Lower Tiger · 海拔 1850m</div>
+        </div>
+        <div class="zone-body">
+          <p class="zone-desc">相对小众，景观原始。从中虎跳沿公路下行可达，远处可见玉龙雪山背影。此段江水相对平缓，村庄宁静，适合喜欢安静的徒步者。</p>
+          <div class="zone-stat"><span>推荐游览时长</span><strong>1-2 小时</strong></div>
+          <div class="zone-stat"><span>徒步距离</span><strong>约 5 公里</strong></div>
+          <div class="zone-stat"><span>难度</span><strong>⭐⭐ 低-中</strong></div>
+          <div class="zone-stat"><span>门票</span><strong>免费</strong></div>
+          <div class="zone-stat"><span>特色</span><strong>雪山背景 + 宁静村庄</strong></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="alert reveal" style="margin-top:28px;">
+      <div class="alert-title">🎯 我的游览建议（基于你的行程）</div>
+      <div class="alert-text">你的行程是5月1日上午8:30-10:30游览虎跳峡，根据时间安排，<strong>建议选择上虎跳景区（常规路线）</strong>。全程栈道约2公里，1.5-2小时足够，难度低，下午还有精力前往哈巴雪山和月亮湾。如果你是资深徒步爱好者，可以考虑中虎跳路线但需要至少预留4-5小时。</div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ HIKING ROUTE ══ -->
+<section class="section" id="hiking">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">徒步路线</p>
+      <h2 class="section-title">经典两日徒步路线</h2>
+      <div class="divider"></div>
+    </div>
+
+    <!-- Day 1 -->
+    <div class="trail-section reveal">
+      <div class="trail-header">
+        <h3>Day 1 · 桥头 → 中虎跳（山路徒步）</h3>
+        <p>桥头镇 → 28道拐 → 茶马客栈 → Halfway客栈（午休）→ 中虎跳 → Tina's客栈</p>
+      </div>
+      <div class="trail-segments">
+        <div class="trail-segment">
+          <div class="trail-dot">1</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">桥头镇（Qutou）出发</div>
+            <div class="trail-segment-meta">📍 起点 | 🚗 从丽江/上虎跳方向抵达</div>
+            <p class="trail-segment-desc">从丽江方向过来约1.5小时车程到桥头镇，这里是徒步起点，也是包车通常的接驳点。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">2</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">二十八道拐</div>
+            <div class="trail-segment-meta">⏱️ 1-1.5h | 📈 上升约400m | ⭐ 较陡</div>
+            <p class="trail-segment-desc">从桥头镇出发后连续爬升的之字形山道，是整条路线最累的一段。海拔从2000m迅速爬升至2400m+。但翻过垭口后视野豁然开朗，玉龙雪山和哈巴雪山尽收眼底。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">3</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">茶马客栈（Chawa Guesthouse）</div>
+            <div class="trail-segment-meta">⏱️ 徒步约2.5-3h到达 | ☕ 可午餐休整</div>
+            <p class="trail-segment-desc">位于垭口下方，是第一个大型客栈，有很多留言板和涂鸦。窗外正对着玉龙雪山十三峰，非常壮观。可以在这里吃午饭休整（炒饭、面食约20-30元）。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">4</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">Halfway客栈（中途客栈）⭐</div>
+            <div class="trail-segment-meta">⏱️ 徒步约4h到达 | 🏔️ 绝佳雪山观景</div>
+            <p class="trail-segment-desc">徒步路线上最著名的客栈，"发呆神位"露台直面玉龙雪山，是出大片的绝佳机位。有干净的床位和热水。建议在这里午餐+短暂休息，体力好者可继续前往 Tina's。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">5</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">中虎跳 · 1800级天梯</div>
+            <div class="trail-segment-meta">⏱️ 从Halfway约1.5h下切到达 | ⚠️ 阶梯陡峭</div>
+            <p class="trail-segment-desc">从Halfway出发急降约600m高度，穿越树林和灌木丛，到达金沙江畔的中虎跳。江边有观景台，可近距离感受江水咆哮。这是全程景色最震撼的一段。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">6</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">Tina's客栈（蒂娜客栈）⭐</div>
+            <div class="trail-segment-meta">⏱️ 约20min到客栈 | 🏠 第一晚住宿</div>
+            <p class="trail-segment-desc">中虎跳下方的主要客栈，徒步者聚集地。床位便宜，餐饮配套完善，是Day 1的住宿点。客栈对面就是下虎跳方向的上山路。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Day 2 -->
+    <div class="trail-section reveal" style="margin-top: 24px;">
+      <div class="trail-header">
+        <h3>Day 2 · Tina's → 大具 / 返回丽江</h3>
+        <p>Tina's客栈 → 下虎跳 → 大具乡 → 渡口 → 丽江（或继续前往香格里拉）</p>
+      </div>
+      <div class="trail-segments">
+        <div class="trail-segment">
+          <div class="trail-dot">1</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">Tina's → 下虎跳</div>
+            <div class="trail-segment-meta">⏱️ 约1-1.5h | 📈 相对平缓</div>
+            <p class="trail-segment-desc">从Tina's出发，沿公路或山道前往下虎跳。这一段主要是公路+山道混合，难度不大，风景相对平和，可以慢慢走欣赏晨景。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">2</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">下虎跳观景台</div>
+            <div class="trail-segment-meta">⏱️ 游览约1h | 📸 雪山背影绝佳</div>
+            <p class="trail-segment-desc">下虎跳的江水已经相对平缓，可以看到玉龙雪山的背影倒映在江面。这里游客稀少，是摄影爱好者的私藏机位。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">3</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">大具乡 / 渡口</div>
+            <div class="trail-segment-meta">⏱️ 约30min | 🚤 需要渡船</div>
+            <p class="trail-segment-desc">从下虎跳到达大具乡的金沙江渡口，需要乘坐渡船过江（船票约20-30元）。过了江可以选择包车前往丽江（约2-3小时）或继续前往香格里拉方向。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Quick option -->
+    <div class="trail-section reveal" style="margin-top: 24px;">
+      <div class="trail-header">
+        <h3>简易版 · 上虎跳景区游览（约2.5小时）</h3>
+        <p>适合时间有限或体力一般的游客，5月1日你的行程建议选这个</p>
+      </div>
+      <div class="trail-segments">
+        <div class="trail-segment">
+          <div class="trail-dot">1</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">景区入口 → 观光大巴</div>
+            <div class="trail-segment-meta">⏱️ 10min | 🚐 景区大巴包含在门票内</div>
+            <p class="trail-segment-desc">从景区大门乘景区大巴（15分钟左右）直接到上虎跳核心景区入口，车会在景区里等候。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">2</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">上虎跳核心区 → 沿栈道游览</div>
+            <div class="trail-segment-meta">⏱️ 约1.5-2h | 📏 约2公里栈道 | ⭐⭐ 轻松</div>
+            <p class="trail-segment-desc">沿栈道一路向下走到江边观景台，可以近距离观看江水冲击"中流砥柱"巨石的壮观场面。拍照后原路返回或继续沿江边走到大巴等候点。</p>
+          </div>
+        </div>
+        <div class="trail-segment">
+          <div class="trail-dot">3</div>
+          <div class="trail-segment-info">
+            <div class="trail-segment-name">大巴返回 → 景区出口</div>
+            <div class="trail-segment-meta">⏱️ 15min | 🚐 大巴返回</div>
+            <p class="trail-segment-desc">乘坐景区大巴返回景区出口，然后前往下一站：哈巴雪山观景台。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ TRANSPORT ══ -->
+<section class="section" id="transport">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">交通方式</p>
+      <h2 class="section-title">如何到达 & 内部交通</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="info-grid reveal">
+      <div class="info-card">
+        <div class="info-card-icon">🚗</div>
+        <div class="info-card-title">从丽江出发 → 虎跳峡景区</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">包车/拼车</span><span class="value highlight">推荐</span></div>
+          <div class="info-row"><span class="label">车程</span><span class="value">约 1.5-2 小时</span></div>
+          <div class="info-row"><span class="label">费用</span><span class="value">包车 300-500元/车</span></div>
+          <div class="info-row"><span class="label">路况</span><span class="value">高速+国道，良好</span></div>
+          <div class="info-row"><span class="label">优点</span><span class="value">直达景区，时间灵活</span></div>
+        </div>
+      </div>
+
+      <div class="info-card">
+        <div class="info-card-icon">🚌</div>
+        <div class="info-card-title">公共交通</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">丽江高快客运站</span><span class="value">有班车前往虎跳峡镇</span></div>
+          <div class="info-row"><span class="label">车程</span><span class="value">约 2-2.5 小时</span></div>
+          <div class="info-row"><span class="label">票价</span><span class="value">约 40-60 元</span></div>
+          <div class="info-row"><span class="label">班次</span><span class="value">每天约2-3班</span></div>
+          <div class="info-row"><span class="label">缺点</span><span class="value">需在景区门口拼车前往景区内</span></div>
+        </div>
+      </div>
+
+      <div class="info-card">
+        <div class="info-card-icon">🏨</div>
+        <div class="info-card-title">景区内接驳</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">上虎跳景区大巴</span><span class="value">包含在门票内</span></div>
+          <div class="info-row"><span class="label">运营时间</span><span class="value">7:30-18:00</span></div>
+          <div class="info-row"><span class="label">频次</span><span class="value">滚动发车，人满就走</span></div>
+          <div class="info-row"><span class="label">中虎跳徒步</span><span class="value">客栈可安排向导</span></div>
+          <div class="info-row"><span class="label">渡船</span><span class="value">大具渡口约20-30元/人</span></div>
+        </div>
+      </div>
+
+      <div class="info-card">
+        <div class="info-card-icon">⏰</div>
+        <div class="info-card-title">游览时间建议</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">你的行程安排</span><span class="value highlight">8:30-10:30</span></div>
+          <div class="info-row"><span class="label">建议到达时间</span><span class="value">8:00-8:30</span></div>
+          <div class="info-row"><span class="label">最佳游览时段</span><span class="value">上午 9-11 点</span></div>
+          <div class="info-row"><span class="label">下午情况</span><span class="value">峡谷背光，拍照效果差</span></div>
+          <div class="info-row"><span class="label">离开时间</span><span class="value">10:30 前离开</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="alert green reveal" style="margin-top: 28px;">
+      <div class="alert-title">✅ 你的行程最优方案</div>
+      <div class="alert-text">
+        <strong>5月1日早上7:00从酒店A出发</strong> → 约8:00-8:30到达虎跳峡景区 → 8:30-10:30游览上虎跳（2小时充足）→ 10:30出发前往哈巴雪山观景台（车程约1小时）→ 中午在奔子栏午餐。这样安排时间紧凑不浪费，且上午虎跳峡光线最好。
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ TIPS ══ -->
+<section class="section" id="tips">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">实用贴士</p>
+      <h2 class="section-title">重要注意事项</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="info-grid reveal">
+      <div class="info-card">
+        <div class="info-card-icon">⚠️</div>
+        <div class="info-card-title">安全提示</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">栈道湿滑</span><span class="value">注意脚下</span></div>
+          <div class="info-row"><span class="label">江边拍照</span><span class="value highlight">勿太靠近</span></div>
+          <div class="info-row"><span class="label">雨季风险</span><span class="value">可能有落石</span></div>
+          <div class="info-row"><span class="label">中虎跳天梯</span><span class="value">建议带手套</span></div>
+          <div class="info-row"><span class="label">夏季防晒</span><span class="value highlight">SPF50+</span></div>
+        </div>
+      </div>
+
+      <div class="info-card">
+        <div class="info-card-icon">🎫</div>
+        <div class="info-card-title">门票信息</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">上虎跳门票</span><span class="value">50 元</span></div>
+          <div class="info-row"><span class="label">包含内容</span><span class="value">景区大巴往返</span></div>
+          <div class="info-row"><span class="label">中虎跳门票</span><span class="value">约 30 元</span></div>
+          <div class="info-row"><span class="label">购票方式</span><span class="value">现场/网上均可</span></div>
+          <div class="info-row"><span class="label">优惠</span><span class="value">学生证/老年证可享优惠</span></div>
+        </div>
+      </div>
+
+      <div class="info-card">
+        <div class="info-card-icon">👟</div>
+        <div class="info-card-title">装备建议</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">徒步鞋</span><span class="value highlight">必备，防滑</span></div>
+          <div class="info-row"><span class="label">登山杖</span><span class="value">中虎跳建议带</span></div>
+          <div class="info-row"><span class="label">手套</span><span class="value">中虎跳天梯用</span></div>
+          <div class="info-row"><span class="label">防晒</span><span class="value highlight">必带，高原紫外线强</span></div>
+          <div class="info-row"><span class="label">水</span><span class="value">至少1瓶/每人</span></div>
+        </div>
+      </div>
+
+      <div class="info-card">
+        <div class="info-card-icon">🌦️</div>
+        <div class="info-card-title">最佳季节 & 天气</div>
+        <div class="info-card-text">
+          <div class="info-row"><span class="label">最佳季节</span><span class="value">4-6月，9-11月</span></div>
+          <div class="info-row"><span class="label">你的出行时间</span><span class="value highlight">5月初 ✓</span></div>
+          <div class="info-row"><span class="label">天气</span><span class="value">干季末期，晴天多</span></div>
+          <div class="info-row"><span class="label">水温</span><span class="value">5月江水较清澈</span></div>
+          <div class="info-row"><span class="label">水温提示</span><span class="value">江水冰凉，勿下水</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="alert yellow reveal" style="margin-top: 28px;">
+      <div class="alert-title">📸 拍照建议</div>
+      <div class="alert-text">
+        <strong>上虎跳最佳拍照点</strong>：进入景区后沿右手边栈道走到最下面的观景台，拍摄江水冲击巨石的经典角度。<strong>最佳拍摄时段是上午9-11点</strong>，下午峡谷背光，照片效果差很多。如果你对摄影有要求，务必上午去！<br><br>
+        <strong>中虎跳最佳观景台</strong>：沿1800级天梯下到江边后，有一个突出的岩石平台，可以同时拍到雪山+峡谷+江水。
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PACKING ══ -->
+<section class="section" id="packing">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">行前准备</p>
+      <h2 class="section-title">虎跳峡装备清单</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="pack-grid reveal">
+      <div class="pack-cat">
+        <div class="pack-cat-title">👟 穿着</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>防滑徒步鞋/运动鞋</div>
+          <div class="pack-item"><div class="pack-check"></div>透气长袖T恤</div>
+          <div class="pack-item"><div class="pack-check"></div>运动长裤（别穿短裤）</div>
+          <div class="pack-item"><div class="pack-check"></div>遮阳帽 + 墨镜</div>
+          <div class="pack-item"><div class="pack-check"></div>外套（早晚/高处温差大）</div>
+        </div>
+      </div>
+
+      <div class="pack-cat">
+        <div class="pack-cat-title">🎒 装备</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>登山杖（中虎跳强烈建议）</div>
+          <div class="pack-item"><div class="pack-check"></div>手套（天梯防滑用）</div>
+          <div class="pack-item"><div class="pack-check"></div>双肩背包</div>
+          <div class="pack-item"><div class="pack-check"></div>雨伞/雨衣（5月可能有雨）</div>
+          <div class="pack-item"><div class="pack-check"></div>充电宝</div>
+        </div>
+      </div>
+
+      <div class="pack-cat">
+        <div class="pack-cat-title">💊 健康</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>防晒霜 SPF50+</div>
+          <div class="pack-item"><div class="pack-check"></div>创可贴</div>
+          <div class="pack-item"><div class="pack-check"></div>矿泉水 × 2瓶</div>
+          <div class="pack-item"><div class="pack-check"></div>简易干粮（巧克力/能量棒）</div>
+          <div class="pack-item"><div class="pack-check"></div>肠胃药（以防万一）</div>
+        </div>
+      </div>
+
+      <div class="pack-cat">
+        <div class="pack-cat-title">📱 其他</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>身份证</div>
+          <div class="pack-item"><div class="pack-check"></div>手机 + 充电线</div>
+          <div class="pack-item"><div class="pack-check"></div>相机/手机稳定器</div>
+          <div class="pack-item"><div class="pack-check"></div>纸巾/湿巾</div>
+          <div class="pack-item"><div class="pack-check"></div>现金（山里信号差时用）</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer>
+  <p style="font-family: var(--font-d); font-size: 1.3rem; color: rgba(255,255,255,0.8); margin-bottom: 12px;">虎跳峡</p>
+  <p>上虎跳 · 中虎跳 · 下虎跳<br>世界最深峡谷之一，金沙江在此咆哮而过</p>
+  <br>
+  <p>祝徒步愉快，安全第一 🏔️</p>
+</footer>
+
+<script>
+  const navLinks = document.querySelectorAll('nav a');
+  const sections = document.querySelectorAll('section[id]');
+  function onScroll() {
+    let current = '';
+    sections.forEach(section => {
+      const top = section.offsetTop - 120;
+      if (scrollY >= top) current = section.getAttribute('id');
+    });
+    navLinks.forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#' + current));
+  }
+  window.addEventListener('scroll', onScroll);
+
+  const reveals = document.querySelectorAll('.reveal');
+  const io = new IntersectionObserver(entries => entries.forEach(e => e.isIntersecting && e.target.classList.add('visible')), {threshold: 0.1});
+  reveals.forEach(el => io.observe(el));
+
+  // POI hover on map
+  const map = document.getElementById('mapContainer');
+  const poiUpper = document.getElementById('poi-upper');
+  const poiMiddle = document.getElementById('poi-middle');
+
+  map.addEventListener('mousemove', (e) => {
+    const rect = map.getBoundingClientRect();
+    const x = (e.clientX - rect.left) / rect.width;
+    const y = (e.clientY - rect.top) / rect.height;
+
+    // Show upper tiger info near the upper tiger marker
+    const upperX = 0.285; // cx=285 in 0-1 terms (285/1000)
+    const upperY = 0.525; // cy=295 in 0-1 terms (295/562)
+    const dist = Math.hypot(x - upperX, y - upperY);
+    poiUpper.style.opacity = dist < 0.08 ? '1' : '0';
+    poiUpper.style.transform = dist < 0.08 ? 'translateY(0)' : 'translateY(6px)';
+
+    // Show middle tiger info near middle tiger marker
+    const middleX = 0.455;
+    const middleY = 0.943;
+    const dist2 = Math.hypot(x - middleX, y - middleY);
+    poiMiddle.style.opacity = dist2 < 0.08 ? '1' : '0';
+    poiMiddle.style.transform = dist2 < 0.08 ? 'translateY(0)' : 'translateY(6px)';
+  });
+
+  map.addEventListener('mouseleave', () => {
+    poiUpper.style.opacity = '0';
+    poiMiddle.style.opacity = '0';
+  });
+</script>
+</body>
+</html>
