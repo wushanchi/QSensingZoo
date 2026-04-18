@@ -1,0 +1,1654 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>五一·滇西北大环线</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;600;700&family=Noto+Sans+SC:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:        #faf7f2;
+      --bg-card:   #ffffff;
+      --text:      #2c2416;
+      --text-muted:#7a6a52;
+      --accent:    #c45d2a;
+      --accent2:   #3d6b4f;
+      --accent3:   #8b6e3d;
+      --border:    #e8dfd0;
+      --shadow:    rgba(44, 36, 22, 0.08);
+      --tag-bg:    #f0e8da;
+      --tag2-bg:   #dbe8de;
+      --tag3-bg:   #e8dccf;
+      --day-badge: #c45d2a;
+      --font-display: 'Noto Serif SC', serif;
+      --font-body:    'Noto Sans SC', sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html {
+      scroll-behavior: smooth;
+      scrollbar-width: thin;
+      scrollbar-color: var(--accent) var(--border);
+    }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 3px; }
+
+    body {
+      font-family: var(--font-body);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.75;
+      font-size: 15px;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      position: relative;
+      height: 100vh;
+      min-height: 600px;
+      display: flex;
+      align-items: flex-end;
+      overflow: hidden;
+      background: linear-gradient(160deg, #2c3e2d 0%, #4a3728 40%, #7a4a28 70%, #c45d2a 100%);
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 60% at 20% 80%, rgba(61,107,79,0.5) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 80% at 80% 20%, rgba(196,93,42,0.4) 0%, transparent 60%);
+      pointer-events: none;
+    }
+
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 60%;
+      background: linear-gradient(to top, rgba(20,12,5,0.7) 0%, transparent 100%);
+    }
+
+    .hero-noise {
+      position: absolute;
+      inset: 0;
+      opacity: 0.04;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+      background-size: 200px;
+      pointer-events: none;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      padding: 0 8vw 8vh;
+      width: 100%;
+    }
+
+    .hero-eyebrow {
+      font-family: var(--font-body);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.55);
+      margin-bottom: 16px;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s 0.2s ease forwards;
+    }
+
+    .hero-title {
+      font-family: var(--font-display);
+      font-size: clamp(3rem, 8vw, 7rem);
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+      margin-bottom: 20px;
+      opacity: 0;
+      transform: translateY(30px);
+      animation: fadeUp 0.9s 0.4s ease forwards;
+    }
+
+    .hero-title span {
+      display: block;
+      font-size: 0.45em;
+      font-weight: 300;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 6px;
+      font-family: var(--font-body);
+    }
+
+    .hero-subtitle {
+      font-size: 14px;
+      color: rgba(255,255,255,0.6);
+      letter-spacing: 0.05em;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s 0.6s ease forwards;
+    }
+
+    .hero-dates {
+      display: flex;
+      gap: 24px;
+      margin-top: 24px;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s 0.8s ease forwards;
+    }
+
+    .hero-date-item {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      padding-left: 14px;
+      border-left: 1px solid rgba(255,255,255,0.25);
+    }
+
+    .hero-date-item strong {
+      display: block;
+      font-size: 14px;
+      color: rgba(255,255,255,0.9);
+      font-weight: 500;
+      margin-bottom: 2px;
+    }
+
+    .scroll-hint {
+      position: absolute;
+      bottom: 40px;
+      right: 8vw;
+      z-index: 3;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      opacity: 0;
+      animation: fadeUp 0.8s 1.2s ease forwards;
+    }
+
+    .scroll-hint span {
+      font-size: 10px;
+      letter-spacing: 0.2em;
+      color: rgba(255,255,255,0.4);
+      writing-mode: vertical-rl;
+    }
+
+    .scroll-line {
+      width: 1px;
+      height: 50px;
+      background: linear-gradient(to bottom, rgba(255,255,255,0.4), transparent);
+      animation: scrollPulse 2s 1.5s ease infinite;
+    }
+
+    @keyframes scrollPulse {
+      0%, 100% { opacity: 0.4; transform: scaleY(1); }
+      50% { opacity: 1; transform: scaleY(0.7); }
+    }
+
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── Nav ── */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(250,247,242,0.92);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 8vw;
+    }
+
+    nav ul {
+      display: flex;
+      gap: 4px;
+      list-style: none;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    nav ul::-webkit-scrollbar { display: none; }
+
+    nav a {
+      display: block;
+      padding: 16px 18px;
+      font-size: 13px;
+      color: var(--text-muted);
+      text-decoration: none;
+      white-space: nowrap;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+      font-weight: 500;
+    }
+
+    nav a:hover, nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Main Layout ── */
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 8vw;
+    }
+
+    .section {
+      padding: 80px 0;
+    }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+
+    .section-title {
+      font-family: var(--font-display);
+      font-size: clamp(2rem, 4vw, 3rem);
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.2;
+      margin-bottom: 16px;
+    }
+
+    .section-desc {
+      font-size: 15px;
+      color: var(--text-muted);
+      max-width: 600px;
+      line-height: 1.8;
+    }
+
+    /* ── Overview Cards ── */
+    .overview-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 16px;
+      margin-top: 40px;
+    }
+
+    .overview-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .overview-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 30px var(--shadow);
+    }
+
+    .overview-card .num {
+      font-family: var(--font-display);
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+
+    .overview-card .label {
+      font-size: 13px;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    /* ── Timeline ── */
+    .timeline {
+      position: relative;
+      padding-left: 40px;
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 11px;
+      top: 8px;
+      bottom: 8px;
+      width: 2px;
+      background: linear-gradient(to bottom, var(--accent), var(--accent2), var(--accent3));
+      border-radius: 1px;
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 40px;
+      opacity: 0;
+      transform: translateX(-20px);
+      transition: opacity 0.6s, transform 0.6s;
+    }
+
+    .timeline-item.visible {
+      opacity: 1;
+      transform: translateX(0);
+    }
+
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -34px;
+      top: 8px;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--bg-card);
+      border: 3px solid var(--accent);
+      z-index: 1;
+    }
+
+    .timeline-item:last-child { margin-bottom: 0; }
+
+    .day-header {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+
+    .day-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--day-badge);
+      color: #fff;
+      font-family: var(--font-display);
+      font-size: 13px;
+      font-weight: 600;
+      padding: 4px 14px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+
+    .day-theme {
+      font-family: var(--font-display);
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .day-date {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    /* ── Route Flow ── */
+    .route-flow {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      margin-bottom: 20px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: none;
+    }
+
+    .route-flow::-webkit-scrollbar { display: none; }
+
+    .route-node {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+
+    .route-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+    }
+
+    .route-icon.s { background: #f0e8da; color: var(--accent); }
+    .route-icon.m { background: #dbe8de; color: var(--accent2); }
+    .route-icon.e { background: #e8dccf; color: var(--accent3); }
+
+    .route-label {
+      font-size: 10px;
+      color: var(--text-muted);
+      text-align: center;
+      max-width: 70px;
+      line-height: 1.3;
+    }
+
+    .route-arrow {
+      flex-shrink: 0;
+      color: var(--border);
+      font-size: 18px;
+      padding: 0 4px;
+      padding-top: 10px;
+    }
+
+    /* ── Spot Cards ── */
+    .spot-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+    }
+
+    .spot-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .spot-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px var(--shadow);
+    }
+
+    .spot-img {
+      height: 140px;
+      background: linear-gradient(135deg, #e8dfd0 0%, #d4c5b0 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 48px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .spot-img::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, transparent 50%, rgba(20,12,5,0.15) 100%);
+    }
+
+    .spot-body {
+      padding: 20px;
+    }
+
+    .spot-name {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .spot-time {
+      font-size: 11px;
+      color: var(--accent);
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      margin-bottom: 8px;
+    }
+
+    .spot-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.7;
+    }
+
+    .spot-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 12px;
+    }
+
+    .tag {
+      font-size: 10px;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-weight: 500;
+    }
+
+    .tag-d { background: var(--tag-bg); color: var(--accent); }
+    .tag-n { background: var(--tag2-bg); color: var(--accent2); }
+    .tag-p { background: var(--tag3-bg); color: var(--accent3); }
+
+    /* ── Hotel ── */
+    .hotel-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px;
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+      margin-top: 16px;
+    }
+
+    .hotel-emoji {
+      font-size: 40px;
+      flex-shrink: 0;
+    }
+
+    .hotel-info { flex: 1; }
+
+    .hotel-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 4px;
+    }
+
+    .hotel-name {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .hotel-note {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    /* ── Tips Section ── */
+    .tips-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+      margin-top: 40px;
+    }
+
+    .tip-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px;
+    }
+
+    .tip-icon {
+      font-size: 32px;
+      margin-bottom: 12px;
+    }
+
+    .tip-title {
+      font-family: var(--font-display);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .tip-text {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.8;
+    }
+
+    .tip-list {
+      list-style: none;
+      margin-top: 8px;
+    }
+
+    .tip-list li {
+      font-size: 13px;
+      color: var(--text-muted);
+      padding: 4px 0;
+      padding-left: 16px;
+      position: relative;
+    }
+
+    .tip-list li::before {
+      content: '·';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: bold;
+    }
+
+    /* ── Packing ── */
+    .pack-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 12px;
+      margin-top: 40px;
+    }
+
+    .pack-category {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+    }
+
+    .pack-cat-title {
+      font-family: var(--font-display);
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .pack-items { display: flex; flex-direction: column; gap: 6px; }
+
+    .pack-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .pack-check {
+      width: 16px;
+      height: 16px;
+      border: 1.5px solid var(--border);
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+
+    /* ── Divider ── */
+    .divider {
+      width: 60px;
+      height: 3px;
+      background: linear-gradient(to right, var(--accent), var(--accent2));
+      border-radius: 2px;
+      margin: 20px 0;
+    }
+
+    /* ── Footer ── */
+    footer {
+      background: #2c2416;
+      color: rgba(255,255,255,0.5);
+      padding: 60px 8vw;
+      text-align: center;
+    }
+
+    footer p {
+      font-size: 13px;
+      line-height: 1.8;
+    }
+
+    footer .footer-title {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      color: rgba(255,255,255,0.9);
+      margin-bottom: 12px;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+      .hero-content { padding: 0 6vw 10vh; }
+      .container { padding: 0 6vw; }
+      .section { padding: 60px 0; }
+      .day-header { flex-direction: column; gap: 4px; }
+      .spot-grid { grid-template-columns: 1fr; }
+      .overview-grid { grid-template-columns: repeat(2, 1fr); }
+      .tips-grid { grid-template-columns: 1fr; }
+      .pack-grid { grid-template-columns: 1fr 1fr; }
+      .hotel-card { flex-direction: column; }
+    }
+
+    /* ── Animations ── */
+    .reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s, transform 0.7s; }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+  </style>
+</head>
+<body>
+
+<!-- ══ HERO ══ -->
+<section class="hero">
+  <div class="hero-noise"></div>
+  <div class="hero-content">
+    <p class="hero-eyebrow">2026 五一假期</p>
+    <h1 class="hero-title">
+      <span>云南·滇西北大环线</span>
+      寻觅高原之光
+    </h1>
+    <p class="hero-subtitle">从丽江古城到梅里雪山，从金沙江畔到昆明春城</p>
+    <div class="hero-dates">
+      <div class="hero-date-item">
+        <strong>4月29日</strong>
+        抵达丽江
+      </div>
+      <div class="hero-date-item">
+        <strong>5月5日</strong>
+        昆明返程
+      </div>
+      <div class="hero-date-item">
+        <strong>7天6晚</strong>
+        自驾/包车穿越
+      </div>
+    </div>
+  </div>
+  <div class="scroll-hint">
+    <div class="scroll-line"></div>
+    <span>向下</span>
+  </div>
+</section>
+
+<!-- ══ STICKY NAV ══ -->
+<nav id="nav">
+  <ul>
+    <li><a href="#overview" class="active">概览</a></li>
+    <li><a href="#day1">4月29日</a></li>
+    <li><a href="#day2">4月30日</a></li>
+    <li><a href="#day3">5月1日</a></li>
+    <li><a href="#day4">5月2日</a></li>
+    <li><a href="#day5">5月3日</a></li>
+    <li><a href="#day6">5月4日</a></li>
+    <li><a href="#tips">注意事项</a></li>
+    <li><a href="#packing">必备物品</a></li>
+  </ul>
+</nav>
+
+<!-- ══ OVERVIEW ══ -->
+<section class="section" id="overview">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">行程总览</p>
+      <h2 class="section-title">七天六晚<br>完整路线</h2>
+      <div class="divider"></div>
+      <p class="section-desc">
+        从丽江出发，穿越虎跳峡、梅里雪山、香格里拉，最终抵达春城昆明。
+        这是一条集高原风光、藏族文化、古城风情于一体的经典滇西北大环线。
+      </p>
+    </div>
+
+    <div class="overview-grid reveal">
+      <div class="overview-card">
+        <div class="num">7</div>
+        <div class="label">天行程</div>
+      </div>
+      <div class="overview-card">
+        <div class="num">6</div>
+        <div class="label">晚住宿</div>
+      </div>
+      <div class="overview-card">
+        <div class="num">4</div>
+        <div class="label">座城市</div>
+      </div>
+      <div class="overview-card">
+        <div class="num">15+</div>
+        <div class="label">个景点</div>
+      </div>
+      <div class="overview-card">
+        <div class="num">800+</div>
+        <div class="label">公里车程</div>
+      </div>
+      <div class="overview-card">
+        <div class="num">4000</div>
+        <div class="label">最高海拔（米）</div>
+      </div>
+    </div>
+
+    <!-- Route Map Visual -->
+    <div class="route-flow reveal" style="margin-top:48px;">
+      <div class="route-node">
+        <div class="route-icon s">✈️</div>
+        <div class="route-label">丽江三义机场</div>
+      </div>
+      <div class="route-arrow">→</div>
+      <div class="route-node">
+        <div class="route-icon m">🏯</div>
+        <div class="route-label">丽江古城<br>4月29-30日</div>
+      </div>
+      <div class="route-arrow">→</div>
+      <div class="route-node">
+        <div class="route-icon e">⛰️</div>
+        <div class="route-label">虎跳峡·哈巴雪山<br>月亮湾·白马雪山</div>
+      </div>
+      <div class="route-arrow">→</div>
+      <div class="route-node">
+        <div class="route-icon s">🙏</div>
+        <div class="route-label">飞来寺·梅里雪山<br>5月1日</div>
+      </div>
+      <div class="route-arrow">→</div>
+      <div class="route-node">
+        <div class="route-icon m">🌿</div>
+        <div class="route-label">纳帕海·独克宗<br>5月2日</div>
+      </div>
+      <div class="route-arrow">→</div>
+      <div class="route-node">
+        <div class="route-icon s">🚄</div>
+        <div class="route-label">丽江·昆明<br>5月3日</div>
+      </div>
+      <div class="route-arrow">→</div>
+      <div class="route-node">
+        <div class="route-icon m">🌸</div>
+        <div class="route-label">昆明游玩<br>5月4-5日</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY 1 ══ -->
+<section class="section" id="day1">
+  <div class="container">
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="day-header">
+          <span class="day-badge">DAY 1</span>
+          <span class="day-theme">抵达丽江</span>
+          <span class="day-date">4月29日 · 星期三</span>
+        </div>
+
+        <div class="spot-grid">
+          <div class="spot-card">
+            <div class="spot-img">✈️</div>
+            <div class="spot-body">
+              <div class="spot-name">丽江三义机场</div>
+              <div class="spot-time">20:35 抵达</div>
+              <p class="spot-desc">机场距丽江古城约30-40公里，建议提前预约接机或打车前往古城北门附近酒店。</p>
+            </div>
+          </div>
+          <div class="hotel-card">
+            <div class="hotel-emoji">🏨</div>
+            <div class="hotel-info">
+              <div class="hotel-label">住宿</div>
+              <div class="hotel-name">酒店 A · 丽江古城北门附近</div>
+              <p class="hotel-note">建议提前联系酒店确认接机服务，方便当晚入住。古城区内禁止车辆进入，选择北门或束河附近出行更便利。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY 2 ══ -->
+<section class="section" id="day2">
+  <div class="container">
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="day-header">
+          <span class="day-badge">DAY 2</span>
+          <span class="day-theme">丽江古城全天</span>
+          <span class="day-date">4月30日 · 星期四</span>
+        </div>
+
+        <div class="route-flow">
+          <div class="route-node">
+            <div class="route-icon s">🏯</div>
+            <div class="route-label">黑龙潭<br>7-9点</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">🦁</div>
+            <div class="route-label">木府<br>9-11点</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon e">🌆</div>
+            <div class="route-label">古城闲逛<br>午后</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon s">☀️</div>
+            <div class="route-label">万古楼/狮子山<br>傍晚日落</div>
+          </div>
+        </div>
+
+        <div class="spot-grid">
+          <div class="spot-card">
+            <div class="spot-img">🏔️</div>
+            <div class="spot-body">
+              <div class="spot-name">黑龙潭公园</div>
+              <div class="spot-time">7:00-9:00 · 约1.5小时</div>
+              <p class="spot-desc">清晨6:30开园即可进入，拍摄玉龙雪山倒影的绝佳时机。波光粼粼的潭水映衬雪山，出片率极高。门票50元（已含古维费可免）。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">必去</span>
+                <span class="tag tag-n">晨拍</span>
+                <span class="tag tag-p">户外</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🏛️</div>
+            <div class="spot-body">
+              <div class="spot-name">木府</div>
+              <div class="spot-time">9:00-11:00 · 约1.5-2小时</div>
+              <p class="spot-desc">"北有故宫，南有木府"。纳西族土司府邸，建筑恢宏，展示着纳西族历史与文化。建议请导游讲解，否则只能看个热闹。门票40元（网购有优惠）。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-n">文化</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🏘️</div>
+            <div class="spot-body">
+              <div class="spot-name">大研古城闲逛</div>
+              <div class="spot-time">午后 · 2-3小时</div>
+              <p class="spot-desc">四方街是古城中心，五一街和狮子山万古楼方向适合找个咖啡馆发呆。避开正午人流，早晚是最佳拍照时段。建议在古城内随意游走，发现属于自己的小巷。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">必去</span>
+                <span class="tag tag-n">休闲</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🌅</div>
+            <div class="spot-body">
+              <div class="spot-name">狮子山万古楼</div>
+              <div class="spot-time">傍晚 · 约1小时</div>
+              <p class="spot-desc">登楼俯瞰古城全景+玉龙雪山，日落时分光影绝美。门票35元，体力好可以爬上去，顺便在观景餐厅用晚餐，看古城灯火渐次亮起。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-p">日落</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hotel-card">
+          <div class="hotel-emoji">🏨</div>
+          <div class="hotel-info">
+            <div class="hotel-label">住宿</div>
+            <div class="hotel-name">酒店 A · 丽江古城</div>
+            <p class="hotel-note">第二天继续入住同一酒店，当晚准备好行李，第二天一早出发。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY 3 ══ -->
+<section class="section" id="day3">
+  <div class="container">
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="day-header">
+          <span class="day-badge">DAY 3</span>
+          <span class="day-theme">丽江 → 梅里雪山</span>
+          <span class="day-date">5月1日 · 星期五</span>
+        </div>
+
+        <div class="route-flow">
+          <div class="route-node">
+            <div class="route-icon s">🏨</div>
+            <div class="route-label">酒店A出发<br>7:00</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon e">🐅</div>
+            <div class="route-label">虎跳峡<br>8:30-10:30</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">🏔️</div>
+            <div class="route-label">哈巴雪山<br>11:00</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon s">🌙</div>
+            <div class="route-label">月亮湾<br>15:30</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon e">⛰️</div>
+            <div class="route-label">白马雪山<br>傍晚</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">🙏</div>
+            <div class="route-label">飞来寺<br>入住</div>
+          </div>
+        </div>
+
+        <div class="spot-grid">
+          <div class="spot-card">
+            <div class="spot-img">🐅</div>
+            <div class="spot-body">
+              <div class="spot-name">虎跳峡</div>
+              <div class="spot-time">8:30-10:30 · 约2小时</div>
+              <p class="spot-desc">世界上落差最大的峡谷之一，以"险"闻名。上虎跳全程栈道约2公里，难度低老少皆宜。最佳观赏时段为上午（9:00-11:00），下午峡谷背光。门票50元含景区大巴。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">必去</span>
+                <span class="tag tag-p">世界遗产</span>
+                <span class="tag tag-n">栈道</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🏔️</div>
+            <div class="spot-body">
+              <div class="spot-name">哈巴雪山观景台</div>
+              <div class="spot-time">11:00-11:30 · 约30分钟</div>
+              <p class="spot-desc">哈巴村至观景台沿途风景壮观，哈巴雪山海拔5396米，是云南第四高峰。无需攀登，公路边即可观赏雪山壮丽景观，拍照留念后继续前行。海拔约2800米，无高反风险。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-p">雪山</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🌙</div>
+            <div class="spot-body">
+              <div class="spot-name">金沙江月亮湾</div>
+              <div class="spot-time">15:30-16:30 · 约1小时</div>
+              <p class="spot-desc">金沙江在崇山峻岭间180度大拐弯，形如新月。云南侧（西侧）观景台视野最开阔，能拍到完整的月亮湾弧线。门票50元。航拍效果极佳，注意风大不要飞太远。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">必去</span>
+                <span class="tag tag-p">航拍点</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">⛰️</div>
+            <div class="spot-body">
+              <div class="spot-name">白马雪山观景台</div>
+              <div class="spot-time">傍晚 · 约20-30分钟</div>
+              <p class="spot-desc">垭口海拔4292米，是全程最高点。⚠️风大、气温低，不宜久留！拍几张照、看一眼雪山就走，不要跑跳。多数人会出现轻微高反（头晕/喘）。保暖防风是重点。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">高海拔</span>
+                <span class="tag tag-p">⚠️速离</span>
+                <span class="tag tag-n">雪山</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🙏</div>
+            <div class="spot-body">
+              <div class="spot-name">飞来寺 · 梅里雪山</div>
+              <div class="spot-time">傍晚入住 · 可等待日落金山</div>
+              <p class="spot-desc">梅里雪山被誉为"藏区八大神山"之一，主峰卡瓦格博海拔6740米。傍晚可在飞来寺观景台等待日落，日光洒在雪山上金光灿烂，极为震撼。门票：免费（部分私人观景台可能收费）。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">必去</span>
+                <span class="tag tag-p">日落</span>
+                <span class="tag tag-n">神山</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hotel-card">
+          <div class="hotel-emoji">🏨</div>
+          <div class="hotel-info">
+            <div class="hotel-label">住宿</div>
+            <div class="hotel-name">酒店 B · 飞来寺景区</div>
+            <p class="hotel-note">飞来寺住宿条件一般但位置绝佳，方便次日看日照金山。提前预订，5月旺季非常紧张。推荐"明珠客栈"或"梅里往事"，景观好。</p>
+          </div>
+        </div>
+
+        <div style="background:#fdf3ee; border-left:3px solid var(--accent); border-radius:8px; padding:16px 20px; margin-top:16px;">
+          <strong style="color:var(--accent);">🚗 包车提示</strong>
+          <p style="font-size:13px; color:var(--text-muted); margin-top:6px;">强烈建议包车出行。全程约400公里山路，弯道多路况复杂，当地师傅对路线熟悉更安全。价格约1500-2500元/车/两天，提前在飞猪或让酒店A老板推荐。</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY 4 ══ -->
+<section class="section" id="day4">
+  <div class="container">
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="day-header">
+          <span class="day-badge">DAY 4</span>
+          <span class="day-theme">日照金山 → 独克宗古城</span>
+          <span class="day-date">5月2日 · 星期六</span>
+        </div>
+
+        <div class="route-flow">
+          <div class="route-node">
+            <div class="route-icon s">🌄</div>
+            <div class="route-label">日照金山<br>5:45-6:45</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">☁️</div>
+            <div class="route-label">浓雾顶<br>8:30-9:30</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon e">🏕️</div>
+            <div class="route-label">奔子栏<br>午餐</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon s">🌿</div>
+            <div class="route-label">纳帕海<br>13:00-15:30</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">🏯</div>
+            <div class="route-label">独克宗<br>17:00入住</div>
+          </div>
+        </div>
+
+        <div class="spot-grid">
+          <div class="spot-card">
+            <div class="spot-img">🌄</div>
+            <div class="spot-body">
+              <div class="spot-name">🌄 日照金山</div>
+              <div class="spot-time">5:45-6:45 · 日出前后</div>
+              <p class="spot-desc">5月初日出约6:15，建议5:30前就位等待。日照金山持续约10-20分钟，梅里雪山主峰卡瓦格博被金色阳光照亮的瞬间极为壮观。⚠️不是每天都能看到，云雾遮挡概率约40%，建议多等一会。飞来寺观景台和明珠客栈观景台是最佳位置。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">⭐重头戏</span>
+                <span class="tag tag-p">日出</span>
+                <span class="tag tag-n">看运气</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">☁️</div>
+            <div class="spot-body">
+              <div class="spot-name">浓雾顶观景台</div>
+              <div class="spot-time">8:30-9:30 · 约1小时</div>
+              <p class="spot-desc">藏区著名观景台，可以从另一个角度远眺梅里雪山十三峰一字排开的壮阔场面。如果头天没看到日照金山这里是弥补机会，还有配套寺庙可以参观。海拔约3500米，注意保暖防风。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-p">雪山</span>
+                <span class="tag tag-n">高海拔</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🍖</div>
+            <div class="spot-body">
+              <div class="spot-name">奔子栏 · 午餐休整</div>
+              <div class="spot-time">11:00-12:00 · 约1小时</div>
+              <p class="spot-desc">金沙江畔的藏族小镇，茶马古道上的重要驿站，不是景点，主要作为午餐休整点。推荐尝试当地藏餐：牦牛肉、藏香猪、酥油茶。餐厅集中在主街上，随意选择即可。</p>
+              <div class="spot-tags">
+                <span class="tag tag-p">午餐</span>
+                <span class="tag tag-n">藏族美食</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🌿</div>
+            <div class="spot-body">
+              <div class="spot-name">纳帕海（依拉草原）</div>
+              <div class="spot-time">13:00-15:30 · 约2.5小时</div>
+              <p class="spot-desc">高原季节性草原，5月草开始返青，野花零星开放，湖泊与草原交替。可骑马环湖（1小时约60-100元，务必提前谈好价格）。草原很大，建议骑马或开车环湖。⚠️防晒！无遮挡阳光强烈。门票：免费（私人马场除外）。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-p">草原</span>
+                <span class="tag tag-n">骑马</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🏯</div>
+            <div class="spot-body">
+              <div class="spot-name">独克宗古城</div>
+              <div class="spot-time">17:00-20:30 · 下午+晚上</div>
+              <p class="spot-desc">茶马古道上最古老的城堡，有1300多年历史。龟山公园内有世界最大转经筒（需多人合力才能转动），夜晚灯光亮起后别有一番风味。特产：藏刀、披肩、虫草（谨慎购买）。海拔约3300米，温差大注意保暖。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">必去</span>
+                <span class="tag tag-p">古城</span>
+                <span class="tag tag-n">夜景</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hotel-card">
+          <div class="hotel-emoji">🏨</div>
+          <div class="hotel-info">
+            <div class="hotel-label">住宿</div>
+            <div class="hotel-name">酒店 C · 独克宗古城内</div>
+            <p class="hotel-note">推荐选择古城内或龟山公园附近的酒店，方便晚上逛古城。独克宗海拔3300米，早晚温差大，确认酒店有暖气或电热毯。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY 5 ══ -->
+<section class="section" id="day5">
+  <div class="container">
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="day-header">
+          <span class="day-badge">DAY 5</span>
+          <span class="day-theme">独克宗 → 昆明</span>
+          <span class="day-date">5月3日 · 星期日</span>
+        </div>
+
+        <div class="route-flow">
+          <div class="route-node">
+            <div class="route-icon s">🏯</div>
+            <div class="route-label">古城晨拍<br>上午</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">🔴</div>
+            <div class="route-label">大经筒祈福<br>9-10点</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon e">🚗</div>
+            <div class="route-label">包车赴丽江站<br>约3.5h</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon s">🚄</div>
+            <div class="route-label">丽江-昆明<br>火车3.5h</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">🏨</div>
+            <div class="route-label">昆明站附近<br>入住D</div>
+          </div>
+        </div>
+
+        <div class="spot-grid">
+          <div class="spot-card">
+            <div class="spot-img">🌅</div>
+            <div class="spot-body">
+              <div class="spot-name">独克宗古城晨拍</div>
+              <div class="spot-time">上午 · 1-2小时</div>
+              <p class="spot-desc">清晨的独克宗几乎没有游客，拍照效果绝佳。五凤桥（古老风雨桥）很适合取景，清晨光线柔和，整个古城宁静祥和。趁早晨人流稀少好好感受这座千年古城的魅力。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-n">晨拍</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🔴</div>
+            <div class="spot-body">
+              <div class="spot-name">龟山公园 · 巨大转经筒</div>
+              <div class="spot-time">9:00-10:00 · 约1小时</div>
+              <p class="spot-desc">世界最大转经筒，高21米，重60吨，需多人合力（顺时针）才能转动。清晨转动转经筒祈福，体验独特且有意义。下山后可在古城尝尝藏式早餐（牦牛包子+酥油茶）。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">必去</span>
+                <span class="tag tag-n">文化体验</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🚄</div>
+            <div class="spot-body">
+              <div class="spot-name">丽江 → 昆明 火车</div>
+              <div class="spot-time">下午 · 约3.5小时</div>
+              <p class="spot-desc">从独克宗包车前往丽江站（约3.5-4小时），再乘动车前往昆明（约3-3.5小时）。⚠️丽江-昆明段火车票5月旺季非常紧张，务必提前购买！建议购买下午2点前发车的车次，留出buffer时间。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">⚠️提前购票</span>
+                <span class="tag tag-p">火车</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="hotel-card">
+            <div class="hotel-emoji">🏨</div>
+            <div class="hotel-info">
+              <div class="hotel-label">住宿</div>
+              <div class="hotel-name">酒店 D · 昆明火车站附近</div>
+              <p class="hotel-note">建议选择昆明站（昆明站或昆明南站）步行10分钟内的酒店，方便当晚入住和次日游玩。傍晚可逛昆明老街或南强街夜市，品尝过桥米线等美食。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY 6 ══ -->
+<section class="section" id="day6">
+  <div class="container">
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="day-header">
+          <span class="day-badge">DAY 6</span>
+          <span class="day-theme">昆明全天游玩</span>
+          <span class="day-date">5月4日 · 星期一</span>
+        </div>
+
+        <div class="route-flow">
+          <div class="route-node">
+            <div class="route-icon s">🌳</div>
+            <div class="route-label">翠湖公园<br>上午</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon m">🏛️</div>
+            <div class="route-label">云南博物馆<br>下午</div>
+          </div>
+          <div class="route-arrow">→</div>
+          <div class="route-node">
+            <div class="route-icon s">🏙️</div>
+            <div class="route-label">昆明老街<br>晚上</div>
+          </div>
+        </div>
+
+        <div class="spot-grid">
+          <div class="spot-card">
+            <div class="spot-img">🌳</div>
+            <div class="spot-body">
+              <div class="spot-name">翠湖公园</div>
+              <div class="spot-time">上午 · 1.5-2小时</div>
+              <p class="spot-desc">昆明市中心的"绿宝石"，5月荷花开得正好，非常适合漫步休闲。免门票，交通方便。可在翠湖周围的老餐馆吃一顿正宗的云南早点（豆花米线、烧饵块）。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-n">休闲</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🏛️</div>
+            <div class="spot-body">
+              <div class="spot-name">云南省博物馆</div>
+              <div class="spot-time">下午 · 2-3小时</div>
+              <p class="spot-desc">免费参观，建议安排在下午避暑。通过实物和多媒体了解云南从古至今的历史文化，镇馆之宝为滇王金印和大理国时期的展品。逛完对云南少数民族文化会有更深的理解。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-n">文化</span>
+                <span class="tag tag-p">免费</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🦅</div>
+            <div class="spot-body">
+              <div class="spot-name">滇池 / 海埂公园</div>
+              <div class="spot-time">下午（可选）· 2-3小时</div>
+              <p class="spot-desc">云南最大淡水湖，海埂公园适合漫步看湖。5月红嘴鸥已飞走，但湖面开阔风景依然不错。可以坐缆车到西山龙门，俯瞰滇池全景（缆车费用另计）。</p>
+              <div class="spot-tags">
+                <span class="tag tag-p">风景</span>
+                <span class="tag tag-n">可选</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="spot-card">
+            <div class="spot-img">🏙️</div>
+            <div class="spot-body">
+              <div class="spot-name">昆明老街 / 南强街夜市</div>
+              <div class="spot-time">晚上 · 2-3小时</div>
+              <p class="spot-desc">昆明老街保留了大量老建筑（抗战胜利堂、聂耳故居），南强街夜市美食云集。必吃：过桥米线、汽锅鸡、鲜花饼、烧饵块。夜晚的南屏街也是购物和体验昆明夜生活的好去处。</p>
+              <div class="spot-tags">
+                <span class="tag tag-d">推荐</span>
+                <span class="tag tag-p">美食</span>
+                <span class="tag tag-n">夜市</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hotel-card">
+          <div class="hotel-emoji">🏨</div>
+          <div class="hotel-info">
+            <div class="hotel-label">住宿</div>
+            <div class="hotel-name">酒店 D · 昆明火车站附近</div>
+            <p class="hotel-note">继续入住同一酒店，当晚准备好行李，第二天一早出发前往机场。建议选择有早餐的酒店，省去早上找餐厅的麻烦。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ DAY 7 ══ -->
+<section class="section" id="day7">
+  <div class="container">
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="day-header">
+          <span class="day-badge">DAY 7</span>
+          <span class="day-theme">返程</span>
+          <span class="day-date">5月5日 · 星期二</span>
+        </div>
+
+        <div class="spot-card" style="max-width:400px;">
+          <div class="spot-img">✈️</div>
+          <div class="spot-body">
+            <div class="spot-name">昆明长水机场 · 返程</div>
+            <div class="spot-time">11:00 航班起飞</div>
+            <p class="spot-desc">建议提前2.5-3小时从酒店出发前往机场。昆明长水机场距市区约30公里，约1小时车程。可乘地铁6号线（塘子巷→机场中心）直达，或提前预约送机服务。5月旺季请留足候机时间。</p>
+            <div class="spot-tags">
+              <span class="tag tag-d">⚠️提前出发</span>
+              <span class="tag tag-p">地铁6号线</span>
+            </div>
+          </div>
+        </div>
+
+        <div style="background:#f0e8da; border-left:3px solid var(--accent3); border-radius:8px; padding:16px 20px; margin-top:16px; max-width:500px;">
+          <strong style="color:var(--accent3);">🏁 旅途结束</strong>
+          <p style="font-size:13px; color:var(--text-muted); margin-top:6px;">感谢这次穿越高原与古城的旅程。希望梅里雪山的日照金山、纳帕海的辽阔草原、独克宗的转经筒、昆明的过桥米线，都成为你记忆中美好的片段。</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ TIPS ══ -->
+<section class="section" id="tips">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">重要提示</p>
+      <h2 class="section-title">注意事项</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="tips-grid reveal">
+      <div class="tip-card">
+        <div class="tip-icon">🏔️</div>
+        <div class="tip-title">高反防范</div>
+        <p class="tip-text">白马雪山垭口（4292米）和独克宗（3300米）海拔较高，以下措施务必做到：</p>
+        <ul class="tip-list">
+          <li>避免剧烈运动，跑跳是大忌</li>
+          <li>多喝温水，少吃辛辣</li>
+          <li>提前1-2天服用红景天/高原安</li>
+          <li>不要在高海拔地区洗澡太频繁</li>
+          <li>出现严重头疼/呕吐请立即下山</li>
+        </ul>
+      </div>
+
+      <div class="tip-card">
+        <div class="tip-icon">☀️</div>
+        <div class="tip-title">防晒防寒</div>
+        <p class="tip-text">全程高原紫外线极强，一天内温差可达20度：</p>
+        <ul class="tip-list">
+          <li>SPF50+防晒霜，每2小时补涂</li>
+          <li>墨镜 + 遮阳帽必备</li>
+          <li>冲锋衣/厚外套洋葱式穿衣法</li>
+          <li>白马雪山垭口风大，穿戴帽子手套</li>
+          <li>润唇膏SPF也是必带</li>
+        </ul>
+      </div>
+
+      <div class="tip-card">
+        <div class="tip-icon">🎫</div>
+        <div class="tip-title">提前预订</div>
+        <p class="tip-text">5月旺季，以下务必提前安排：</p>
+        <ul class="tip-list">
+          <li>飞来寺酒店B（5月1日）— 非常紧张</li>
+          <li>独克宗酒店C（5月2日）— 提前一周以上</li>
+          <li>丽江→昆明火车票 — 提前购买！</li>
+          <li>包车师傅 — 让酒店A推荐或飞猪预约</li>
+          <li>昆明酒店D — 火车站附近尤抢手</li>
+        </ul>
+      </div>
+
+      <div class="tip-card">
+        <div class="tip-icon">🚗</div>
+        <div class="tip-title">包车提示</div>
+        <p class="tip-text">5月1-2日强烈建议包车：</p>
+        <ul class="tip-list">
+          <li>全程约800公里山路，老手司机更安全</li>
+          <li>价格约1500-2500元/车/两天</li>
+          <li>找飞猪/携程评价好的专职旅游司机</li>
+          <li>或让丽江酒店老板推荐熟悉的师傅</li>
+          <li>不要坐沿途大巴，时间完全不可控</li>
+        </ul>
+      </div>
+
+      <div class="tip-card">
+        <div class="tip-icon">🌧️</div>
+        <div class="tip-title">雨季准备</div>
+        <p class="tip-text">5月云南开始进入雨季：</p>
+        <ul class="tip-list">
+          <li>随身带雨伞或雨衣</li>
+          <li>山区可能出现落石和滑坡</li>
+          <li>注意观察路况信息</li>
+          <li>电子产品用防水袋保护</li>
+        </ul>
+      </div>
+
+      <div class="tip-card">
+        <div class="tip-icon">💰</div>
+        <div class="tip-title">花钱那些事</div>
+        <p class="tip-text">旅途中尽量避免的花冤枉钱：</p>
+        <ul class="tip-list">
+          <li>骑马/划船提前谈好总价</li>
+          <li>虫草/藏红花等贵重药材谨慎购买</li>
+          <li>景区门口的无证导游不推荐</li>
+          <li>拉市海和依拉草原骑马价格差异大</li>
+          <li>部分观景台有私人收费，事先问清</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PACKING ══ -->
+<section class="section" id="packing">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">行前准备</p>
+      <h2 class="section-title">必备物品清单</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="pack-grid reveal">
+      <div class="pack-category">
+        <div class="pack-cat-title">👕 衣物</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>冲锋衣/厚外套（高原必备）</div>
+          <div class="pack-item"><div class="pack-check"></div>长袖T恤 × 2-3件</div>
+          <div class="pack-item"><div class="pack-check"></div>牛仔裤/休闲裤 × 2</div>
+          <div class="pack-item"><div class="pack-check"></div>舒适徒步鞋/运动鞋</div>
+          <div class="pack-item"><div class="pack-check"></div>防晒帽 + 墨镜</div>
+          <div class="pack-item"><div class="pack-check"></div>薄围巾/披肩（防晒+保暖）</div>
+        </div>
+      </div>
+
+      <div class="pack-category">
+        <div class="pack-cat-title">💊 药品</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>高原安/红景天（提前服用）</div>
+          <div class="pack-item"><div class="pack-check"></div>感冒药（高原易着凉）</div>
+          <div class="pack-item"><div class="pack-check"></div>晕车药（5月1日必吃）</div>
+          <div class="pack-item"><div class="pack-check"></div>肠胃药</div>
+          <div class="pack-item"><div class="pack-check"></div>创可贴 + 消毒棉片</div>
+          <div class="pack-item"><div class="pack-check"></div>润唇膏SPF</div>
+        </div>
+      </div>
+
+      <div class="pack-category">
+        <div class="pack-cat-title">🪪 证件</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>身份证（全程必备）</div>
+          <div class="pack-item"><div class="pack-check"></div>学生证/老年证（如有）</div>
+          <div class="pack-item"><div class="pack-check"></div>医保卡</div>
+          <div class="pack-item"><div class="pack-check"></div>火车票/机票电子票</div>
+        </div>
+      </div>
+
+      <div class="pack-category">
+        <div class="pack-cat-title">🔌 日用品</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>防晒霜 SPF50+</div>
+          <div class="pack-item"><div class="pack-check"></div>充电宝（20000mAh以下）</div>
+          <div class="pack-item"><div class="pack-check"></div>雨伞/雨衣</div>
+          <div class="pack-item"><div class="pack-check"></div>纸巾/湿巾</div>
+          <div class="pack-item"><div class="pack-check"></div>洗漱用品（部分酒店不提供）</div>
+          <div class="pack-item"><div class="pack-check"></div>现金（部分观景台只收现金）</div>
+        </div>
+      </div>
+
+      <div class="pack-category">
+        <div class="pack-cat-title">🎮 可选</div>
+        <div class="pack-items">
+          <div class="pack-item"><div class="pack-check"></div>相机/手机稳定器</div>
+          <div class="pack-item"><div class="pack-check"></div>无人机（如有，山区注意风速）</div>
+          <div class="pack-item"><div class="pack-check"></div>保温杯（高原喝热水很舒服）</div>
+          <div class="pack-item"><div class="pack-check"></div>颈枕（长途车程必备）</div>
+          <div class="pack-item"><div class="pack-check"></div>眼罩</div>
+          <div class="pack-item"><div class="pack-check"></div>耳塞</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer>
+  <p class="footer-title">五一·滇西北大环线</p>
+  <p>丽江三义机场 → 丽江古城 → 虎跳峡 → 哈巴雪山 → 金沙江月亮湾 → 白马雪山 → 飞来寺（梅里雪山）→<br>
+  浓雾顶 → 奔子栏 → 纳帕海 → 独克宗古城 → 昆明 → 长水机场</p>
+  <br>
+  <p>祝旅途愉快，一路平安 🌄</p>
+</footer>
+
+<script>
+  // ── Nav active state ──
+  const navLinks = document.querySelectorAll('nav a');
+  const sections = document.querySelectorAll('section[id]');
+
+  function onScroll() {
+    let current = '';
+    sections.forEach(section => {
+      const top = section.offsetTop - 120;
+      if (scrollY >= top) current = section.getAttribute('id');
+    });
+    navLinks.forEach(a => {
+      a.classList.toggle('active', a.getAttribute('href') === '#' + current);
+    });
+  }
+  window.addEventListener('scroll', onScroll);
+
+  // ── Reveal animations ──
+  const reveals = document.querySelectorAll('.reveal, .timeline-item');
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.1 });
+  reveals.forEach(el => revealObserver.observe(el));
+
+  // ── Hero parallax ──
+  window.addEventListener('scroll', () => {
+    const hero = document.querySelector('.hero-content');
+    if (hero) {
+      hero.style.transform = `translateY(${scrollY * 0.3}px)`;
+      hero.style.opacity = 1 - scrollY / 600;
+    }
+  });
+</script>
+</body>
+</html>
