@@ -173,6 +173,16 @@
 
 - [Sandia Labs - 量子赋能电场传感/成像 + 非侵入式功能脑成像系统](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia关键能力覆盖：量子赋能电场传感/成像（无与伦比的电场灵敏度与可视化）、超灵敏重力场及梯度测量、非侵入式功能脑成像系统（使用Sandia专利量子传感器）、量子重力与惯性传感器（下一代惯性导航关键）、微型光原子钟（集成单光子探测器与波导光传输）
 
+### 量子传感芯片化进展 / Chip-Scale Progress
+
+- [Sandia Labs - 量子传感芯片化专利矩阵 (2025)](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia已获批量子传感相关专利：引导原子干涉仪大动态范围高灵敏度测量协议(US12392611B1,2025)、悬空波导膜结构光原子陷阱集成平台(US11914188B1,2024)；正在申请：单电荷/自旋控制耦合电子电路；代表美国国家实验室量子传感微型化/芯片化的系统布局
+
+- [Sandia Labs - 量子赋能电场传感/成像 + 非侵入式功能脑成像系统](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia关键能力覆盖：量子赋能电场传感/成像（无与伦比的电场灵敏度与可视化）、超灵敏重力场及梯度测量、非侵入式功能脑成像系统（使用Sandia专利量子传感器）、量子重力与惯性传感器（下一代惯性导航关键）、微型光原子钟（集成单光子探测器与波导光传输）
+
+### 量子光子计算 / Photonic Quantum Computing
+
+- [Q-ANT Native Photonic Computing - 光子计算进入AI与HPC领域 (2026)](https://qant.com/) - 德国Q-ANT公司推出第二代光子处理器，瞄准AI和高性能计算；NPU Gen 2提供高达8 GOPS的算力提升、增强非线性处理能力、支持多维光学扩展；实现高达30倍能效提升和50倍计算加速，展现了光子技术从传感向计算领域的跨界应用；光子集成电路技术路线与量子传感信号链路高度协同
+
 ---
 
-*最后更新: 2026-05-09 (本次新增：Q-CTRL量子计算材料发现3000倍加速/Quantum Design完成收购牛津仪器纳米科学部)*
+*最后更新: 2026-05-09 (本次新增：Q-ANT Native Photonic Computing第二代光子处理器)*
