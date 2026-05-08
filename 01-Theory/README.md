@@ -109,7 +109,17 @@
 
 - [量子纠缠让原子钟精度更上层楼 (PTB, Physical Review Letters, 2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_62569afdfb189352) - 德国联邦物理技术研究院(PTB)利用量子纠缠增强原子钟计时稳定性，于2026年2月发表在《物理评论快报》；研究利用纠缠粒子对之间的内在关联性，显著降低时钟的计时抖动，为下一代基准原子钟奠定基础
 
+- [μ子反常磁矩精准测量 — Science 2025年度十大科学突破 (Fermilab/费米实验室, 2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_71769c4c7ed73652) - 2025年Science评选为年度十大科学突破之一；实验与第一性原理理论计算在"千万分之一"精度处高度吻合，代表量子精密测量技术的极限水平；验证了标准模型最精确的预测之一，为寻找新物理提供了基准参照；彰显高精度实验与理论计算共同推动基础物理认知边界的重要范式
+
+- [Tracking time-varying signals with quantum-enhanced atomic magnetometers (arXiv:2503.14793, 2025)](https://arxiv.org/abs/2503.14793) - 量子纠缠（自旋压缩）增强原子磁力计对时变信号的追踪能力，利用估计控制技术实现快速变化磁场的实时跟踪，在心磁图信号演示中获得量子优势；单次相干时间内完成噪声背景下瞬态信号追踪，为量子磁力计在生物医学信号检测中的应用提供新范式
+
+- [Chemically resolved NMR spectroscopy by longitudinal magnetization detection with diamond magnetometer (arXiv:2503.02140, 2025)](https://arxiv.org/abs/2503.02140) - 利用NV色心实现化学分辨核磁共振波谱，在0.32T磁场下达到~350 ppb分数光谱分辨率，可在~1nL检测体积内解析乙醇化学位移结构；为纳米级化学分析提供无感应磁力计新方案
+
+- [Limits of absolute vector magnetometry with NV centers in diamond (arXiv:2504.20750, 2025)](https://arxiv.org/abs/2504.20750) - 研究NV色心矢量磁力测量精度极限，推导磁场矢量到自旋共振频率的精确解析公式（含开源Python包），系统分析误差来源与补偿策略；促进使用Voigt线型精确拟合共振线宽；为绝对磁场测量精度评估与实验设计提供重要参考
+
 - [中国计量院锶原子光晶格钟NIM-Sr1正式校准国际标准时间 (2026)](https://news.mydrivers.com/tag/yuanzizhong.htm) - 2026年2月中国计量院研制的锶原子光晶格钟NIM-Sr1正式获准校准国际标准时间，实现我国光钟参与校准国际标准时间"零"的突破；核心突破在于将单个锶离子冷却至5K(-268.15°C)极低温环境运行，精度达数十亿年误差不超过一秒
+
+*最后更新: 2026-05-09 (本次新增：μ子反常磁矩Science2025十大突破/arXiv:2503.14793时变信号量子磁力计/arXiv:2503.02140化学分辨NMR/arXiv:2504.20750 NV矢量磁力精度极限)*
 
 ### NV色心前沿 / NV Center Frontiers
 
