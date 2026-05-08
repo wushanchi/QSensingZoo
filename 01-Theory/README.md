@@ -194,6 +194,7 @@
 ### 多参数量子估计 / Multiparameter Estimation
 
 - [Multiparameter estimation with entangled atomic sensor array (arXiv:2504.08677, 2025)](https://arxiv.org/abs/2504.08677) - 利用纠缠原子阵列实现多参数量子估计，通过分裂自旋压缩态创建阵列间纠缠，在联合估计任务中突破标准量子极限
+- [Multiparameter Quantum Function Estimation: Ultimate Bound & Optimal Protocol (arXiv:2605.04136, 2026)](https://arxiv.org/abs/2605.04136) - 推导任意哈密顿量多参数函数的终极量子极限并提出达此界限的估计协议，证明任务虽本质是多参数问题但紧束缚可化为优化单参数量子Cramér-Rao界限；统一并扩展前期工作，为一般量子系统最优函数估计提供通用框架
 - [Quantum magnetometry of transient signals with 1.1 ns time resolution (arXiv:2411.05542, 2024)](https://arxiv.org/abs/2411.05542) - 基于单NV色心室温磁力计实现1.1纳秒时间分辨率与450 MHz瞬时带宽，突破量子磁传感器的动态响应极限；适用于瞬态电磁事件探测
 - [Low-temperature NV scanning magnetic microscope with 3 µT/√Hz sensitivity (attocube attoNVM, 2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_54769717fc807152) - 德国attocube公司attoNVM产品，2K~300K温度区间工作，纳米级分辨率杂散磁场测量，专用于低温量子材料与超导器件成像
 - [Microscale Fiber-Integrated Vector Magnetometer with On-Tip Field Biasing (arXiv:2404.14089, 2024)](https://arxiv.org/abs/2404.14089) - 微米级光纤集成矢量磁力计，尖端集成微型线圈产生局部偏置磁场，片上微型化方案显著减少传统笨重的3D Helmholtz线圈配置
@@ -244,7 +245,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：量子导航英国铁路实测/多参数量子估计arXiv2605.04136)*
+*最后更新: 2026-05-09 (本次新增：Q-CTRL入选TIME 2026行业领袖100强/多参数量子估计arXiv2605.04136)*
 
 ### 量子磁传感 / Quantum Magnetometry*
 
