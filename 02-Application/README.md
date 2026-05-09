@@ -128,6 +128,10 @@
 
 - [Sandia Labs Atom Interferometry - GPS-free Navigation Sensor (2025)](https://www.sandia.gov/quantum/atom-interferometry/) - 美国桑迪亚国家实验室研发紧凑型原子干涉仪传感器头,采用光栅磁光阱(GMOT)技术实现冷原子囚禁,目标实现无卫星导航;量子惯性传感与重力辅助导航结合,减少GPS依赖
 
+### 生物医学传感 / Biomedical Sensing
+
+- [Biomagnetik Park - 量子心磁图(MCG)+AI心血管诊断 (Charité Berlin 2026)](https://www.biomagnetik.com/) - 德国初创公司基于最灵敏量子传感器(金刚石NV色心)开发无创心磁图，结合AI实现心血管疾病精准诊断；Charité Berlin 2021-2024临床研究证明，基于Park-Brachmann评分，Vector MCG排除心肌炎特异性达95.0%（传统方法难以企及）；量子传感在心脏病早期诊断与无创筛查领域展现变革性潜力
+
 ### 量子传感新兴应用 / Emerging Applications
 
 - [Nature Sensors 2026年正式创刊 - 全球传感共同体新平台 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_39069cca2fd62052) - Nature系列全新期刊将于2026年1月正式上线;2026年4月创刊论坛(延世大学/成均馆大学/汉阳大学),推动量子传感与全球传感研究网络深度融合

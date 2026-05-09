@@ -106,6 +106,10 @@
 
 - [Machine Learning Assisted Tracking of Magnetic Objects using Quantum Diamond Magnetometry (arXiv:2502.14683, 2025)](https://arxiv.org/abs/2502.14683) - 利用机器学习（无需物理模型）结合量子钻石磁力计实时追踪磁性目标位置，演示地下基础设施测绘、地面运输监测；为量子传感+AI融合应用提供新范式
 
+### 新兴量子传感应用 / Emerging Applications
+
+- [量子鬼成像量子传感 - 非侵入式植物活体成像 (MedSci 2026)](https://www.medsci.cn/sci/show_paper.asp?id=35c4a1259231266b) - 基于量子增强鬼成像技术实现植物非侵入式活体成像，无需物理接触即可观测植物内部结构与生理动态；量子传感在农业与植物学表型研究中的应用探索
+
 ### 新增 / New Entries
 
 - [Quantum Fourier Transform for Quantum Sensing (ResearchGate 2020)](https://www.researchgate.net/publication/343849107_Quantum_Fourier_transform_for_quantum_sensing) - 在NV色心混合量子寄存器中实现量子傅里叶变换增强量子传感性能，电子自旋作为传感元件，三个核自旋作为计算资源，处理经典与量子信号
@@ -249,7 +253,7 @@
 
 ---
 
-*最后更新: 2026-05-08 (新增：量子陀螺仪级联HOM干涉理论 物理学报 2025)*
+*最后更新: 2026-05-08 (本次新增：量子鬼成像植物活体成像MedSci 2026/量子心磁图MCG+AI临床诊断/Quantum Design收购牛津NanoScience)*
 
 - [基于频率纠缠双光子和级联HOM干涉的量子陀螺仪理论研究 (物理学报 2025)](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.74.20250077) - 利用频率纠缠双光子和级联Hong-Ou-Mandel干涉实现量子陀螺仪，三轴角速度测量精度可超越经典光学陀螺仪，量子Fisher信息分别达(2, 0.1, 0.006)；为量子陀螺仪在全球导航传感领域的应用提供理论支持
 

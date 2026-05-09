@@ -142,6 +142,10 @@
 - [SBQuantum 400万美元种子轮 (2026)](https://new.qq.com/rain/a/20260114A05PSZ00) - 加拿大量子钻石磁力计公司，2026年4月完成400万美元种子轮融资(Quantonation/Quantacet/魁北克投资局领投)；成立美国子公司Zero Drift Technologies服务美国政府及国防主承包商
 - [Quantum Motion 1.6亿美元C轮 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_04668cac86c52052) - 英国硅基量子计算初创公司，2026年5月完成1.6亿美元C轮融资(DCVC/Kembara领投)，创英国量子公司最大单笔VC融资纪录；硅量子点技术路线与量子传感高度协同
 
+### 低温量子传感平台 / Cryogenic Quantum Sensing Platforms
+
+- [Quantum Design 完成收购牛津仪器纳米科学部门 (2026)](https://new.qq.com/rain/a/20260115A02IIM00) - 2026年1月2日Quantum Design完成对Oxford Instruments旗下NanoScience部门的收购，打造超百年创新积淀的低温物理与材料科学综合服务体系；Oxford Instruments NanoScience拥有 SQUID 磁力计与极低温稀释制冷机等量子传感核心仪器，结合Quantum Design既有平台（PPMS、MPMS3），形成从低温到室温的完整量子传感测量生态；代表超导量子干涉与NV色心两大量子传感技术路线在仪器平台层面的深度整合
+
 ### 量子导航 / Quantum Navigation
 
 - [量子导航技术在英国铁路取得重大突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) - 2026年3月量子导航系统搭载英国GTR列车在伦敦至韦林花园市线路实地测试，采集真实运营数据验证GPS拒止环境高精度定位方案
