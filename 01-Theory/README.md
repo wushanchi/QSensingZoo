@@ -35,6 +35,12 @@
 
 ---
 
+- [Quantum Magnetometers for Infrastructure Inspection and Monitoring (arXiv, 2026)](https://arxiv.org/abs/2605.04136) - 利用NV色心磁力计/光泵磁力计进行基础设施检测与监测，可穿透涂层/绝缘层/混凝土无需耦合剂；系统分析提拉高度/低频漂移/背景噪声等现场性能限制因素，为钢梁疲劳/腐蚀/电池异常电流等提供非接触式磁诊断方案
+
+- [FID Magnetometer Based on Paraffin-Coated Planar Reflective Multipass Cells (arXiv:2605.02700, 2026)](https://arxiv.org/abs/2605.02700) - 基于石蜡涂覆平面反射多通电池的FID磁力计，在地磁场范围内实现10 pT/√Hz灵敏度；双池差分配置有效抑制公共噪声；平面几何结构支持紧凑光学集成，为芯片级碱金属原子磁力计提供新方案
+
+- [Microwave-free vector magnetometry and crystal orientation determination with NV centers using Bayesian inference (arXiv, 2025)](https://arxiv.org/abs/2512.09925) - 微波自由矢量磁力计，利用贝叶斯推理从ODMR光谱提取磁场矢量与晶体取向外延，无需微波驱动简化硬件复杂度；为芯片级NV磁力计低功耗方案提供新路径
+
 ### 量子传感芯片化里程碑 / Chip-Scale Milestones
 
 - [Laser-written micro-channel atomic magnetometer (arXiv:2404.14345, 2024)](https://arxiv.org/abs/2404.14345) - 利用飞秒激光刻蚀+化学蚀刻在熔融 silica 中制作亚毫米沟道，埋深<1mm，内含Rb蒸汽和0.75 amg N₂缓冲气体，传感体积2.25 mm³，零场共振方案实现~1 pT/√Hz@10Hz灵敏度，可与光子结构和微流控通道3D集成；为芯片级碱金属原子磁力计的低成本微型化提供新路径
@@ -136,7 +142,7 @@
 
 - [中国计量院锶原子光晶格钟NIM-Sr1正式校准国际标准时间 (2026)](https://news.mydrivers.com/tag/yuanzizhong.htm) - 2026年2月中国计量院研制的锶原子光晶格钟NIM-Sr1正式获准校准国际标准时间，实现我国光钟参与校准国际标准时间"零"的突破；核心突破在于将单个锶离子冷却至5K(-268.15°C)极低温环境运行，精度达数十亿年误差不超过一秒
 
-*最后更新: 2026-05-09 (本次新增：arXiv:2404.14345激光刻蚀微通道原子磁力计/μ子反常磁矩Science2025十大突破/arXiv:2503.14793时变信号量子磁力计/arXiv:2503.02140化学分辨NMR/arXiv:2504.20750 NV矢量磁力精度极限/arXiv:2405.05796单电子EM场量子传感)*
+*最后更新: 2026-05-09 (本次新增: arXiv:2605.04136基础设施检测量子磁力计/ arXiv:2605.02700石蜡涂覆平面FID磁力计/ arXiv:2512.09925微波自由NV矢量磁力计+贝叶斯推理)*
 
 ### NV色心前沿 / NV Center Frontiers
 
