@@ -24,5 +24,5 @@
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
 ---
-*最后更新: 2026-05-09 (本次新增：硅基光电子原子干涉仪Science Advances 2026/Sandia Labs GMOT紧凑原子干涉仪/量子陀螺仪级联HOM干涉理论/arXiv:2504.20750矢量磁力精度极限/arXiv:2503.14793量子增强时变信号追踪/Quantum control and Berry phase悬浮金刚石量子陀螺仪 Nature Communications 2024/Chip-scale optical gyroscope Photonics Research 2025/QuantumVillage/UncutGem V2开源项目活跃/Bosch Quantum Sensing网站2026年5月更新)*
+*最后更新: 2026-05-09 (本次新增：硅基光电子原子干涉仪Science Advances 2026/Sandia Labs GMOT紧凑原子干涉仪/量子陀螺仪级联HOM干涉理论/Bristol量产光子芯片量子极限传感Nature Photonics 2025/arXiv:2504.20750矢量磁力精度极限/arXiv:2503.14793量子增强时变信号追踪)*
 >
