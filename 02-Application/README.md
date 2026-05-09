@@ -168,6 +168,8 @@
 
 - [Sandia Labs Atom Interferometry - GPS-free Navigation Sensor (2025)](https://www.sandia.gov/quantum/atom-interferometry/) - 美国桑迪亚国家实验室研发紧凑型原子干涉仪传感器头,采用光栅磁光阱(GMOT)技术实现冷原子囚禁,目标实现无卫星导航;量子惯性传感与重力辅助导航结合,减少GPS依赖
 
+- [Chip-scale integrated optical gyroscope based on multi-mode co-detection (Photonics Research 2025)](https://read.cnki.net/web/Journal/Article/GZXJ202502008.html) - 浙江大学/上海交大/密歇根大学联合提出芯片级集成光学陀螺仪多模协同探测技术，突破传统陀螺仪微型化瓶颈；代表量子传感与集成光子技术融合的工程化突破
+
 ### 量子传感工程实现 / Engineering Implementation
 
 - [中国科大构建城际量子传感网络 - 核自旋量子精密测量突破 (Nature 2026)](https://www.nature.com/articles/s41586-025-10034-w) - 中科大等团队构建国际首个基于核自旋的城际量子传感网络,分布于合肥-杭州5台核自旋量子传感器,跨度320公里,利用卫星同步实现分布式量子传感;首次在实验上突破轴子暗物质天体物理观测极限;误报率降低约三个数量级,能量分辨率较基于碱金属传感器的GNOME提升约4个量级;团队结合核自旋量子放大技术,将信号放大至少100倍,旋转灵敏度约10-6 rad

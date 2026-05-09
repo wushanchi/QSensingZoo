@@ -77,6 +77,8 @@
 - [EuQlid Quantum - 金刚石量子显微镜(半导体磁场成像)](https://spectrum.ieee.org/quantum-sensors-2671182149) - Q-Cat子公司EuQlid开发量子金刚石显微镜，用于半导体行业磁场成像：微米级分辨率、宽视场、非侵入式，可无需X射线查看封装内部结构；目标市场：航天、油气、精密制造；CEO Amanda Stein；代表量子传感在半导体检测领域的产业化落地
 - [Monarch Quantum + Oratomic 量子计算战略合作 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_95769f1e58162352) - 2026年4月达成战略合作，整合光子系统与中性原子架构，目标本十年末交付数万个物理量子比特、编码数千个错误更正逻辑量子比特的容错量子计算机；代表量子传感底层硬件的原子系综技术与集成光子技术加速融合
 
+- [Chip-scale integrated optical gyroscope based on multi-mode co-detection (Photonics Research 2025)](https://read.cnki.net/web/Journal/Article/GZXJ202502008.html) - 浙江大学/上海交大/密歇根大学联合提出芯片级集成光学陀螺仪多模协同探测技术，突破传统陀螺仪微型化瓶颈；代表量子传感与集成光子技术融合的工程化突破
+
 ### 中国进展 / China Progress
 
 - [2025 Quantum10中国量子公司十大创新典范 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_54569a2cb4d85152) - 2025年量子科技应用化浪潮报导，国产量子地磁仪实现100%自主可控，地震监测正式迈入量子时代；"天衍"量子云平台面向全球，特定任务计算效率达传统超算4.5亿倍

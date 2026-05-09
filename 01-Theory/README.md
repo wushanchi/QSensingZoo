@@ -255,6 +255,9 @@
 
 ### 量子陀螺仪研究突破 / Quantum Gyroscope Research
 
+- [Quantum control and Berry phase of electron spins in rotating levitated diamonds (Nature Communications 2024)](https://www.nature.com/articles/s41467-024-49175-3) - 悬浮纳米金刚石中电子自旋量子控制与贝里相位研究，展示自旋与粒子转动的耦合，可用于量子陀螺仪与转动物质波干涉仪；是悬浮金刚石量子传感在宏观量子力学与精密测量应用中的重要进展
+- [Chip-scale integrated optical gyroscope based on multi-mode co-detection (Photonics Research 2025)](https://read.cnki.net/web/Journal/Article/GZXJ202502008.html) - 浙江大学/上海交大/密歇根大学联合提出芯片级集成光学陀螺仪多模协同探测技术，突破传统陀螺仪微型化瓶颈；代表量子传感与集成光子技术融合的工程化突破
+
 - [中国空间站冷原子干涉陀螺仪实验 (2024)](https://www.sohu.com/a/996484779_122498878) - 2024年12月中国科学院精密测量院詹明生团队自主研制的空间冷原子干涉陀螺仪，在中国空间站舱内完成首次悬浮冷原子干涉实验，为空间量子惯性传感技术奠定基础
 
 - [上海交大12.9纳弧度量子转动角度测量 (2025)](https://max.book118.com/html/2025/0306/8124011142007037.shtm) - 上海交通大学利用不定时间方向演化策略突破标准量子极限，在实验上实现12.9纳弧度精度轴向转动角度测量
