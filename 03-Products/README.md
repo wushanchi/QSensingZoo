@@ -190,6 +190,11 @@
 
 - [Q-ANT Native Photonic Computing - 光子计算进入AI与HPC领域 (2026)](https://qant.com/) - 德国Q-ANT公司推出第二代光子处理器，瞄准AI和高性能计算；NPU Gen 2提供高达8 GOPS的算力提升、增强非线性处理能力、支持多维光学扩展；实现高达30倍能效提升和50倍计算加速，展现了光子技术从传感向计算领域的跨界应用；光子集成电路技术路线与量子传感信号链路高度协同
 
+### 量子传感学术生态 / Academic Ecosystem
+
+- [EU Quantum Flagship 新成立量子计算顾问委员会 (2026)](https://qt.eu/) - 2026年4月28日EU Quantum Flagship启动量子计算顾问委员会，旨在加速欧洲量子技术从研究到产业的转化；Quantum Flagship是欧盟最大量子技术倡议，10年预算10亿欧元，覆盖量子传感/通信/计算/模拟四大支柱；Q-Expo 2026将于5月18-19日举办
+- [ISC High Performance 2026 - HPC/AI/量子融合 (2026)](https://www.isc-hpc.com/) - 2026年6月22-26日德国汉堡召开，主题"HPC, AI, Quantum: Powering Innovation and Sustainability"；量子计算与传感是核心议题之一；反映高性能计算与量子技术深度融合趋势
+
 ---
 
 *最后更新: 2026-05-09 (本次新增：Q-ANT Native Photonic Computing第二代光子处理器)*
