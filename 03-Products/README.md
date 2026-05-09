@@ -4,6 +4,12 @@
 
 ### 量子传感产业动态 / Industry Updates
 
+- [Quantum Singapore 2026论坛 - 量子汇聚：从硬件突破到工业应用 (2026-02-04, 新加坡)](https://new.qq.com/rain/a/20260207A067DT00) - ICV TA&K/FinQ Tech/Informa Markets联合主办，IEEE Photonics Society学术支持；主题"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"；1000+参会者/150+演讲嘉宾/40+国家；量子传感与导航是核心议题之一；反映东南亚在全球量子产业布局中的战略地位提升
+
+- [量子传感国防应用路线图：NSA三大支柱，2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱；量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向；量子传感器市场预测2029年达25亿美元，2033年达32亿美元；量子传感在国防领域的战略价值持续凸显
+
+- [Imperial College量子传感原型机登陆英国皇家海军舰艇 (2026)](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) - Imperial College研制的量子传感原型机在皇家海军舰艇上完成测试，是将量子传感器从实验室推向真实环境的重要里程碑；量子传感有望消除传统惯性导航系统的漂移问题，实现长时间高精度无GPS自主导航；估计GPS服务中断一天将使英国损失10亿英镑
+
 - [Quantum.Tech World 2026 - 量子/AI/HPC融合全球峰会 (2026-06-25~26, 波士顿)](https://www.quantumtechcongress.com/) - 聚焦"Quantum, AI & HPC: Redefining What's Possible"，1000+参会者/150+演讲嘉宾/40+国家，量子传感与导航是核心议题之一；同期可关注Optica Quantum 2.0 (6月15-18日, 格拉斯哥)
 
 - [Q-Expo 2026 - 欧盟量子技术博览会 (2026-05-18~19)](https://qt.eu/) - EU Quantum Flagship主办，Q-Expo 2026聚焦量子技术从研究到产业转化，量子传感与计量是四大支柱之一；量子计算顾问委员会于2026年4月28日成立，推动欧洲量子生态加速成熟
