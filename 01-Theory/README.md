@@ -103,6 +103,8 @@
 
 - [Quantum Fourier Transform for Quantum Sensing (ResearchGate 2020)](https://www.researchgate.net/publication/343849107_Quantum_Fourier_transform_for_quantum_sensing) - 在NV色心混合量子寄存器中实现量子傅里叶变换增强量子传感性能，电子自旋作为传感元件，三个核自旋作为计算资源，处理经典与量子信号
 
+- [多国团队量子传感器提升粒子探测时空精度 - 超导微线单光子探测器SMSPD (仪器仪表期刊, 2025)](https://new.qq.com/rain/a/20250428A01QW800) - 美国/瑞士/委内瑞拉等多国联合研究团队开发基于量子传感技术的超导微线单光子探测器(SMSPD)，用于粒子物理实验时空同步高精度追踪；在费米实验室测试表明探测效率显著优于传统探测器；代表量子传感在高能物理领域的实用化进展
+
 - [武汉大学研制世界体积最小芯片原子钟 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_25469250ce164452) - 武汉大学陈杰华教授团队研制世界体积最小的芯片原子钟，体积仅2.3立方厘米（指甲盖大小），体积只有国外同类产品的1/7；另一款火柴盒大小的WAX.21s型芯片原子钟已商用，2025年单款销售额超千万元；拇指盖大小款正在加速产业化
 
 ### 量子纠缠原子钟 / Entangled Atomic Clocks
