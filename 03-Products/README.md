@@ -96,13 +96,11 @@
 
 ### 量子磁力计公司 / Diamond Magnetometer Companies
 
-- [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计 DEF CON 33发布 (2025)](https://github.com/QuantumVillage/UncutGem) - V2版本于2025年DEF CON 33发布，完整硬件/固件/science文档开源，极低成本可构建量子传感实验平台；全球首个全栈开源量子传感平台；2026年5月GitHub仍有活跃更新，反映开源社区对量子传感持续投入
-- [Bosch Quantum Sensing - 博世+元素六金刚石量子传感 (2025)](https://www.bosch-quantumsensing.com/) - 博世与元素六合资公司，2025年7月成立，总部德国路德维希堡；聚焦芯片级金刚石量子传感器，推动低成本可扩展应用；博世估计医疗与移动领域全球市场潜力达mid-single billion欧元；2026年5月网站更新活跃 - 美国加州量子传感公司，专注于超冷原子束技术与量子重力仪；参与NASA量子重力梯度仪 Pathfinder (QGGPf) 项目，负责传感器头部技术；与NASA JPL、Infleqtion、Vector Atomic共同推动首个太空量子重力传感器验证任务
+- [UncutGem V2 - 全开源NV色心磁力计 DEF CON 33发布 (2025)](https://github.com/QuantumVillage/UncutGem) - V2版本于2025年DEF CON 33发布，完整硬件/固件/science文档开源，极低成本可构建量子传感实验平台；全球首个全栈开源量子传感平台；2026年5月GitHub仍有活跃更新，反映开源社区对量子传感持续投入
 - [SBQuantum - 量子钻石磁力计导航与探测 (2026)](https://new.qq.com/rain/a/20260114A05PSZ00) - 加拿大初创公司，与加拿大国防部及欧洲航天局有超过1500万美元研发合同；2026年4月完成400万美元种子轮融资(Quantonation/Quantacet/魁北克投资局领投)，新任CEO Eric Giroux；成立美国子公司Zero Drift Technologies(马萨诸塞州剑桥)，专注服务美国政府及国防主承包商；量子磁力计用于矿业勘探、航天国防、安全安检与GPS拒止环境导航
 - [attocube attoNVM - 低温NV色心扫描磁强计 (2026)](https://new.qq.com/rain/a/20260122A024JB00) - 德国attocube公司研发，2K~300K温度区间工作，纳米级分辨率杂散磁场测量，专用于低温量子材料与超导器件成像
 - [Quantum Motion 全球首台硅基CMOS量子计算机 (2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_04668cac86c52052) - 英国量子计算初创公司，2025年9月向托莱多大学物理系交付全球首台硅基CMOS量子计算机；2026年5月完成1.6亿美元C轮融资(DCVC/Kembara领投)，创英国量子公司最大单笔VC融资纪录；2025年已在英国国家量子计算中心部署，并进入DARPA量子基准测试B阶段；与GlobalFoundries深化硅基半导体制造合作；硅量子点技术路线与量子传感高度协同，传感器件与量子计算共享硅基制造工艺
-- [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计 DEF CON 33发布 (2025)](https://github.com/QuantumVillage/UncutGem) - V2版本于2025年DEF CON 33发布，完整硬件/固件/science文档开源，极低成本可构建量子传感实验平台；全球首个全栈开源量子传感平台
-- [Bosch Quantum Sensing - 博世+元素六金刚石量子传感合资公司 (2025)](https://www.bosch-quantumsensing.com/) - 2025年7月博世与元素六(Element Six)成立合资公司，总部德国路德维希堡，30名员工；博世负责主要运营，元素六持股25%；聚焦芯片级金刚石量子传感器，推动量子传感在半导体产业链中的低成本可扩展应用；博世估计医疗与移动领域全球市场潜力达mid-single billion欧元
+- [SBQuantum - 量子钻石磁力计导航与探测 (2026)](https://new.qq.com/rain/a/20260114A05PSZ00) - 2025年7月博世与元素六(Element Six)成立合资公司，总部德国路德维希堡，30名员工；博世负责主要运营，元素六持股25%；聚焦芯片级金刚石量子传感器，推动量子传感在半导体产业链中的低成本可扩展应用；博世估计医疗与移动领域全球市场潜力达mid-single billion欧元
 - [国仪量子 量子磁力仪/钻石单自旋传感器 (2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_7546829acf256552) - 合肥本源量子发布钻石单自旋传感器（纳米级空间分辨率，芯片无损检测）、量子磁力仪（心脑血管疾病磁场诊断）、微波场强仪；灵敏度远超传统磁力计，实现极弱磁场高精度测量
 - [Monarch Quantum - 量子光子学基础设施 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_01569ccfb2218252) - 量子光子学初创公司，2026年3月获超额认购5500万美元增长轮，总资本超1.15亿美元（含6000万美元客户合同）；客户包括Quantinuum、Infleqtion、NASA；光子学技术支撑量子传感系统核心信号链路
 - [Vector Atomic - 原子惯性传感与量子重力仪 (2026)](https://vectoratomic.com/) - 工程化量子技术应对真实世界的挑战，原子钟与惯性传感器已通过陆海空及太空等恶劣热、动态、辐射环境验证；核心产品包括微型原子钟、量子重力传感器；与NASA JPL、AOSense、Infleqtion共同参与QGGPf太空量子重力传感器验证任务
