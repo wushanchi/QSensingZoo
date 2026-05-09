@@ -104,6 +104,11 @@
 - [Princeton Quantum Initiative - NV色心探测二维自旋bath (2026)](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) - 普林斯顿大学NV传感器对金刚石表面二维自旋bath进行量子成像研究，探索量子传感与量子材料交叉前沿；反映北美顶级学术机构对NV色心平台持续深耕
 - [量子传感国防应用路线图：NSA三大支柱，2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成美国国家安全局(NSA)量子技术三大支柱；量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向；量子传感器市场预测2029年达25亿美元
 
+### 实船测试里程碑 / Real-World Marine Testing
+
+- [Imperial College量子传感原型机登陆英国皇家海军舰艇 (2026)](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) - Imperial College研制的量子传感原型机在皇家海军舰艇上完成测试，是将量子传感器从实验室推向真实环境的重要里程碑；量子传感有望消除传统惯性导航系统的漂移问题，实现长时间高精度无GPS自主导航；估计GPS服务中断一天将使英国损失10亿英镑
+
+
 ### 国防军事应用 / Defense & Military
 
 - [SandboxAQ AQNav - 全球首款商用量子+AI导航系统,应对GPS干扰 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日SandboxAQ发布AQNav,整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成飞行测试,从单发动机到大型军用运输机均验证有效;抗干扰、全天候、地形无关;估值超50亿美元,获谷歌/英伟达投资;代表量子传感在导航领域首个大规模商用里程碑
