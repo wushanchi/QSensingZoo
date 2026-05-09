@@ -55,6 +55,7 @@
 
 ### 公司与产品 / Companies & Products
 
+- [Quantinuum秘密提交IPO申请 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_67669e8e8fa78652) - 霍尼韦尔控股的量子计算公司Quantinuum于2026年4月向美国SEC秘密提交IPO申请草案;市场预期估值目标超200亿美元(较2025年9月融资时100亿美元估值翻倍);由霍尼韦尔量子解决方案部门与Cambridge Quantum于2021年合并组建,全球估值最高量子独角兽;量子传感方向与量子计算深度协同
 - [SBQuantum 新任首席执行官+美国子公司 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_46769e2132254052) - 2026年4月完成400万美元超额认购种子轮融资(Quantonation/Quantacet/魁北克投资局领投)，新任CEO Eric Giroux成立美国子公司Zero Drift Technologies(马萨诸塞州剑桥)，专注服务美国政府及国防主承包商；量子钻石磁力计用于矿业勘探、航天国防、安全安检与GPS拒止环境导航
 
 - [QuantX Labs - 澳大利亚量子传感与精密计时 (2026)](https://quantxlabs.com/) - 澳大利亚阿德莱德大学衍生企业，全球量子传感与精密计时技术领导者；量子传感产品：地下资产追踪、空间威胁探测、水下威胁探测、重力与磁场地球物理勘探；量子计时产品用于GNSS拒止环境弹性备选PNT与主权太空计时网络；与澳大利亚国防和太空项目深度合作；阿德莱德先进生产与测试设施支撑国防与太空项目
