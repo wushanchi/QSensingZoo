@@ -116,6 +116,8 @@
 ### 量子导航与惯性传感 / Quantum Navigation & Inertial Sensing
 
 - [SandboxAQ AQNav - 全球首款商用量子+AI导航系统,应对GPS干扰 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日SandboxAQ发布AQNav,整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成飞行测试,从单发动机到大型军用运输机均验证有效;抗干扰、全天候、地形无关;代表量子传感在导航领域首个大规模商用里程碑
+- [Delft Vydar - GPS-free无人机导航获美国 funding (2026)](https://www.bits-chips.nl/) - 代尔夫特理工大学衍生公司Vydar于2026年5月获美国资金支持,开发无GPS无人机导航技术;结合量子传感与AI实现复杂电磁环境下的可靠自主导航;代表量子传感在无人系统定位领域加速商业化
+- [量子导航技术在英国铁路取得重大突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) - 2026年3月量子惯性导航系统(RQINS)在全球范围内首次完成铁路实车测试,搭载于英国GTR运营列车在伦敦至韦林花园市线路运行;项目由MoniRail牵头,联合帝国理工学院/萨塞克斯大学/QinetiQ等战略联盟推进,获英国创新署与DSIT支持;量子传感为GPS拒止环境提供更低成本、更可靠、更抗干扰的定位方案
 - [SandboxAQ AQNav - 全球首款商用量子+AI导航系统,应对GPS干扰 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日SandboxAQ发布AQNav,整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成飞行测试,从单发动机到大型军用运输机均验证有效;抗干扰、全天候、地形无关;代表量子传感在导航领域首个大规模商用里程碑
 
 - [量子导航技术在英国铁路取得重大突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) - 2026年3月量子惯性导航系统(RQINS)在全球范围内首次完成铁路实车测试,搭载于英国GTR运营列车在伦敦至韦林花园市线路运行;项目由MoniRail牵头,联合帝国理工学院/萨塞克斯大学/QinetiQ等战略联盟推进,获英国创新署与DSIT支持;量子传感为GPS拒止环境提供更低成本、更可靠、更抗干扰的定位方案
