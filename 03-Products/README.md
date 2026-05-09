@@ -171,9 +171,7 @@
 
 ### 量子传感资本动态 / Funding & Investment
 
-- [Quantum Motion 1.6亿美元C轮 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_04668cac86c52052) - 英国硅基量子计算初创公司，2026年5月完成1.6亿美元C轮融资(DCVC/Kembara领投)，创英国量子公司最大单笔VC融资纪录；硅量子点技术路线与量子传感高度协同
-
-- [Cerca Magnetics 380万英镑A轮融资 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) - 英国诺丁汉大学衍生企业，开发可穿戴式量子脑成像扫描仪，2026年4月完成380万英镑A轮融资(吉尼斯风险投资领投)，投后估值3000万英镑；资金将用于拓展临床医疗市场布局；量子传感在神经成像领域的商业化加速
+- [Quantum Motion 1.6亿美元C轮 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_62369fc718291852) - 英国硅基量子计算初创公司，2026年5月7日宣布完成1.6亿美元C轮融资(DCVC/Kembara领投)，创英国量子公司最大单笔VC融资纪录；硅量子点技术路线与量子传感高度协同
 
 - [Monarch Quantum 融资5500万美元超额认购轮 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_01569ccfb2218252) - 量子光子学初创公司，2026年3月超额认购5500万美元增长轮，总资本超1.15亿美元（含6000万美元客户合同）；客户包括Quantinuum、Infleqtion、NASA；光子学技术支撑量子传感系统核心信号链路
 
@@ -203,12 +201,6 @@
 
 - [Sandia Labs - 量子赋能电场传感/成像 + 非侵入式功能脑成像系统](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia关键能力覆盖：量子赋能电场传感/成像（无与伦比的电场灵敏度与可视化）、超灵敏重力场及梯度测量、非侵入式功能脑成像系统（使用Sandia专利量子传感器）、量子重力与惯性传感器（下一代惯性导航关键）、微型光原子钟（集成单光子探测器与波导光传输）
 
-### 量子传感芯片化进展 / Chip-Scale Progress
-
-- [Sandia Labs - 量子传感芯片化专利矩阵 (2025)](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia已获批量子传感相关专利：引导原子干涉仪大动态范围高灵敏度测量协议(US12392611B1,2025)、悬空波导膜结构光原子陷阱集成平台(US11914188B1,2024)；正在申请：单电荷/自旋控制耦合电子电路；代表美国国家实验室量子传感微型化/芯片化的系统布局
-
-- [Sandia Labs - 量子赋能电场传感/成像 + 非侵入式功能脑成像系统](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia关键能力覆盖：量子赋能电场传感/成像（无与伦比的电场灵敏度与可视化）、超灵敏重力场及梯度测量、非侵入式功能脑成像系统（使用Sandia专利量子传感器）、量子重力与惯性传感器（下一代惯性导航关键）、微型光原子钟（集成单光子探测器与波导光传输）
-
 - [Pulsed vector atomic magnetometer - Nature Communications 2025 (35 fT/√Hz)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计，梯度计模式下总场梯度灵敏度达35 fT/√Hz，地磁场中角分辨率达6 nrad/√Hz；矢量灵敏度接近标量灵敏度，为高精度矢量磁场测量提供新方案
 
 ### 量子光子计算 / Photonic Quantum Computing
@@ -222,4 +214,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Q-ANT Native Photonic Computing第二代光子处理器)*
+*最后更新: 2026-05-09 (本次新增：Quantum Motion 1.6亿美元C轮融资(2026-05-07)/Monarch Quantum+Oratomic战略合作(2026-04-28))*

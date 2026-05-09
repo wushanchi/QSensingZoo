@@ -24,5 +24,6 @@
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
 ---
-*最后更新: 2026-05-09 (本次新增：Delft Vydar GPS-free无人机导航(2026-05)/SandboxAQ AQNav商用量子AI导航系统/Q-CTRL量子计算材料发现3000倍加速(2026-05)*
+
+*最后更新: 2026-05-09 (本次新增：Quantum Motion 1.6亿美元C轮融资(2026-05-07)/PTB量子纠缠原子钟突破(Physical Review Letters, 2026-02)/UncutGem V2活跃更新)*
 
