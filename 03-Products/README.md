@@ -14,7 +14,9 @@
 
 - [Quantum.Tech World 2026 - 量子/AI/HPC融合全球峰会 (2026-06-25~26, 波士顿)](https://www.quantumtechcongress.com/) - 聚焦"Quantum, AI & HPC: Redefining What's Possible"，1000+参会者/150+演讲嘉宾/40+国家，量子传感与导航是核心议题之一；同期可关注Optica Quantum 2.0 (6月15-18日, 格拉斯哥)
 
-- [Q-Expo 2026 - 欧盟量子技术博览会 (2026-05-18~19)](https://qt.eu/) - EU Quantum Flagship主办，Q-Expo 2026聚焦量子技术从研究到产业转化，量子传感与计量是四大支柱之一；量子计算顾问委员会于2026年4月28日成立，推动欧洲量子生态加速成熟
+- [Q-Expo 2026 - 欧盟量子技术博览会 (2026-05-18~19)](https://qt.eu/) - EU Quantum Flagship主办，Q-Expo 2026聚焦量子技术从研究到产业转化，量子传感与计量是四大支柱之一；量子计算顾问委员会于2026年4月28日成立，推动欧洲量子生态加速成熟；5月18-19日在欧洲召开，展示量子传感从实验室到工业规模的最新进展
+
+- [量子传感产业动态 / Industry Updates
 
 ### 主要公司
 
@@ -92,7 +94,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Bristol University量产光子芯片量子极限传感Nature Photonics 2025)*
+*最后更新: 2026-05-09 (本次新增：Bristol University量产光子芯片量子极限传感Nature Photonics 2025/Q-CTRL量子计算材料发现3000倍加速(2026-05-07)/Q-Expo 2026欧盟量子技术博览会)*
 
 ### 量子磁力计公司 / Diamond Magnetometer Companies
 

@@ -19,9 +19,9 @@
 <!-- 请在下方按类别添加资料链接 -->
 ### 芯片化与微型化 / Chip-Scale & Miniaturization
 
-- [QuantumVillage/UncutGem V2 - 全球首个全栈开源NV色心磁力计，DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年 DEF CON 33发布；硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档完整开源；采用COTS器件，微波源用ADF4350/1，ESP32主控，整机构建成本约£115；设计原则：平台化、COTS最大化、软件定义传感、简化装配；被称为量子技术的"Apple II时刻"，让任何人能在家里安全操作量子传感设备
+- [QuantumVillage/UncutGem V2 - 全球首个全栈开源NV色心磁力计,DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台,V2版本于2025年 DEF CON 33发布;硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档完整开源;采用COTS器件,微波源用ADF4350/1,ESP32主控,整机构建成本约£115;设计原则:平台化、COTS最大化、软件定义传感、简化装配;被称为量子技术的"Apple II时刻",让任何人能在家里安全操作量子传感设备
 
-- [Laser-written micro-channel atomic magnetometer (arXiv:2404.14345, 2024)](https://arxiv.org/abs/2404.14345) - 利用飞秒激光刻蚀+化学蚀刻在熔融 silica 中制作亚毫米沟道，埋深<1mm，内含Rb蒸汽和0.75 amg N₂缓冲气体，传感体积2.25 mm³，零场共振方案实现~1 pT/√Hz@10Hz灵敏度，可与光子结构和微流控通道3D集成；为芯片级碱金属原子磁力计的低成本微型化提供新路径
+- [Laser-written micro-channel atomic magnetometer (arXiv:2404.14345, 2024)](https://arxiv.org/abs/2404.14345) - 利用飞秒激光刻蚀+化学蚀刻在熔融 silica 中制作亚毫米沟道,埋深<1mm,内含Rb蒸汽和0.75 amg N2缓冲气体,传感体积2.25 mm3,零场共振方案实现~1 pT/√Hz@10Hz灵敏度,可与光子结构和微流控通道3D集成;为芯片级碱金属原子磁力计的低成本微型化提供新路径
 
 ### 核心器件 / Core Devices
 
@@ -34,8 +34,8 @@
 
 ### 系统设计与实现
 
-- [Microscale Fiber-Integrated Vector Magnetometer with On-Tip Field Biasing (arXiv:2404.14089, 2024)](https://arxiv.org/abs/2404.14089) - 微米级光纤集成矢量磁力计，尖端集成微型线圈产生局部偏置磁场，片上微型化方案显著减少传统笨重的3D Helmholtz线圈配置；便携灵活可远距/内窥探测
-- [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计，同时测量总磁场及其相对旋转平面的两个极角；梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7)，50µT地磁场中角分辨率达6 nrad/√Hz；提出峰值改变调制技术消除动态航向误差等系统效应；矢量灵敏度接近标量灵敏度，为高精度矢量磁场测量提供新方案
+- [Microscale Fiber-Integrated Vector Magnetometer with On-Tip Field Biasing (arXiv:2404.14089, 2024)](https://arxiv.org/abs/2404.14089) - 微米级光纤集成矢量磁力计,尖端集成微型线圈产生局部偏置磁场,片上微型化方案显著减少传统笨重的3D Helmholtz线圈配置;便携灵活可远距/内窥探测
+- [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计,同时测量总磁场及其相对旋转平面的两个极角;梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7),50μT地磁场中角分辨率达6 nrad/√Hz;提出峰值改变调制技术消除动态航向误差等系统效应;矢量灵敏度接近标量灵敏度,为高精度矢量磁场测量提供新方案
 
 ### 学术研究 / Research
 
@@ -68,13 +68,15 @@
 
 ### 量子传感与AI融合 / Quantum Sensing + AI
 
-- [机器学习+量子钻石磁力计实时追踪磁性目标 (arXiv:2502.14683, 2025)](https://arxiv.org/abs/2502.14683) - 利用机器学习(无需物理模型)结合量子钻石磁力计实时追踪磁性目标位置，演示地下基础设施测绘、地面运输监测；为量子传感+AI融合应用提供新范式
+- [Q-CTRL量子计算材料发现速度提升3000倍 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_86369fc767b43452) - 2026年5月宣布利用IBM量子平台在材料科学问题上实现3000倍加速，首次展示实用量子优势；性能管理软件将仿真时间从100多小时缩短至仅两分钟；量子传感与量子计算底层技术融合的里程碑式应用
 
-- [Q-CTRL量子算法交通优化性能提升20倍 (2026)](https://www.163.com/dy/article/HAS3OU7L0538K1OZ.html) - Q-CTRL与澳大利亚CSIRO团队利用Fire Opal软件将交通优化量子算法性能提高20倍以上；展示量子传感/量子计算底层技术在交通物流优化领域的实用价值
+- [机器学习+量子钻石磁力计实时追踪磁性目标 (arXiv:2502.14683, 2025)](https://arxiv.org/abs/2502.14683) - 利用机器学习（无需物理模型）结合量子钻石磁力计实时追踪磁性目标位置，演示地下基础设施测绘、地面运输监测；为量子传感+AI融合应用提供新范式
 
-- [SandboxAQ AQNav - 全球首款商用量子+AI导航系统 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日发布，整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航，覆盖空中/陆地/海上全场景；已在美国空军多型飞机上完成飞行测试；抗干扰、全天候、地形无关；估值超50亿美元；代表量子传感在导航领域首个大规模商用里程碑
+- [Q-CTRL量子算法交通优化性能提升20倍 (2026)](https://www.163.com/dy/article/HAS3OU7L0538K1OZ.html) - Q-CTRL与澳大利亚CSIRO团队利用Fire Opal软件将交通优化量子算法性能提高20倍以上;展示量子传感/量子计算底层技术在交通物流优化领域的实用价值
 
-- [量子传感国防应用路线图：NSA三大支柱，2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱；量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向；量子传感器市场预测2029年达25亿美元，2033年达32亿美元
+- [SandboxAQ AQNav - 全球首款商用量子+AI导航系统 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日发布,整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成飞行测试;抗干扰、全天候、地形无关;估值超50亿美元;代表量子传感在导航领域首个大规模商用里程碑
+
+- [量子传感国防应用路线图:NSA三大支柱,2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱;量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向;量子传感器市场预测2029年达25亿美元,2033年达32亿美元
 
 ### 分布式量子传感网络 / Distributed Quantum Sensor Networks
 
@@ -132,7 +134,7 @@
 
 ### 生物医学传感 / Biomedical Sensing
 
-- [Biomagnetik Park - 量子心磁图(MCG)+AI心血管诊断 (Charité Berlin 2026)](https://www.biomagnetik.com/) - 德国初创公司基于最灵敏量子传感器(金刚石NV色心)开发无创心磁图，结合AI实现心血管疾病精准诊断；Charité Berlin 2021-2024临床研究证明，基于Park-Brachmann评分，Vector MCG排除心肌炎特异性达95.0%（传统方法难以企及）；量子传感在心脏病早期诊断与无创筛查领域展现变革性潜力
+- [Biomagnetik Park - 量子心磁图(MCG)+AI心血管诊断 (Charité Berlin 2026)](https://www.biomagnetik.com/) - 德国初创公司基于最灵敏量子传感器(金刚石NV色心)开发无创心磁图,结合AI实现心血管疾病精准诊断;Charité Berlin 2021-2024临床研究证明,基于Park-Brachmann评分,Vector MCG排除心肌炎特异性达95.0%(传统方法难以企及);量子传感在心脏病早期诊断与无创筛查领域展现变革性潜力
 
 ### 量子传感新兴应用 / Emerging Applications
 
@@ -150,7 +152,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：NV色心ASIC芯片低功耗低成本方案(斯图加特+NVision)/PROMISE欧洲NV色心预产业化(2025-02)/量子陀螺仪频率纠缠HOM干涉理论(物理学报2025)/太赫兹量子传感器CES2026首款300米全天候)*
+*最后更新: 2026-05-09 (本次新增:NV色心ASIC芯片低功耗低成本方案(斯图加特+NVision)/PROMISE欧洲NV色心预产业化(2025-02)/量子陀螺仪频率纠缠HOM干涉理论(物理学报2025)/太赫兹量子传感器CES2026首款300米全天候)*
 
 ### 学术研究 / Research
 
@@ -174,15 +176,15 @@
 
 - [Sandia Labs Atom Interferometry - GPS-free Navigation Sensor (2025)](https://www.sandia.gov/quantum/atom-interferometry/) - 美国桑迪亚国家实验室研发紧凑型原子干涉仪传感器头,采用光栅磁光阱(GMOT)技术实现冷原子囚禁,目标实现无卫星导航;量子惯性传感与重力辅助导航结合,减少GPS依赖
 
-- [Chip-scale integrated optical gyroscope based on multi-mode co-detection (Photonics Research 2025)](https://read.cnki.net/web/Journal/Article/GZXJ202502008.html) - 浙江大学/上海交大/密歇根大学联合提出芯片级集成光学陀螺仪多模协同探测技术，突破传统陀螺仪微型化瓶颈；代表量子传感与集成光子技术融合的工程化突破
+- [Chip-scale integrated optical gyroscope based on multi-mode co-detection (Photonics Research 2025)](https://read.cnki.net/web/Journal/Article/GZXJ202502008.html) - 浙江大学/上海交大/密歇根大学联合提出芯片级集成光学陀螺仪多模协同探测技术,突破传统陀螺仪微型化瓶颈;代表量子传感与集成光子技术融合的工程化突破
 
 ### 量子传感工程实现 / Engineering Implementation
 
-- [硅基光电子原子干涉仪 - 量子指南针里程碑 (Science Advances, LatitudeDa 2026)](https://www.latitudeda.com/document/753) - 首次使用硅基光电子微芯片组件执行原子干涉仪量子传感技术，是开发"量子指南针"迈出的重要一步；传统原子干涉仪系统占据一个小房间的空间，硅基光电子集成使其微型化成为可能，为芯片级量子导航奠定基础
+- [硅基光电子原子干涉仪 - 量子指南针里程碑 (Science Advances, LatitudeDa 2026)](https://www.latitudeda.com/document/753) - 首次使用硅基光电子微芯片组件执行原子干涉仪量子传感技术,是开发"量子指南针"迈出的重要一步;传统原子干涉仪系统占据一个小房间的空间,硅基光电子集成使其微型化成为可能,为芯片级量子导航奠定基础
 
-- [Bristol University - 量产光子芯片实现量子极限传感 (Nature Photonics 2025)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) - 英国布里斯托尔大学团队在商业代工厂量产光子芯片微环谐振器，首次在量子极限运行；可增强温室气体监测和癌症检测灵敏度；为量子传感产业化开辟光电子集成新路径
+- [Bristol University - 量产光子芯片实现量子极限传感 (Nature Photonics 2025)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) - 英国布里斯托尔大学团队在商业代工厂量产光子芯片微环谐振器,首次在量子极限运行;可增强温室气体监测和癌症检测灵敏度;为量子传感产业化开辟光电子集成新路径
 
-- [中国科大构建城际量子传感网络 - 核自旋量子精密测量突破 (Nature 2026)](https://www.nature.com/articles/s41586-025-10034-w) - 中科大等团队构建国际首个基于核自旋的城际量子传感网络,分布于合肥-杭州5台核自旋量子传感器,跨度320公里,利用卫星同步实现分布式量子传感;首次在实验上突破轴子暗物质天体物理观测极限;误报率降低约三个数量级,能量分辨率较基于碱金属传感器的GNOME提升约4个量级;团队结合核自旋量子放大技术,将信号放大至少100倍,旋转灵敏度约10⁻⁶ rad
+- [中国科大构建城际量子传感网络 - 核自旋量子精密测量突破 (Nature 2026)](https://www.nature.com/articles/s41586-025-10034-w) - 中科大等团队构建国际首个基于核自旋的城际量子传感网络,分布于合肥-杭州5台核自旋量子传感器,跨度320公里,利用卫星同步实现分布式量子传感;首次在实验上突破轴子暗物质天体物理观测极限;误报率降低约三个数量级,能量分辨率较基于碱金属传感器的GNOME提升约4个量级;团队结合核自旋量子放大技术,将信号放大至少100倍,旋转灵敏度约10-6 rad
 
 - [NV色心ASIC芯片实现低功耗微型化 (2025)](https://www.sohu.com/a/864294113_121798711) - 德国斯图加特大学+NVision团队,采用ASIC芯片集成微波电子(QPLL芯片+四通道功率发射器),有源面积仅π×180×180μm2,直流/交流磁场检测限分别达32nT/√Hz和300pT/√Hz,频率调谐范围22%,实现NV磁力计的芯片级低功耗低成本方案
 - [极端压力量子传感器 - Nature Communications 2025 (超过3万倍大气压稳定工作)](https://so.html5.qq.com/page/real/search_news?docid=70000021_34768cb600555252) - 华盛顿大学团队利用中子辐射氮化硼产生的带电空位对实现量子传感,首个在超过大气压3万倍极端高压环境中稳定运行的量子传感器,可用于探索物质在极端状态下的量子效应
@@ -222,4 +224,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：UncutGem V2 GitHub活跃更新/英国45M英镑量子传感投资/原子磁力计综述Laser & Optoelectronics 2025)*
+*最后更新: 2026-05-09 (本次新增：UncutGem V2 GitHub活跃更新/英国45M英镑量子传感投资/原子磁力计综述Laser & Optoelectronics 2025/Q-CTRL材料发现3000倍加速(2026-05-07))*

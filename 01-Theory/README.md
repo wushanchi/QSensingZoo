@@ -80,6 +80,8 @@
 
 ### 新兴传感机制 / Novel Sensing Mechanisms
 
+- [Quantum sensing of time dependent electromagnetic fields with single electron excitations (arXiv:2405.05796, 2024)](https://arxiv.org/abs/2405.05796) - 研究利用电子Mach-Zehnder干涉仪在亚纳秒时间尺度探测电磁场量子态，单电子激发作为敏感媒介，为芯片级量子电磁传感提供新路径；突破传统光学读出的时间分辨率极限
+
 - [Microwave-free imaging magnetometry with NV centers in nanodiamonds at near-zero field (arXiv:2409.02199, 2024)](https://arxiv.org/abs/2409.02199) - 微波自由NV成像磁力计，利用零场交叉驰豫特征，无需微波即可实现宽视场成像，在环境条件下灵敏度达4.5 µT/√Hz；为生物样品或薄导电样品的非侵入式磁场成像提供新方案
 
 ### 六方氮化硼量子传感 / hBN Quantum Sensing
@@ -134,7 +136,7 @@
 
 - [中国计量院锶原子光晶格钟NIM-Sr1正式校准国际标准时间 (2026)](https://news.mydrivers.com/tag/yuanzizhong.htm) - 2026年2月中国计量院研制的锶原子光晶格钟NIM-Sr1正式获准校准国际标准时间，实现我国光钟参与校准国际标准时间"零"的突破；核心突破在于将单个锶离子冷却至5K(-268.15°C)极低温环境运行，精度达数十亿年误差不超过一秒
 
-*最后更新: 2026-05-09 (本次新增：arXiv:2404.14345激光刻蚀微通道原子磁力计/μ子反常磁矩Science2025十大突破/arXiv:2503.14793时变信号量子磁力计/arXiv:2503.02140化学分辨NMR/arXiv:2504.20750 NV矢量磁力精度极限)*
+*最后更新: 2026-05-09 (本次新增：arXiv:2404.14345激光刻蚀微通道原子磁力计/μ子反常磁矩Science2025十大突破/arXiv:2503.14793时变信号量子磁力计/arXiv:2503.02140化学分辨NMR/arXiv:2504.20750 NV矢量磁力精度极限/arXiv:2405.05796单电子EM场量子传感)*
 
 ### NV色心前沿 / NV Center Frontiers
 
