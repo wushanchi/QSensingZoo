@@ -92,7 +92,8 @@
 
 ### 量子磁力计公司 / Diamond Magnetometer Companies
 
-- [AOSense - 量子原子光学传感器公司 (NASA合作伙伴)](https://www.aosense.com/) - 美国加州量子传感公司，专注于超冷原子束技术与量子重力仪；参与NASA量子重力梯度仪 Pathfinder (QGGPf) 项目，负责传感器头部技术；与NASA JPL、Infleqtion、Vector Atomic共同推动首个太空量子重力传感器验证任务
+- [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计 DEF CON 33发布 (2025)](https://github.com/QuantumVillage/UncutGem) - V2版本于2025年DEF CON 33发布，完整硬件/固件/science文档开源，极低成本可构建量子传感实验平台；全球首个全栈开源量子传感平台；2026年5月GitHub仍有活跃更新，反映开源社区对量子传感持续投入
+- [Bosch Quantum Sensing - 博世+元素六金刚石量子传感 (2025)](https://www.bosch-quantumsensing.com/) - 博世与元素六合资公司，2025年7月成立，总部德国路德维希堡；聚焦芯片级金刚石量子传感器，推动低成本可扩展应用；博世估计医疗与移动领域全球市场潜力达mid-single billion欧元；2026年5月网站更新活跃 - 美国加州量子传感公司，专注于超冷原子束技术与量子重力仪；参与NASA量子重力梯度仪 Pathfinder (QGGPf) 项目，负责传感器头部技术；与NASA JPL、Infleqtion、Vector Atomic共同推动首个太空量子重力传感器验证任务
 - [SBQuantum - 量子钻石磁力计导航与探测 (2026)](https://new.qq.com/rain/a/20260114A05PSZ00) - 加拿大初创公司，与加拿大国防部及欧洲航天局有超过1500万美元研发合同；2026年4月完成400万美元种子轮融资(Quantonation/Quantacet/魁北克投资局领投)，新任CEO Eric Giroux；成立美国子公司Zero Drift Technologies(马萨诸塞州剑桥)，专注服务美国政府及国防主承包商；量子磁力计用于矿业勘探、航天国防、安全安检与GPS拒止环境导航
 - [attocube attoNVM - 低温NV色心扫描磁强计 (2026)](https://new.qq.com/rain/a/20260122A024JB00) - 德国attocube公司研发，2K~300K温度区间工作，纳米级分辨率杂散磁场测量，专用于低温量子材料与超导器件成像
 - [Quantum Motion 全球首台硅基CMOS量子计算机 (2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_04668cac86c52052) - 英国量子计算初创公司，2025年9月向托莱多大学物理系交付全球首台硅基CMOS量子计算机；2026年5月完成1.6亿美元C轮融资(DCVC/Kembara领投)，创英国量子公司最大单笔VC融资纪录；2025年已在英国国家量子计算中心部署，并进入DARPA量子基准测试B阶段；与GlobalFoundries深化硅基半导体制造合作；硅量子点技术路线与量子传感高度协同，传感器件与量子计算共享硅基制造工艺

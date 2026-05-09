@@ -25,4 +25,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：量子传感国防应用路线图/NSA三大支柱2029年25亿美元市场/英国皇家海军舰艇量子传感测试/Q-Singapore 2026论坛/CMOS集成NV量子传感器Nature Electronics/心磁图arXiv:2405.02376)*
+*最后更新: 2026-05-09 (本次新增：Quantum control and Berry phase悬浮金刚石量子陀螺仪 Nature Communications 2024/Chip-scale optical gyroscope Photonics Research 2025/QuantumVillage/UncutGem V2开源项目2026年5月持续活跃/Bosch Quantum Sensing网站2026年5月更新)*
