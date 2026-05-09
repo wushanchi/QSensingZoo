@@ -2,7 +2,13 @@
 
 本目录收录量子传感产业链相关信息，包括主流量子传感公司介绍、商用产品型号、核心技术参数等。
 
-## 主要公司
+### 量子传感产业动态 / Industry Updates
+
+- [Quantum.Tech World 2026 - 量子/AI/HPC融合全球峰会 (2026-06-25~26, 波士顿)](https://www.quantumtechcongress.com/) - 聚焦"Quantum, AI & HPC: Redefining What's Possible"，1000+参会者/150+演讲嘉宾/40+国家，量子传感与导航是核心议题之一；同期可关注Optica Quantum 2.0 (6月15-18日, 格拉斯哥)
+
+- [Q-Expo 2026 - 欧盟量子技术博览会 (2026-05-18~19)](https://qt.eu/) - EU Quantum Flagship主办，Q-Expo 2026聚焦量子技术从研究到产业转化，量子传感与计量是四大支柱之一；量子计算顾问委员会于2026年4月28日成立，推动欧洲量子生态加速成熟
+
+### 主要公司
 
 - **Infleqtion** — 量子传感与量子计算技术公司
 - **Q-CTRL** — 量子控制系统解决方案提供商
@@ -11,6 +17,7 @@
 - **IonQ** — 离子阱量子技术
 - **Quantinuum** — 量子计算与传感综合平台
 - **Vector Atomic** — 原子惯性传感与量子重力仪
+- **Bosch Quantum Sensing** — 博世+元素六金刚石量子传感合资公司 (2025)
 
 ## 分类说明
 
@@ -73,7 +80,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Quanvia西班牙NV量子生物传感/Quantum.Tech World 2026波士顿峰会/IEEE量子国防军事应用论文(2026-05-06))*
+*最后更新: 2026-05-09 (本次新增：Quantum.Tech World 2026波士顿峰会/Q-Expo 2026欧盟量子技术博览会/Bosch Quantum Sensing)*
 
 ### 量子磁力计公司 / Diamond Magnetometer Companies
 
