@@ -2,9 +2,9 @@
 
 本目录收录量子传感产业链相关信息，包括主流量子传感公司介绍、商用产品型号、核心技术参数等。
 
-### 量子传感产业动态 / Industry Updates
+### 原子钟前沿 / Atomic Clock Frontiers
 
-- [英国政府45M英镑量子传感投资 - 脑成像扫描仪与导航系统 (Gov UK 2026)](https://www.gov.uk/government/news/unlocking-the-potential-of-quantum-45-million-investment-to-drive-breakthroughs-in-brain-scanners-navigation-systems-and-quantum-computing) - 英国政府投资4500万英镑推动量子传感在脑成像扫描仪(癫痫/痴呆诊断)和导航系统领域的应用；资金支持Cerca Magnetics(诺丁汉大学衍生公司)等量子传感企业开发可穿戴式量子脑成像扫描仪；量子传感在医疗与交通领域的产业化加速
+- [核时钟组装进入倒计时，人类计时精度迎来量级跃升 (Nature/APS 2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_22569c511ff74452) - 2026年3月美国物理学会全球物理峰会发布核时钟最新进展：清华大学团队利用镉蒸汽四波混频实现148.4nm连续波VUV激光器，线宽<100Hz，功率>100nW；叶军团队与IPG Photonics合作采用四硼酸锶晶体方案有望商业化；钍-229固体方案(氟化钙晶体嵌入)正优化跃迁线宽；核时钟较光学原子钟更紧凑、抗干扰，有望成为地球上最精确计时仪器；是量子传感精密计时的下一代范式转移 - 英国政府投资4500万英镑推动量子传感在脑成像扫描仪(癫痫/痴呆诊断)和导航系统领域的应用；资金支持Cerca Magnetics(诺丁汉大学衍生公司)等量子传感企业开发可穿戴式量子脑成像扫描仪；量子传感在医疗与交通领域的产业化加速
 
 - [Quantum Singapore 2026论坛 - 量子汇聚：从硬件突破到工业应用 (2026-02-04, 新加坡)](https://new.qq.com/rain/a/20260207A067DT00) - ICV TA&K/FinQ Tech/Informa Markets联合主办，IEEE Photonics Society学术支持；主题"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"；1000+参会者/150+演讲嘉宾/40+国家；量子传感与导航是核心议题之一；反映东南亚在全球量子产业布局中的战略地位提升
 
@@ -99,7 +99,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Bristol University量产光子芯片量子极限传感Nature Photonics 2025/Q-CTRL量子计算材料发现3000倍加速(2026-05-07)/Q-Expo 2026欧盟量子技术博览会)*
+*最后更新: 2026-05-09 (本次新增：核时钟组装进入倒计时(APS/Nature 2026)/UncutGem V2 GitHub活跃更新(2026-05-09))*
 
 ### 量子磁力计公司 / Diamond Magnetometer Companies
 
