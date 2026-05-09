@@ -25,4 +25,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增: EU Quantum Flagship量子计算顾问委员会/ISC 2026/Quantum Science INFIQ量子点/Sandia量子传感芯片专利/Q-ANT光子计算)*
+*最后更新: 2026-05-09 (本次新增：Quantum.Tech World 2026/Q-Expo 2026欧盟量子博览会/SandboxAQ AQNav全球首款商用量子AI导航系统)*
