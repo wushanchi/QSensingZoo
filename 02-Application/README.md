@@ -28,7 +28,8 @@
 
 ### 系统设计与实现
 
-- [Microscale Fiber-Integrated Vector Magnetometer with On-Tip Field Biasing (arXiv:2404.14089, 2024)](https://arxiv.org/abs/2404.14089) - 微米级光纤集成矢量磁力计,尖端集成微型线圈产生局部偏置磁场,片上微型化方案显著减少传统笨重的3D Helmholtz线圈配置;便携灵活可远距/内窥探测
+- [Microscale Fiber-Integrated Vector Magnetometer with On-Tip Field Biasing (arXiv:2404.14089, 2024)](https://arxiv.org/abs/2404.14089) - 微米级光纤集成矢量磁力计，尖端集成微型线圈产生局部偏置磁场，片上微型化方案显著减少传统笨重的3D Helmholtz线圈配置；便携灵活可远距/内窥探测
+- [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计，同时测量总磁场及其相对旋转平面的两个极角；梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7)，50µT地磁场中角分辨率达6 nrad/√Hz；提出峰值改变调制技术消除动态航向误差等系统效应；矢量灵敏度接近标量灵敏度，为高精度矢量磁场测量提供新方案
 
 ### 学术研究 / Research
 
@@ -133,7 +134,7 @@
 
 ### 新型原子矢量磁力计 / Novel Vector Atomic Magnetometry
 
-- [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计，同时测量总磁场及其相对旋转平面的两个极角；梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7)，50µT地磁场中角分辨率达6 nrad/√Hz；提出峰值改变调制技术消除动态航向误差等系统效应；矢量灵敏度接近标量灵敏度，为高精度矢量磁场测量提供新方案
+- [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计,同时测量总磁场及其相对旋转平面的两个极角;梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7),50μT地磁场中角分辨率达6 nrad/√Hz;提出峰值改变调制技术消除动态航向误差等系统效应;矢量灵敏度接近标量灵敏度,为高精度矢量磁场测量提供新方案
 
 ---
 
@@ -171,11 +172,11 @@
 
 ### 量子传感产业分析 / Industry Analysis
 
-- [量子传感：工业感知的下一次跨越 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_08569a8149706452) - 深度长文解析量子传感产业发展：全球市场规模2025年18.8亿美元、2035年将达50.7亿美元(年均复合增长率10.42%)；阐述量子叠加态/纠缠态/相干性三大物理机制驱动的传感器家族；量子传感正在跨越实验室与工业应用的"死亡之谷"，是量子技术商业化最快速的分支
+- [量子传感:工业感知的下一次跨越 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_08569a8149706452) - 深度长文解析量子传感产业发展:全球市场规模2025年18.8亿美元、2035年将达50.7亿美元(年均复合增长率10.42%);阐述量子叠加态/纠缠态/相干性三大物理机制驱动的传感器家族;量子传感正在跨越实验室与工业应用的"死亡之谷",是量子技术商业化最快速的分支
 
 ### 其他量子传感公司 / Other Companies
 
-- [QuantX Labs - 澳大利亚量子传感与精密计时 (2026)](https://quantxlabs.com/) - 澳大利亚阿德莱德大学衍生企业，专注量子传感与精密计时技术，量子传感方向涵盖地下资产追踪、空间威胁探测、水下威胁探测、重力与磁场地球物理勘探；量子计时产品用于GNSS降级/拒止环境下的弹性备选PNT sovereign太空计时网络；与澳大利亚国防与太空项目深度合作；代表大洋洲量子传感产业的战略布局
+- [QuantX Labs - 澳大利亚量子传感与精密计时 (2026)](https://quantxlabs.com/) - 澳大利亚阿德莱德大学衍生企业,专注量子传感与精密计时技术,量子传感方向涵盖地下资产追踪、空间威胁探测、水下威胁探测、重力与磁场地球物理勘探;量子计时产品用于GNSS降级/拒止环境下的弹性备选PNT sovereign太空计时网络;与澳大利亚国防与太空项目深度合作;代表大洋洲量子传感产业的战略布局
 
 ### 学术会议与产业峰会 / Conferences & Summits
 

@@ -221,6 +221,9 @@
 ### 量子导航与惯性传感 / Quantum Navigation & Inertial Sensing
 
 - [A Short Introduction to Basic Principles of Quantum Navigation Based-on Rb Cold Atom Interferometry (arXiv:2405.14910, 2024)](https://arxiv.org/abs/2405.14910) - 基于铷冷原子干涉仪的量子导航入门综述，阐述如何利用原子能级对外部变化的固有敏感性实现无卫星自校准导航系统；适用于惯性导航传感器与量子陀螺仪基础研究
+- [硅基光电子原子干涉仪 - 量子指南针里程碑 (Science Advances, LatitudeDa 2026)](https://www.latitudeda.com/document/753) - 首次使用硅基光电子微芯片组件执行原子干涉仪量子传感技术，是开发"量子指南针"迈出的重要一步，目标实现无GPS精准导航；传统原子干涉仪系统占据一个小房间的空间，硅基光电子集成使其微型化成为可能
+- [量子导航技术在英国铁路取得重大突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) - 2026年3月量子惯性导航系统(RQINS)在全球范围内首次完成铁路实车测试，搭载于英国GTR运营列车在伦敦至韦林花园市线路运行；项目由MoniRail牵头，联合帝国理工学院/萨塞克斯大学/QinetiQ等战略联盟推进，获英国创新署与DSIT支持；量子传感为GPS拒止环境提供更低成本、更可靠、更抗干扰的定位方案
+- [城际量子传感网络 - 国际首个核自旋城际网络 (Nature 2026)](https://www.nature.com/articles/s41586-025-10034-w) - 中国科学技术大学等团队构建国际首个基于核自旋的城际量子传感网络（合肥—杭州，跨度320公里，5台核自旋量子传感器），利用卫星同步实现分布式量子传感；结合核自旋量子放大技术将信号放大100倍，旋转灵敏度达约10⁻⁶ rad，首次实验突破轴子拓扑缺陷暗物质天体物理观测极限；误报率降低约三个数量级，能量分辨率较GNOME提升约4个数量级
 
 ### 量子传感产业分析 / Industry Analysis
 
