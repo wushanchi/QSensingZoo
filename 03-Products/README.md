@@ -4,6 +4,8 @@
 
 ### 量子传感产业动态 / Industry Updates
 
+- [英国政府45M英镑量子传感投资 - 脑成像扫描仪与导航系统 (Gov UK 2026)](https://www.gov.uk/government/news/unlocking-the-potential-of-quantum-45-million-investment-to-drive-breakthroughs-in-brain-scanners-navigation-systems-and-quantum-computing) - 英国政府投资4500万英镑推动量子传感在脑成像扫描仪(癫痫/痴呆诊断)和导航系统领域的应用；资金支持Cerca Magnetics(诺丁汉大学衍生公司)等量子传感企业开发可穿戴式量子脑成像扫描仪；量子传感在医疗与交通领域的产业化加速
+
 - [Quantum Singapore 2026论坛 - 量子汇聚：从硬件突破到工业应用 (2026-02-04, 新加坡)](https://new.qq.com/rain/a/20260207A067DT00) - ICV TA&K/FinQ Tech/Informa Markets联合主办，IEEE Photonics Society学术支持；主题"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"；1000+参会者/150+演讲嘉宾/40+国家；量子传感与导航是核心议题之一；反映东南亚在全球量子产业布局中的战略地位提升
 
 - [量子传感国防应用路线图：NSA三大支柱，2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱；量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向；量子传感器市场预测2029年达25亿美元，2033年达32亿美元；量子传感在国防领域的战略价值持续凸显
@@ -214,4 +216,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Quantum Motion 1.6亿美元C轮融资(2026-05-07)/Monarch Quantum+Oratomic战略合作(2026-04-28))*
+*最后更新: 2026-05-09 (本次新增：英国政府45M英镑量子传感投资(脑成像+导航)/Quantum Motion 1.6亿美元C轮融资/Monarch Quantum+Oratomic战略合作)*

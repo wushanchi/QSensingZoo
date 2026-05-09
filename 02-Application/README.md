@@ -220,4 +220,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：极端压力量子传感器Nature Communications 2025/合肥工大NV色心量子控制进展2026)*
+*最后更新: 2026-05-09 (本次新增：UncutGem V2 GitHub活跃更新/英国45M英镑量子传感投资/原子磁力计综述Laser & Optoelectronics 2025)*

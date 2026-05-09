@@ -29,6 +29,8 @@
 
 ### 综述与教程
 
+- [Research Progress and Development Trend of Atomic Magnetometers (Laser & Optoelectronics Progress Vol. 62, Issue 7, 0700006, 2025)](https://www.researching.cn/articles/OJe7529d2d8c647c8d) - 原子磁力计研究进展与发展趋势综述，涵盖SERF原子磁力计、NV色心磁力计、量子增强方案等前沿进展；是了解原子磁力计技术全貌的重要参考文献
+
 <!-- 添加格式: - [资料名称](URL) - 简短摘要 -->
 
 ---
@@ -280,7 +282,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Q-CTRL入选TIME 2026行业领袖100强/多参数量子估计arXiv2605.04136)*
+*最后更新: 2026-05-09 (本次新增：原子磁力计研究进展综述Laser & Optoelectronics Progress 2025/UncutGem V2 GitHub活跃更新2026-05-09/英国45M英镑量子传感投资)*
 
 ### 量子磁传感 / Quantum Magnetometry*
 

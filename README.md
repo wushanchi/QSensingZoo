@@ -24,6 +24,4 @@
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
 ---
-
-*最后更新: 2026-05-09 (本次新增：极端压力量子传感器Nature Communications 2025/合肥工大NV色心量子控制进展2026)*
-
+*最后更新: 2026-05-09 (本次新增：QuantumVillage/UncutGem V2 GitHub活跃更新(2026-05-09)/原子磁力计研究进展综述Laser & Optoelectronics Progress 2025/英国45M英镑量子传感投资(脑成像+导航)；延续：极端压力量子传感器Nature Communications 2025/合肥工大NV色心量子控制进展2026)*
