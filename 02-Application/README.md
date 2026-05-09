@@ -62,13 +62,15 @@
 
 ---
 
-### 量子传感国防应用 / Defense Applications
+### 量子传感与AI融合 / Quantum Sensing + AI
 
-- [SRI International量子传感:便携式原子传感器 + 实时心磁图 (DARPA FORWARD演示)](https://www.sri.com/atsd/quantum/sri-is-developing-breakthrough-quantum-technologies-for-ultrasensitive-sensing/) - SRI International研发便携式原子传感器,在DARPA FORWARD项目中实现实时心磁图(MCG)测量;量子传感器可探测心跳产生的微弱磁场信号,灵敏度比传统传感器高千倍;量子传感在导航、定位、医学成像等领域商业化潜力显著
-- [五角大楼将量子技术提升为战场核心优先事项 (The Quantum Insider, 2025-11)](https://thequantuminsider.com/2025/11/18/pentagon-elevates-quantum-tech-to-core-of-future-battlefield-strategy/) - 美国国防部将量子技术提升为未来战场的核心优先事项,新"量子与战场信息优势"类别聚焦抗干扰通信与导航系统;美国国防部研究与工程副部长Michael表示"战争不会等到明天,今天就需要成果";量子传感器与量子通信被定位为在卫星或射频网络受攻击时维持安全通信与精确导航的关键工具
-- [量子传感国防应用路线图:NSA三大支柱,2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱;量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向
-- [Q-CTRL获DARPA 2440万美元RoQS合同 (2025)](https://new.qq.com/rain/a/20250828A07QF600) - 美国国防部高级研究计划局(DARPA)授予Q-CTRL"稳健量子传感器(RoQS)"计划合同,将量子传感技术应用于高性能军用车辆在严苛军事环境中的可靠导航
-- [量子传感在军事场景的机遇与挑战 (IEEE ICPACS 2026, 2026-05-06)](https://ieeexplore.ieee.org/document/10253492/) - IEEE发表量子传感军事场景应用综述,分析量子信息技术对未来军事作战环境的变革性影响,涵盖量子惯性导航、量子磁力计、量子成像等核心方向及其在真实战场环境中的部署挑战;量子传感正从理论探索走向军事场景实战化验证
+- [机器学习+量子钻石磁力计实时追踪磁性目标 (arXiv:2502.14683, 2025)](https://arxiv.org/abs/2502.14683) - 利用机器学习(无需物理模型)结合量子钻石磁力计实时追踪磁性目标位置，演示地下基础设施测绘、地面运输监测；为量子传感+AI融合应用提供新范式
+
+- [Q-CTRL量子算法交通优化性能提升20倍 (2026)](https://www.163.com/dy/article/HAS3OU7L0538K1OZ.html) - Q-CTRL与澳大利亚CSIRO团队利用Fire Opal软件将交通优化量子算法性能提高20倍以上；展示量子传感/量子计算底层技术在交通物流优化领域的实用价值
+
+- [SandboxAQ AQNav - 全球首款商用量子+AI导航系统 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日发布，整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航，覆盖空中/陆地/海上全场景；已在美国空军多型飞机上完成飞行测试；抗干扰、全天候、地形无关；估值超50亿美元；代表量子传感在导航领域首个大规模商用里程碑
+
+- [量子传感国防应用路线图：NSA三大支柱，2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱；量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向；量子传感器市场预测2029年达25亿美元，2033年达32亿美元
 
 ### 分布式量子传感网络 / Distributed Quantum Sensor Networks
 
@@ -203,4 +205,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增:IEEE量子传感军事场景综述(ICPACS 2026-05-06)/Quantum.Tech World 2026波士顿量子AI HPC峰会(6月25-26日))*
+*最后更新: 2026-05-09 (本次新增：Quantum Sensing + AI板块/SandboxAQ AQNav商用量子AI导航系统/Q-CTRL量子算法交通优化)*
