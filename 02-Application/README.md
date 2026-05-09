@@ -17,6 +17,10 @@
 ## 资料索引
 
 <!-- 请在下方按类别添加资料链接 -->
+### 芯片化与微型化 / Chip-Scale & Miniaturization
+
+- [Laser-written micro-channel atomic magnetometer (arXiv:2404.14345, 2024)](https://arxiv.org/abs/2404.14345) - 利用飞秒激光刻蚀+化学蚀刻在熔融 silica 中制作亚毫米沟道，埋深<1mm，内含Rb蒸汽和0.75 amg N₂缓冲气体，传感体积2.25 mm³，零场共振方案实现~1 pT/√Hz@10Hz灵敏度，可与光子结构和微流控通道3D集成；为芯片级碱金属原子磁力计的低成本微型化提供新路径
+
 ### 核心器件 / Core Devices
 
 - [Solid-State Microwave Magnetometer with Picotesla-Level Sensitivity (2023)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.054093) - 基于NV色心集合的微波磁力计实现3.4pT/√Hz灵敏度,为芯片级磁场检测提供新方案
@@ -140,7 +144,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增: Nature Communications脉冲矢量原子磁力计(2025)/SandboxAQ AQNav全球首款商用量子AI导航系统)*
+*最后更新: 2026-05-09 (本次新增: arXiv:2404.14345激光刻蚀微通道原子磁力计/Nature Communications脉冲矢量原子磁力计(2025)/SandboxAQ AQNav全球首款商用量子AI导航系统)*
 
 ### 学术研究 / Research
 
