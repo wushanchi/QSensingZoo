@@ -25,5 +25,5 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Quantum Motion 1.6亿美元C轮融资(2026-05-07)/PTB量子纠缠原子钟突破(Physical Review Letters, 2026-02)/Monarch Quantum+Oratomic战略合作(2026-04-28))*
+*最后更新: 2026-05-09 (本次新增：极端压力量子传感器Nature Communications 2025/合肥工大NV色心量子控制进展2026)*
 
