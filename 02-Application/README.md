@@ -130,9 +130,13 @@
 
 - [宽带射频电场量子传感 - 频率范围扩大800倍 (Nature Physics 2025)](https://www.nature.com/articles/s41567-024-02753-0) - 基于囚禁离子运动Raman跃迁实现宽带射频电场传感,超越标准量子极限3.4(2.0)dB,可用于暗物质搜索与高频量子比特控制
 
+### 新型原子矢量磁力计 / Novel Vector Atomic Magnetometry
+
+- [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计，同时测量总磁场及其相对旋转平面的两个极角；梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7)，50µT地磁场中角分辨率达6 nrad/√Hz；提出峰值改变调制技术消除动态航向误差等系统效应；矢量灵敏度接近标量灵敏度，为高精度矢量磁场测量提供新方案
+
 ---
 
-*最后更新: 2026-05-09 (本次新增:SandboxAQ AQNav全球首款商用量子AI导航系统/Siemens Sensus Quantum/硅基光电子量子指南针/Fraunhofer IAF量子传感虚拟应用实验室/NV色心ASIC微型化)*
+*最后更新: 2026-05-09 (本次新增: Nature Communications脉冲矢量原子磁力计(2025)/SandboxAQ AQNav全球首款商用量子AI导航系统)*
 
 ### 学术研究 / Research
 
