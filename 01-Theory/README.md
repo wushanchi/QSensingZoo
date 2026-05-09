@@ -290,3 +290,7 @@
 
 - [Tracking time-varying signals with quantum-enhanced atomic magnetometers (arXiv:2503.14793, 2025)](https://arxiv.org/abs/2503.14793) - 量子纠缠（自旋压缩）增强原子磁力计对时变信号的追踪能力，利用估计控制技术实现快速变化磁场的实时跟踪，在心磁图信号演示中获得量子优势；单次相干时间内完成噪声背景下瞬态信号追踪，为量子磁力计在生物医学信号检测中的应用提供新范式
 - [Chemically resolved NMR spectroscopy by longitudinal magnetization detection with diamond magnetometer (arXiv:2503.02140, 2025)](https://arxiv.org/abs/2503.02140) - 利用NV色心实现化学分辨核磁共振波谱，在0.32T磁场下达到~350 ppb分数光谱分辨率，可在~1nL检测体积内解析乙醇化学位移结构，为纳米级化学分析提供无感应磁力计新方案
+
+### 低频里德堡原子电场传感 / Low-Frequency Rydberg E-Field Sensing
+
+- [Low-frequency vector electrometry with Rydberg dipolar chain (Frontiers of Optoelectronics 2026)](https://www.sciencedaily.com/releases/2026/04/260416071956.htm) - 新加坡南洋理工大学利用里德堡原子链集体响应测量低频电场，提出三种互补测量技术获取电场强度与方向信息，突破传统蒸汽室EIT多原子Doppler展宽限制，实现微米级空间分辨率与可溯源校准，为紧凑型可编程量子电场传感器开辟新途径
