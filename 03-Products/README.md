@@ -60,6 +60,7 @@
 - [FieldLine HEDscan - 商用可穿戴OPM脑磁图系统 (2026)](https://fieldlineinc.com/) - 美国FieldLine公司推出全球首批商用可穿戴光泵磁力计(OPM)脑磁图系统，量子传感探头直接贴附头部记录神经活动，最高512传感器探头，支持运动中检测，无需液氦低温屏蔽或昂贵屏蔽室改造；代表非低温量子传感在神经成像领域正式进入商用阶段
 - [EuQlid Quantum - Q-Cat金刚石量子显微镜 (IEEE Spectrum 2025)](https://spectrum.ieee.org/quantum-sensors-2671182149) - Q-Cat子公司EuQlid开发量子金刚石显微镜，用于半导体行业磁场成像：微米级分辨率、宽视场、非侵入式，可无需X射线查看封装内部结构；目标市场：航天、油气、精密制造；CEO Amanda Stein；代表量子传感在半导体检测领域的产业化落地
 - [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计 DEF CON 33发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年 DEF CON 33发布；硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档完整开源；采用COTS器件，微波源用ADF4350/1，ESP32主控，整机构建成本约£115；设计原则：探索平台化、COTS最大化、软件定义传感、简化装配；为量子传感技术的普及与'Apple II时刻'奠定开源基础
+- [UncutGem V2 GitHub活跃更新 — 全开源NV色心磁力计持续迭代 (2026-05-09)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源NV色心钻石磁力计项目，2026年5月9日最新commit，98 Commits持续维护更新；包含完整硬件/固件/3D文件/MaxMSP/Jupyter工具链；反映开源社区对量子传感 democratization 的持续投入
 - [Monarch Quantum + Oratomic 战略合作:光子系统×中性原子架构 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_95769f1e58162352) - 2026年4月达成战略合作，整合光子系统与中性原子架构，目标本十年末交付数万个物理量子比特、编码数千个错误更正逻辑量子比特的容错量子计算机；代表量子传感底层硬件的原子系综技术与集成光子技术加速融合
 
 - [太赫兹量子传感器 - 全球首款300米探测全天候视觉 (CES 2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_106695dcba909952) - 全球首款太赫兹量子传感器，固态数字相控阵，探测距离300米，原生分辨率0.13度，支持L3-L5级自动驾驶；可在昼夜、雨雪、雾等全天候条件下稳定工作；量子传感向汽车主动安全领域延伸的重要里程碑
@@ -199,7 +200,7 @@
 
 ### 量子传感芯片化进展 / Chip-Scale Progress
 
-- [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计，DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年DEF CON 33发布，完整硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档开源；微波源ADF4350/1+ESP32主控，整机成本约£115；被称为量子技术"Apple II时刻"；2026年5月GitHub仍有活跃更新，反映开源社区持续投入
+- [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计，DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年DEF CON 33发布，完整硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档开源；微波源ADF4350/1+ESP32主控，整机成本约£115；被称为量子技术"Apple II时刻"；2026年5月9日GitHub仍有最新commit，持续活跃更新
 
 - [Sandia Labs - 量子传感芯片化专利矩阵 (2025)](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia已获批量子传感相关专利：引导原子干涉仪大动态范围高灵敏度测量协议(US12392611B1,2025)、悬空波导膜结构光原子陷阱集成平台(US11914188B1,2024)；正在申请：单电荷/自旋控制耦合电子电路；代表美国国家实验室量子传感微型化/芯片化的系统布局
 
