@@ -64,6 +64,7 @@
 ### 量子传感国防应用 / Defense Applications
 
 - [SRI International量子传感:便携式原子传感器 + 实时心磁图 (DARPA FORWARD演示)](https://www.sri.com/atsd/quantum/sri-is-developing-breakthrough-quantum-technologies-for-ultrasensitive-sensing/) - SRI International研发便携式原子传感器,在DARPA FORWARD项目中实现实时心磁图(MCG)测量;量子传感器可探测心跳产生的微弱磁场信号,灵敏度比传统传感器高千倍;量子传感在导航、定位、医学成像等领域商业化潜力显著
+- [五角大楼将量子技术提升为战场核心优先事项 (The Quantum Insider, 2025-11)](https://thequantuminsider.com/2025/11/18/pentagon-elevates-quantum-tech-to-core-of-future-battlefield-strategy/) - 美国国防部将量子技术提升为未来战场的核心优先事项,新"量子与战场信息优势"类别聚焦抗干扰通信与导航系统;美国国防部研究与工程副部长Michael表示"战争不会等到明天,今天就需要成果";量子传感器与量子通信被定位为在卫星或射频网络受攻击时维持安全通信与精确导航的关键工具
 - [量子传感国防应用路线图:NSA三大支柱,2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱;量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向
 - [Q-CTRL获DARPA 2440万美元RoQS合同 (2025)](https://new.qq.com/rain/a/20250828A07QF600) - 美国国防部高级研究计划局(DARPA)授予Q-CTRL"稳健量子传感器(RoQS)"计划合同,将量子传感技术应用于高性能军用车辆在严苛军事环境中的可靠导航
 - [量子传感在军事场景的机遇与挑战 (IEEE ICPACS 2026, 2026-05-06)](https://ieeexplore.ieee.org/document/10253492/) - IEEE发表量子传感军事场景应用综述,分析量子信息技术对未来军事作战环境的变革性影响,涵盖量子惯性导航、量子磁力计、量子成像等核心方向及其在真实战场环境中的部署挑战;量子传感正从理论探索走向军事场景实战化验证
@@ -178,6 +179,7 @@
 
 ### 学术会议与产业峰会 / Conferences & Summits
 
+- [Optica Quantum 2.0 Conference and Exhibition (2026-06-15~18, 格拉斯哥)](https://www.optica.org/events/topical_meetings/quantum) - Optica主办,量子2.0前沿会议,覆盖量子计算/通信/器件/传感与计量;会议主席包括Stony Brook/ICFO/IBM Research Zurich/FAU Erlangen-Nürnberg/University of Oregon等机构代表;量子传感与计量是核心议题之一;Quantum.Tech World 2026 (2026-06-25~26, 波士顿)同期召开
 - [Quantum Singapore 2026论坛 - 量子汇聚:从硬件突破到工业应用 (2026)](https://new.qq.com/rain/a/20260207A067DT00) - 2026年2月4日新加坡滨海湾金沙会展中心开幕,ICV TA&K/FinQ Tech/Informa Markets联合主办,IEEE Photonics Society学术支持;主题聚焦量子传感从硬件突破到工业应用的产业化路径;反映东南亚在全球量子产业布局中的战略地位提升
 
 ### 分布式量子传感 / Distributed Quantum Sensing
