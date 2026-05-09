@@ -199,6 +199,8 @@
 
 ### 量子传感芯片化进展 / Chip-Scale Progress
 
+- [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计，DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年DEF CON 33发布，完整硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档开源；微波源ADF4350/1+ESP32主控，整机成本约£115；被称为量子技术"Apple II时刻"；2026年5月GitHub仍有活跃更新，反映开源社区持续投入
+
 - [Sandia Labs - 量子传感芯片化专利矩阵 (2025)](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia已获批量子传感相关专利：引导原子干涉仪大动态范围高灵敏度测量协议(US12392611B1,2025)、悬空波导膜结构光原子陷阱集成平台(US11914188B1,2024)；正在申请：单电荷/自旋控制耦合电子电路；代表美国国家实验室量子传感微型化/芯片化的系统布局
 
 - [Sandia Labs - 量子赋能电场传感/成像 + 非侵入式功能脑成像系统](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia关键能力覆盖：量子赋能电场传感/成像（无与伦比的电场灵敏度与可视化）、超灵敏重力场及梯度测量、非侵入式功能脑成像系统（使用Sandia专利量子传感器）、量子重力与惯性传感器（下一代惯性导航关键）、微型光原子钟（集成单光子探测器与波导光传输）
