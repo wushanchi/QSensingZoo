@@ -143,6 +143,8 @@
 
 - [Nature Sensors 2026年正式创刊 - 全球传感共同体新平台 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_39069cca2fd62052) - Nature系列全新期刊将于2026年1月正式上线;2026年4月创刊论坛(延世大学/成均馆大学/汉阳大学),推动量子传感与全球传感研究网络深度融合
 
+- [热光源聚束光子LIDAR - 远距离无探测激光隐蔽传感 (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-67830-1) - 利用热光源光子聚束效应替代传统调制光源进行测距,通过二阶相干函数测量距离,实现完全无调制光源的隐蔽LIDAR;电信波段高亮光子源,探测距离超出散粒噪声极限;为量子传感在生物医学成像与空间探测中的隐蔽探测提供新范式
+
 ### 高时间分辨率传感 / High Time Resolution Sensing
 
 - [Low-frequency vector electrometry with Rydberg dipolar chain (Frontiers of Optoelectronics 2026)](https://www.sciencedaily.com/releases/2026/04/260416071956.htm) - 新加坡南洋理工大学团队利用里德堡原子链集体响应测量低频电场,提出三种互补测量技术(传播动力学/Ramsey谱/频率域传输谱)获取电场强度与方向信息;突破传统蒸汽室EIT光谱术多原子Doppler展宽限制,实现微米级空间分辨率与可溯源校准,为紧凑型可编程量子电场传感器开辟新途径
@@ -227,4 +229,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增:UncutGem V2 GitHub活跃更新/英国45M英镑量子传感投资/原子磁力计综述Laser & Optoelectronics 2025/Q-CTRL材料发现3000倍加速(2026-05-07)/量子磁力计基础设施检测arXiv:2605.04136)*
+*最后更新: 2026-05-09 (本次新增:UncutGem V2 GitHub活跃更新/英国45M英镑量子传感投资/原子磁力计综述Laser & Optoelectronics 2025/Q-CTRL材料发现3000倍加速(2026-05-07)/量子磁力计基础设施检测arXiv:2605.04136/热光源聚束光子LIDAR Nature Communications 2025)*
