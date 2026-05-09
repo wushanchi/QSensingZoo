@@ -52,6 +52,10 @@
 
 ### 新增商用产品 / New Commercial Products
 
+- [SandboxAQ AQNav - 全球首款商用量子+AI导航系统 (SandboxAQ, 2026-05-02)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 整合地球地壳磁场与AI算法实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成超过200飞行小时/40架次飞行测试验证,从单发动机到大型军用运输机均有效;抗干扰、全天候、地形无关;估值超50亿美元,获谷歌/英伟达投资;代表量子传感在导航领域首个大规模商用里程碑
+
+- [Delft Vydar - GPS-free无人机导航获美国 funding (代尔夫特理工, 2026-05)](https://www.bits-chips.nl/) - 代尔夫特理工大学衍生公司Vydar于2026年5月获美国资金支持,开发无GPS无人机导航技术;结合量子传感与AI实现复杂电磁环境下的可靠自主导航;代表量子传感在无人系统定位领域加速商业化
+
 - [Bristol University - 量产光子芯片实现量子极限传感 (Nature Photonics 2025)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) - 英国布里斯托尔大学团队在商业代工厂量产光子芯片微环谐振器，首次在量子极限运行；可增强温室气体监测和癌症检测灵敏度；为量子传感大规模商用化开辟光电子集成新路径；与代工厂合作实现批量生产，是量子传感产业化的重要里程碑
 
 - [瑞士Qnami - ProteusQ系列扫描NV显微镜 (2026)](https://qnami.ch/) - 瑞士量子传感领军企业，专注金刚石量子芯片纳米制造与系统集成；ProteusQ-LT扩展1.8K~300K低温柔量传感；主要客户包括MPI Dresden、CNRS-Thales、Tsinghua University；新品发布反映NV扫描显微技术向低温工况扩展的行业趋势
@@ -221,4 +225,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：太赫兹量子传感器CES2026首款300米全天候/英国量子导航铁路实车测试(2026-03)/国盾量子传感器外观专利授权(2026-05-05)/西北大学商用代工厂电子-光子量子芯片Nature 2025)*
+*最后更新: 2026-05-09 (本次新增：SandboxAQ AQNav全球首款商用量子AI导航系统(2026-05-02)/Delft Vydar GPS-free无人机导航(2026-05)/Bristol University量产光子芯片量子极限传感Nature Photonics 2025)*
