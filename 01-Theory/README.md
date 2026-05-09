@@ -33,9 +33,15 @@
 
 ---
 
+### 量子传感芯片化里程碑 / Chip-Scale Milestones
+
+- [CMOS-integrated quantum sensor based on NV centers (Nature Electronics, 2019)](https://www.nature.com/articles/s41928-019-0275-5) - 金刚石NV色心量子传感器与CMOS技术集成，演示量子磁力计灵敏度32.1 µT/√Hz与同步测温，有源面积仅200µm×200µm；为芯片级量子传感系统奠定工艺基础，代表量子传感从分立仪器向单芯片化演进的关键里程碑
+
 ### 量子传感医疗应用 / Medical Applications
 
 - [Siemens Sensus Quantum - 量子传感器实现胎儿脑缺氧毫秒级预警 (2025)](https://www.toutiao.com/w/1827883145188356/) - 西门子Sensus Quantum系统捕捉脑血氧量子涨落，缺氧事件检测灵敏度99.3%，使紧急剖宫产决策时间缩短至3.2分钟；代表量子传感在产科急危重症精准监测中的临床突破
+
+- [Non-invasive magnetocardiography of living rat based on diamond quantum sensor (arXiv:2405.02376, 2024)](https://arxiv.org/html/2405.02376v1) - 基于NV色心量子传感器实现活体大鼠非侵入式心磁图检测，量子传感技术与生物医学检测结合，为心血管疾病无创诊断提供新路径
 
 - [量子磁场传感在心血管/神经疾病检测 (2024)](https://www.163.com/dy/article/JAS0871705340BZM.html) - 未磁科技量子磁场传感器精准检测心脏电活动产生的微弱磁场，实现心肌缺血早期诊断；量子磁力计灵敏度达地球磁场的十亿分之一，无需液氦超导屏蔽即可在普通医疗环境中工作
 
