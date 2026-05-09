@@ -98,6 +98,7 @@
 
 ### NV色心前沿 / NV Center Frontiers
 
+- [Bottom-up fabrication of scalable room-temperature diamond quantum computing and sensing technologies (Materials Quantum Technology 2025, IOPscience)](https://iopscience.iop.org/article/10.1088/2633-4356/adf0ef) - 2025年IOPscience综述论文，系统梳理NV色心从基础物理到可扩展集成的关键挑战与路线图；涵盖多NV中心集成、金刚石材料生长、晶圆级制造等核心议题；代表NV色心量子技术从实验室向可扩展实用系统演进的重要里程碑
 - [PRX Quantum 2026 - 多参数量子估计：NV电子-核自旋纠缠同步估计多参数 (MIT/东京大学/港中大)](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852) - 利用电子-核自旋纠缠及优化贝尔态测量方案，在单次测量序列中同步估计微波驱动场幅值、失谐量与相位，所有参数灵敏度随探测时间呈线性标度；量子多参数估计领域的里程碑工作
 - [低温NV色心扫描磁强计 attoNVM - 1.8K实现3 µT/√Hz灵敏度 (attocube, 2026)](https://new.qq.com/rain/a/20260122A024JB00) - 德国attocube公司研发，2K~300K温度区间工作，纳米级分辨率杂散磁场测量，专用于低温量子材料与超导器件成像；可进行限额免费测试，反映NV扫描显微技术向低温工况扩展的行业趋势
 - [Princeton Quantum Initiative - NV色心探测二维自旋bath (2026)](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) - 普林斯顿大学NV传感器对金刚石表面二维自旋bath进行量子成像研究，探索量子传感与量子材料交叉前沿；反映北美顶级学术机构对NV色心平台持续深耕
