@@ -25,4 +25,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：QuantX Labs澳大利亚量子传感与精密计时公司)*
+*最后更新: 2026-05-09 (本次新增: EU Quantum Flagship量子计算顾问委员会/ISC 2026/Quantum Science INFIQ量子点/Sandia量子传感芯片专利/Q-ANT光子计算)*
