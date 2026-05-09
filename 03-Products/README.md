@@ -29,6 +29,8 @@
 <!-- 请在下方按类别添加资料链接 -->
 ### 量子传感生物标志物检测 / Quantum Biomarker Sensing
 
+- [Quanvia - 西班牙NV钻石量子生物传感 (2026)](https://www.quanvia.com/) - 西班牙量子传感生物医疗诊断公司，基于金刚石NV色心实现超灵敏疾病检测与监测；核心技术：NV色心量子磁力计(高灵敏度读出)、机器学习信号增强与模式识别；应用场景：疾病早期检测、医生诊断辅助、个性化医疗(预测患者对特定治疗的反应)；已获NEOTEC 2024第二名、Start-up Biqain、Sello PYME innovadora、Emprende XXI Caixa finalist等荣誉；代表欧洲量子传感生物医疗商业化新兴力量
+
 - [QDTI - 哈佛大学NV钻石量子生物标志物检测 (2026)](https://www.qdti.com/) - 基于金刚石NV色心实现超灵敏生物标志物检测平台，样本量仅需≤5µL，检测限<1 pg/mL，分析灵敏度达亚皮克级，1小时内完成检测；源自哈佛大学研究成果，量子传感技术在体外诊断与药物研发领域商业化落地
 
 ### 新增商用产品 / New Commercial Products
@@ -68,7 +70,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：UncutGem开源NV磁力计/attocube低温NV磁强计/多参数量子估计/Cerca Magnetics A轮融资/SBQuantum新任CEO)*
+*最后更新: 2026-05-09 (本次新增：Quanvia西班牙NV量子生物传感/Quantum.Tech World 2026波士顿峰会/IEEE量子国防军事应用论文(2026-05-06))*
 
 ### 量子磁力计公司 / Diamond Magnetometer Companies
 

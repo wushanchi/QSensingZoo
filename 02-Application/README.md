@@ -66,6 +66,7 @@
 - [SRI International量子传感:便携式原子传感器 + 实时心磁图 (DARPA FORWARD演示)](https://www.sri.com/atsd/quantum/sri-is-developing-breakthrough-quantum-technologies-for-ultrasensitive-sensing/) - SRI International研发便携式原子传感器,在DARPA FORWARD项目中实现实时心磁图(MCG)测量;量子传感器可探测心跳产生的微弱磁场信号,灵敏度比传统传感器高千倍;量子传感在导航、定位、医学成像等领域商业化潜力显著
 - [量子传感国防应用路线图:NSA三大支柱,2029年25亿美元市场 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_89669beb1a1ac452) - 量子传感与量子计算、量子通信并列构成NSA量子技术三大支柱;量子惯性导航、量子磁力计、量子陀螺仪是国防应用三大方向
 - [Q-CTRL获DARPA 2440万美元RoQS合同 (2025)](https://new.qq.com/rain/a/20250828A07QF600) - 美国国防部高级研究计划局(DARPA)授予Q-CTRL"稳健量子传感器(RoQS)"计划合同,将量子传感技术应用于高性能军用车辆在严苛军事环境中的可靠导航
+- [量子传感在军事场景的机遇与挑战 (IEEE ICPACS 2026, 2026-05-06)](https://ieeexplore.ieee.org/document/10253492/) - IEEE发表量子传感军事场景应用综述,分析量子信息技术对未来军事作战环境的变革性影响,涵盖量子惯性导航、量子磁力计、量子成像等核心方向及其在真实战场环境中的部署挑战;量子传感正从理论探索走向军事场景实战化验证
 
 ### 分布式量子传感网络 / Distributed Quantum Sensor Networks
 
@@ -193,4 +194,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增:Q-CTRL量子计算材料发现3000倍加速(2026-05-07)/Quantum Design完成收购牛津仪器纳米科学部(2026-01-02))*
+*最后更新: 2026-05-09 (本次新增:IEEE量子传感军事场景综述(ICPACS 2026-05-06)/Quantum.Tech World 2026波士顿量子AI HPC峰会(6月25-26日))*
