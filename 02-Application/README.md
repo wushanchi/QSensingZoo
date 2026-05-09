@@ -48,10 +48,8 @@
 
 ### 传感技术突破 / Sensing Breakthroughs
 
-- [Low-temperature NV scanning magnetic microscope with 3 μT/√Hz sensitivity (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_54769717fc807152) - 1.8K低温NV色心扫描磁学显微镜,实现3 μT/√Hz灵敏度,达到纳米尺度定量磁场成像;德国attocube公司attoNVM产品,2K~300K温度区间工作,专用于低温量子材料与超导器件成像
-- [Quantum magnetometry of transient signals with 1.1 ns time resolution (arXiv:2411.05542)](https://arxiv.org/abs/2411.05542) - 基于单NV色心室温磁力计,实现1.1纳秒时间分辨率与450 MHz瞬时带宽,突破量子磁传感器的动态响应极限
-- [NV色心ASIC芯片实现低功耗微型化 (2025)](https://www.sohu.com/a/864294113_121798711) - 德国斯图加特大学+NVision团队,采用ASIC芯片集成微波电子(QPLL芯片+四通道功率发射器),有源面积仅π×180×180μm2,直流/交流磁场检测限分别达32nT/√Hz和300pT/√Hz,频率调谐范围22%,实现NV磁力计的芯片级低功耗低成本方案
 - [Bristol University - 量产光子芯片实现量子极限传感 (Nature Photonics 2025)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) - 英国布里斯托尔大学团队在商业代工厂量产光子芯片微环谐振器,首次在量子极限运行;可增强温室气体监测和癌症检测灵敏度;为量子传感产业化开辟光电子集成新路径
+- [Quantum magnetometry of transient signals with 1.1 ns time resolution (arXiv:2411.05542)](https://arxiv.org/abs/2411.05542) - 基于单NV色心室温磁力计,实现1.1纳秒时间分辨率与450 MHz瞬时带宽,突破量子磁传感器的动态响应极限
 
 ### 量子多参数估计 / Multiparameter Estimation
 
@@ -219,4 +217,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Quantum Sensing + AI板块/SandboxAQ AQNav商用量子AI导航系统/Q-CTRL量子算法交通优化)*
+*最后更新: 2026-05-09 (本次新增：Quantum Sensing + AI板块/SandboxAQ AQNav商用量子AI导航系统/Q-CTRL量子算法交通优化/Bristol University量产光子芯片量子极限传感Nature Photonics 2025)*
