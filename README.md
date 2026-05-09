@@ -25,4 +25,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Quantum.Tech World 2026/Q-Expo 2026欧盟量子博览会/SandboxAQ AQNav全球首款商用量子AI导航系统)*
+*最后更新: 2026-05-09 (本次新增：量子传感国防应用路线图/NSA三大支柱2029年25亿美元市场/英国皇家海军舰艇量子传感测试/Q-Singapore 2026论坛/CMOS集成NV量子传感器Nature Electronics/心磁图arXiv:2405.02376)*
