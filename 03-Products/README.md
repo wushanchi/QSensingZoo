@@ -36,6 +36,8 @@
 ### 新增商用产品 / New Commercial Products
 
 - [瑞士Qnami - ProteusQ系列扫描NV显微镜 (2026)](https://qnami.ch/) - 瑞士量子传感领军企业，专注金刚石量子芯片纳米制造与系统集成；ProteusQ-LT扩展1.8K~300K低温柔量传感；主要客户包括MPI Dresden、CNRS-Thales、Tsinghua University；新品发布反映NV扫描显微技术向低温工况扩展的行业趋势
+- [Quanvia - 西班牙NV钻石量子生物传感 (2026)](https://www.quanvia.com/) - 西班牙量子传感生物医疗诊断公司，基于金刚石NV色心实现超灵敏疾病检测与监测；核心技术：NV色心量子磁力计(高灵敏度读出)、机器学习信号增强与模式识别；应用场景：疾病早期检测、医生诊断辅助、个性化医疗(预测患者对特定治疗的反应)；已获NEOTEC 2024第二名、Start-up Biqain、Sello PYME innovadora、Emprende XXI Caixa finalist等荣誉；代表欧洲量子传感生物医疗商业化新兴力量
+
 - [FieldLine HEDscan - 商用可穿戴OPM脑磁图系统 (2026)](https://fieldlineinc.com/) - 美国FieldLine公司推出全球首批商用可穿戴光泵磁力计(OPM)脑磁图系统，量子传感探头直接贴附头部记录神经活动，最高512传感器探头，支持运动中检测，无需液氦低温屏蔽或昂贵屏蔽室改造；代表非低温量子传感在神经成像领域正式进入商用阶段
 - [EuQlid Quantum - Q-Cat金刚石量子显微镜 (IEEE Spectrum 2025)](https://spectrum.ieee.org/quantum-sensors-2671182149) - Q-Cat子公司EuQlid开发量子金刚石显微镜，用于半导体行业磁场成像：微米级分辨率、宽视场、非侵入式，可无需X射线查看封装内部结构；目标市场：航天、油气、精密制造；CEO Amanda Stein；代表量子传感在半导体检测领域的产业化落地
 - [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计 DEF CON 33发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年 DEF CON 33发布；硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档完整开源；采用COTS器件，微波源用ADF4350/1，ESP32主控，整机构建成本约£115；设计原则：探索平台化、COTS最大化、软件定义传感、简化装配；为量子传感技术的普及与'Apple II时刻'奠定开源基础
