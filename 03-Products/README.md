@@ -151,6 +151,7 @@
 ### 量子导航 / Quantum Navigation
 
 - [量子导航技术在英国铁路取得重大突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) - 2026年3月量子导航系统搭载英国GTR列车在伦敦至韦林花园市线路实地测试，采集真实运营数据验证GPS拒止环境高精度定位方案
+- [Delft Vydar - GPS-free无人机导航获美国 funding (2026)](https://www.bits-chips.nl/) - 代尔夫特理工大学衍生公司Vydar于2026年5月获美国资金支持，开发无GPS无人机导航技术；结合量子传感与AI实现复杂电磁环境下的可靠自主导航；代表量子传感在无人系统定位领域加速商业化
 - [Q-CTRL量子导航系统入选《时代》2025年最佳发明 (2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_18068e8e80b24152) - Q-CTRL软件加固型量子导航系统入选《时代》周刊"2025年最佳发明"榜单，量子传感领域首个获此殊荣的商用产品
 
 ### 量子传感新兴市场 / Sensing × Emerging Markets
