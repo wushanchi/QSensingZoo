@@ -19,6 +19,8 @@
 <!-- 请在下方按类别添加资料链接 -->
 ### 芯片化与微型化 / Chip-Scale & Miniaturization
 
+- [QuantumVillage/UncutGem V2 - 全球首个全栈开源NV色心磁力计，DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年 DEF CON 33发布；硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档完整开源；采用COTS器件，微波源用ADF4350/1，ESP32主控，整机构建成本约£115；设计原则：平台化、COTS最大化、软件定义传感、简化装配；被称为量子技术的"Apple II时刻"，让任何人能在家里安全操作量子传感设备
+
 - [Laser-written micro-channel atomic magnetometer (arXiv:2404.14345, 2024)](https://arxiv.org/abs/2404.14345) - 利用飞秒激光刻蚀+化学蚀刻在熔融 silica 中制作亚毫米沟道，埋深<1mm，内含Rb蒸汽和0.75 amg N₂缓冲气体，传感体积2.25 mm³，零场共振方案实现~1 pT/√Hz@10Hz灵敏度，可与光子结构和微流控通道3D集成；为芯片级碱金属原子磁力计的低成本微型化提供新路径
 
 ### 核心器件 / Core Devices
