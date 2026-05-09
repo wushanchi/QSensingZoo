@@ -202,6 +202,8 @@
 
 - [QuantumVillage/UncutGem V2 - 全开源NV色心磁力计，DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台，V2版本于2025年DEF CON 33发布，完整硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档开源；微波源ADF4350/1+ESP32主控，整机成本约£115；被称为量子技术"Apple II时刻"；2026年5月9日GitHub仍有最新commit，持续活跃更新
 
+- [Northwestern University - 全球首款商用代工厂电子-光子量子芯片 (Nature, 2025)](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) - 美国西北大学联合波士顿大学/加州大学伯克利分校，在商业半导体代工厂首次实现电子-光子量子芯片集成制造；将量子光源与经典控制电子单片集成于硅芯片，代表量子传感信号链路关键组件规模化制造的重要突破
+
 - [Sandia Labs - 量子传感芯片化专利矩阵 (2025)](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia已获批量子传感相关专利：引导原子干涉仪大动态范围高灵敏度测量协议(US12392611B1,2025)、悬空波导膜结构光原子陷阱集成平台(US11914188B1,2024)；正在申请：单电荷/自旋控制耦合电子电路；代表美国国家实验室量子传感微型化/芯片化的系统布局
 
 - [Sandia Labs - 量子赋能电场传感/成像 + 非侵入式功能脑成像系统](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia关键能力覆盖：量子赋能电场传感/成像（无与伦比的电场灵敏度与可视化）、超灵敏重力场及梯度测量、非侵入式功能脑成像系统（使用Sandia专利量子传感器）、量子重力与惯性传感器（下一代惯性导航关键）、微型光原子钟（集成单光子探测器与波导光传输）
@@ -219,4 +221,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：太赫兹量子传感器CES2026首款300米全天候/英国量子导航铁路实车测试(2026-03)/国盾量子传感器外观专利授权(2026-05-05))*
+*最后更新: 2026-05-09 (本次新增：太赫兹量子传感器CES2026首款300米全天候/英国量子导航铁路实车测试(2026-03)/国盾量子传感器外观专利授权(2026-05-05)/西北大学商用代工厂电子-光子量子芯片Nature 2025)*
