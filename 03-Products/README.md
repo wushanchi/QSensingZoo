@@ -77,6 +77,7 @@
 
 - [Muclock 激光冷却原子钟 - Route des Lasers (2026)](http://www.guangbozhilu.com/index.php?c=content&a=show&id=97&siteid=2) - 全球首款基于激光冷却原子的商用原子钟，兼具优异短期与长期稳定性，可溯源至SI秒定义，提供频率与时间标准双输出；相较传统Maser+Cs钟组合具有更紧凑的结构与更低维护需求；适用于时间分发、网络同步与授时网络建设
 - [Infleqtion Tiqker Quantum Optical Clock](https://www.infleqtion.com/) - 全球首款量子增强精密授时解决方案，与赛峰电子White Rabbit/SecureSync系统整合，定位关键任务系统时间同步；2026年2月通过SPAC合并登陆纽交所(NYSE:INFQ)，市值24亿美元
+- [Infleqtion 量子精密授时 + 赛峰电子/防务战略合作 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_68069ce675711852) - 2026年4月1日Infleqtion联合赛峰电子与防务公司(Safran Electronics & Defense)，推出首款量子增强精密授时解决方案；Tiqker量子光钟与赛峰White Rabbit及SecureSync系统完成整合并通过验证，面向全球国防、电信及关键基础设施领域客户开放
 - [Q-CTRL Boulder Opal & Fire Opal](https://q-ctrl.com/) - AI驱动的量子控制基础设施软件，支持量子传感与量子计算双赛道，Boulder Opal面向R&D，Fire Opal面向算法开发者；Q-CTRL实现全球首个GPS-free量子导航量子优势
 - [Q-CTRL 量子计算材料发现速度提升3000倍 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_86369fc767b43452) - 2026年5月宣布利用IBM量子平台在材料科学问题上实现3000倍加速，首次展示实用量子优势；性能管理软件将仿真时间从100多小时缩短至仅两分钟
 - [Qnami ProteusQ-LT 低温NV扫描显微镜 (2026)](https://qnami.ch/) - 瑞士量子传感公司Qnami新品，ProteusQ-LT扩展低温柔量传感研究，支持1.8K~300K宽温度范围；ProteusQ系列扫描NV显微镜实现纳米级磁场成像，主要客户包括MPI Dresden、CNRS-Thales、Tsinghua University等全球顶级研究机构
@@ -138,7 +139,10 @@
 
 ### 量子计算与传感融合 / Computing + Sensing
 
+- [Infleqtion + NVIDIA AI量子纠错突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_14069e0c1d295752) - 2026年4月14日Infleqtion将人工智能加速的量子纠错技术成功应用于中性原子逻辑量子比特，通过泄漏感知型仿真模型与NVIDIA Ising开源模型结合，大幅提升中性原子体系量子纠错效率与准确率；是量子传感与量子计算技术深度融合的里程碑
+- [Infleqtion + NVIDIA 首个逻辑量子比特材料科学应用演示 (2026)](https://new.qq.com/rain/a/20260220A057PU00) - Infleqtion与英伟达合作发布世界上首个使用逻辑量子比特进行材料科学应用的演示；中性原子平台进入实用量子计算阶段，为量子传感与量子计算融合提供更可靠硬件基础
 - [量子光学钟首次部署无人潜艇 - Infleqtion Tiqker (2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_527690345dc09652) - 2025年10月英国皇家海军XLUUV"XV Excalibur"无人潜艇成功搭载Infleqtion公司Tiqker量子光学钟完成测试；高精度量子传感器首次在水下作战平台实战部署
+- [Infleqtion 伊利诺伊州5000万美元中性原子量子计算项目 (2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_620688213a743052) - Infleqtion宣布在伊利诺伊州量子与微电子园(IQMP)建设首个实用级中性原子量子计算机，采用数千个中性原子量子比特架构，总投资5000万美元，四年内完成，目标实现100个逻辑量子比特
 
 - [Q-CTRL量子导航系统入选《时代》2025年最佳发明 (2025)](https://so.html5.qq.com/page/real/search_news?docid=70000021_18068e8e80b24152) - Q-CTRL软件加固型量子导航系统入选《时代》周刊"2025年最佳发明"榜单，量子传感领域首个获此殊荣的商用产品
 
