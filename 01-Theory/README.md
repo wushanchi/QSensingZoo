@@ -296,8 +296,6 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：核时钟组装进入最后阶段(APS/Nature 2026))*
-
 ### 量子磁传感 / Quantum Magnetometry*
 
 - [Tracking time-varying signals with quantum-enhanced atomic magnetometers (arXiv:2503.14793, 2025)](https://arxiv.org/abs/2503.14793) - 量子纠缠（自旋压缩）增强原子磁力计对时变信号的追踪能力，利用估计控制技术实现快速变化磁场的实时跟踪，在心磁图信号演示中获得量子优势；单次相干时间内完成噪声背景下瞬态信号追踪，为量子磁力计在生物医学信号检测中的应用提供新范式
@@ -312,3 +310,7 @@
 ### 新兴期刊与综述 / Emerging Journals & Reviews
 
 - [Nature Sensors - 鲁棒光谱传感器用于远程生物特征检测 (2026)](https://www.nature.com/articles/s44460-025-00012-0) - 发表在Nature Portfolio 2026年创刊新刊(IF 5.000+)，提出抗环境光波动的光谱传感技术，可实现远程心电图波形准确检测；量子传感与生物医学检测融合的重要进展，为远程健康评估提供实用化路径
+
+---
+
+*最后更新: 2026-05-10*
