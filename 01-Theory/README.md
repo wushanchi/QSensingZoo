@@ -98,7 +98,11 @@
 
 ### NV色心前沿 / NV Center Frontiers
 
+- [NV色心T₂*退相干时间突破: 毫米级12C富集金刚石中值4.5µs (Communications Physics 2025)](https://www.nature.com/articles/s43246-025-00782-7) - ¹²C富集高静高压(HPPT)金刚石中NV色心自旋退相干时间T₂*中值达4.5µs，批次差异仅10%，毫米级大面积均匀性为femtotesla级弱磁场探测奠定基础；是量子传感实用化的关键材料里程碑
+
 - [Bottom-up fabrication of scalable room-temperature diamond quantum computing and sensing technologies (Materials Quantum Technology 2025, IOPscience)](https://iopscience.iop.org/article/10.1088/2633-4356/adf0ef) - 2025年IOPscience综述论文，系统梳理NV色心从基础物理到可扩展集成的关键挑战与路线图；涵盖多NV中心集成、金刚石材料生长、晶圆级制造等核心议题；代表NV色心量子技术从实验室向可扩展实用系统演进的重要里程碑
+
+- [Xanadu量子纠错突破: 光子量子比特qLDPC代码实用化 (PRL 2026)](https://quantumzeitgeist.com/xanadu-breakthrough-in-quantum-error-correction-reduces-qubit-overheads-for-fault-tolerant-computing/) - 2026年4月发表在Physical Review Letters，利用光子量子比特实现任意量子纠错代码，显著减少所需物理量子比特数量；光子路径进入容错量子计算实用化阶段，为量子传感与量子计算融合提供更可靠硬件基础
 - [PRX Quantum 2026 - 多参数量子估计：NV电子-核自旋纠缠同步估计多参数 (MIT/东京大学/港中大)](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852) - 利用电子-核自旋纠缠及优化贝尔态测量方案，在单次测量序列中同步估计微波驱动场幅值、失谐量与相位，所有参数灵敏度随探测时间呈线性标度；量子多参数估计领域的里程碑工作
 - [低温NV色心扫描磁强计 attoNVM - 1.8K实现3 µT/√Hz灵敏度 (attocube, 2026)](https://new.qq.com/rain/a/20260122A024JB00) - 德国attocube公司研发，2K~300K温度区间工作，纳米级分辨率杂散磁场测量，专用于低温量子材料与超导器件成像；可进行限额免费测试，反映NV扫描显微技术向低温工况扩展的行业趋势
 - [Princeton Quantum Initiative - NV色心探测二维自旋bath (2026)](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) - 普林斯顿大学NV传感器对金刚石表面二维自旋bath进行量子成像研究，探索量子传感与量子材料交叉前沿；反映北美顶级学术机构对NV色心平台持续深耕
@@ -148,7 +152,7 @@
 
 - [中国计量院锶原子光晶格钟NIM-Sr1正式校准国际标准时间 (2026)](https://news.mydrivers.com/tag/yuanzizhong.htm) - 2026年2月中国计量院研制的锶原子光晶格钟NIM-Sr1正式获准校准国际标准时间，实现我国光钟参与校准国际标准时间"零"的突破；核心突破在于将单个锶离子冷却至5K(-268.15°C)极低温环境运行，精度达数十亿年误差不超过一秒
 
-*最后更新: 2026-05-09 (本次新增: arXiv:2605.04136基础设施检测量子磁力计/ arXiv:2605.02700石蜡涂覆平面FID磁力计/ arXiv:2512.09925微波自由NV矢量磁力计+贝叶斯推理/ arXiv:2404.06915腔增强里德堡原子微波接收器)*
+*最后更新: 2026-05-10 (本次新增: NV退相干T₂* 4.5µs毫米级¹²C富集金刚石Communications Physics 2025/Xanadu qLDPC量子纠错PRL 2026)*
 
 ### NV色心前沿 / NV Center Frontiers
 
