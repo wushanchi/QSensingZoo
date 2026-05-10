@@ -229,4 +229,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增:UncutGem V2 GitHub活跃更新/英国45M英镑量子传感投资/原子磁力计综述Laser & Optoelectronics 2025/Q-CTRL材料发现3000倍加速(2026-05-07)/量子磁力计基础设施检测arXiv:2605.04136/热光源聚束光子LIDAR Nature Communications 2025)*
+*最后更新: 2026-05-10 (本次新增:分布式量子传感-五城轴子暗物质探测Nature 2026/Q-Expo 2026欧盟量子传感博览会/Vector Atomic量子传感活跃更新)*
