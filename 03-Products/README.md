@@ -129,6 +129,8 @@
 
 - [清华大学丁世谦团队148nm超窄线宽VUV激光光源 — 补齐核光钟最后拼图 (2026-05-08)](https://k.sina.com.cn/article_5953190046_162d6789e067033d8a.html) - 清华大学物理系团队利用镉蒸汽四波混频实现148nm连续波VUV激光器，线宽<100Hz、功率>100nW，光谱纯度达国际领先水平；补齐钍-229核光钟研制的最后关键环节，标志中国在量子精密测量最前沿领域取得重大原创性突破
 
+- [KIST韩国量子创业公司访问IBM加速全球量子技术商业化 (2026-05-08)](https://en.prnasia.com/releases/global/kist-connects-korean-quantum-startups-with-ibm-to-accelerate-global-commercialization-532299.shtml) - 2026年5月8日KIST带领五家韩国量子创业公司访问IBM Thomas J. Watson研究中心，探讨"IBM Quantum System Two"架构与跨境合作；韩国政府中小企业和创业部(MSS)支持；反映韩国量子传感产业加速融入全球供应链的战略动向
+
 - [中科院长春光机所量子陀螺专用VCSEL芯片 — 795nm单模80°C达4.1mW国产化突破 (Optics Express, 2026)](https://www.163.com/dy/article/H2OVD7D10514R9P4.html) - 中科院长春光机所突破量子陀螺专用VCSEL芯片核心瓶颈：大氧化孔径下单模工作、80°C输出功率4.1mW、边模抑制比41.68dB、正交偏振抑制比27.6dB；795nm VCSEL因体积极小、工作电流低、可非制冷工作、激光光斑与原子系统直接耦合，被视为量子陀螺理想光源；国产化突破为量子陀螺工程化应用奠定核心器件基础
 
 *最后更新: 2026-05-10 (本次新增: Delft Vydar GPS-free无人机导航(2026-05)/太赫兹量子传感器CES 2026)*
