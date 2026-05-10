@@ -4,6 +4,10 @@
 
 ### 原子钟前沿 / Atomic Clock Frontiers
 
+- [武汉大学研制世界最小芯片原子钟，2.3 cm³ 3万年误差<1秒 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_65469c3e82c68852) - 体积仅2.3 cm³(指甲盖大小)，采用微波调制激光与原子相互作用全新技术路线，计时精度3万多年误差不超过1秒；为国家关键领域筑牢高精度时间基准
+
+- [天津华信泰可量产最小体积芯片原子钟，万年误差<1秒 (2026-04)](https://so.html5.qq.com/page/real/search_news?docid=70000021_80069de55f947752) - 历经13年攻关，成功研制高精度、低功耗、实用化、可量产的芯片级原子钟；曾长期依赖国外进口，此成果实现国产化突破
+
 - [核时钟组装进入倒计时，人类计时精度迎来量级跃升 (Nature/APS 2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_22569c511ff74452) - 2026年3月美国物理学会全球物理峰会发布核时钟最新进展：清华大学团队利用镉蒸汽四波混频实现148.4nm连续波VUV激光器，线宽<100Hz，功率>100nW；叶军团队与IPG Photonics合作采用四硼酸锶晶体方案有望商业化；钍-229固体方案(氟化钙晶体嵌入)正优化跃迁线宽；核时钟较光学原子钟更紧凑、抗干扰，有望成为地球上最精确计时仪器；是量子传感精密计时的下一代范式转移 - 英国政府投资4500万英镑推动量子传感在脑成像扫描仪(癫痫/痴呆诊断)和导航系统领域的应用；资金支持Cerca Magnetics(诺丁汉大学衍生公司)等量子传感企业开发可穿戴式量子脑成像扫描仪；量子传感在医疗与交通领域的产业化加速
 
 - [Quantum Singapore 2026论坛 - 量子汇聚：从硬件突破到工业应用 (2026-02-04, 新加坡)](https://new.qq.com/rain/a/20260207A067DT00) - ICV TA&K/FinQ Tech/Informa Markets联合主办，IEEE Photonics Society学术支持；主题"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"；1000+参会者/150+演讲嘉宾/40+国家；量子传感与导航是核心议题之一；反映东南亚在全球量子产业布局中的战略地位提升

@@ -25,6 +25,8 @@
 
 ### 核心器件 / Core Devices
 
+- [attocube attoNVM - 低温NV色心扫描成像磁强计，商业量产 (2026)](https://new.qq.com/rain/a/20260122A024JB00) - 德国attocube研发，2K至300K温度区间、纳米级分辨率杂散磁场成像；3 µT/√Hz灵敏度，无需微波传输线预处理；首台样机已在科研机构完成部署；商业化量产
+
 - [Solid-State Microwave Magnetometer with Picotesla-Level Sensitivity (2023)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.054093) - 基于NV色心集合的微波磁力计实现3.4pT/√Hz灵敏度,为芯片级磁场检测提供新方案
 - [macQsimal EU Project - Quantum Sensing & Metrology (2024)](https://www.macqsimal.eu/) - 欧盟FET Flagship项目,整合14家机构研发MEMS原子气室量子传感器,覆盖磁场、惯性、加速度等多维度传感;项目凝聚欧洲顶级量子研究机构,推动量子传感从实验室走向产业应用
 - [All-Fiber Vector Magnetometer Based on Nitrogen-Vacancy Center (Nano 2023)](https://doi.org/10.3390/nano13050949) - 全光纤NV色心矢量磁力计,用光纤替代所有空间光学元件,实现0.73 nT/√Hz灵敏度,便携灵活可远距/内窥探测
