@@ -161,7 +161,8 @@
 
 ### 量子传感工程实现 / Engineering Implementation
 
-- [中科院长春光机所量子陀螺专用VCSEL芯片 — 795nm单模80°C达4.1mW国产化突破 (Optics Express, 2026)](https://www.163.com/dy/article/H2OVD7D10514R9P4.html) - 中科院长春光机所突破量子陀螺专用VCSEL芯片核心瓶颈：大氧化孔径下单模工作、80°C输出功率4.1mW、边模抑制比41.68dB、正交偏振抑制比27.6dB；795nm垂直腔面发射激光器因体积极小、工作电流低、可非制冷工作、激光光斑与原子系统直接耦合，被视为量子陀螺理想光源；国产化突破为量子陀螺工程化应用奠定核心器件基础
+- [Light-sheet confocal quantum diamond microscope (LC-QDM) - efficient scanning confocal readout (arXiv:2503.00252, 2025)](https://arxiv.org/abs/2503.00252) - 提出光片共聚焦量子钻石显微镜(LC-QDM)，结合光片照明与激光扫描共聚焦方法实现高效宽场3D量子传感；消除对薄NV层金刚石芯片的依赖，可在有限激光功率下实现高分辨率高速3D测量；为NV色心量子显微镜系统设计提供新架构
+
 
 - [清华大学丁世谦团队148nm超窄线宽VUV激光光源 — 补齐核光钟最后拼图 (2026-05-08)](https://k.sina.com.cn/article_5953190046_162d6789e067033d8a.html) - 清华大学物理系团队利用镉蒸汽四波混频实现148nm连续波VUV激光器，线宽<100Hz、功率>100nW，光谱纯度达国际领先水平；补齐钍-229核光钟研制的最后关键环节，标志中国在量子精密测量最前沿领域取得重大原创性突破；该成果发表在《Optics Express》期刊
 
