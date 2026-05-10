@@ -109,6 +109,8 @@
 
 ---
 
+- [UncutGem V2 GitHub活跃更新 — 全开源NV色心磁力计持续迭代 (2026-05-09)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源NV色心钻石磁力计项目，2026年5月9日最新commit，98 Commits持续维护更新；包含完整硬件/固件/3D文件/MaxMSP/Jupyter工具链；反映开源社区对量子传感 democratization 的持续投入
+
 ### 量子传感产业动态 / Industry Updates
 
 - [Q-Expo 2026 - 欧盟量子技术博览会 (2026-05-18~19, 欧洲)](https://qt.eu/) - EU Quantum Flagship主办，量子传感与计量是四大支柱之一；量子计算顾问委员会于2026年4月28日成立，推动欧洲量子生态加速成熟；5月18-19日在欧洲召开，展示量子传感从实验室到工业规模的最新进展
