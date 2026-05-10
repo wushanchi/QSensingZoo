@@ -236,6 +236,8 @@
 
 - [QuantumVillage/UncutGem V2 — 全开源NV色心磁力计 · DEF CON 33发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源NV色心钻石磁力计项目，V2版本于DEF CON 33（2025年）发布，包含完整硬件/固件/science文档，总成本约115英镑；涵盖3D打印件、BuildGuide、MaxMSP、Jupyter等完整工具链，可用于纳米级磁场传感研究；项目目标：打造可访问、可扩展、可破解的开放量子传感平台；2026年5月9日GitHub仍有最新commit，98 Commits持续活跃更新
 
+- [MIT/本田/陆军DEVCOM — 腔增强固态核自旋陀螺仪灵敏度提升3个数量级 (PRL 2026-05-09)](https://new.qq.com/rain/a/20250512A083QW00) - MIT、美国本田研究所、陆军DEVCOM陆军研究实验室、马萨诸塞大学波士顿分校联合发表，基于NV系综构建nNV-cQED系统，首次实现电磁感应透明、无反转激射、振荡行为；评估为惯性传感器时旋转灵敏度较此前固态自旋演示提升3个数量级；NV电子自旋可同时用作comagnetometer，四个结晶轴NV可实现矢量分辨率；是固态核自旋量子陀螺仪的重要突破
+
 ### NV色心前沿 / NV Center Frontiers
 
 - [attocube attoNVM — 低温NV色心扫描磁强计 1.8K实现3 µT/√Hz (2026)](https://new.qq.com/rain/a/20260122A024JB00) - 德国attocube公司研发，2K~300K温度区间工作，纳米级分辨率杂散磁场测量，专用于低温量子材料与超导器件成像；可进行限额免费测试，反映NV扫描显微技术向低温工况扩展的行业趋势
