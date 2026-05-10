@@ -308,3 +308,7 @@
 - [Low-frequency vector electrometry with Rydberg dipolar chain (Frontiers of Optoelectronics 2026)](https://www.sciencedaily.com/releases/2026/04/260416071956.htm) - 新加坡南洋理工大学利用里德堡原子链集体响应测量低频电场，提出三种互补测量技术获取电场强度与方向信息，突破传统蒸汽室EIT多原子Doppler展宽限制，实现微米级空间分辨率与可溯源校准，为紧凑型可编程量子电场传感器开辟新途径
 
 - [腔增强里德堡原子微波接收器 (arXiv:2404.06915, 2024)](https://arxiv.org/abs/2404.06915) - 基于光学频率梳稳频连续波激光器实现原子毫米波外差接收机，W波段灵敏度达7.9 μV/m/√Hz，线性动态范围超过70 dB；为里德堡原子电场传感的实用化提供新途径
+
+### 新兴期刊与综述 / Emerging Journals & Reviews
+
+- [Nature Sensors - 鲁棒光谱传感器用于远程生物特征检测 (2026)](https://www.nature.com/articles/s44460-025-00012-0) - 发表在Nature Portfolio 2026年创刊新刊(IF 5.000+)，提出抗环境光波动的光谱传感技术，可实现远程心电图波形准确检测；量子传感与生物医学检测融合的重要进展，为远程健康评估提供实用化路径
