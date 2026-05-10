@@ -96,6 +96,10 @@
 
 - [Quantum sensing in the fractional Fourier domain (arXiv:2405.03896)](https://arxiv.org/abs/2405.03896) - 提出分数傅里叶域量子传感协议，利用任意角度时间-频率平面线性轨迹驱动传感量子比特，在时变光谱信号感知中实验展示优势；以NV色心系综验证，为复杂信号环境下的量子传感提供新脉冲序列设计范式
 
+### NV色心进阶教程 / NV Center Advanced Tutorials
+
+- [Magnetometry with single NV centers in diamond - Qolah Research (2026)](https://www.qolah.org/research/nv_v2/nv_v2.html) - 澳大利亚Qolah研究团队发布的单NV色心磁力计实验教程，涵盖实验装置细节（低氮浓度合成金刚石、共聚焦显微镜、532nm激光激发）、NV色心工作原理（光极化、ESR、自旋态读出）、潜在微型化至数cm³体积的可能性；是理解NV磁力计实验实现的高质量入门参考资料，可与QuantumVillage/UncutGem开源项目配套学习
+
 ### NV色心前沿 / NV Center Frontiers
 
 - [NV色心T₂*退相干时间突破: 毫米级12C富集金刚石中值4.5µs (Communications Physics 2025)](https://www.nature.com/articles/s43246-025-00782-7) - ¹²C富集高静高压(HPPT)金刚石中NV色心自旋退相干时间T₂*中值达4.5µs，批次差异仅10%，毫米级大面积均匀性为femtotesla级弱磁场探测奠定基础；是量子传感实用化的关键材料里程碑
@@ -220,7 +224,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：SandboxAQ AQNav全球首款商用量子AI导航系统/Q-CTRL入选TIME 2026行业领袖100强)*
+*最后更新: 2026-05-10 (本次新增: Qolah单NV色心磁力计实验教程)*
 
 
 ### 量子传感与机器学习 / Quantum Sensing + Machine Learning
