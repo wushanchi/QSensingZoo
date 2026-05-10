@@ -159,9 +159,59 @@
 - [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计,同时测量总磁场及其相对旋转平面的两个极角;梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7),50μT地磁场中角分辨率达6 nrad/√Hz;提出峰值改变调制技术消除动态航向误差等系统效应;矢量灵敏度接近标量灵敏度,为高精度矢量磁场测量提供新方案
 - [低频里德堡原子链矢量电场计 - 微米级空间分辨率 (南洋理工大学, Frontiers in Optoelectronics 2026)](https://www.sciencedaily.com/releases/2026/04/260416071956.htm) - 利用里德堡原子链集体响应测量低频电场,提出三种互补测量技术(传播动力学/Ramsey谱/频率域传输谱)获取电场强度与方向信息,突破传统蒸汽室EIT多原子Doppler展宽限制,实现微米级空间分辨率与可溯源校准,为紧凑型可编程量子电场传感器开辟新途径
 
+### 量子传感工程实现 / Engineering Implementation
+
+- [中科院长春光机所量子陀螺专用VCSEL芯片 — 795nm单模80°C达4.1mW国产化突破 (Optics Express, 2026)](https://www.163.com/dy/article/H2OVD7D10514R9P4.html) - 中科院长春光机所突破量子陀螺专用VCSEL芯片核心瓶颈：大氧化孔径下单模工作、80°C输出功率4.1mW、边模抑制比41.68dB、正交偏振抑制比27.6dB；795nm垂直腔面发射激光器因体积极小、工作电流低、可非制冷工作、激光光斑与原子系统直接耦合，被视为量子陀螺理想光源；国产化突破为量子陀螺工程化应用奠定核心器件基础
+
+- [清华大学丁世谦团队148nm超窄线宽VUV激光光源 — 补齐核光钟最后拼图 (2026-05-08)](https://k.sina.com.cn/article_5953190046_162d6789e067033d8a.html) - 清华大学物理系团队利用镉蒸汽四波混频实现148nm连续波VUV激光器，线宽<100Hz、功率>100nW，光谱纯度达国际领先水平；补齐钍-229核光钟研制的最后关键环节，标志中国在量子精密测量最前沿领域取得重大原创性突破；该成果发表在《Optics Express》期刊
+
+### 量子传感工程实现 / Engineering Implementation
+
+- [硅基光电子原子干涉仪 - 量子指南针里程碑 (Science Advances, LatitudeDa 2026)](https://www.latitudeda.com/document/753) - 首次使用硅基光电子微芯片组件执行原子干涉仪量子传感技术,是开发"量子指南针"迈出的重要一步;传统原子干涉仪系统占据一个小房间的空间,硅基光电子集成使其微型化成为可能,为芯片级量子导航奠定基础
+
+- [Bristol University - 量产光子芯片实现量子极限传感 (Nature Photonics 2025)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) - 英国布里斯托尔大学团队在商业代工厂量产光子芯片微环谐振器,首次在量子极限运行;可增强温室气体监测和癌症检测灵敏度;为量子传感产业化开辟光电子集成新路径
+
+- [中国科大构建城际量子传感网络 - 核自旋量子精密测量突破 (Nature 2026)](https://www.nature.com/articles/s41586-025-10034-w) - 中科大等团队构建国际首个基于核自旋的城际量子传感网络,分布于合肥-杭州5台核自旋量子传感器,跨度320公里,利用卫星同步实现分布式量子传感;首次在实验上突破轴子暗物质天体物理观测极限;误报率降低约三个数量级,能量分辨率较基于碱金属传感器的GNOME提升约4个量级;团队结合核自旋量子放大技术,将信号放大至少100倍,旋转灵敏度约10-6 rad
+
+- [NV色心ASIC芯片实现低功耗微型化 (2025)](https://www.sohu.com/a/864294113_121798711) - 德国斯图加特大学+NVision团队,采用ASIC芯片集成微波电子(QPLL芯片+四通道功率发射器),有源面积仅π×180×180μm2,直流/交流磁场检测限分别达32nT/√Hz和300pT/√Hz,频率调谐范围22%,实现NV磁力计的芯片级低功耗低成本方案
+- [极端压力量子传感器 - Nature Communications 2025 (超过3万倍大气压稳定工作)](https://so.html5.qq.com/page/real/search_news?docid=70000021_34768cb600555252) - 华盛顿大学团队利用中子辐射氮化硼产生的带电空位对实现量子传感,首个在超过大气压3万倍极端高压环境中稳定运行的量子传感器,可用于探索物质在极端状态下的量子效应
+
+- [全光纤NV色心矢量磁力计 (Nano 2023)](https://doi.org/10.3390/nano13050949) - 全光纤NV色心矢量磁力计,用光纤替代所有空间光学元件,实现0.73 nT/√Hz灵敏度,便携灵活可远距/内窥探测
+
+### 量子传感产业分析 / Industry Analysis
+
+- [量子传感:工业感知的下一次跨越 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_08569a8149706452) - 深度长文解析量子传感产业发展:全球市场规模2025年18.8亿美元、2035年将达50.7亿美元(年均复合增长率10.42%);阐述量子叠加态/纠缠态/相干性三大物理机制驱动的传感器家族;量子传感正在跨越实验室与工业应用的"死亡之谷",是量子技术商业化最快速的分支
+
+### 其他量子传感公司 / Other Companies
+
+- [QuantX Labs - 澳大利亚量子传感与精密计时 (2026)](https://quantxlabs.com/) - 澳大利亚阿德莱德大学衍生企业,专注量子传感与精密计时技术,量子传感方向涵盖地下资产追踪、空间威胁探测、水下威胁探测、重力与磁场地球物理勘探;量子计时产品用于GNSS降级/拒止环境下的弹性备选PNT sovereign太空计时网络;与澳大利亚国防与太空项目深度合作;代表大洋洲量子传感产业的战略布局
+
+### 学术会议与产业峰会 / Conferences & Summits
+
+- [Optica Quantum 2.0 Conference and Exhibition (2026-06-15~18, 格拉斯哥)](https://www.optica.org/events/topical_meetings/quantum) - Optica主办,量子2.0前沿会议,覆盖量子计算/通信/器件/传感与计量;会议主席包括Stony Brook/ICFO/IBM Research Zurich/FAU Erlangen-Nürnberg/University of Oregon等机构代表;量子传感与计量是核心议题之一;Quantum.Tech World 2026 (2026-06-25~26, 波士顿)同期召开
+- [Quantum Singapore 2026论坛 - 量子汇聚:从硬件突破到工业应用 (2026)](https://new.qq.com/rain/a/20260207A067DT00) - 2026年2月4日新加坡滨海湾金沙会展中心开幕,ICV TA&K/FinQ Tech/Informa Markets联合主办,IEEE Photonics Society学术支持;主题聚焦量子传感从硬件突破到工业应用的产业化路径;反映东南亚在全球量子产业布局中的战略地位提升
+
+### 分布式量子传感 / Distributed Quantum Sensing
+
+- [Constraints on axion dark matter by distributed intercity quantum sensors (Nature 2026)](https://www.nature.com/articles/s41586-025-10034-w) - 利用五城分布式惰性气体核自旋实验室构成量子传感器网络,对轴子暗物质进行超灵敏探测,相关性分析放大信号并进行最优噪声滤波,旋转灵敏度约10-6 rad;超越天体物理观测限制,为超越标准模型物理搜索提供新路径
+
+### 量子传感芯片化 / Chip-Scale Quantum Sensing
+
+- [Sandia Labs - Guided Atom Interferometer专利获批 (US12392611B1, 2025)](https://www.sandia.gov/quantum/quantum-sensing/) - Sandia量子传感项目聚焦微型化量子传感器与原子钟,2025年8月获批"大动态范围高灵敏度渐逝场模式引导原子干涉仪测量协议"专利(US12392611B1);核心技术:悬空波导膜结构/针尖结构光原子陷阱集成平台(US11914188B1);关键能力覆盖:量子赋能电场传感/成像、超灵敏重力场及梯度测量、Sandia专利非侵入式功能脑成像系统、微型光原子钟(集成单光子探测器与波导光传输);代表美国国家实验室量子传感芯片化最新进展
+
+### 生物医学传感 / Biomedical Sensing
+
+- [量子传感microRNA检测 - NV色心早期癌症诊断 (Nature Communications Chemistry 2024)](https://www.nature.com/articles/s42004-024-01182-7) - 利用NV色心测量microRNA与钻石表面相互作用引起的Mn2+顺磁counter ion聚集,通过自旋弛豫对比度变化实现无标记microRNA检测;可克服溶液去屏蔽效应限制,为下一代量子传感癌症早筛提供新路径
+
+- [Q-BIOMED - 英国量子生物医学传感研究Hub (2026)](https://www.qbiomed.org/) - 英国国家量子技术计划支持的量子生物医学传感研究中心,聚焦量子传感技术在早期疾病诊断与治疗中的应用,覆盖神经退行性疾病、心血管疾病、癌症早筛等方向;汇集帝国理工学院、伦敦大学学院等顶尖研究团队
+
+- [QDTI - Quantum Powered Biomarker Detection (2026)](https://www.qdti.com/) - 利用量子传感技术实现超灵敏生物标志物检测的创新公司,样本量仅需≤5μL,检测限<1 pg/mL,分析灵敏度达亚皮克级,1小时内完成检测;量子传感技术为体外诊断与药物研发提供全新工具
+
+- [Spin-enhanced nanodiamond biosensing for ultrasensitive diagnostics (Nature 2020)](https://link.springer.com/article/10.1038/s41586-020-2917-1) - 利用金刚石NV色心量子自旋特性实现超灵敏生物诊断,纳米金刚石生物传感可探测单个蛋白质分子,为早期疾病诊断提供全新工具
+
 ---
 
-*最后更新: 2026-05-09 (本次新增:NV色心ASIC芯片低功耗低成本方案(斯图加特+NVision)/PROMISE欧洲NV色心预产业化(2025-02)/量子陀螺仪频率纠缠HOM干涉理论(物理学报2025)/太赫兹量子传感器CES2026首款300米全天候)*
+*最后更新: 2026-05-10 (本次新增: 中科院长春光机所量子陀螺专用VCSEL芯片国产化突破/清华大学148nm核光钟激光光源)*
 
 ### 学术研究 / Research
 
