@@ -224,7 +224,26 @@
 
 ---
 
-*最后更新: 2026-05-10 (本次新增: Qolah单NV色心磁力计实验教程)*
+*最后更新: 2026-05-10 (本次新增: Q-CTRL入选《时代》2026行业领袖100强/开放量子系统噪声理论与非马尔可夫多时间记忆效应)*
+
+### 新兴期刊与综述 / Emerging Journals & Reviews
+
+- [Nature Sensors - 鲁棒光谱传感器用于远程生物特征检测 (2026)](https://www.nature.com/articles/s44460-025-00012-0) - 发表在Nature Portfolio 2026年创刊新刊(IF 5.000+)，提出抗环境光波动的光谱传感技术，可实现远程心电图波形准确检测；量子传感与生物医学检测融合的重要进展，为远程健康评估提供实用化路径
+
+- [城际量子传感网络 - 国际首个核自旋城际网络Nature 2026合肥-杭州320公里 (Nature 2026)](https://www.nature.com/articles/s41586-025-10034-w) - 中国科学技术大学等团队构建国际首个基于核自旋的城际量子传感网络（合肥—杭州，跨度320公里，5台核自旋量子传感器），利用卫星同步实现分布式量子传感；结合核自旋量子放大技术将信号放大100倍，旋转灵敏度达约10⁻⁶ rad，首次实验突破轴子拓扑缺陷暗物质天体物理观测极限；误报率降低约三个数量级，能量分辨率较GNOME提升约4个数量级
+
+### 开放量子系统与噪声 / Open Quantum Systems & Noise
+
+- [Beating noise in frequency estimation with squeezing and memory in continuous-variable systems (arXiv:2605.06263, 2026)](https://arxiv.org/abs/2605.06263) - 研究开放量子系统中的频率估计问题，利用压缩哈密顿量工程与非马尔可夫动力学突破环境噪声限制；通过量子布朗运动模型证明有限记忆环境可诱导信息回流，暂时恢复并超越么正极限估计精度；为实用化量子磁力计在真实噪声环境下的性能优化提供理论框架
+- [Multitime memory beyond the quantum regression theorem in sequential measurement statistics (arXiv:2605.06427, 2026)](https://arxiv.org/abs/2605.06427) - 揭示开放量子系统顺序测量统计中偏离量子回归定理的多时间记忆效应，提出基于协议相关的非马尔可性量化方法；spin-boson模型基准测试表明低环境温度与特定测量协议可增强多时间记忆特征；为量子传感系统环境耦合表征与噪声抑制提供新工具
+
+### 量子传感与机器学习 / Quantum Sensing + Machine Learning
+
+- [Machine Learning Assisted Tracking of Magnetic Objects using Quantum Diamond Magnetometry (arXiv:2502.14683, 2025)](https://arxiv.org/abs/2502.14683) - 利用机器学习（无需物理模型）结合量子钻石磁力计实时追踪磁性目标位置，演示地下基础设施测绘、地面运输监测；为量子传感+AI融合应用提供新范式
+
+### 新兴传感机制 / Novel Sensing Mechanisms
+
+- [量子鬼成像量子传感 - 非侵入式植物活体成像 (MedSci 2026)](https://www.medsci.cn/sci/show_paper.asp?id=35c4a1259231266b) - 基于量子增强鬼成像技术实现植物非侵入式活体成像，无需物理接触即可观测植物内部结构与生理动态；量子传感在农业与植物学表型研究中的应用探索
 
 
 ### 量子传感与机器学习 / Quantum Sensing + Machine Learning
