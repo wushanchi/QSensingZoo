@@ -56,6 +56,11 @@
 
 ### 新增商用产品 / New Commercial Products
 
+### 新增商用产品 / New Commercial Products
+
+- [Delft Vydar - 代尔夫特理工GPS-free无人机导航获美国 funding (2026-05)](https://www.bits-chips.nl/) - 代尔夫特理工大学衍生公司Vydar于2026年5月获美国资金支持，开发无GPS无人机导航技术；结合量子传感与AI实现复杂电磁环境下的可靠自主导航；Bits & Chips 2026年5月5日报道；代表量子传感在无人系统定位领域加速商业化
+- [太赫兹量子传感器 - 全球首款300米探测全天候视觉 (CES 2026)](https://new.qq.com/rain/a/20260107A02PZK00) - 美国太拉达(Teradata)公司发布旗舰产品"太拉达峰会传感器"，业界首款任意天气条件下稳定工作的远程高分辨率太赫兹视觉传感器；固态数字相控阵，探测距离300米，原生分辨率0.13度，可生成带多普勒数据的3D点云；支持L2~L5级自动驾驶；量子传感向汽车主动安全领域延伸的重要里程碑
+
 - [SandboxAQ AQNav - 全球首款商用量子+AI导航系统 (SandboxAQ, 2026-05-02)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 整合地球地壳磁场与AI算法实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成超过200飞行小时/40架次飞行测试验证,从单发动机到大型军用运输机均有效;抗干扰、全天候、地形无关;估值超50亿美元,获谷歌/英伟达投资;代表量子传感在导航领域首个大规模商用里程碑
 
 - [Delft Vydar - GPS-free无人机导航获美国 funding (代尔夫特理工, 2026-05)](https://www.bits-chips.nl/) - 代尔夫特理工大学衍生公司Vydar于2026年5月获美国资金支持,开发无GPS无人机导航技术;结合量子传感与AI实现复杂电磁环境下的可靠自主导航;代表量子传感在无人系统定位领域加速商业化
@@ -122,7 +127,7 @@
 
 - [中科院长春光机所量子陀螺专用VCSEL芯片 — 795nm单模80°C达4.1mW国产化突破 (Optics Express, 2026)](https://www.163.com/dy/article/H2OVD7D10514R9P4.html) - 中科院长春光机所突破量子陀螺专用VCSEL芯片核心瓶颈：大氧化孔径下单模工作、80°C输出功率4.1mW、边模抑制比41.68dB、正交偏振抑制比27.6dB；795nm VCSEL因体积极小、工作电流低、可非制冷工作、激光光斑与原子系统直接耦合，被视为量子陀螺理想光源；国产化突破为量子陀螺工程化应用奠定核心器件基础
 
-*最后更新: 2026-05-10 (本次新增: 电子科技大学氮化镓量子光源芯片100nm突破/清华大学148nm核光钟激光光源/长春光机所量子陀螺VCSEL芯片)*
+*最后更新: 2026-05-10 (本次新增: Delft Vydar GPS-free无人机导航(2026-05)/太赫兹量子传感器CES 2026)*
 
 ### 量子磁力计公司 / Diamond Magnetometer Companies
 
