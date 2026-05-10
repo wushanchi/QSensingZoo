@@ -74,7 +74,6 @@
 ### 量子传感与AI融合 / Quantum Sensing + AI
 
 - [Q-CTRL量子计算材料发现速度提升3000倍 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_86369fc767b43452) - 2026年5月宣布利用IBM量子平台在材料科学问题上实现3000倍加速,首次展示实用量子优势;性能管理软件将仿真时间从100多小时缩短至仅两分钟;量子传感与量子计算底层技术融合的里程碑式应用
-
 - [机器学习+量子钻石磁力计实时追踪磁性目标 (arXiv:2502.14683, 2025)](https://arxiv.org/abs/2502.14683) - 利用机器学习(无需物理模型)结合量子钻石磁力计实时追踪磁性目标位置,演示地下基础设施测绘、地面运输监测;为量子传感+AI融合应用提供新范式
 
 - [Q-CTRL量子算法交通优化性能提升20倍 (2026)](https://www.163.com/dy/article/HAS3OU7L0538K1OZ.html) - Q-CTRL与澳大利亚CSIRO团队利用Fire Opal软件将交通优化量子算法性能提高20倍以上;展示量子传感/量子计算底层技术在交通物流优化领域的实用价值
@@ -158,6 +157,7 @@
 ### 新型原子矢量磁力计 / Novel Vector Atomic Magnetometry
 
 - [Pulsed vector atomic magnetometer using an alternating fast-rotating field (Nature Communications 2025)](https://www.nature.com/articles/s41467-025-56668-2) - 利用快速旋转磁场实现脉冲矢量原子磁力计,同时测量总磁场及其相对旋转平面的两个极角;梯度计模式下总场梯度灵敏度达35 fT/√Hz (十亿分之0.7),50μT地磁场中角分辨率达6 nrad/√Hz;提出峰值改变调制技术消除动态航向误差等系统效应;矢量灵敏度接近标量灵敏度,为高精度矢量磁场测量提供新方案
+- [低频里德堡原子链矢量电场计 - 微米级空间分辨率 (南洋理工大学, Frontiers in Optoelectronics 2026)](https://www.sciencedaily.com/releases/2026/04/260416071956.htm) - 利用里德堡原子链集体响应测量低频电场,提出三种互补测量技术(传播动力学/Ramsey谱/频率域传输谱)获取电场强度与方向信息,突破传统蒸汽室EIT多原子Doppler展宽限制,实现微米级空间分辨率与可溯源校准,为紧凑型可编程量子电场传感器开辟新途径
 
 ---
 
