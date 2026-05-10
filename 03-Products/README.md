@@ -32,6 +32,7 @@
 - **Quantinuum** — 量子计算与传感综合平台
 - **Vector Atomic** — 原子惯性传感与量子重力仪
 - **Bosch Quantum Sensing** — 博世+元素六金刚石量子传感合资公司 (2025)
+- **SBQuantum** — 加拿大金刚石量子磁力计初创公司 (2026)
 
 ## 分类说明
 
