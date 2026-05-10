@@ -321,6 +321,10 @@
 
 - [腔增强里德堡原子微波接收器 (arXiv:2404.06915, 2024)](https://arxiv.org/abs/2404.06915) - 基于光学频率梳稳频连续波激光器实现原子毫米波外差接收机，W波段灵敏度达7.9 μV/m/√Hz，线性动态范围超过70 dB；为里德堡原子电场传感的实用化提供新途径
 
+### 量子传感产业生态 / Quantum Sensing Ecosystem
+
+- [KIST韩国量子创业公司代表团访问IBM - 加速全球量子技术商业化 (KIST/IBM, 2026-05-08)](https://en.prnasia.com/releases/global/kist-connects-korean-quantum-startups-with-ibm-to-accelerate-global-commercialization-532299.shtml) - 2026年5月8日韩国科学技术研究院(KIST)带领五家韩国量子创业公司代表团访问IBM Thomas J. Watson研究中心，探讨"IBM Quantum System Two"架构与运营框架，推动量子传感技术从研究到产业化的跨境合作；韩国政府中小企业和创业部(MSS)支持的"深层科技创业项目(DIPS)"推动；反映韩国作为全球量子技术新兴力量加速融入全球产业链的战略动向
+
 ### 新兴期刊与综述 / Emerging Journals & Reviews
 
 - [Nature Sensors - 鲁棒光谱传感器用于远程生物特征检测 (2026)](https://www.nature.com/articles/s44460-025-00012-0) - 发表在Nature Portfolio 2026年创刊新刊(IF 5.000+)，提出抗环境光波动的光谱传感技术，可实现远程心电图波形准确检测；量子传感与生物医学检测融合的重要进展，为远程健康评估提供实用化路径
@@ -334,4 +338,4 @@
 
 ---
 
-*最后更新: 2026-05-10 (本次新增: arXiv:2605.06263压缩+非马尔可夫开放系统频率估计(2026-05-07)/arXiv:2605.06427多时间记忆量子回归定理偏离(2026-05-07))*
+*最后更新: 2026-05-10 (本次新增: KIST韩国量子创业公司代表团访问IBM加速全球量子技术商业化(2026-05-08))*
