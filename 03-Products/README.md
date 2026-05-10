@@ -232,4 +232,4 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：SandboxAQ AQNav全球首款商用量子AI导航系统(2026-05-02)/Delft Vydar GPS-free无人机导航(2026-05)/Bristol University量产光子芯片量子极限传感Nature Photonics 2025)*
+*最后更新: 2026-05-10 (本次新增:Quantum Motion 1.6亿美元C轮2026-05-07/中科大城际量子传感网络Nature 2026)*
