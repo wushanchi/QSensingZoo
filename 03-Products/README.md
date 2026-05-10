@@ -144,6 +144,7 @@
 
 - [Sandia Labs Atom Interferometry - GPS-free Navigation Sensor (2025)](https://www.sandia.gov/quantum/atom-interferometry/) - 美国桑迪亚国家实验室研发紧凑型原子干涉仪传感器头，采用光栅磁光阱(GMOT)技术实现冷原子囚禁，目标实现无卫星导航；量子惯性传感与重力辅助导航结合，减少GPS依赖；关键能力包括微型化、鲁棒化原子传感器系统，为极端环境下的国家安全应用提供解决方案
 - [Delta g UK量子重力传感器初创获200万英镑融资 (2023)](https://www.eenewseurope.com/en/2m-for-uk-quantum-gravity-sensor-startup/) - 英国伯明翰大学衍生公司，开发原子干涉重力梯度仪用于地下成像、智慧城市、矿业勘探；基于双原子云"沙漏"结构重力梯度计获200万英镑种子融资
+- [NASA QGGPf太空量子重力传感器 - 2030年交付、手提箱大小 (2025)](https://www.163.com/dy/article/JUV5MJNT0516HHM6.html) - NASA地球科学技术办公室资助，JPL/Goddard/工业界联合实施；量子重力梯度计Pathfinder(QGGPf)体积约0.25立方米、重125公斤，约为手提箱大小，比传统天基重力仪器更轻巧；预计2030年完成交付并进行航天器集成；为量子重力传感从地面向太空拓展的标志性项目
 
 ### 量子传感资本动态 / Funding & Investment
 
