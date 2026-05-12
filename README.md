@@ -23,9 +23,15 @@
 
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
-#### 量子传感导航市场高增长（2026）
-- [量子传感导航全球市场报告（The Business Research Company, 2026-03）](https://cn.gii.tw/report/tbrc1873049-quantum-sensor-navigation-global-market-report.html)
-- **2025年规模**：8.9亿美元 → **2026年预测**：11亿美元，CAGR 23.0% → **2030年**：24亿美元
+#### 量子传感产业全景：从"展示"到"可交付"（Q-STAR年报 2026-02）
+- [2026全球量子传感产业发展展望-光子盒.pdf（MBA智库, 2026-03）](https://doc.mbalib.com/view/53b8c1cd08bf62e50afdf6e4a81b093f.html) - 135页，Q-STAR量子战略趋势年度报告
+- **核心转变**：去年主题是"展示量子传感器能做什么"，今年关键词是"可交付"——技术走出实验室，进入工程验证、供应链整合与实际订单的硬核赛道
+- **全球产值**：2025年18.8亿美元 → 2035年50.7亿美元（CAGR 10.42%）
+
+#### 量子传感导航市场 — CAGR 23%（The Business Research Company, 2026-03）
+- [量子传感导航全球市场报告（gii.tw, 2026-03）](https://cn.gii.tw/report/tbrc1873049-quantum-sensor-navigation-global-market-report.html)
+- **2025年**：8.9亿美元 → **2026年**：11亿美元 → **2030年**：24亿美元 | **CAGR 23.0%**
+- **驱动**：量子加速计/陀螺仪技术进步、潜艇导航应用、无GPS导航需求、国防平台整合
 
 #### ML增强NV磁力计论文（IEEE 2025-12）
 - [Enhancing All-Optical NV Center Magnetometry With Machine Learning (IEEE, 2025-12)](https://ieeexplore.ieee.org/document/11237007)
