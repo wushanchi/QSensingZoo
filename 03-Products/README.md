@@ -96,6 +96,12 @@
 
 - [SandboxAQ AQNav - 全球首款商用量子+AI导航系统 (SandboxAQ, 2026-05-02)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 整合地球地壳磁场与AI算法实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成超过200飞行小时/40架次飞行测试验证,从单发动机到大型军用运输机均有效;抗干扰、全天候、地形无关;估值超50亿美元,获谷歌/英伟达投资;代表量子传感在导航领域首个大规模商用里程碑
 
+### 量子导航 / Quantum Navigation
+
+- [SandboxAQ AQNav 全球首款商用量子+AI导航系统 — GPS拒止/多场景/超200飞行小时验证 (SandboxAQ, 2026-05-02)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航，覆盖空中/陆地/海上全场景；已在美国空军多型飞机上完成超过200飞行小时/40架次飞行测试验证，从单发动机到大型军用运输机均有效；抗干扰、全天候、地形无关；估值超50亿美元，E轮融资4.5亿美元(谷歌/英伟达领投)；代表量子传感在导航领域首个大规模商用里程碑
+
+- [SandboxAQ E轮融资4.5亿美元/估值57亿美元 (2025-04)](https://www.hkprog.org/2025/05/sandboxaq-closes-450m-series-e-at-5-7b-valuation) - 2025年4月完成4.5亿美元E轮融资，由英伟达/谷歌/Bridgewater创始人Ray Dalio等参与；总融资额9.5亿美元，估值57.5亿美元；产品线包括AQBioSim药物模拟/AQChemSim材料研发/AQtive Guard量子加密/AQNav磁导航；客户涵盖沃达丰/软银/西奈山医疗/美国联邦政府
+
 - [Delft Vydar - GPS-free无人机导航获美国 funding (代尔夫特理工, 2026-05)](https://www.bits-chips.nl/) - 代尔夫特理工大学衍生公司Vydar于2026年5月获美国资金支持,开发无GPS无人机导航技术;结合量子传感与AI实现复杂电磁环境下的可靠自主导航;代表量子传感在无人系统定位领域加速商业化
 
 - [Bristol University - 量产光子芯片实现量子极限传感 (Nature Photonics 2025)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) - 英国布里斯托尔大学团队在商业代工厂量产光子芯片微环谐振器，首次在量子极限运行；可增强温室气体监测和癌症检测灵敏度；为量子传感大规模商用化开辟光电子集成新路径；与代工厂合作实现批量生产，是量子传感产业化的重要里程碑
