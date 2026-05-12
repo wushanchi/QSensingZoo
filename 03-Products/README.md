@@ -48,7 +48,39 @@
 
 ## 资料索引
 
-<!-- 请在下方按类别添加资料链接 -->
+### 量子传感市场报告 / Quantum Sensing Market Reports
+
+- [量子传感器市场报告 2026-2034 (IMARC, 2026-04)](https://www.gii.tw/report/imarc2009014-quantum-sensors-market-report-by-product-atomic.html) - 全球量子传感器市场规模2025年达6.103亿美元，2034年前保持高速增长；产品类型涵盖原子钟、磁传感器、PAR量子传感器、重力传感器；应用领域包括军事国防、汽车、农业、石油天然气、医疗健康；IMARC预测2026-2034年CAGR双位数增长，为量子传感产业投资提供数据支撑
+
+- [全球及中国量子磁力传感器行业研究分析及前景战略建议报告 (鸿晟信合, 2026-01)](https://www.hsiti.com/123649.html) - 2026年版行业深度报告，涵盖量子磁力传感器技术路线、市场格局、主要厂商；中国市场是全球增长最快的区域市场之一；报告为理解量子磁力传感器产业全貌提供系统性参考
+
+### 量子陀螺仪 / Quantum Gyroscope
+
+- [Compact Cold Atom Interferometer Gyroscope (IEEE ICASSP 2025)](https://ieeexplore.ieee.org/document/11300795/) - 高精度旋转测量对惯性导航和地球物理至关重要；冷原子干涉仪陀螺仪(CAIG)无需机械旋转元件即可实现高灵敏度角速度检测；论文提出紧凑型设计方案，分析灵敏度与系统参数关系，为量子陀螺仪实用化提供工程参考
+
+- [Maris Tech与Quantum Gyro战略合作开发量子陀螺替代GPS (2025)](https://www.laohu8.com/news/1158414203) - Maris Tech Ltd.宣布与Quantum Gyro达成战略合作协议，开发基于量子的陀螺仪以替代传统GPS导航系统；量子陀螺仪无需外部卫星信号即可实现自主导航，在GPS拒止环境下具有独特优势；是量子传感在自动驾驶与国防领域应用的重要进展
+
+- [陀螺仪市场2025-2030年复合增长率6.1% (Mordor Intelligence 2025)](https://cn.gii.tw/report/moi1685919-gyroscopes-market-share-analysis-industry-trends.html) - 全球陀螺仪市场规模2025年45.6亿美元，预计2030年达61.3亿美元，复合增长率6.1%；量子陀螺仪作为下一代高性能陀螺仪，在军事国防、航天航空、无人系统等领域渗透率持续提升；是量子传感产业化的重要方向之一
+
+### 原子钟 / Atomic Clocks
+
+- [全球微型原子钟市场规模研究2025-2031 (恒州诚思 YH Research 2025)](https://gelonghui.com/p/3277107) - 2024年全球微型原子钟市场规模约12.4亿元，预计2031年接近22.6亿元，未来六年CAGR为9.1%；主要生产商包括Microsemi、Orolia、成都Spaceon Electronics、AccuBeat、IQD；导航领域份额超35%，其次是军事与航空约35%；CMOS型微型原子钟占主导，市场占有率超90%
+
+- [2025年微型原子钟市场竞争格局分析 (2025)](https://gelonghui.com/p/1675255) - 中国微型原子钟市场深度分析：2024年市场销售收入达一定规模，预计2031年持续增长；北美和欧洲共占全球约90%市场份额；中国厂商成都Spaceon Electronics跻身全球前列；芯片原子钟在航天、军事、电信等领域需求旺盛
+
+- [全球原子钟市场2025年4.82亿美元，2031年7.63亿美元 (QYResearch 2025)](https://gelonghui.com/p/2147213) - 2024年全球原子钟市场销售额4.82亿美元，预计2031年达7.63亿美元，CAGR 6.9%；主要厂商包括Microchip、Safran Group、Leonardo、AccuBeat、Oscilloquartz、Orolia、Vremya-ch、Quartzlock、Airbus；铯束原子钟和铷原子钟是主要产品类型
+
+### 扫描NV显微镜 / Scanning NV Microscopy
+
+- [扫描NV显微镜重新定义纳米磁学观测范式 (Antpedia 2026-04-27)](https://ibook.antpedia.com/x/1027836.html) - 扫描氮空位显微镜(SNVM)凭借量子传感能力实现两种互补观测模式：矢量磁成像捕捉突破摩尔周期的宏大磁织构；热自旋波噪声谱学破译磁相互作用手性密码；量子探针不仅能"拍照"更能"听诊"——从空间到频率、从静态到动态，全方位解析纳米磁性奥秘
+
+### 公司动态 / Company Updates
+
+- [Infleqtion Q4 2026财报亮点 (Reportify 2026-04-13)](https://www.reportify.cc/tags/concept?tagValue=Quantum+Sensing) - 公司战略定位为横跨量子计算、传感与授时的广泛平台，所有业务通过软件整合；系统在室温下运行，专为实际部署设计；量子传感产品Tiqker已部署于水下无人艇；Infleqtion已于2026年2月通过SPAC登陆纽交所(NYSE:INFQ)，市值24亿美元
+
+- [Infleqtion将于2026-05-14发布Q1 2026财报 (Businesswire 2026-05-04)](https://www.businesswire.com/news/home/20260504005070/en/) - 公司将于2026年5月14日美股收盘后发布截至2026年3月31日的第一季度财务业绩；市场关注量子传感业务收入占比及商业化进展
+
+- [Q-CTRL入选TIME 2026行业领袖100强 (Q-CTRL 2026)](https://q-ctrl.com/) - Q-CTRL凭借AI驱动量子控制基础设施软件入选《时代》首届"行业领袖100强"榜单；量子传感方向已实现全球首个量子保证导航(GPS-free)并创下世界纪录；麦肯锡预测量子市场达2万亿美元，Q-CTRL处于连接量子与经典世界的核心位置
 ### 量子传感生物标志物检测 / Quantum Biomarker Sensing
 
 - [Quanvia - 西班牙NV钻石量子生物传感 (2026)](https://www.quanvia.com/) - 西班牙量子传感生物医疗诊断公司，基于金刚石NV色心实现超灵敏疾病检测与监测；核心技术：NV色心量子磁力计(高灵敏度读出)、机器学习信号增强与模式识别；应用场景：疾病早期检测、医生诊断辅助、个性化医疗(预测患者对特定治疗的反应)；已获NEOTEC 2024第二名、Start-up Biqain、Sello PYME innovadora、Emprende XXI Caixa finalist等荣誉；代表欧洲量子传感生物医疗商业化新兴力量

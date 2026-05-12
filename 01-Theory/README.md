@@ -16,7 +16,15 @@
 
 ## 资料索引
 
-<!-- 请在下方按类别添加资料链接 -->
+---
+
+*最后更新: 2026-05-12 (本次新增: 量子磁力传感器全球市场报告 IMARC 2026-2034/ Compact Cold Atom Interferometer Gyroscope IEEE 2025/ 扫描NV显微镜重新定义纳米磁学观测范式)*
+
+### 量子磁力计市场 / Quantum Magnetometry Market
+
+- [量子传感器市场报告 2026-2034 (IMARC, 2026-04)](https://www.gii.tw/report/imarc2009014-quantum-sensors-market-report-by-product-atomic.html) - 全球量子传感器市场规模2025年达6.103亿美元，2034年前保持高速增长；产品类型涵盖原子钟、磁传感器、PAR量子传感器、重力传感器；应用领域包括军事国防、汽车、农业、石油天然气、医疗健康；IMARC预测2026-2034年CAGR双位数增长，为量子传感产业投资提供数据支撑
+
+- [全球及中国量子磁力传感器行业研究分析及前景战略建议报告 (鸿晟信合, 2026-01)](https://www.hsiti.com/123649.html) - 2026年版行业深度报告，涵盖量子磁力传感器技术路线、市场格局、主要厂商；中国市场是全球增长最快的区域市场之一；报告为理解量子磁力传感器产业全貌提供系统性参考
 ### 论文 / Papers
 
 - [Room-Temperature NV Center Quantum Registers: Quantum Volume of 8 (arXiv:2412.12959, 2024)](https://arxiv.org/abs/2412.12959) - 基于室温NV色心量子寄存器定义连接映射与单量子比特性能，all-to-all连接结构使2和3量子比特门性能具有竞争力；实验校准误差模型，估计量子体积达8，为室温量子计算与传感一体化奠定基础

@@ -16,7 +16,9 @@
 
 ## 资料索引
 
-<!-- 请在下方按类别添加资料链接 -->
+- [Compact Cold Atom Interferometer Gyroscope (IEEE ICASSP 2025)](https://ieeexplore.ieee.org/document/11300795/) - 高精度旋转测量对惯性导航和地球物理至关重要；冷原子干涉仪陀螺仪(CAIG)无需机械旋转元件即可实现高灵敏度角速度检测；论文提出紧凑型设计方案，分析灵敏度与系统参数关系，为量子陀螺仪实用化提供工程参考
+
+- [Performance Evaluation of a Compact Cold Atom Interferometer Gyroscope](https://ieeexplore.ieee.org/document/11300795/) - 冷原子干涉陀螺仪(CAIG)性能评估研究，分析系统噪声预算、 Allan方差、长期稳定性；是量子陀螺仪从实验室向实用惯性导航系统转化的重要技术基础
 ### 芯片化与微型化 / Chip-Scale & Miniaturization
 
 - [QuantumVillage/UncutGem V2 - 全球首个全栈开源NV色心磁力计,DEF CON 33 2025发布 (2025)](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源量子传感平台,V2版本于2025年 DEF CON 33发布;硬件(PCB/钻石支架)、固件(Arduino IDE)、science文档完整开源;采用COTS器件,微波源用ADF4350/1,ESP32主控,整机构建成本约£115;设计原则:平台化、COTS最大化、软件定义传感、简化装配;被称为量子技术的"Apple II时刻",让任何人能在家里安全操作量子传感设备
