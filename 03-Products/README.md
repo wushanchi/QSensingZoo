@@ -127,6 +127,26 @@
 - **目标**：2030 年将世界首个功能完备量子重力传感器送入低地球轨道（LEO）
 - **意义**：地球物理观测从"经典时代"迈向"量子时代"
 
+#### Infleqtion — Tiqker 水下自主潜航器部署（2025-10）
+- [全球首次!量子光学钟成功部署无人潜艇（QQ, 2025-10）](https://so.html5.qq.com/page/real/search_news?docid=70000021_527690345dc09652)
+- **事件**：英国皇家海军 XLUUV "XV Excalibur" 成功搭载 Infleqtion Tiqker 光学原子钟，完成全球首次量子光学钟在水下作战平台部署
+- **里程碑**：高精度量子传感器首次在水下作战平台投入运行，验证无 GPS 环境 PNT 能力
+
+#### Infleqtion + 赛峰集团 — 量子增强精密授时方案（2026-04）
+- [Infleqtion推出面向关键任务系统的量子精密授时解决方案（腾讯, 2026-04）](https://new.qq.com/rain/a/20260402A06T3I00)
+- **产品**：集成 Infleqtion Tiqker 量子光钟 + 赛峰 White Rabbit + SecureSync® 同步平台
+- **应用**：金融市场、军事行动、电信网络、数据中心 GNSS 拒止环境
+
+#### Infleqtion 上市 + Q1 2026 财报预期（2026-02/05）
+- [中性原子量子计算公司Infleqtion上市（QQ, 2026-02）](https://so.html5.qq.com/page/real/search_news?docid=70000021_726699fba5b37052)
+- **时间**：2026年2月17日，登陆纽交所，代码 INFQ（SPAC 合并）
+- [Infleqtion将于2026-05-14美股收盘后发布Q1 2026财报（Businesswire 2026-05-04）](https://www.businesswire.com/news/home/20260504005070/en/) — 2025年营收3250万美元，2026年指引4000万美元
+
+#### 英国 Dstl 量子原子钟（2025-01）
+- [英国国防部机密实验室制造首台量子原子钟（百度百科, 2025-01）](https://baike.baidu.hk/item/%E9%87%8F%E5%AD%90%E9%92%9F/65284986)
+- **机构**：英国国防科学技术实验室（DSTL）
+- **目标**：增强军事情报和监视能力
+
 #### UncutGem — 开源 NV 磁力计（Quantum Village, DEF CON 33）
 - [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源 NV 金刚石磁力计
 - **创新点**：消费级现成（COTS）元件 + Arduino IDE 开源固件，模块化可定制
