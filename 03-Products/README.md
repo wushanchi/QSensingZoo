@@ -83,6 +83,7 @@
 ### 商用产品 / Commercial Products
 
 - [Muclock 激光冷却原子钟 - Route des Lasers (2026)](http://www.guangbozhilu.com/index.php?c=content&a=show&id=97&siteid=2) - 全球首款基于激光冷却原子的商用原子钟，兼具优异短期与长期稳定性，可溯源至SI秒定义，提供频率与时间标准双输出；相较传统Maser+Cs钟组合具有更紧凑的结构与更低维护需求；适用于时间分发、网络同步与授时网络建设
+- [SBQuantum — ESA新合同·灵敏度<100pT·带宽400Hz·精度200pT (2025-11)](https://www.qtc.com.cn/index.php/flash/176342856720147.html) - 2025年11月SBQuantum与ESA签署新合同(近100万美元，FutureEO计划)，交付针对太空地球观测优化的新型量子磁力计原型；灵敏度提高至<100皮特斯拉、带宽提升至400赫兹、精度达200皮特斯拉，满足先进地球观测任务要求
 - [Infleqtion Tiqker Quantum Optical Clock](https://www.infleqtion.com/) - 全球首款量子增强精密授时解决方案，与赛峰电子White Rabbit/SecureSync系统整合，定位关键任务系统时间同步；2026年2月通过SPAC合并登陆纽交所(NYSE:INFQ)，市值24亿美元
 - [Infleqtion 量子精密授时 + 赛峰电子/防务战略合作 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_68069ce675711852) - 2026年4月1日Infleqtion联合赛峰电子与防务公司(Safran Electronics & Defense)，推出首款量子增强精密授时解决方案；Tiqker量子光钟与赛峰White Rabbit及SecureSync系统完成整合并通过验证，面向全球国防、电信及关键基础设施领域客户开放
 - [Q-CTRL Boulder Opal & Fire Opal](https://q-ctrl.com/) - AI驱动的量子控制基础设施软件，支持量子传感与量子计算双赛道，Boulder Opal面向R&D，Fire Opal面向算法开发者；Q-CTRL实现全球首个GPS-free量子导航量子优势
@@ -115,6 +116,7 @@
 
 ### 量子传感产业动态 / Industry Updates
 
+- [全球量子磁力传感器市场规模：CAGR 87.08% (2026-2033) (2026)](https://www.gelonghui.com/p/4053827) - 2026年全球量子磁力传感器市场规模约0.21亿美元，预计2033年达16.84亿美元，年均复合增长率87.08%；2024年全球产能2000个、销量1791个、平均售价932美元/个、行业毛利率42%；市场高速增长由NV色心与光泵技术驱动
 - [Q-Expo 2026 - 欧盟量子技术博览会 (2026-05-18~19, 欧洲)](https://qt.eu/) - EU Quantum Flagship主办，量子传感与计量是四大支柱之一；量子计算顾问委员会于2026年4月28日成立，推动欧洲量子生态加速成熟；5月18-19日在欧洲召开，展示量子传感从实验室到工业规模的最新进展
 
 - [电子科技大学/天府绛溪实验室 — 全球首个氮化镓量子光源芯片发布，输出波长100nm突破 (2025)](https://scnews.newssc.org/system/20250515/001527156.html) - 全球首个氮化镓(GaN)量子光源芯片，攻克高质量氮化镓晶体薄膜生长、波导侧壁与表面散射损耗等技术难题；输出波长范围从25.6nm增加到100nm，突破国际现有记录；可朝单片集成发展；是量子互联网核心器件，有望2026年实现多场景技术验证；代表量子传感/通信核心光电器件国产化突破
@@ -238,7 +240,7 @@
 
 ---
 
-*最后更新: 2026-05-09 (本次新增：Q-CTRL量子计算材料发现3000倍加速(2026-05-07)/Quantum Design完成收购牛津仪器纳米科学部(2026-01-02))*
+*最后更新: 2026-05-12 (本次新增: 量子磁力计市场CAGR 87.08%数据/SBQuantum ESA新合同灵敏度<100pT(2025-11)/清理冗余条目)*
 
 ### 量子传感芯片化进展 / Chip-Scale Progress
 
