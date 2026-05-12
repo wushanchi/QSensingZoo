@@ -128,15 +128,13 @@
 - [SandboxAQ AQNav - 全球首款商用量子+AI导航系统,应对GPS干扰 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日SandboxAQ发布AQNav,整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成飞行测试,从单发动机到大型军用运输机均验证有效;抗干扰、全天候、地形无关;代表量子传感在导航领域首个大规模商用里程碑
 - [Delft Vydar - GPS-free无人机导航获美国 funding (2026)](https://www.bits-chips.nl/) - 代尔夫特理工大学衍生公司Vydar于2026年5月获美国资金支持,开发无GPS无人机导航技术;结合量子传感与AI实现复杂电磁环境下的可靠自主导航;代表量子传感在无人系统定位领域加速商业化
 - [量子导航技术在英国铁路取得重大突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) - 2026年3月量子惯性导航系统(RQINS)在全球范围内首次完成铁路实车测试,搭载于英国GTR运营列车在伦敦至韦林花园市线路运行;项目由MoniRail牵头,联合帝国理工学院/萨塞克斯大学/QinetiQ等战略联盟推进,获英国创新署与DSIT支持;量子传感为GPS拒止环境提供更低成本、更可靠、更抗干扰的定位方案
-- [SandboxAQ AQNav - 全球首款商用量子+AI导航系统,应对GPS干扰 (2026)](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) - 2026年5月2日SandboxAQ发布AQNav,整合AI算法、量子传感与地球地壳磁场实现GPS拒止环境导航,覆盖空中/陆地/海上全场景;已在美国空军多型飞机上完成飞行测试,从单发动机到大型军用运输机均验证有效;抗干扰、全天候、地形无关;代表量子传感在导航领域首个大规模商用里程碑
-
-- [量子导航技术在英国铁路取得重大突破 (2026)](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) - 2026年3月量子惯性导航系统(RQINS)在全球范围内首次完成铁路实车测试,搭载于英国GTR运营列车在伦敦至韦林花园市线路运行;项目由MoniRail牵头,联合帝国理工学院/萨塞克斯大学/QinetiQ等战略联盟推进,获英国创新署与DSIT支持;量子传感为GPS拒止环境提供更低成本、更可靠、更抗干扰的定位方案
-
 - [A Short Introduction to Basic Principles of Quantum Navigation Based-on Rb Cold Atom Interferometry (arXiv:2405.14910, 2024)](https://arxiv.org/abs/2405.14910) - 基于铷冷原子干涉仪的量子导航入门综述,阐述如何利用原子能级对外部变化的固有敏感性实现无卫星自校准导航系统;适用于惯性导航传感器与量子陀螺仪基础研究
-
 - [Improved Inertial Navigation With Cold Atom Interferometry (Gyroscopy and Navigation, 2022)](https://link.springer.com/article/10.1134/S207510872104009X) - 冷原子干涉仪惯性导航系统误差特性分析,扩展卡尔曼滤波器框架在线估计误差源,校正传统IMU系统误差,显著提升 strapdown 计算精度;适用于地球轨道卫星等高端应用场景
-
 - [Sandia Labs Atom Interferometry - GPS-free Navigation Sensor (2025)](https://www.sandia.gov/quantum/atom-interferometry/) - 美国桑迪亚国家实验室研发紧凑型原子干涉仪传感器头,采用光栅磁光阱(GMOT)技术实现冷原子囚禁,目标实现无卫星导航;量子惯性传感与重力辅助导航结合,减少GPS依赖
+
+### 量子陀螺仪重大突破 / Quantum Gyroscope Breakthroughs
+
+- [MIT/本田/陆军DEVCOM — 腔增强固态核自旋陀螺仪灵敏度提升3个数量级 (PRL 2026-05-09)](https://new.qq.com/rain/a/20250512A083QW00) - MIT、美国本田研究所、陆军DEVCOM陆军研究实验室、马萨诸塞大学波士顿分校联合发表，基于NV系综构建nNV-cQED系统，首次实现电磁感应透明、无反转激射、振荡行为；评估为惯性传感器时旋转灵敏度较此前固态自旋演示提升3个数量级；NV电子自旋可同时用作comagnetometer，四个结晶轴NV可实现矢量分辨率；是固态核自旋量子陀螺仪的重要里程碑
 
 ### 生物医学传感 / Biomedical Sensing
 
@@ -284,4 +282,4 @@
 
 ---
 
-*最后更新: 2026-05-10 (本次新增: 低频里德堡原子链矢量电场计微米级分辨率(2026)/Q-CTRL量子计算材料发现3000倍加速(2026-05-07))*
+*最后更新: 2026-05-12 (本次新增: 腔增强固态核自旋陀螺仪灵敏度提升3个数量级PRL 2026-05-09/去重量子导航惯性传感冗余条目)*
