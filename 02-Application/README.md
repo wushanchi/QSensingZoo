@@ -182,8 +182,26 @@
 - **斯格明子磁成像**：反铁磁Néel型，DMI手性稳定
 - **技术**：结合矢量磁成像 + 热自旋波噪声谱学两种互补观测模式
 
+#### 量子传感医疗健康综述（Frost & Sullivan, 2025-04）
+- [量子感测在医疗保健领域的新兴机会（Frost & Sullivan, 2025）](http://cn.gii.tw/report/fs1725022-emerging-opportunities-quantum-sensing-healthcare.html)
+- **报告**：Emerging Opportunities for Quantum Sensing in Healthcare
+- **内容**：量子技术在诊断和个性化医疗中的应用前景
+- **重点应用**：量子脑成像（MEG）、可穿戴传感设备、神经退行性疾病早筛
+
+#### OPM-MEG 量子脑磁图（2024-12）
+- [量子传感器如何构建更好的健康（家庭医生, 2024-12）](https://www.familydoctor.cn/news/liangzi-chuanganqi-shengwuyixue-yingyong-qianli-tiaozhan-jiankang-goujian-28937.html)
+- **技术**：光泵浦磁力计（OPM）脑磁图，与SQUID系统不同，使用激光测量大脑微弱磁场
+- **优势**：非侵入性、对患者更舒适，特别适合研究儿童大脑活动
+- **应用**：癫痫、阿尔茨海默病、创伤性脑损伤诊断
+
+#### attocube 低温NV色心扫描磁学显微镜商用（2026-01）
+- [1.8K低温NV色心扫描磁学显微镜（腾讯新闻, 2026-01）](https://new.qq.com/rain/a/20260122A024JB00)
+- **型号**：attoNVM，attocube公司研发
+- **性能**：2K至300K温度区间，3µT/Hz灵敏度，纳米级杂散磁场成像
+- **应用**：量子存储设备、量子计算机用材料研发
+
 ---
-*最后更新: 2026-05-13 (本次新增: 中科大单细胞10nm磁共振/扫描NV显微镜NatureNanotech/量子传感自动驾驶融合)*
+*最后更新: 2026-05-13 (本次新增: Frost Sullivan量子传感医疗/F-35陀螺仪/METROLOG)*
 
 ---
 
