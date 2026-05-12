@@ -79,7 +79,10 @@
 - **突破**：超导量子比特上实现165%传感能力提升，优于传统拉姆齐干涉法
 - **意义**：无需复杂实时反馈或纠缠多个传感器，即可显著提升量子传感器性能
 
-### 量子传感理论
+#### ML增强NV磁力计 — IEEE 2025-12
+- [Enhancing All-Optical NV Center Magnetometry With Machine Learning: Model Selection for Efficient and Deployable Quantum Sensors (IEEE, 2025-12)](https://ieeexplore.ieee.org/document/11237007)
+- **方向**：机器学习模型选择，优化全光学NV磁力计部署效率
+- **意义**：推动NV磁力计从实验室走向可部署实用传感器
 
 #### 量子计量学基础
 - **标准量子极限（SQL）**：经典测量的最终精度极限
@@ -179,4 +182,4 @@
 - **应用**：导航 >35%，军事与航空约35%
 
 ---
-*最后更新: 2026-05-13 (本次新增: 室温0.8fT磁场传感器Nature/室温心磁图实测)*
+*最后更新: 2026-05-13 (本次新增: ML增强NV磁力计IEEE论文/量子传感导航市场8.9亿→11亿美元)*
