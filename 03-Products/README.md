@@ -257,4 +257,26 @@
 
 ---
 
+### 新增商用产品与产业动态（2026-05）
+
+#### Infleqtion — CES 2026 量子传感展示（2026-01）
+- [Infleqtion Presents on Real-World Applications of Quantum Sensing at CES 2026 (Reportify, 2025-12)](https://reportify.cn/news/1203504180715851776)
+- **事件**：全球中性原子量子技术领导者Infleqtion参加2026年1月7日至10日拉斯维加斯CES 2026量子会议轨道
+- **意义**：量子传感技术首次在CES这一全球最具影响力消费技术盛会上进行专项展示
+- **背景**：同期计划通过与Churchill Capital Corp X合并方式上市
+
+#### Infleqtion + Voyager — 量子原子钟太空部署（2025-11）
+- [Voyager and Infleqtion Partner to Launch Quantum Era in Space (Infleqtion, 2025-11)](https://infleqtion.com/voyager-and-infleqtion-partner-to-launch-quantum-era-in-space/)
+- **合作**：Voyager Technologies与Infleqtion战略合作，将双用途量子技术引入低地球轨道及更远空间
+- **进展**：整合Infleqtion Tiqker量子原子钟进入国际空间站（ISS）及下一代Starlab太空站
+- **目标**：在轨高精度授时增强导航、通信和关键基础设施韧性
+
+#### attocube attoNVM — 1.8K低温NV扫描磁学显微镜（2026-01商用）
+- [1.8K低温NV色心扫描磁学显微镜（腾讯新闻, 2026-01）](https://new.qq.com/rain/a/20260122A024JB00)
+- **型号**：attoNVM
+- **性能**：2K至300K温度区间，3µT/Hz灵敏度，纳米级杂散磁场成像
+- **应用**：量子存储材料、量子计算机用材料研发；已商业化量产
+
+---
+
 *最后更新: 2026-05-13 (本次更新: 量子传感导航市场8.9亿→11亿美元CAGR 23%/量子传感产业18.8亿→2035年50.7亿/Infleqtion Tiqker潜艇部署+赛峰量子授时+上市)*
