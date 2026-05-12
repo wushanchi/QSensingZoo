@@ -23,6 +23,19 @@
 
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
+#### 量子传感导航市场高增长（2026）
+- [量子传感导航全球市场报告（The Business Research Company, 2026-03）](https://cn.gii.tw/report/tbrc1873049-quantum-sensor-navigation-global-market-report.html)
+- **2025年规模**：8.9亿美元 → **2026年预测**：11亿美元，CAGR 23.0% → **2030年**：24亿美元
+
+#### ML增强NV磁力计论文（IEEE 2025-12）
+- [Enhancing All-Optical NV Center Magnetometry With Machine Learning (IEEE, 2025-12)](https://ieeexplore.ieee.org/document/11237007)
+- **方向**：机器学习模型选择，优化全光学NV磁力计部署效率，推动实用化
+
+#### UncutGem — 全栈开源NV磁力计（DEF CON 33 2025）
+- [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源NV金刚石磁力计
+- **创新**：消费级现成（COTS）元件 + Arduino IDE 开源固件，模块化可定制
+- **意义**：推动量子传感技术普及化，降低教育与研究门槛
+
 #### Q-CTRL 量子传感入选《时代》2025年最佳发明（2025-10）
 - [Q-CTRL量子导航系统入选《时代》杂志2025年最佳发明榜（腾讯, 2025-10）](https://so.html5.qq.com/page/real/search_news?docid=70000021_18068e8e80b24152)
 - **产品**：软件加固型量子导航系统（Ironstone Opal）
@@ -47,5 +60,5 @@
 - **CAGR（2026-2032）**：7.9%
 
 ---
-*最后更新: 2026-05-13 (本次新增: Q-CTRL TIME最佳发明/DARPA 3800万合同/量子陀螺仪市场)*
+*最后更新: 2026-05-13 (本次新增: 量子传感导航市场8.9亿→11亿美元CAGR 23%/ML增强NV磁力计/UncutGem开源NV磁力计)*
 
