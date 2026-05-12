@@ -140,6 +140,10 @@
 
 ### 生物医学传感 / Biomedical Sensing
 
+### 生物医学传感 / Biomedical Sensing
+
+- [中科大石发展团队实现单细胞磁共振检测 — 10nm分辨率/10⁻¹⁵T灵敏度/无损实时 (2026-05)](https://www.diamondspectator.com/newsinfo/11148836.html) - 基于金刚石NV色心量子传感器，首次实现活体单细胞磁共振检测；空间分辨率10nm，磁灵敏度10⁻¹⁵T，500nm探针无标记无损检测；标志量子传感在生物医学领域里程碑式突破
+
 - [Biomagnetik Park - 量子心磁图(MCG)+AI心血管诊断 (Charité Berlin 2026)](https://www.biomagnetik.com/) - 德国初创公司基于最灵敏量子传感器(金刚石NV色心)开发无创心磁图,结合AI实现心血管疾病精准诊断;Charité Berlin 2021-2024临床研究证明,基于Park-Brachmann评分,Vector MCG排除心肌炎特异性达95.0%(传统方法难以企及);量子传感在心脏病早期诊断与无创筛查领域展现变革性潜力
 
 ### 量子传感新兴应用 / Emerging Applications
