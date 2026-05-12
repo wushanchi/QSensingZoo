@@ -294,4 +294,19 @@
 
 ---
 
-*最后更新: 2026-05-13 第二次 (本次新增: 量子磁力传感器市场CAGR 86.2%/SBQuantum太空发射)*
+#### 光子时钟芯片 — 国产突破（北京大学/中科院, Nature Electronics, 2025-02）
+- [世界首款光子时钟芯片（腾讯, 2025-03）](https://cloud.tencent.cn/developer/news/2254425)
+- **团队**：北京大学常林研究团队 + 中国科学院空天信息创新研究院
+- **成果**：2025年2月发表于《自然·电子学》，实现光子时钟芯片量产化技术
+- **参数**：时间调控速度提升100倍，主频突破100GHz（传统电子芯片50倍性能）
+- **成本**：将单价超百万元的进口光频梳设备压缩至指甲盖大小芯片
+- **应用**：智能计算、6G通信、空天遥感
+
+#### 片上集成光学原子钟激光器（Nature Photonics, 2025-01）
+- [Optical atomic clock interrogation using an integrated spiral cavity laser (Nature Photonics, 2025-01)](https://www.nature.com/articles/s41566-024-01588-8)
+- **技术**：集成超高品质因子螺旋腔（spiral cavity），1348nm种子激光器接口
+- **性能**：芯片上频率不稳定度达7.5×10⁻¹⁴，频率倍增至674nm后 interrogation 窄线宽锶原子跃迁
+- **意义**：光子集成是光学原子钟小型化/坚固化最具吸引力方案
+
+---
+*最后更新: 2026-05-13 (本次新增: 光子时钟芯片Nature Electronics 2025-02/片上螺旋腔激光器Nature Photonics 2025-01)*
