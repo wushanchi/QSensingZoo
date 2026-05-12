@@ -113,6 +113,25 @@
 - **Q-Expo 2026**：欧盟量子技术博览会，量子传感与计量是四大支柱之一
 - **核时钟**：进入组装倒计时，人类计时精度迎来量级跃升
 
+### 新增商用产品与技术
+
+#### Infleqtion — QGGPf 太空量子重力梯度仪
+- [NASA QGGPf 任务（2026）](https://www.toutiao.com/article/7609838419820216832/) - 与 NASA JPL 合作
+- **项目**：Quantum Gravity Gradiometer Pathfinder，耗资超 2000 万美元
+- **目标**：2030 年将世界首个功能完备量子重力传感器送入低地球轨道（LEO）
+- **意义**：地球物理观测从"经典时代"迈向"量子时代"
+
+#### UncutGem — 开源 NV 磁力计（Quantum Village, DEF CON 33）
+- [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源 NV 金刚石磁力计
+- **创新点**：消费级现成（COTS）元件 + Arduino IDE 开源固件，模块化可定制
+- **意义**：推动量子传感技术普及化，降低教育与研究门槛
+- **发布**：V2 版本于 DEF CON 33（2025年）正式发布
+
+#### Qnami ProteusQ — 量子钻石原子力显微镜
+- [Qnami 官网产品介绍](https://www.octsources.com/detail/420.html) - 全球首款商用 NV 磁力仪开发商
+- **核心**：人造金刚石 NV 色心作为量子传感器
+- **应用**：纳米成像、材料表征、生命科学
+
 ---
 
-*最后更新: 2026-05-13 (本次新增: 国仪量子科创板IPO审议通过/常温紧凑型NV磁力计585pT√Hz/飞秒激光直写NV波导)*
+*最后更新: 2026-05-13 (本次新增: QGGPf太空量子重力梯度仪/UncutGem开源NV磁力计/Qnami ProteusQ)*
