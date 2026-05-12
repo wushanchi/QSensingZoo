@@ -27,6 +27,8 @@
 - [全球及中国量子磁力传感器行业研究分析及前景战略建议报告 (鸿晟信合, 2026-01)](https://www.hsiti.com/123649.html) - 2026年版行业深度报告，涵盖量子磁力传感器技术路线、市场格局、主要厂商；中国市场是全球增长最快的区域市场之一；报告为理解量子磁力传感器产业全貌提供系统性参考
 ### 论文 / Papers
 
+- [中科大石发展团队实现单细胞磁共振检测 — 10nm空间分辨率/10⁻¹⁵T磁灵敏度/无损实时 (2026-05)](https://www.diamondspectator.com/newsinfo/11148836.html) - 中科大杜江峰院士/石发展教授/王亚教授团队，基于金刚石NV色心量子传感器，首次实现活体单细胞磁共振检测；空间分辨率10nm（较传统毫米级提升6个数量级），磁灵敏度10⁻¹⁵T（较传统设备提升约100倍），500nm探针实现无标记/无损/实时检测；标志着人类首次能无损"听清"细胞内部的微弱磁场声音；来源：中国科大新闻网/新华社/科技日报/《自然》/PNAS等
+
 - [Room-Temperature NV Center Quantum Registers: Quantum Volume of 8 (arXiv:2412.12959, 2024)](https://arxiv.org/abs/2412.12959) - 基于室温NV色心量子寄存器定义连接映射与单量子比特性能，all-to-all连接结构使2和3量子比特门性能具有竞争力；实验校准误差模型，估计量子体积达8，为室温量子计算与传感一体化奠定基础
 - [Atomic-scale quantum sensor for electric and magnetic fields (Nature Nanotechnology, 2024)](https://link.springer.com/10.1038/s41565-024-01724-z) - 基于扫描隧道显微镜(STM)尖端附着Fe原子和PTCDA分子构建单分子量子传感器，实现亚Angstrom空间分辨率探测单Fe原子和Ag二聚体的磁场和电场信号；为导体表面原子尺度量子传感实验开辟新途径
 - [Limits of absolute vector magnetometry with NV centers in diamond (arXiv:2504.20750, 2025)](https://arxiv.org/abs/2504.20750) - 研究NV色心矢量磁力测量精度极限，推导磁场矢量到自旋共振频率的精确解析公式，系统分析误差来源与补偿策略，对绝对磁场测量精度评估具有重要参考价值
