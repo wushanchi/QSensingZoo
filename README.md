@@ -54,6 +54,28 @@
 - **背景**：量子计算正摆脱"噪声引力"进入商业化轨道，2026年被业界视为"奇点之年"
 - **关联**：量子传感作为量子技术先遣部队，同期加速商业化进程，量子计算+量子传感双线并进
 
+#### Qnami — 全球量子传感领导者，ProteusQ-LT低温NV扫描显微镜（2026-05活跃）
+- [Qnami 官网](http://www.qnami.com/) - 世界领先量子传感公司，专注于量子技术在传感与成像应用的商业化
+- **产品线**：
+  - **ProteusQ-LT**：低温NV（氮-空位）扫描显微镜，用于原子级表面磁场成像
+  - **ProteusQ**：量子波传感平台，Unlock量子技术实现更美好世界
+  - **Quantilever**：先驱级量子传感产品，室温NV磁力计
+- **技术**：金刚石量子芯片纳米制造、系统集成、数据分析软件全栈能力
+- **应用**：纳米技术、生命科学、地球科学
+- **合作**：与全球顶尖大学和产业深度合作，提供高性能量子传感解决方案
+
+#### Quantum Singapore 2026 — Peter Shor亲临新加坡峰会，量子传感进入规模化部署（2026-05-13）
+- [Quantum Singapore 2026论坛（so.html5.qq.com, 2026-05）](https://so.html5.qq.com/page/real/search_news?docid=70000021_12669871b9e15152) — 论坛主题"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"
+- [Peter Shor亲临演讲（new.qq.com, 2026-02-07）](https://new.qq.com/rain/a/20260207A067DT00) — Shor算法提出者极少公开露面，此次参会彰显量子传感从学术走向工业的趋势
+- **峰会焦点**：量子传感从硬件突破到工业部署，涵盖国防、医疗、金融、气候、物流多领域；已从"展示能做什么"进入"规模化部署"阶段
+- **下一站**：波士顿峰会（6月25-26日，Encore Boston Harbor），接力探讨量子、AI与HPC企业级规模化部署
+
+#### MIT/芝加哥大学/东京大学/港中文 — 固态量子传感器首次实现多参数同时估计（PRX Quantum, 2026-04）
+- [MIT/芝加哥大学/东京大学/港中文联合研究（so.html5.qq.com, 2026-04-16）](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852)
+- **技术**：基于金刚石氮-空位（NV）中心固态量子传感器，实验实现量子多参数估计
+- **作者**：Takuya Isogawa、Guoqing Wang（王国庆）、Boning Li 为共同第一作者，Haidong Yuan、Paola Cappellaro 为共同通讯作者
+- **意义**：多参数同时估计是量子传感实用化的重要方向，突破单参数测量局限，发表在PRX Quantum
+
 ---
 
 #### Quantum.Tech World 2026新加坡峰会闭幕，Peter Shor亲临演讲（2026-05-13）
@@ -457,7 +479,7 @@
 - **方向**：探索集体效应对传感的优势，发现机械模式梳（MMC）等新光谱特征
 - **应用**：从暗物质/量子重力基础物理到实际加速度传感
 
-*最后更新: 2026-05-14 (本次新增: UncutGem开源NV磁力计V2/QDTI量子生物检测/Qubic量子微波传感/量子重力图谱Nature论文)*
+*最后更新: 2026-05-14 (本次新增: Qnami量子传感领导者/ProteusQ-LT低温NV扫描显微镜/Quantum Singapore 2026峰会/MIT多参数同时估计PRX Quantum)*
 
 ---
 
