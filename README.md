@@ -76,6 +76,41 @@
 - **应用**：纳米技术、生命科学、地球科学
 - **合作**：与全球顶尖大学和产业深度合作，提供高性能量子传感解决方案
 
+
+#### 布里斯托大学/伦敦帝国理工 — 首个实现量子极限大规模光子传感芯片（2025-02）
+- [Quantum sensing to engineer photonic sensors（techbriefs.com, 2025-02）](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) — 布里斯托大学领导的物理学家团队首次实现量产级光子传感器在量子极限下运行
+- **技术**：在商业代工厂微制造的光子芯片上使用微环谐振器纳米制造（microring resonator），突破量产光子传感器的量子极限
+- **原理**：利用光的量子特性而非纠缠/压缩态实现量子增强传感，规避了"大多数量子传感方案依赖难以生成的纠缠或压缩态"这一主要障碍
+- **优势**：无需使用难以生成的量子态，在实际可制造系统中实现量子增强
+- **应用**：监测温室气体、癌症检测等
+- **意义**：推动量子传感从"实验室演示"迈向"可量产商业化"
+
+#### 北京大学/南洋理工大学 — 光导原子干涉仪量子传感与精密测量研究（2025-05）
+- [Quantum Sensing and Metrology with Optically Guided Atom Interferometer（华南师范大学物理学院, 2025-05-13）](https://physics.scnu.edu.cn/a/20250513/12996.html) — 南洋理工大学辛明杰报告
+- **技术**：光导原子干涉仪用于精确测量基本常数（如牛顿引力常数和细结构常数），也是检验广义相对论和探索新物理的重要工具
+- **趋势**：原子干涉仪正从实验室走向实际应用，作为高度灵敏的量子传感器用于重力仪、惯性传感、测地学和地球物理探测
+- **挑战**：精度受测量时间尺度限制，而测量时间又受原子下落距离限制，小型化会降低性能
+- **解决方向**：相干操纵等新技术有望突破小型化瓶颈
+
+#### 空中绝对重力测量 — 基于量子重力仪的机载绝对重力测量（中国，Acta Physica Sinica 2025）
+- [Airborne absolute gravity measurements based on quantum gravimeter（物理学报, 2025）](https://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.74.20241621) — 量子重力仪机载绝对重力测量的里程碑研究
+- **机构**：多家机构联合（翟陈洁、王靖、周俊杰等）
+- **技术**：基于量子重力仪的机载绝对重力测量系统
+- **意义**：量子重力传感从地面固定式扩展到航空移动平台
+
+#### Communication Physics — 量子力传感：数字孪生原子Bose-Einstein凝聚体（2024-06）
+- [Quantum force sensing by digital twinning of atomic Bose-Einstein condensates（Communications Physics, 2024-06）](https://www.nature.com/articles/s42005-024-01662-1)
+- **技术**：将数字孪生与机器学习结合，显著增强弱信号检测灵敏度；将原子力传感器的"免先验知识力数据数字副本"与"异常检测技术"相结合
+- **突破**：在原子力传感器中展示灵敏度数量级提升
+- **普适性**：不依赖系统特定细节或处理信号，适用于多种传感技术领域
+
+#### 西北大学 — 首个量产可制造的电子-光子量子芯片（Nature Photonics, 2025-07）
+- [First electronically-photonic quantum chip manufactured in commercial foundry（Northwestern Now, 2025-07）](https://news.northwestern.edu/stories/2025/07/first-electronically-photonic-quantum-chip-manufactured-in-commercial-foundry/)
+- **技术**：首个在商业代工厂制造、集成了电子和光子功能的量子芯片
+- **优势**：结合电子电路的计算能力与光子器件的高速通信能力
+- **应用**：量子计算、量子传感、量子通信等多领域
+- **意义**：量子系统从"实验室定制"走向"商业 foundry量产"，降低制造成本、提高可扩展性
+
 #### Quantum Singapore 2026 — Peter Shor亲临新加坡峰会，量子传感进入规模化部署（2026-05-13）
 - [Quantum Singapore 2026论坛（so.html5.qq.com, 2026-05）](https://so.html5.qq.com/page/real/search_news?docid=70000021_12669871b9e15152) — 论坛主题"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"
 - [Peter Shor亲临演讲（new.qq.com, 2026-02-07）](https://new.qq.com/rain/a/20260207A067DT00) — Shor算法提出者极少公开露面，此次参会彰显量子传感从学术走向工业的趋势
