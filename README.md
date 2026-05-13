@@ -25,6 +25,33 @@
 
 ---
 
+#### MIT/芝加哥大学/东京大学/港中文 — 固态量子传感器多参数同时估计（PRX Quantum, 2026-04）
+- [MIT等团队首次实现固态量子传感器多参数同时估计（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852)
+- **技术**：基于金刚石氮-空位（NV）中心固态量子传感器，实验实现量子多参数估计
+- **作者**：Takuya Isogawa、Guoqing Wang（王国庆）、Boning Li 为共同第一作者，Haidong Yuan、Paola Cappellaro 为共同通讯作者
+- **意义**：多参数同时估计是量子传感实用化的重要方向，突破单参数测量局限
+
+#### attocube attoNVM — 2K低温NV色心扫描磁强计（2026-01）
+- [2K低温NV色心扫描磁学显微镜实现纳米尺度定量磁场成像（腾讯, 2026-01）](https://new.qq.com/rain/a/20260122A024JB00)
+- **产品**：attoNVM — 杂散磁场测量仪，基于金刚石NV色心技术
+- **温度范围**：2K 至 300K 温度区间内工作
+- **分辨率**：纳米级空间分辨率，灵敏度 3 µT/√Hz
+- **应用**：量子层面磁性现象研究、新型存储设备/量子计算机用材料研发
+
+#### 量子传感产业化：技术突破与多领域应用融合（CAICT, 2025-07）
+- [Industrialization of quantum sensing: technology breakthroughs and integration of multi-field application scenarios（ICTP, 2025-07）](http://ictp.caict.ac.cn/EN/lexeme/showArticleByLexeme.do?articleID=1440)
+- **来源**：中国信息通信研究院（CAICT）/ 科技期刊《Information and Communications Technology and Policy》
+- **作者**：蔡明诚、赵龙、孙凤、徐克飏
+- **聚焦**：量子传感从实验室向产业化的技术突破路径，及多领域应用场景融合趋势
+
+#### 量子传感国际市场报告（2026-03/04 更新）
+- **360iResearch（2026-03）**：2025年8.5994亿美元 → 2032年22.864亿美元（CAGR 14.99%）
+- **The Business Research Company（2026-03）**：2025年4.6亿美元 → 2026年5.5亿美元（CAGR 19.2%），导航市场2025年8.9亿美元 → 2030年24亿美元（CAGR 23.0%）
+- **IDTechEx（2026版）**：2046年增至19亿美元，涵盖40+厂商、20个细分领域
+- **IMARC（2026-04）**：2025年全球6.103亿美元 → 2034年10.295亿美元（CAGR 5.80%），量子磁力计2026-2032 CAGR高达91.8%
+
+---
+
 #### 麻省理工量子雷达：实现掩埋物体成像（MIT Technology Review, 2025-08）
 - [This quantum radar could image buried objects（MIT Technology Review, 2025-08）](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/)
 - **技术**：新型量子雷达，使用玻璃腔中的原子云检测反射无线电波，属于量子传感器范畴
@@ -181,4 +208,4 @@
 - **2025年规模**：约0.86亿美元 | **2032年预测**：约1.46亿美元 | **CAGR（2026-2032）**：7.9%
 
 ---
-*最后更新: 2026-05-13 (本次新增: Monarch Quantum×Oratomic中性原子合作/博世量子传感器路线图/南京邮电大学综述补充/IMARC市场报告)*
+*最后更新: 2026-05-13 (本次新增: MIT多参数量子传感PRX Quantum 2026-04/attocube attoNVM低温NV显微镜/CAICT量子传感产业化综述/IMARC量子磁力计CAGR 91.8%)*
