@@ -23,6 +23,21 @@
 
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
+#### Quantum Computing Inc — 股价飙升32%，"2026量子计算奇点之年"（2026-05-12）
+- [量子计算公司Quantum Computing股价飙升32%（so.html5.qq.com, 2026-05-12）](https://so.html5.qq.com/page/real/search_news?docid=70000021_5546a032e4b47852) — 5月12日单日涨幅32%，为自2025年6月以来最大涨幅
+- **背景**：量子计算正摆脱"噪声引力"进入商业化轨道，2026年被业界视为"奇点之年"
+- **关联**：量子传感作为量子技术先遣部队，同期加速商业化进程，量子计算+量子传感双线并进
+
+---
+
+#### Quantum.Tech World 2026新加坡峰会闭幕，Peter Shor亲临演讲（2026-05-13）
+- [Quantum.Tech World 2026 — 新加坡峰会](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
+- **亮点**：Peter Shor（Shor算法提出者）亲临演讲，量子计算领域祖师级人物极少公开露面；Dani Couger（Lockheed Martin）展示量子工程前沿进展
+- **峰会焦点**：量子传感从硬件突破到工业部署的实战进展，涵盖国防、医疗、金融、气候、物流多领域；量子传感已从"展示能做什么"进入"规模化部署"阶段
+- **下一站**：波士顿峰会（6月25-26日，Encore Boston Harbor），接力探讨量子、AI与HPC的企业级规模化部署
+
+---
+
 #### 2025国际量子年 & 4月14日世界量子日 — 量子传感成为全球科技焦点（2025-2026）
 - [2025世界量子科技年（bilibili, 2025-04）](https://www.bilibili.com/opus/1054105005894664196) — 2025年被指定为"世界量子技术年"（Year of Quantum Technology），4月14日为首个世界量子日（World Quantum Day）
 - [深度解读2025年度图灵奖：量子信息技术从梦想到现实（量子科话, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_55569db904a92552) — 2025年图灵奖授予 Charles Bennett 与 Gilles Brassard（BB84协议创始人），表彰其在量子信息科学基础方面的开创性贡献
@@ -163,13 +178,13 @@
 - **技术方向**：量子干涉、量子纠缠、量子态操控
 - **发展趋势**：提高探测精度、拓展应用领域、降低成本、智能化发展
 
-#### Infleqtion Q1 财报明日发布 — 纽交所首份季报（2026-05-13更新）
+#### Infleqtion Q1 财报发布 — 纽交所首份季报，今日发布（2026-05-14）
 - [Infleqtion 将成 2026 年首家上市的中性原子量子技术企业（nanoplatform, 2026-01）](http://nanoplatform.cn/new/15963/)
 - [Infleqtion 上市后首个分析师日（华尔街俱乐部, 2026-03）](https://www.toutiao.com/w/1859628821271552/)
 - **上市方式**：SPAC 合并，Churchill Capital Corp X（NASDAQ: CCCX），2026-02 正式登陆纽交所，股票代码 INFQ
 - **投前估值**：18 亿美元，储备超 5.5 亿美元融资，营收同比增长 80%
-- **关注明日（5月14日）**：2026 Q1（截至2026-03-31）财报发布——中性原子量子公司IPO后首份完整财季业绩，商业化进展重要检视
-- **背景**：Infleqtion同时运营量子传感（量子原子钟、量子惯性传感器）与量子计算双业务线，Q1财报将反映QS商用进度
+- **今日关注**：2026 Q1（截至2026-03-31）财报发布——中性原子量子公司IPO后首份完整财季业绩，商业化进展重要检视
+- **背景**：Infleqtion同时运营量子传感（量子原子钟、量子惯性传感器）与量子计算双业务线，Q1财报反映QS商用进度
 
 #### Infleqtion × NASA — 国际空间站升级版冷原子实验室成功投递（2026-04）
 - [Infleqtion携手NASA为国际空间站提供下一代量子技术（dtjc.gdinfo, 2026-04）](http://dtjc.gdinfo.net/choiceness/getChoicenessDetail.htm?recommendId=174363&serverId=221)
@@ -416,7 +431,7 @@
 - **方向**：探索集体效应对传感的优势，发现机械模式梳（MMC）等新光谱特征
 - **应用**：从暗物质/量子重力基础物理到实际加速度传感
 
-*最后更新: 2026-05-14 (本次更新: 国仪量子科创板IPO过会并提交注册-募资11.69亿元-2025年营收增长32.85%净利增长92.17% / 中科大实现多模量子中继网络matter-matter纠缠14.5km / 本源悟空-180上线)*
+*最后更新: 2026-05-14 (本次更新: Quantum Computing Inc美股飙升32%-2026量子计算奇点之年 / Quantum.Tech World 2026新加坡峰会闭幕-汇聚40+国1000+创新者-Peter Shor亲临演讲 / Infleqtion 5月14日发布Q1财报-中性原子量子传感商业化首份季检 / Sand)*
 
 ---
 
