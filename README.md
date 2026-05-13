@@ -217,4 +217,24 @@
 
 ---
 
-*最后更新: 2026-05-13 (本次新增: Quantum.Tech World 2026进行中/SBQuantum 400万美元种子轮/Equal1×Q-CTRL战略合作/QuantX光学原子钟空间发射/IBM量子超算架构蓝图/量子传感跨越死亡之谷/量子纠缠原子钟/芯片级小型化路线图)*
+---
+
+#### Princeton Quantum Initiative — NV传感器量子传感研究（2026-04）
+- [Princeton Quantum Sensing and Metrology](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology)
+- **机构**：普林斯顿大学量子计划，de Leon研究组
+- **技术**：使用NV色心传感器探测量子2D自旋bath，探测表面磁性现象
+- **应用**：纳米级磁场成像、量子材料表征
+
+#### Nature Sensors — 新刊将于2026年创刊（2025-10）
+- [Nature Sensors 将于2026年正式创刊（腾讯, 2025-10）](https://new.qq.com/rain/a/20251013A03CWI00)
+- **出版方**：Springer Nature
+- **范围**：传感技术各领域基础研究、应用研究和工程研究，包括生物、计算、工程和系统等广泛领域
+- **意义**：量子传感作为传感技术重要分支，获得Nature子刊这一顶级平台，学术影响力进一步提升
+
+#### 分子自旋量子传感磁力计（npj Quantum Information, 2024-04）
+- [Quantum sensing of magnetic fields with molecular spins（Springer Nature, 2024-04）](https://link.springer.com/10.1038/s41534-024-00838-5)
+- **技术**：利用分子自旋作为量子探针，实现原子级尺度磁场探测
+- **优势**：分子自旋系统可化学设计，灵活调控传感特性
+- **应用**：纳米级磁场成像、量子材料表征
+
+*最后更新: 2026-05-13 (本次新增: Princeton NV传感研究/Nature Sensors 2026创刊/分子自旋量子传感磁力计)*
