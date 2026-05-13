@@ -308,5 +308,28 @@
 - **进展**：V2版已发布（DEF CON 33, 2025）
 - **意义**：推动量子传感技术普及化，降低教育与研究门槛
 
+#### Equal1 × Q-CTRL — 战略合作，数据中心就绪的量子计算（2026-04）
+- [Equal1与Q-CTRL携手（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_17269d78bd535352)
+- **合作内容**：将Q-CTRL用于自主校准的基础设施软件集成到Equal1的硅量子计算机中
+- **目标**：推动机架式量子计算机在企业数据中心的大规模部署
+
+#### 量子纠缠增强原子钟稳定性（Physical Review Letters, 2026-02）
+- [量子纠缠让原子钟计时稳定性更上层楼（量子科话, 2026-03）](https://so.html5.qq.com/page/real/search_news?docid=70000021_62569afdfb189352)
+- **论文**：Physical Review Letters, 2026-02，作者Ditz等人
+- **技术**：利用量子纠缠使原子钟计时稳定性更上层楼
+
+#### 量子陀螺仪市场数据（QYResearch 2026-04）
+- [洞察2026:全球与中国量子陀螺仪行业深度研究（乐晴智库, 2026-04）](https://m.gelonghui.com/p/4367201)
+- **2025年规模**：约0.86亿美元 | **2032年预测**：约1.46亿美元 | **CAGR（2026-2032）**：7.9%
+
+#### 麻省理工量子雷达：实现掩埋物体成像（MIT Technology Review, 2025-08）
+- [This quantum radar could image buried objects（MIT Technology Review, 2025-08）](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/)
+- **技术**：使用玻璃腔中的原子云（铯原子，室温）检测反射射频波，属于量子传感器
+- **合作**：NIST + RTX（defense contractor）
+- **现状**：仍为原型机，连接光学台元件便于测试
+
+#### 芯片级量子传感器 — 小型化技术路线图（2026）
+- **技术路线**（Future Markets, 2026-02）：量子射频传感器接近智能手机大小封装，芯片级原子磁力计原型机体积<100 cm³；2030年装置尺寸缩小至信用卡大小；2030年代中期完全集成芯片级解决方案体积<1 cm³
+
 ---
-*最后更新: 2026-05-13 (本次新增: Infleqtion系列动态(NASA/DOE ARPA-E/UW-Madison/NVIDIA/Voyager)/南京邮电大学综述/扫描NV显微镜新范式/Qnami ProteusQ-LT/Fraunhofer IAF虚拟实验室/QSENSATO/全球市场多机构数据/RQINS铁路实测/UncutGem开源NV)*
+*最后更新: 2026-05-13 (本次新增: Equal1×Q-CTRL战略合作/PRL量子纠缠原子钟/量子陀螺仪市场/QYResearch/MIT量子雷达原型/芯片级传感器小型化路线图)*
