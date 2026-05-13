@@ -23,6 +23,58 @@
 
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
+---
+
+#### Infleqtion 通过 SPAC 合并登陆纽交所，IPO 后首个财季业绩将于 2026-05-14 发布（2026-02）
+- [Infleqtion 将成 2026 年首家上市的中性原子量子技术企业（nanoplatform, 2026-01）](http://nanoplatform.cn/new/15963/)
+- [Infleqtion 上市后首个分析师日（华尔街俱乐部, 2026-03）](https://www.toutiao.com/w/1859628821271552/)
+- **上市方式**：SPAC 合并，Churchill Capital Corp X（NASDAQ: CCCX），2026-02 正式登陆纽交所，股票代码 INFQ
+- **投前估值**：18 亿美元，储备超 5.5 亿美元融资，营收同比增长 80%
+- **财务更新**：将于 2026-05-14（周四）美股收盘后发布 2026 Q1（截至 2026-03-31）财务业绩
+
+#### Infleqtion × NASA — 国际空间站升级版冷原子实验室成功投递（2026-04）
+- [Infleqtion携手NASA为国际空间站提供下一代量子技术（dtjc.gdinfo, 2026-04）](http://dtjc.gdinfo.net/choiceness/getChoicenessDetail.htm?recommendId=174363&serverId=221)
+- **任务**：NG-24 货运任务（诺斯罗普·格鲁曼），升级版冷原子实验室（CAL）物理套件
+- **合作方**：NASA 喷气推进实验室（JPL）
+- **突破**：创纪录在轨原子数量 + 创纪录超低温度，支持双组分量子气体同时制备
+
+#### Infleqtion × 美国能源部 ARPA-E — 390 万美元资助量子算法能源应用（2026-03）
+- [Infleqtion获美国能源部390万美元资助（QTC, 2026-03）](http://www.qtc.com.cn/article/177346199027280.html)
+- **计划**：QC3（Quantum Computing for Computational Chemistry），加速化学与材料模拟
+- **应用方向**：超导电力线路、先进电池、工程稀土磁体、突破性催化系统
+
+#### Infleqtion × 威斯康星大学麦迪逊分校 — 不中断电路的可靠量子比特测量（2026-02）
+- [Infleqtion × UW-Madison 量子比特测量突破（华盛通, 2026-02）](https://www.hstong.com/news/detail/26020322100101729)
+- **意义**：实现更快计算周期 + 更强纠错，加速中性原子量子计算机工业化进程
+
+#### Infleqtion × NVIDIA — AI 加速量子纠错突破（2026-04）
+- [Infleqtion团队解锁AI与中性原子物理的跨域融合（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_14069e0c1d295752)
+- **技术**：AI 加速量子纠错 → 中性原子逻辑量子比特，结合泄漏感知型仿真模型 + NVIDIA Ising 开源模型
+- **意义**：填补中性原子容错领域核心短板，AI+量子跨域融合进入产业化落地阶段
+
+#### Infleqtion × Voyager Technologies — 量子原子钟太空任务集成（CES 2026）
+- [Infleqtion 在 CES 2026 上展示量子传感技术实际应用（长桥, 2025-12）](https://longbridge.com/zh-HK/news/271115114)
+- **合作方**：Voyager Technologies，将量子原子钟集成到太空任务
+- **展示领域**：医疗成像、国家安全等多领域精度与灵敏度进展
+
+#### 南京邮电大学 — 量子传感关键技术研究综述（2025-09）
+- [量子传感关键技术研究综述（光学期刊, 2025-09）](https://m.opticsjournal.net/Articles/OJ500e51d3c52716a6/Abstract)
+- **作者单位**：南京邮电大学 电子与光学工程学院 / 集成电路科学与工程学院 / 南通研究院
+- **方向**：系统性综述量子传感各技术路线的关键突破与发展趋势
+
+#### 扫描 NV 显微镜：从磁成像到噪声谱学，重新定义纳米磁学观测范式（2026-03）
+- [从磁成像到噪声谱学：扫描NV显微镜正在重新定义纳米磁学观测范式（antpedia, 2026-03）](https://www.antpedia.com/news/wx_article/1027836.html)
+- **技术**：扫描氮空位显微镜（Scanning NV Microscopy, SNVM）结合矢量磁成像 + 热自旋波噪声谱学
+- **突破**：量子探针不仅能"拍照"，更能"听诊"——从空间到频率，从静态到动态全方位解析纳米磁性
+
+#### 瑞士 Qnami 公司 — ProteusQ-LT 低温扫描 NV 显微镜（2026 持续活跃）
+- [Qnami 官网](https://qnami.ch/) | [ProteusQ 介绍（octsources, 2026-03）](https://www.octsources.com/detail/420.html)
+- **产品**：ProteusQ — 金刚石 NV 色心 + 扫描探针显微镜集成系统，同步获取样品形貌 + 表面磁场
+- **低温版 ProteusQ-LT**：纳米级空间分辨率，单电子级灵敏度磁场探测
+- **关键参数**：扫描范围 100μm × 100μm × 15μm，闭环控制 x-y 非线性度 0.05%，噪声低至 0.02nm
+- **应用**：自旋电子学、多铁材料、二维磁性材料、超导体的前沿研究
+- **软件**：开源 Jupyter Notebook 框架，支持自定义测量脚本
+
 #### 麻省理工等团队首次实现固态量子传感器多参数同时估计（PRX Quantum, 2026-04）
 - [MIT/芝加哥大学/东京大学/港中文联合研究 — PRX Quantum, 2026-04](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852)
 - **技术**：基于金刚石氮-空位（NV）中心固态量子传感器，实验实现量子多参数估计
@@ -35,11 +87,11 @@
 - **功能**：为企业和研究机构提供量子磁力计在线评估平台，包含技术资讯、实测场景、专家见解
 - **意义**：推动量子传感技术从研究机构向工业用户扩散
 
-#### QSENSATO — 意大利芯片级量子传感器初创，50万欧元种子轮（2025-05）
+#### QSENSATO — 意大利芯片级量子传感器初创，50 万欧元种子轮（2025-05）
 - [QSENSATO — Bari University Spin-off](https://cn.gii.tw/report/fmi1791928-global-quantum-sensors-market.html)
 - **方向**：基于芯片的量子传感器（微型蒸汽室技术）
-- **投资**：50万欧元，来自 LIFTT 和 Quantum Italia
-- **应用**：脑部造影（ neuroimaging）和地质勘探
+- **投资**：50 万欧元，来自 LIFTT 和 Quantum Italia
+- **应用**：脑部造影（neuroimaging）和地质勘探
 
 #### 全球量子传感器市场综合数据（多机构预测 2026）
 - **IMARC (2026-04)**：2025年6.103亿美元 → 2034年10.295亿美元（CAGR 5.80%）
@@ -125,4 +177,4 @@
 - **2025年规模**：约0.86亿美元 | **2032年预测**：约1.46亿美元 | **CAGR（2026-2032）**：7.9%
 
 ---
-*最后更新: 2026-05-13 (本次新增: MIT多参数量子传感/NV色心量子电流互感器/Fraunhofer虚拟应用实验室/量子传感器投资动态/Quantum Singapore 2026)*
+*最后更新: 2026-05-13 (本次新增: Infleqtion纽交所上市/ CAL空间站升级/ DOE ARPA-E资助/ UW-Madison量子比特测量/ AI+中性原子纠错/ Voyager太空原子钟合作/ 南邮量子传感综述/ 扫描NV显微镜新范式/ Qnami ProteusQ-LT产品详情)*
