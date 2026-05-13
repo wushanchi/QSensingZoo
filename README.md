@@ -25,6 +25,13 @@
 
 ---
 
+#### Quantum.Tech World 2026 — 全球量子科技峰会（5月13日·新加坡）
+- [Quantum.Tech World 2026](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
+- **焦点**：量子传感从硬件突破到工业部署的实战进展，涵盖国防、医疗、金融、气候、物流多领域
+- **意义**：量子传感已从"展示能做什麼"进入"规模化部署"阶段
+
+---
+
 #### MIT/芝加哥大学/东京大学/港中文 — 固态量子传感器多参数同时估计（PRX Quantum, 2026-04）
 - [MIT等团队首次实现固态量子传感器多参数同时估计（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852)
 - **技术**：基于金刚石氮-空位（NV）中心固态量子传感器，实验实现量子多参数估计
@@ -181,10 +188,10 @@
 - [Enhancing All-Optical NV Center Magnetometry With Machine Learning (IEEE, 2025-12)](https://ieeexplore.ieee.org/document/11237007)
 - **方向**：机器学习模型选择，优化全光学NV磁力计部署效率，推动实用化
 
-#### UncutGem — 全栈开源NV磁力计（DEF CON 33 2025）
+#### UncutGem — 全栈开源NV磁力计（DEF CON 33 2025, V2已发布）
 - [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源NV金刚石磁力计
 - **创新**：消费级现成（COTS）元件 + Arduino IDE 开源固件，模块化可定制
-- **进展**：V2版已发布（DEF CON 33, 2025）
+- **进展**：V2版已发布（DEF CON 33, 2025），消费级组件进一步优化
 - **意义**：推动量子传感技术普及化，降低教育与研究门槛
 
 #### Q-CTRL 量子传感入选《时代》2025年最佳发明（2025-10）
@@ -208,7 +215,7 @@
 - **2025年规模**：约0.86亿美元 | **2032年预测**：约1.46亿美元 | **CAGR（2026-2032）**：7.9%
 
 ---
-*最后更新: 2026-05-13 (本次新增: Infleqtion系列动态(NASA/DOE ARPA-E/UW-Madison/NVIDIA/Voyager)/南京邮电大学综述/扫描NV显微镜新范式/Qnami ProteusQ-LT/Fraunhofer IAF虚拟实验室/QSENSATO/全球市场多机构数据/RQINS铁路实测/UncutGem开源NV)*
+*最后更新: 2026-05-13 (本次新增: Quantum.Tech World 2026峰会/UncutGem V2详情/Infleqtion系列动态(NASA/DOE ARPA-E/UW-Madison/NVIDIA/Voyager)/南京邮电大学综述/扫描NV显微镜新范式/Qnami ProteusQ-LT/Fraunhofer IAF虚拟实验室/QSENSATO/全球市场多机构数据/RQINS铁路实测/UncutGem开源NV)*
 #### Infleqtion 通过 SPAC 合并登陆纽交所，IPO 后首个财季业绩将于 2026-05-14 发布（2026-02）
 - [Infleqtion 将成 2026 年首家上市的中性原子量子技术企业（nanoplatform, 2026-01）](http://nanoplatform.cn/new/15963/)
 - [Infleqtion 上市后首个分析师日（华尔街俱乐部, 2026-03）](https://www.toutiao.com/w/1859628821271552/)
@@ -351,4 +358,4 @@
 - **参会方**：全球顶尖量子科学家、行业领袖及技术专家
 
 ---
-*最后更新: 2026-05-13 (本次新增: QuantX Labs光学原子钟载荷入轨/量子传感产业化速度领先/Quantum Singapore 2026论坛)*
+*最后更新: 2026-05-13 (本次新增: Quantum.Tech World 2026峰会/UncutGem V2详情/QuantX Labs光学原子钟载荷入轨/量子传感产业化速度领先/Quantum Singapore 2026论坛)*
