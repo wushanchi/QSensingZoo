@@ -49,6 +49,20 @@
 
 ---
 
+#### Quantum.Tech World 2026 — 全球量子科技峰会进行中（5月13日·新加坡）
+- [Quantum.Tech World 2026](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
+- **焦点**：量子传感从硬件突破到工业部署的实战进展，涵盖国防、医疗、金融、气候、物流多领域
+- **意义**：量子传感已从"展示能做什么"进入"规模化部署"阶段，今日是峰会最后一天
+
+#### 伦敦帝国理工学院量子传感 Q&A：技术转型全景图（2026-04）
+- [Q&A: How will quantum science transform technology?（Imperial News, 2026-04-28）](https://www.imperial.ac.uk/news/246634/qa-how-will-quantum-science-transform)
+- **机构**：帝国理工学院量子科学、传感与定位中心（QSP）
+- **亮点**：包含首次皇家海军舰船测试量子传感器、双缝实验时间版本演示、新成立的量子工程科学与技术中心（QuEST）
+- **QS方向**：量子传感（QSense）研究方向涵盖量子陀螺仪、量子加速度计、量子磁力计，定位为GPS拒止环境下的精确导航解决方案
+- **技术优势**：量子传感器不依赖外部信号，抗干扰能力强，适用于水下、地下、密闭空间等GPS无法覆盖的场景
+
+---
+
 #### 麻省理工量子雷达：实现掩埋物体成像（MIT Technology Review, 2025-08）
 - [This quantum radar could image buried objects（MIT Technology Review, 2025-08）](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/)
 - **技术**：新型量子雷达，使用玻璃腔中的原子云检测反射无线电波，属于量子传感器范畴
@@ -261,4 +275,4 @@
 - **优势**：分子自旋系统可化学设计，灵活调控传感特性
 - **应用**：纳米级磁场成像、量子材料表征
 
-*最后更新: 2026-05-13 (本次新增: 国内科学家拉伸钻石量子传感器/帝国理工皇家海军量子导航测试/2026量子技术监测报告; Infleqtion Q1业绩明日5月14日发布)*
+*最后更新: 2026-05-13 (本次新增: Quantum.Tech World 2026新加坡峰会/帝国理工量子传感Q&A技术全景; Infleqtion Q1业绩明日5月14日发布)*
