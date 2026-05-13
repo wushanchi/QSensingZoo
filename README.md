@@ -178,6 +178,24 @@
 - **核心优势**：不依赖外部信号，隧道/密集建筑/信号干扰环境仍可高稳定性定位
 - **意义**：量子传感从实验室/国防向民用基础设施（铁路网）规模化应用的关键里程碑
 
+#### 布里斯托大学 — 质子级光子传感器达量子极限，可大规模制造（2025-02）
+- [Quantum Sensing to Engineer Photonic Sensors（Tech Briefs, 2025-02）](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors)
+- **机构**：布里斯托大学 QET Labs
+- **突破**：发现操作大规模可制造光子传感器达到量子极限的新方法，绕过了以往依赖纠缠或压缩态的方案
+- **意义**：为实用化铺平道路，可应用于温室气体监测和癌症检测
+
+#### 西北大学 — 全球首个商业代工厂制造的电子-光子量子芯片（2025-07）
+- [First electronic-photonic quantum chip manufactured in commercial foundry（Northwestern Now, 2025-07）](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/)
+- **里程碑**：首次将量子光源、控制电子紧密集成在硅芯片上，由商业半导体代工厂制造
+- **突破**：解决了量子光电器件制造中温度变化、 imperceptible工艺缺陷等挑战
+- **意义**：为量子通信、传感和计算的片上集成打开大门
+
+#### UncutGem — 全栈开源NV磁力计 V2 发布（DEF CON 33 2025）
+- [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源NV金刚石磁力计
+- **创新**：消费级现成（COTS）元件 + Arduino IDE 开源固件，模块化可定制
+- **进展**：V2版已发布（DEF CON 33, 2025）
+- **意义**：推动量子传感技术普及化，降低教育与研究门槛
+
 #### ML增强NV磁力计论文（IEEE 2025-12）
 - [Enhancing All-Optical NV Center Magnetometry With Machine Learning (IEEE, 2025-12)](https://ieeexplore.ieee.org/document/11237007)
 - **方向**：机器学习模型选择，优化全光学NV磁力计部署效率，推动实用化
@@ -275,22 +293,10 @@
 - **优势**：分子自旋系统可化学设计，灵活调控传感特性
 - **应用**：纳米级磁场成像、量子材料表征
 
-#### 量子磁力计市场爆发：2026-2032 CAGR 91.8%（IMARC 2026-04）
-- **数据来源**：IMARC（2026-04）
-- **量子磁力计 CAGR（2026-2032）**：91.8%，为所有量子传感细分领域中增速最高
-- **整体量子传感市场**：2025年全球6.103亿美元 → 2034年10.295亿美元（CAGR 5.80%）
-- **驱动力**：量子磁力计在医疗脑成像、地质勘探、国防水下探测等领域加速落地，技术成熟度快速提升
+#### 悬浮纳米粒子阵列量子传感（arXiv 2406.00366, 2024-06）
+- [Nanoparticle arrays levitated in a cavity for quantum sensing（arXiv, 2024-06）](https://arxiv.org/abs/2406.00366)
+- **技术**：悬浮纳米粒子在腔中集体运动，用于力和加速度的量子传感
+- **方向**：探索集体效应对传感的优势，发现机械模式梳（MMC）等新光谱特征
+- **应用**：从暗物质/量子重力基础物理到实际加速度传感
 
-#### Qnami Quantilever — 瑞士量子传感公司发布新型金刚石NV探针（2026-04）
-- [Qnami官网](https://qnami.ch/) | [Quantilever介绍](http://www.qnami.com/)
-- **产品**：Quantilever — 金刚石NV色心量子传感探针，用于扫描NV显微镜
-- **技术优势**：量子传感探针领军品牌，ProteusQ扫描NV显微镜核心耗材，纳米级磁场探测
-- **公司地位**：全球量子传感感知与成像领域领先企业，推动量子技术从实验室走向工业应用
-
-#### Nature 2026年值得关注的科学事件：量子传感入选（Nature, 2025-12）
-- [《自然》杂志展望2026年值得关注的科学事件（腾讯, 2025-12）](https://new.qq.com/rain/a/20251219A05GFG00)
-- **Nature观点**：量子传感作为量子技术"先遣部队"，正以远超量子计算的商业化速度率先跨越"死亡之谷"
-- **驱动因素**：量子纠缠/叠加/相干等量子效应 + 工程化突破 + 供应链整合
-- **应用方向**：高精度测量、地质勘探、医疗诊断、自动驾驶定位、国防安全
-
-*最后更新: 2026-05-13 (本次新增: 量子磁力计91.8% CAGR数据/Qnami Quantilever NV探针/Nature 2026量子传感技术展望)*
+*最后更新: 2026-05-13 (本次新增: 布里斯托大学量子极限光子传感器/西北大学商业代工厂电子-光子量子芯片/UncutGem V2; 近期论文新增悬浮纳米粒子阵列)*
