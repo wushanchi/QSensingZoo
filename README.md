@@ -104,10 +104,10 @@
 
 ---
 
-#### Quantum.Tech World 2026 — 全球量子科技峰会进行中（5月13日·新加坡）
-- [Quantum.Tech World 2026](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
-- **焦点**：量子传感从硬件突破到工业部署的实战进展，涵盖国防、医疗、金融、气候、物流多领域
-- **意义**：量子传感已从"展示能做什么"进入"规模化部署"阶段，今日是峰会最后一天
+#### Quantum.Tech World 2026 — 全球量子科技峰会今日闭幕，波士顿接棒（2026-05-13）
+- [Quantum.Tech World 2026 — 新加坡峰会](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"，今日（5月13日）为峰会最后一天
+- **亮点**：Peter Shor（Shor算法提出者）亲临演讲，量子计算领域祖师级人物极少公开露面；Dani Couger（Lockheed Martin）展示量子工程前沿进展
+- **下一站**：Quantum.Tech World 2026 — 波士顿峰会（6月25-26日，Encore Boston Harbor），接力探讨量子、AI与HPC的企业级规模化部署
 
 #### 伦敦帝国理工学院量子传感 Q&A：技术转型全景图（2026-04）
 - [Q&A: How will quantum science transform technology?（Imperial News, 2026-04-28）](https://www.imperial.ac.uk/news/246634/qa-how-will-quantum-science-transform)
@@ -367,7 +367,7 @@
 - **方向**：探索集体效应对传感的优势，发现机械模式梳（MMC）等新光谱特征
 - **应用**：从暗物质/量子重力基础物理到实际加速度传感
 
-*最后更新: 2026-05-13 (本次新增: 量子传感工业感知跨越/SandboxAQ商业导航/量子传感器市场规模数据)*
+*最后更新: 2026-05-13 (本次更新: Quantum.Tech World 2026新加坡峰会闭幕/波士顿接棒详情/Peter Shor等重磅嘉宾信息)*
 
 ---
 
