@@ -23,6 +23,32 @@
 
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
+#### UncutGem — 全球首个全栈开源NV磁力计 V2 发布（DEF CON 33 2025）
+- [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) - 全球首个全栈开源NV金刚石磁力计
+- **创新**：消费级现成（COTS）元件 + Arduino IDE 开源固件，模块化可定制
+- **进展**：V2版已发布（DEF CON 33, 2025）
+- **意义**：推动量子传感技术普及化，降低教育与研究门槛
+
+#### QDTI — 超灵敏量子生物标志物检测平台（2026持续活跃）
+- [QDTI 官网](https://www.qdti.com/) - 量子驱动的生物标志物检测
+- **技术**：基于金刚石NV色心的量子检测技术，≤5µL样本、<1小时出结果、仅5步操作
+- **参数**：检测灵敏度<1en（10⁻¹⁸），样本量需求≤5µL，手工时间<1小时
+- **应用**：生物医学研究、药物研发、诊断检测
+- **意义**：量子传感从高精度测量走向便捷生物检测
+
+#### Qubic Technologies（加拿大/荷兰）— 量子微波传感与通信（2026-05活跃）
+- [Qubic Technologies 官网](https://qubictech.co/) - Quantum remote sensing tools
+- **技术**：基于超导电路的量子微波系统，产生最大相关性、最小附加噪声
+- **优势**：量子增益灵敏度提升，在极端条件下检测微弱信号
+- **使命**：消除噪声、放大灵敏度、确保无与伦比的传输和传感准确性
+- **应用**：抗噪声通信、最优安全传感、量子遥感
+
+#### 量子传感重力图谱（Nature 2022）
+- [Quantum sensing for gravity cartography（Nature, 2022）](https://www.nature.com/articles/s41586-021-04315-3)
+- **应用**：地球物理勘探、工程与气候研究，包括时间变化监测
+- **技术**：量子干涉、量子纠缠、量子态操控
+
+
 #### Quantum Computing Inc — 股价飙升32%，"2026量子计算奇点之年"（2026-05-12）
 - [量子计算公司Quantum Computing股价飙升32%（so.html5.qq.com, 2026-05-12）](https://so.html5.qq.com/page/real/search_news?docid=70000021_5546a032e4b47852) — 5月12日单日涨幅32%，为自2025年6月以来最大涨幅
 - **背景**：量子计算正摆脱"噪声引力"进入商业化轨道，2026年被业界视为"奇点之年"
@@ -431,7 +457,7 @@
 - **方向**：探索集体效应对传感的优势，发现机械模式梳（MMC）等新光谱特征
 - **应用**：从暗物质/量子重力基础物理到实际加速度传感
 
-*最后更新: 2026-05-14 (本次更新: Quantum Computing Inc美股飙升32%-2026量子计算奇点之年 / Quantum.Tech World 2026新加坡峰会闭幕-汇聚40+国1000+创新者-Peter Shor亲临演讲 / Infleqtion 5月14日发布Q1财报-中性原子量子传感商业化首份季检 / Sand)*
+*最后更新: 2026-05-14 (本次新增: UncutGem开源NV磁力计V2/QDTI量子生物检测/Qubic量子微波传感/量子重力图谱Nature论文)*
 
 ---
 
