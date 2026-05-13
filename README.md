@@ -54,6 +54,18 @@
 
 ---
 
+#### SandboxAQ — 全球首个商用 AI+量子导航系统 AQNav 发布（2026-05）
+- [SandboxAQ Announces AQNav（SandboxAQ, 2026-05-10）](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) — 全球首个商业化实时AI+量子导航系统，解决GPS拒止环境下的航空/海上/陆地导航难题
+- **技术**：地球磁场导航系统（geo-magnetic navigation），结合专有AI算法 + 量子传感器 + 地壳磁场特征
+- **已验证**：在美国空军、Airbus等合作伙伴的4种不同机型上累计飞行超过数千小时，从单引擎飞机到大型军用运输机
+- **背景**：全球GPS干扰和欺骗事件大幅增加，SandboxAQ以此为契机推动无干扰、全天候量子导航商业化
+
+#### Monarch Quantum — 5500万美元增长轮次，资本突破1亿美元（2026-04）
+- [Monarch Quantum资本突破1亿美元（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_01569ccfb2218252)
+- **投资方**：2700万美元新融资 + 2800万美元合同承诺，由光子学资深人士Timothy Day博士创立于2025年
+- **客户**：Quantinuum、Infleqtion（纽交所:INFQ）、NASA等量子领域领导者
+- **总资本**：累计超过1.15亿美元（含客户合同），专注量子光子学基础设施规模化
+
 #### 国内科学家"拉伸"钻石造出下一代量子传感器：弯道超车新突破（2026-05-12）
 - [60年弯道超车!国内科学家"拉伸"钻石,造出了下一代量子传感器（象视汽车, 2026-05-12）](https://so.html5.qq.com/page/real/search_news?docid=70000021_9466a02d6ac62152)
 - **技术路径**：通过在热玻璃上沉积金刚石薄膜，冷却过程中玻璃比钻石收缩更慢，在分子层面实现对钻石的"拉伸"
@@ -107,12 +119,12 @@
 - **技术方向**：量子干涉、量子纠缠、量子态操控
 - **发展趋势**：提高探测精度、拓展应用领域、降低成本、智能化发展
 
-#### Infleqtion 通过 SPAC 合并登陆纽交所，IPO 后首个财季业绩将于 2026-05-14 发布（2026-02）
+#### Infleqtion Q1 财报预告 — 明日（2026-05-14）美股收盘后发布（2026-02）
 - [Infleqtion 将成 2026 年首家上市的中性原子量子技术企业（nanoplatform, 2026-01）](http://nanoplatform.cn/new/15963/)
 - [Infleqtion 上市后首个分析师日（华尔街俱乐部, 2026-03）](https://www.toutiao.com/w/1859628821271552/)
 - **上市方式**：SPAC 合并，Churchill Capital Corp X（NASDAQ: CCCX），2026-02 正式登陆纽交所，股票代码 INFQ
 - **投前估值**：18 亿美元，储备超 5.5 亿美元融资，营收同比增长 80%
-- **财务更新**：将于 2026-05-14（周四）美股收盘后发布 2026 Q1（截至 2026-03-31）财务业绩
+- **关注明日**：2026 Q1（截至2026-03-31）财报发布——IPO后首个完整财季，商业化进展重要检视
 
 #### Infleqtion × NASA — 国际空间站升级版冷原子实验室成功投递（2026-04）
 - [Infleqtion携手NASA为国际空间站提供下一代量子技术（dtjc.gdinfo, 2026-04）](http://dtjc.gdinfo.net/choiceness/getChoicenessDetail.htm?recommendId=174363&serverId=221)
@@ -343,4 +355,4 @@
 - **方向**：探索集体效应对传感的优势，发现机械模式梳（MMC）等新光谱特征
 - **应用**：从暗物质/量子重力基础物理到实际加速度传感
 
-*最后更新: 2026-05-13 (本次新增: 国仪量子A股IPO/之江实验室光动量量子精密测量装置/郭光灿PT对称增强量子传感器8.86倍灵敏度)*
+*最后更新: 2026-05-13 (本次新增: SandboxAQ AQNav商用量子导航系统/Monarch Quantum 1.15亿美元资本/Infleqtion明日Q1财报发布)*
