@@ -25,12 +25,20 @@
 
 ---
 
-#### Quantum.Tech World 2026 — 全球量子科技峰会（5月13日·新加坡）
-- [Quantum.Tech World 2026](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
-- **焦点**：量子传感从硬件突破到工业部署的实战进展，涵盖国防、医疗、金融、气候、物流多领域
-- **意义**：量子传感已从"展示能做什麼"进入"规模化部署"阶段
+#### Infleqtion 将于 2026-05-14 发布 IPO 后首个财季业绩（2026-05-13 即将披露）
+- [Infleqtion 将成 2026 年首家上市的中性原子量子技术企业（nanoplatform, 2026-01）](http://nanoplatform.cn/new/15963/)
+- [Infleqtion 上市后首个分析师日（华尔街俱乐部, 2026-03）](https://www.toutiao.com/w/1859628821271552/)
+- **股票代码**：INFQ（NASDAQ）| **上市方式**：SPAC 合并，Churchill Capital Corp X
+- **投前估值**：18亿美元 | **营收增长**：同比 80%
+- **Q1业绩发布时间**：2026-05-14（周四）美股收盘后，2026 Q1（截至 2026-03-31）
+- **值得关注**：作为中性原子量子技术首家上市公司，其财务表现与量子传感业务进展将是行业重要风向标
 
 ---
+
+#### Quantum.Tech World 2026 — 全球量子科技峰会进行中（5月13日·新加坡）
+- [Quantum.Tech World 2026](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
+- **焦点**：量子传感从硬件突破到工业部署的实战进展，涵盖国防、医疗、金融、气候、物流多领域
+- **意义**：量子传感已从"展示能做什么"进入"规模化部署"阶段，今日是峰会最后一天
 
 #### MIT/芝加哥大学/东京大学/港中文 — 固态量子传感器多参数同时估计（PRX Quantum, 2026-04）
 - [MIT等团队首次实现固态量子传感器多参数同时估计（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852)
@@ -131,12 +139,6 @@
 - **应用**：自旋电子学、多铁材料、二维磁性材料、超导体的前沿研究
 - **软件**：开源 Jupyter Notebook 框架，支持自定义测量脚本
 
-#### 麻省理工等团队首次实现固态量子传感器多参数同时估计（PRX Quantum, 2026-04）
-- [MIT/芝加哥大学/东京大学/港中文联合研究 — PRX Quantum, 2026-04](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852)
-- **技术**：基于金刚石氮-空位（NV）中心固态量子传感器，实验实现量子多参数估计
-- **作者**：Takuya Isogawa、Guoqing Wang（王国庆）、Boning Li 为共同第一作者，Haidong Yuan、Paola Cappellaro 为共同通讯作者
-- **意义**：多参数同时估计是量子传感实用化的重要方向，突破单参数测量局限
-
 #### 德国 attocube 公司 — 低温 NV 色心扫描成像磁强计 attoNVM（2026-01）
 - [2K低温NV色心扫描磁学显微镜实现纳米尺度定量磁场成像（new.qq.com, 2026-01）](https://new.qq.com/rain/a/20260122A024JB00)
 - **产品**：attoNVM — 杂散磁场测量仪，基于金刚石NV色心技术
@@ -215,7 +217,9 @@
 - **2025年规模**：约0.86亿美元 | **2032年预测**：约1.46亿美元 | **CAGR（2026-2032）**：7.9%
 
 ---
-*最后更新: 2026-05-13 (本次新增: Quantum.Tech World 2026峰会/UncutGem V2详情/Infleqtion系列动态(NASA/DOE ARPA-E/UW-Madison/NVIDIA/Voyager)/南京邮电大学综述/扫描NV显微镜新范式/Qnami ProteusQ-LT/Fraunhofer IAF虚拟实验室/QSENSATO/全球市场多机构数据/RQINS铁路实测/UncutGem开源NV)*
+
+*最后更新: 2026-05-13 (本次新增: Infleqtion IPO后首个财季Q1业绩5月14日发布/Quantum.Tech World 2026进行中今日最后一天/扩展产业与市场数据)*
+
 #### Infleqtion 通过 SPAC 合并登陆纽交所，IPO 后首个财季业绩将于 2026-05-14 发布（2026-02）
 - [Infleqtion 将成 2026 年首家上市的中性原子量子技术企业（nanoplatform, 2026-01）](http://nanoplatform.cn/new/15963/)
 - [Infleqtion 上市后首个分析师日（华尔街俱乐部, 2026-03）](https://www.toutiao.com/w/1859628821271552/)
@@ -378,4 +382,5 @@
 - **意义**：太空部署量子磁力计，为导航、态势感知提供更精准地球磁场数据
 
 ---
+
 *最后更新: 2026-05-13 (本次新增: Q-BIOMED英国量子生物传感研究hub/SBQuantum 400万美元种子轮+立方体卫星发射/Quantum.Tech World 2026峰会/UncutGem V2详情/QuantX Labs光学原子钟载荷入轨/量子传感产业化速度领先/Quantum Singapore 2026论坛)*
