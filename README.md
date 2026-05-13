@@ -643,6 +643,35 @@
 - **报告**：416页，Mind Commerce发布，涵盖量子传感与成像
 - **趋势**：量子传感与成像技术作为量子技术重要分支，市场规模持续扩大
 
+#### Infleqtion Q1财报发布——中性原子量子传感公司IPO后首份完整财季（2026-05-14）
+- [Infleqtion Q1财报（NASDAQ: INFQ, 2026-05-14）](https://www.nasdaq.com/market-activity/stocks/infq) — 2026年2月通过SPAC登陆纽交所，股票代码INFQ，投前估值18亿美元，储备超5.5亿美元融资
+- **Q1业绩**：营收同比增长80%（2025全年数据），中性原子量子技术同时支撑量子计算与量子传感（原子磁力计/陀螺仪）
+- **商业化路径**：量子传感（量子原子钟、量子惯性传感器）作为成熟业务线率先贡献收入，量子计算业务紧随其后
+- **关联**：2026年5月Quantum.Tech World新加坡峰会刚落幕，量子传感从"展示能做什么"进入"规模化交付"阶段，Infleqtion Q1财报是商业化进程的重要检视节点
+
+#### Onnes Technologies（荷兰）—— 低温纳米定位系统赋能量子传感器商用（2026-04活跃）
+- [Onnes Technologies 官网](https://onnestechnologies.com/) — 专注量子传感器低温环境应用，提供低温振动隔离系统（cVIS）和纳米定位平台（arQtika）
+- **产品线**：cVIS（低温振动隔离系统）和arQtika（基于低温步行技术的纳米定位系统）
+- **应用**：量子计量、NV色心扫描显微镜、量子计算 readout
+- **意义**：量子传感器商用化配套基础设施，解决低温环境下的精密定位挑战
+
+#### 量子传感器SWaP-C路线图：2030年代中期芯片级方案<1cm³（Future Markets, 2026-02）
+- [Small Quantum Sensors: Technology Roadmap 2025-2035（Future Markets, 2026-02）](https://www.futuremarketsnetwork.com/shop/optical-sensors/small-quantum-sensors-technology-roadmap-2025-2035/) — 量子传感器小型化技术路线图
+- **2025-2027**：量子射频传感器接近智能手机大小封装；芯片级原子磁力计原型机体积<100 cm³
+- **2028-2030**：装置尺寸缩小至信用卡大小，功耗降至百毫瓦级
+- **2030年代中期**：完全集成芯片级解决方案体积<1 cm³，实现与MEMS传感器相当的体积和成本
+
+#### 量子传感学术顶刊动态：Nature Physics等期刊持续收录量子传感研究（2026-05）
+- [Nature Physics — 等离子体量子技术（2024-03）](https://www.nature.com/articles/s41567-024-02523-4) | [Science Advances — 量子传感与二维材料磁性](https://www.science.org/doi/10.1126/sciadv.adg9740) | [Nature Communications — NV色心扫描梯度计](https://www.nature.com/articles/s41467-022-31454-6)
+- **趋势**：量子传感基础研究持续活跃于Nature/Science/PRX等顶刊，从材料表征到生物检测应用广泛
+
+#### 北京大学/山西大学/中科院 —— 量子精密测量交叉学科论坛（2026-05）
+- [量子精密测量交叉学科论坛（北京大学物理学院, 2026-05）](https://www.phy.pku.edu.cn/info/1383/24671.htm) — 2026年5月10日在北京大学举行，邀请北京大学、山西大学、中科院等机构学者
+
+---
+
+*最后更新: 2026-05-14 (本次新增: Infleqtion Q1财报首份完整财季 / Onnes Technologies低温量子传感配套 / 量子传感器SWaP-C路线图2030s芯片化 / Nature/Science等顶刊量子传感研究动态 / 北京大学量子精密测量交叉学科论坛)*
+
 #### 量子陀螺仪市场数据（QYResearch 2026-04）
 - [洞察2026:全球与中国量子陀螺仪行业深度研究（乐晴智库, 2026-04）](https://m.gelonghui.com/p/4367201)
 - **2025年规模**：约0.86亿美元 | **2032年预测**：约1.46亿美元 | **CAGR（2026-2032）**：7.9%
