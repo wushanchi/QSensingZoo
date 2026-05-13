@@ -357,5 +357,25 @@
 - **核心议题**：硬件优化、软硬协同、区域化生态构建
 - **参会方**：全球顶尖量子科学家、行业领袖及技术专家
 
+#### Q-BIOMED — 英国量子生物医学传感研究hub（2026持续活跃）
+- [Q-BIOMED 官网](https://www.qbiomed.org/) — UK Quantum Biomedical Sensing Research Hub
+- **使命**：Delivering the quantum-enabled future of early disease diagnosis and treatment
+- **聚焦**：量子传感技术驱动的早期疾病诊断与治疗革新
+- **最新动态**：2026-05-12网站活跃更新，持续推动量子生物传感研发
+
+#### SBQuantum — 加拿大NV量子磁力计初创，400万美元种子轮融资（2026-04）
+- [SBQuantum完成超额认购400万美元种子轮（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_46769e2132254052)
+- **投资方**：Quantonation、Quantacet领衔，魁北克投资局参与，公司成立于2017年首次私人投资
+- **应用方向**：地下/水下/环境中隐藏磁场的精确探测，用于公共安全、导航、国防威胁检测
+- **技术**：量子钻石磁力计，基于金刚石NV色心，测量地球磁场扰动构建精确定位模型
+- **融资用途**：加速产品商业化、扩大团队、拓展美国市场
+
+#### SBQuantum — 量子磁力计传感器将于2026年3月发射升空（2026-01）
+- [SBQuantum量子钻石磁力计专访（腾讯, 2026-01）](https://new.qq.com/rain/a/20260114A05PSZ00)
+- **里程碑**：已开发可直接插入立方体卫星的传感器，2026年3月发射升空
+- **背景**：NGA（美国国家地理空间情报局）MagQuest Challenge最终阶段，World Magnetic Model（WMM）测量
+- **合作方**：Element Six（高质量量子级金刚石）、Spire Global
+- **意义**：太空部署量子磁力计，为导航、态势感知提供更精准地球磁场数据
+
 ---
-*最后更新: 2026-05-13 (本次新增: Quantum.Tech World 2026峰会/UncutGem V2详情/QuantX Labs光学原子钟载荷入轨/量子传感产业化速度领先/Quantum Singapore 2026论坛)*
+*最后更新: 2026-05-13 (本次新增: Q-BIOMED英国量子生物传感研究hub/SBQuantum 400万美元种子轮+立方体卫星发射/Quantum.Tech World 2026峰会/UncutGem V2详情/QuantX Labs光学原子钟载荷入轨/量子传感产业化速度领先/Quantum Singapore 2026论坛)*
