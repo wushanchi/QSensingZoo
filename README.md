@@ -23,6 +23,11 @@
 
 本仓库持续更新，欢迎 Star ⭐ 和 Fork！
 
+#### 2025国际量子年 & 4月14日世界量子日 — 量子传感成为全球科技焦点（2025-2026）
+- [2025世界量子科技年（bilibili, 2025-04）](https://www.bilibili.com/opus/1054105005894664196) — 2025年被指定为"世界量子技术年"（Year of Quantum Technology），4月14日为首个世界量子日（World Quantum Day）
+- [深度解读2025年度图灵奖：量子信息技术从梦想到现实（量子科话, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_55569db904a92552) — 2025年图灵奖授予 Charles Bennett 与 Gilles Brassard（BB84协议创始人），表彰其在量子信息科学基础方面的开创性贡献
+- **意义**：量子传感作为量子信息技术的重要分支，正处于从基础研究向商业化应用转化的关键节点，2025年图灵奖进一步确认了量子技术的战略地位
+
 #### 麻省理工等团队首次实现固态量子传感器多参数同时估计（PRX Quantum, 2026-04）
 - [MIT/芝加哥大学/东京大学/港中文联合研究 — PRX Quantum, 2026-04](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852)
 - **技术**：基于金刚石氮-空位（NV）中心固态量子传感器，实验实现量子多参数估计
@@ -222,6 +227,12 @@
 - **分辨率**：纳米级空间分辨率，灵敏度 3 µT/√Hz
 - **应用**：量子层面磁性现象研究、新型存储设备/量子计算机用材料研发
 
+#### Bosch Quantum Sensing — 量子传感技术商业化（2026）
+- [Bosch Quantum Sensing 官网](https://www.bosch-quantumsensing.com/) | [Bosch Quantum Sensing — LinkedIn](https://www.linkedin.com/showcase/bosch-quantum-sensing/)
+- **背景**： Bosch 集团内部独立运营的量子传感技术商业化团队
+- **应用领域**：高精度磁场测量、量子惯性导航、量子计量
+- **定位**：将量子传感技术从实验室推向实际产业应用，聚焦汽车、工业、消费品场景
+
 #### Fraunhofer IAF 量子传感虚拟应用实验室（2025-01）
 - [Fraunhofer IAF Quantum Sensing Application Lab](https://cn.gii.tw/report/imarc2009014-quantum-sensors-market-report-by-product-atomic.html)
 - **机构**：德国弗劳恩霍夫原子力显微镜研究所
@@ -356,6 +367,15 @@
 
 #### 量子传感产业化：率先跨越"死亡之谷"（2026-03）
 - [量子传感：工业感知的下一次跨越（量感局, 2026-03）](https://so.html5.qq.com/page/real/search_news?docid=70000021_08569a8149706452)
+- **核心转变**：去年主题是"展示量子传感器能做什么"，今年关键词是"可交付"——技术走出实验室，进入工程验证、供应链整合与实际订单的硬核赛道
+
+#### Quantum Computing Inc — NeuraWave光子计算平台进入可部署商用状态（2026-04）
+- [NeuraWave光子计算平台进入可部署商用状态（量子界, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_23469eb515758652)
+- **发布**：2026年4月23日，Quantum Computing Inc.（量子光学与集成光子技术企业）宣布 NeuraWave 光子储层计算平台进入可部署商用状态
+- **意义**：边缘AI实时推理的光子加速方案，结合量子光学技术，为量子传感信号处理提供新型计算架构
+- **关联**：光子储层计算可增强量子传感数据的实时处理能力，量子-经典混合计算路径进一步成熟
+
+#### 量子纠缠增强原子钟稳定性（Physical Review Letters, 2026-02）
 - **核心观点**：全球共识正在形成——量子传感作为量子技术"先遣部队"，正以远超量子计算的商业化速度，率先跨越实验室与工业应用之间的"死亡之谷"
 - **驱动因素**：量子纠缠/叠加/相干等量子效应 + 工程化突破 + 供应链整合
 - **应用方向**：高精度测量、地质勘探、医疗诊断、自动驾驶定位、国防安全
