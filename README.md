@@ -32,11 +32,27 @@
 
 ---
 
-*本次更新: Qnami × Nature Communications论文 / GRC Quantum Sensing 2027会议公告（2026-05-14傍晚）*
+*本次更新: Qnami × Nature Communications论文 / GRC Quantum Sensing 2027 / 冷原子重力仪进展 / SBQuantum融资+CEO+2026卫星发射（2026-05-14傍晚）*
 
 ---
 
 ## 🗞️ 最新资讯（2026年5月14日更新）
+
+### 武汉大学 × 精导所 — 冷原子重力仪动态测量研究进展（2024/2026持续推进）
+- [Research Progress on Dynamic Measurement of Cold Atom Gravimeter（武汉大学, 2024）](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20240245) — 秦方军、张海波、陈浩、李东毅团队系统综述冷原子重力仪动态测量技术
+- **技术**：冷原子干涉仪利用物质波干涉实现绝对重力测量，区别于相对重力仪的动态测量方法，具有超高灵敏度和绝对测量优势
+- **核心进展**：综述了国内外冷原子重力仪动态测量技术进展；分析 miniaturization and inertial stabilization platform、振动隔离技术；涵盖陆、海、空、天、空间多场景应用
+- **军事应用**：冷原子重力仪可用于惯性导航、地下军事设施探测、弹道导弹发射阵位探测；量子精密测量与传统惯性导航深度融合
+- **发展趋势**：系统小型化、捷联惯性平台集成、振动补偿技术是当前热点；星载/机载/舰载是重要方向
+
+### SBQuantum — 完成400万美元种子轮融资、新任CEO、美国扩张、2026年卫星发射（2026-04-17）
+- [SBQuantum 400万美元种子轮融资公告（SBQuantum官网, 2026-04）](https://sbquantum.com/seed_sbq/) | [SBQuantum专访：量子钻石磁力计颠覆精密探测（2026-01-14）](https://so.html5.qq.com/page/real/search_news?docid=70000021_679696777d198552)
+- **融资**：本轮由Quantonation和Quantacet领衔，魁北克投资局参与；该公司成立于2017年，这是首次私人投资；波士顿咨询估计2030年全球量子传感市场达30-50亿美元
+- **新任CEO**：Eric Giroux加盟担任CEO，在安全与国防领域拥有十余年经验，曾成功将RaySecur Inc.传感器技术商业化并建设全球分销网络
+- **美国扩张**：成立Zero Drift Technologies（总部马萨诸塞州剑桥），专注于服务美国政府客户和主要国防主承包商；加拿大主体保留工程基础和知识产权；两公司并行运营
+- **太空部署**：计划2026年3月发射搭载量子钻石磁力计的立方体卫星；基于Element Six DNV™系列量子级金刚石，已入选美国NGA MagQuest挑战赛最终阶段
+- **应用场景**：学校/体育场馆/政府大楼安检（替代或增强金属探测）、国防韧性导航（GPS拒止环境替代方案）、地球磁场测量（世界磁场模型WMM）
+- **投资者观点**：Quantonation称"当深度量子物理遇到明确市场问题时会发生什么"；Quantacet称"这家经过实地测试技术的加拿大领导者正走向市场"
 
 ### QNCN 2026 — 量子传感与神经形态计算交叉国际会议今日在韩国大田开幕（2026-05-14）
 - [QNCN 2026官网](https://quantuminnovationsummit.com/) — 量子、神经形态与新型计算国际会议，5月14日于韩国大田（KAIST）开幕，为期3天
