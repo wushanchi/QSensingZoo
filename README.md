@@ -575,8 +575,6 @@
 
 ---
 
-*本次更新: Q-CTRL×IBM"实用量子优势"3000倍加速 / QCi股价+38%NeuraWave商用 / Quantum Flagship Q-Expo2026+Quantum Academy启动 / MarketsandMarkets+IDTechEx+ResearchandMarkets市场报告更新 / Bosch×Element Six金刚石合资公司 / Gem Systems先进磁力计 / Princeton NV自旋bath探测*
-
  (docs: 更新量子传感市场数据与公司动态（2026-05-14）)
 
 ---
@@ -818,3 +816,40 @@
 
 ---
 
+## 🗞️ 新增补充条目（2026-05-14·傍晚第二次更新）
+
+### 综合深度报告：量子传感 — 工业感知的下一次跨越（量感局, 2026-03）
+- [量子传感:工业感知的下一次跨越（量感局/腾讯, 2026-03-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_08569a8149706452) — 量子传感正以远超量子计算的商业化速度，率先跨越实验室与工业应用之间的"死亡之谷"
+- **核心原理**：
+  - **量子叠加态**：单粒子同时"探索"多种测量路径，通过干涉效应将微小物理量变化放大为可探测信号（如量子干涉仪原子同时沿两条路径传播）
+  - **量子纠缠态**：多粒子协同过滤环境噪声，提升信噪比（如原子磁强计中纠缠原子群随机噪声相互抵消）
+  - **量子相干性**：相干时间决定测量精度上限，通过激光冷却、真空隔离、电磁屏蔽延长相干时间
+- **硬件家族**：
+  - **原子钟**：微波原子钟（铯原子钟，GPS/电信/金融timestamping）和光学原子钟（铝离子钟，精度更高，重新定义"秒"标准）；Infleqtion高精密光学原子钟实现数天至数周时间保持能力
+  - **量子重力仪**：原子干涉技术，灵敏度比经典重力仪高一个数量级；Atomionics（新加坡）已用于矿产勘探和地下成像
+  - **量子磁力计**：纳特斯拉级微弱磁场探测；Q-CTRL量子控制软件有效延长相干时间；应用覆盖脑磁图（MEG）、潜艇探测、未爆弹药定位
+  - **量子惯性传感器**：量子陀螺仪+量子加速度计，无运动部件，高稳定性；美国空军预测3-5年内取代部分经典导航系统
+- **产业生态**：
+  - **企业格局**：Infleqtion（原子钟/惯性传感）、Vector Atomic→IonQ（量子导航）、Atomionics（量子重力仪）、Q-CTRL（量子控制软件）、QuantumDiamonds（量子显微镜）、SandboxAQ（AI量子导航）
+  - **美国战略**：《国家量子计划法案》投入数十亿美元，DARPA重点支持量子惯性导航和量子磁强计；2024年公共投资达6.8亿美元
+  - **中国战略**：量子传感纳入国家战略，加大研发投入
+- **市场规模**：ICV TA&K预测2025年18.8亿美元 → 2035年50.7亿美元（CAGR 10.42%）
+
+### Gordon Research Conference — Quantum Sensing 2027会议时间地点正式公布（2026-05）
+- [GRC Quantum Sensing Conference页面](https://www.grc.org/quantum-sensing-conference/default.aspx) — 量子传感领域最重要学术会议之一，每两年一届
+- **下一届**：2027年7月11-16日，瑞士Les Diablerets Conference Center
+- **2025届主题**：「Diversity of Sensing Architectures for New Physics and Real-World Applications」，2025年7月13-18日已举办
+- **历史**：2023届「Frontiers of Sensing in the Quantum Regime with Atomic, Solid-State and Photonic Systems」；2019届「Quantum Sensing Applications in Metrology and Imaging」
+- **意义**：量子传感领域最权威学术交流平台，汇聚全球顶尖研究团队与最新突破性成果
+
+### IDTechEx量子传感市场报告更新 — 2044年规模预计71亿美元（2023年数据，2026年参考）
+- [Quantum Sensors: Advancing Timing, Navigation, Mapping, & Brain Scans（IDTechEx, 2023-08）](https://www.idtechex.com/en/research-article/quantum-sensors-advancing-timing-navigation-mapping-and-brain-scans/29679) — 量子传感器市场预测到2044年达到71亿美元
+- **覆盖技术**：17个量子传感技术方向，应用涵盖电动汽车、自动驾驶、脑扫描仪、量子计算机、地下测绘设备、卫星乃至消费电子
+- **技术成熟度差异**：巨磁阻（TMR）传感器已量产千万片（汽车电流遥感），而光学泵浦磁力计生物磁成像仍处早期；台式原子钟已成熟，芯片级产品尚未主流
+- **趋势**：量子计算与量子通信热潮推动量子传感技术协同发展
+
+---
+
+*本次更新: 量子传感工业感知深度报告（量感局）/ GRC Quantum Sensing 2027会议公告 / IDTechEx $7.1B市场预测更新*
+
+---
