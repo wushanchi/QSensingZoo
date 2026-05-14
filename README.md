@@ -25,16 +25,14 @@
 
 ---
 
-## 🗞️ 最新资讯（2026年5月）
+## 🗞️ 最新资讯（2026年5月14日更新）
 
-### 📌 本周新增（2026-05-14·补充）
-
-#### QNCN 2026 — 量子传感与神经形态计算交叉国际会议，韩国大田（2026-05-14）
+### QNCN 2026 — 量子传感与神经形态计算交叉国际会议今日在韩国大田开幕（2026-05-14）
 - [QNCN 2026官网](https://quantuminnovationsummit.com/) — 量子、神经形态与新型计算国际会议，5月14日于韩国大田（KAIST）开幕，为期3天
 - **量子传感相关方向**：NV色心量子传感、量子生物医学成像、量子机器学习用于传感优化
 - **同期活动**：量子传感技术展示、工业界圆桌论坛
 
-#### MIT/ NIST × RTX — Rydberg原子量子雷达实现掩埋物体成像，精度达4.7cm（arXiv:2506.20862）
+### MIT/ NIST × RTX — Rydberg原子量子雷达实现掩埋物体成像，精度达4.7cm（arXiv:2506.20862）
 - [This quantum radar could image buried objects（MIT Technology Review, 2025-08）](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | [arXiv:2506.20862](https://arxiv.org/pdf/2506.20862)
 - **技术**：使用玻璃腔中的铯原子云（Rydberg原子）作为量子探测器接收反射无线电波，替代传统雷达的大型天线
 - **原理**：Rydberg原子对宽频段无线电波敏感，无需改变物理结构即可实现多频段探测；NIST与国防承包商RTX联合研发
@@ -43,12 +41,27 @@
 - **应用方向**：地下公用设施探测、天然气钻井、考古挖掘
 - **意义**：量子传感从实验室走向工程集成，Rydberg原子传感器既可作量子计算量子比特，亦可作量子雷达核心——量子计算与量子传感技术共享底层硬件
 
-#### 纽约大学 × 耶鲁大学 — 原子磁力计噪声压缩突破标准量子极限（arXiv:2506.20862同类研究）
+### 纽约大学 × 耶鲁大学 — 原子磁力计噪声压缩突破标准量子极限（arXiv:2506.20862同类研究）
 - [arXiv:2506.20862相关工作](https://arxiv.org/abs/2506.20862) — 纽约大学与耶鲁大学联合团队，在原子磁力计领域取得噪声压缩关键进展
 - **技术**：利用低频压缩态提升原子磁力计灵敏度，突破标准量子极限（SQL）
 - **意义**：为脑磁图（MEG）、心磁图（MCG）等生物磁场检测提供更高灵敏度方案
 
-### 📌 本周新增（2026-05-14）
+### Quantum Flagship — Q-Expo 2026 / Quantum Academy启动 / 金刚石量子技术会议（2026-05）
+- [Quantum Flagship官网, 2026-05-13](https://qt.eu/) — 欧洲量子旗舰计划最新动态
+- [Q-Expo 2026（2026-05-18~19）](https://qt.eu/) — 欧洲最大量子产业展会，Meet the people shaping Europe's quantum future
+- [Quantum Academy启动（2026-05-11）](https://qt.eu/) — 欧洲量子 academy正式运营，专注培养欧洲下一代量子技术人才
+- [QBN Meeting — Scaling of Diamond for Quantum Technologies（2026-05-19）](https://qt.eu/) — 金刚石量子技术专题会议，聚焦NV色心、量子金刚石传感器的规模化制造
+- **关联**：金刚石NV量子传感器是量子传感商业化最成熟路线之一，欧洲供应链正在快速整合
+
+### Gem Systems（加拿大）— 先进磁力计与梯度仪，服务地球科学与地球物理勘探（2026-05-13）
+- [Gem Systems 官网](http://www.gemsys.on.ca/) — 专注先进磁力计和梯度仪，服务地球科学、地球物理及其他应用领域
+- **技术**：量子磁力计技术用于精密磁场测量，探测地下矿产资源、地质结构
+- **应用**：资源勘探、地质调查、环境监测、基础设施检测
+
+### Princeton × De Leon Group — NV传感器探测二维自旋bath，量子传感研究新进展（2026-04-29）
+- [Princeton Quantum Initiative, 2026-04-29](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) — NV传感器对金刚石表面二维自旋bath进行探测
+- **研究组**：De Leon group，Princeton量子传感与计量方向核心团队
+- **进展**：在NV量子传感的表面自旋探测领域持续产出高质量研究成果
 
 #### Q-CTRL × IBM — 实现全球首个"实用量子优势"，材料发现提速3000倍（2026-05-06）
 - [3000倍提速,Q-CTRL联手IBM打响「实用量子优势」第一枪（新浪, 2026-05-08）](https://k.sina.com.cn/article_5953189932_162d6782c0670489v8.html?cre=tianyi&mod=pcpager_news&loc=19&r=0&rfunc=79&tj=cxvertical_pc_pager_news&tr=174) | [Q-CTRL官网, 2026-05-13](https://q-ctrl.com/)
