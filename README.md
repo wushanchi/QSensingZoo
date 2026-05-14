@@ -105,7 +105,7 @@
 
 ---
 
-### 🆕 新增条目（2026-05-14深夜）
+### 🆕 新增条目（2026-05-14深夜/05-15凌晨）
 
 #### MIT/芝加哥大学/东京大学/港中文 — 固态量子传感器首次实现多参数同时估计（PRX Quantum, 2026-04）
 - [MIT/芝加哥大学/东京大学/港中文联合研究（so.html5.qq.com, 2026-04-16）](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852) — 发表在PRX Quantum
@@ -143,6 +143,29 @@
 *本次更新: MIT/芝加哥/东京/港中文PRX Quantum多参数估计 / Quantum Singapore 2026 / 国内拉伸钻石量子传感器 / IonQ入选MDA SHIELD / Monarch×Oratomic战略合作（2026-05-14深夜）*
 
 ---
+
+### QDTI × 哈佛 — 量子传感生物标志物检测仪商品化，检测灵敏度<1 pg/mL，≤5 µL样本量（2026-05）
+
+- [QDTI官网, 2026-05-12](https://qdti.com/) | [论文: Ultrasensitive, simple, fast](https://qdti.com/)
+- **技术**：基于量子传感技术的超灵敏生物标志物检测平台，检测限<1 pg/mL
+- **参数**：样本量仅需≤5 µL；步骤简化至5步；检测时间<1小时
+- **应用**：加速生物医学研究、药物发现与开发、诊断检测
+- **背景**：哈佛大学成果转化，量子传感从实验室走向临床诊断市场
+
+### SandboxAQ AQNav — 全球首个商业化AI+量子实时导航系统，解决GPS拒止环境（2026-05-10）
+
+- [SandboxAQ官网公告, 2026-05-10](https://www.sandboxaq.com/press/sandboxaq-announces-aqnav---worlds-first-commercial-real-time-navigation-system-powered-by-ai-and-quantum-to-address-gps-jamming) — 全球首个商业化实时AI+量子导航系统，解决GPS拒止环境下的航空/海上/陆地导航难题
+- **产品**：AQNav量子增强导航系统，将量子传感与AI深度融合
+- **应用场景**：航空、海上、陆地导航；GPS干扰/对抗环境；军事与应急响应
+- **意义**：量子传感从实验室演示走向大规模商业化部署的关键里程碑
+
+### Quantinuum × 霍尼韦尔 — 量子计算独角兽提交S-1，量子传感业务同步推进（2026-05-08）
+
+- [百年工业巨头,造出量子第一股?（腾讯, 2026-05-09）](https://so.html5.qq.com/page/real/search_news?docid=70000021_12869ff1d4748152)
+- **里程碑**：Quantinuum由霍尼韦尔(Honeywell)控股，正式向SEC提交S-1注册声明，拟在纳斯达克全球精选市场挂牌，股票代码"QNT"
+- **背景**：霍尼韦尔持有Quantinuum股份，2026年5月8日宣布提交S-1
+- **意义**：量子传感技术商业化进入新阶段，资本市场认可度持续提升
+
 
 ### Qnami × Nature Communications — 超高效自旋电子学论文发表，ProteusQ揭示BFO材料新潜能（2026-05-14傍晚）
 - [ultraefficient-spintronics-closer-to-reality（Qnami, 2026-05）](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications](https://www.nature.com/articles/s41467-025-41392-x)
