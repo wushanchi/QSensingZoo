@@ -427,8 +427,7 @@
 
 ---
 
-*最后更新: 2026-05-14*
-*本次更新: 量子传感2026年5月最新动态补遗（伦敦帝国理工皇家海军舰船测试/Diamond Quantum传感器 workshop/ETSI量子安全密码学大会/Quantum Innovation Summit Dubai 2026/QCNC 2026神户）*
+*本次更新: 国仪量子科创板提交注册 / SandboxAQ AQNav量子导航商用 / 帝国理工量子传感皇家海军舰船测试 / 中科大14.5km量子中继纠缠*
 
 ---
 
