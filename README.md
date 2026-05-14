@@ -636,6 +636,56 @@
 
 ---
 
-*本次更新: MarketsandMarkets/IDTechEx/ResearchandMarkets市场报告更新 / Bosch×Element Six金刚石合资公司 / Qubic Technologies量子微波传感 / Onnes Technologies低温系统*
+*本次更新: MarketsandMarkets/IDTechEx/ResearchandMarkets市场报告更新 / Bosch×Element Six金刚石合资公司 / Qubic Technologies量子微波传感 / Onnes Technologies低温系统 / QuiX Quantum光子误差阈值突破 / 帝国理工×英国皇家海军海上导航测试*
+
+---
+
+## 🗞️ 新增补充条目（2026-05-14）
+
+### 📊 量子传感市场数据补充
+
+#### MarketsandMarkets量子传感市场报告（2026版）
+- [Quantum Sensors Market — MarketsandMarkets（2026）](https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html) — 全球量子传感市场持续强劲增长
+- **预测**：2027年市场规模预计达到42亿美元（2022-2027 CAGR 16.8%）
+- **驱动因素**：高灵敏度测量需求激增，量子技术在国防、油气、农业、汽车、矿业、医疗等领域加速渗透
+
+#### App Developer Magazine — 量子传感市场到2045年增至20亿美元（2025-04）
+- [Quantum sensor market to grow to $2B by 2045（App Developer Magazine, 2025-04-02）](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/)
+- **核心观点**：量子传感器在精度上承诺超越传统传感器，但广泛采用取决于解决SWaP-C挑战（尺寸、重量、功耗、成本）；量子传感市场正通过半导体工艺路线推进
+
+#### IMARC量子传感市场报告（2026-04）
+- **数据**：2025年全球6.103亿美元 → 2034年10.295亿美元（CAGR 5.80%）
+- **量子磁力计细分**：2026-2032 CAGR高达91.8%，增速远超整体市场
+
+#### QYResearch量子陀螺仪市场数据（2026-04）
+- [洞察2026:全球与中国量子陀螺仪行业深度研究（乐晴智库, 2026-04）](https://m.gelonghui.com/p/4367201)
+- **2025年规模**：约0.86亿美元 | **2032年预测**：约1.46亿美元 | **CAGR（2026-2032）**：7.9%
+
+---
+
+### 🏢 公司与产品动态（补充）
+
+#### QuiX Quantum（荷兰）— 突破光子量子误差阈值，开启容错计算"阈值以下"新纪元（2026-04-02）
+- [QuiX Quantum突破光子误差阈值（腾讯, 2026-04-03）](https://so.html5.qq.com/page/real/search_news?docid=70000021_67369cfa2c255852)
+- **突破**：2026年4月2日，QuiX Quantum在荷兰恩斯赫德宣布成功将光子量子计算机的物理误差抑制到足以支撑大规模扩展、兼容容错计算的水平
+- **意义**：标志着光子路径正式进入了"阈值以下"的新纪元
+- **关联**：单光子探测器（SPD）是量子传感读取核心器件，光子量子技术路线与量子传感高度协同
+
+#### Monarch Quantum — 5500万美元增长轮次，资本突破1亿美元（2026-04）
+- [Monarch Quantum资本突破1亿美元（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_01569ccfb2218252)
+- **投资方**：2700万美元新融资 + 2800万美元合同承诺，由光子学资深人士Timothy Day博士创立于2025年
+- **客户**：Quantinuum、Infleqtion（纽交所:INFQ）、NASA等量子领域领导者
+- **总资本**：累计超过1.15亿美元（含客户合同），专注量子光子学基础设施规模化
+
+#### SBQuantum — 加拿大NV量子磁力计初创，400万美元种子轮融资（2026-04）
+- [SBQuantum完成超额认购400万美元种子轮（腾讯, 2026-04）](https://so.html5.qq.com/page/real/search_news?docid=70000021_46769e2132254052)
+- **投资方**：Quantonation、Quantacet领衔，魁北克投资局参与，公司成立于2017年首次私人投资
+- **应用方向**：地下/水下/环境中隐藏磁场的精确探测，用于公共安全、导航、国防威胁检测
+- **技术**：量子钻石磁力计，基于金刚石NV色心，测量地球磁场扰动构建精确定位模型
+- **融资用途**：加速产品商业化、扩大团队、拓展美国市场
+
+---
+
+*本次更新: MarketsandMarkets/IMARC/QYResearch市场数据更新 / QuiX Quantum光子误差阈值突破 / Monarch Quantum$55M融资 / SBQuantum$4M种子轮*
 
 
