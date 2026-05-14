@@ -919,4 +919,3 @@
 
 ---
 *最后更新: 2026-05-14 (本次新增: 量子增强原子磁力计arXiv论文/Manus Quantum Metagloves/IBM量子中心超级计算架构/Infleqtion Q1财报预告)*
->>>>>>> a1a10e9 (docs: 更新量子传感最新论文及商用动态 arXiv磁力计/Manus量子手套/IBM量子计算架构 (2026-05-14))
