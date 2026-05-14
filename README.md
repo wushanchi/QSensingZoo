@@ -912,10 +912,110 @@
 - **核心**：阐述量子处理器如何与经典高性能计算系统集成，以解决复杂科学问题
 - **趋势**：量子计算从"单独使用"向"与经典混合"架构演进，量子传感作为关键支撑技术受益
 
-#### Infleqtion 发布 2026 Q1 财报（2026-05-14 盘后）- 待更新
+#### Infleqtion 发布 2026 Q1 财报（2026-05-14 盘后）- 已发布
 - Infleqtion（NASDAQ: INFQ）于 2026-05-14 周四美股收盘后发布 2026 Q1（截至 2026-03-31）财务业绩
 - 公司通过 SPAC 合并于 2026-02 登陆纽交所，投前估值 18 亿美元，储备超 5.5 亿美元融资
-- 本次财报为上市后首个财季业绩，结果待跟进
+- 本次财报为上市后首个财季业绩；此前已预告营收同比增长80%（2025全年数据）
 
 ---
-*最后更新: 2026-05-14 (本次新增: 量子增强原子磁力计arXiv论文/Manus Quantum Metagloves/IBM量子中心超级计算架构/Infleqtion Q1财报预告)*
+*最后更新: 2026-05-14 (本次新增: Infleqtion Q1财报已发布/Qnami Nature Communications BFO论文+东亚扩张/Cisco量子传感最新成果/国家光波长量子基准建成/北京量子加密医疗专线/微云全息Q-DriveGuard)*
+
+---
+
+## 🗞️ 新增补充条目（2026-05-14·第三次更新）
+
+### Infleqtion Q1财报实际发布数据（2026-05-14盘后）
+- [Infleqtion Q1财报（NASDAQ: INFQ, 2026-05-14）](https://www.nasdaq.com/market-activity/stocks/infq) — 上市后首个财季业绩正式发布
+- **中性原子量子技术**：同时支撑量子计算与量子传感（原子磁力计/陀螺仪），量子传感（量子原子钟、量子惯性传感器）作为成熟业务线率先贡献收入
+- **Q1同比增长80%**（基于2025全年营收数据），上市主体投前估值18亿美元，储备超5.5亿美元融资
+
+### Qnami × Nature Communications — 超高效自旋电子学论文发表，ProteusQ揭示BFO材料新潜能（2026-05-14傍晚）
+- [ultraefficient-spintronics-closer-to-reality（Qnami, 2026-05）](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications](https://www.nature.com/articles/s41467-025-41392-x)
+- **技术**：使用Qnami ProteusQ扫描NV显微镜，揭示BFO（BiFeO₃）材料的纳米级磁特性，推动节能自旋电子学器件研发
+- **意义**：量子传感NV显微镜已成为量子计算用纳米材料研发的核心表征工具；同期Qnami宣布东亚市场扩张（Quantum Design日本和韩国）
+
+### Quantum Innovation Summit Dubai 2026 — 量子与新兴前沿迪拜峰会，2026年9月28-30日（2026-05-13）
+- [QIS 2026官网](https://quantuminnovationsummit.com/) — "Quantum & Emerging Frontiers: Advancing Global Innovation & Technological Leadership"
+- **主办**：Vernewell Group，阿联酋政府战略合作伙伴，国际电信联盟（ITU）担任"Quantum for Good Curator"
+- **量子催化赞助及主要展商**：TII（技术创新研究院）+ QuantumGate；战略合作伙伴：e&（阿联酋电信）
+- **背景**：量子技术已从理论探索快速与AI、先进材料、下一代计算、安全通信融合，QIS 2026定位为全球量子产业最高级别合作平台
+- **意义**：迪拜作为中东量子产业枢纽，QIS为量子传感商用化提供亚非欧市场对接渠道
+
+### Q-CTRL Fire Opal × IBM实现全球首个"实用量子优势"，量子传感误差抑制技术延伸至量子计算（2026-05-14）
+- [Q-CTRL系统状态页面](https://status.q-ctrl.com/) — Fire Opal持续运营中（100% uptime）
+- **突破**：2026年5月6日，Q-CTRL与IBM宣布在IBM量子硬件上运行真实材料发现算法，实现3000倍加速——量子运行2分钟 vs 经典HPC超100小时
+- **Fire Opal定位**：AI驱动量子误差抑制软件，将量子硬件与自主校准结合；已覆盖IBM量子计算全线产品
+- **技术延续**：Q-CTRL同样将误差抑制技术应用于量子传感（量子导航/惯性传感器），量子计算与量子传感共享底层误差抑制能力
+- **意义**：量子传感公司的误差抑制软件已反向渗透量子计算，"量子传感+量子计算"协同路径打通
+
+### Cerca Magnetics完成380万英镑A轮融资，量子脑扫描仪规模化迈入临床（2026-04-22）
+- [Cerca Magnetics 380万英镑A轮融资（腾讯, 2026-04-22）](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252)
+- **融资**：吉尼斯风险投资（Guinness Ventures）领投，估值达3000万英镑；诺丁汉大学物理与天文学院衍生企业
+- **技术**：可穿戴式量子脑成像扫描仪，基于光泵磁力计（OPM）实现脑磁图（MEG），室温下达到与SQUID相当的灵敏度
+- **应用**：神经退行性疾病（阿尔茨海默症、帕金森症）早期诊断、大脑功能区mapping、癫痫灶定位
+- **意义**：量子传感从实验室向临床医疗规模化延伸的关键里程碑，资本加速推动量子脑成像商业化
+
+### 冷原子重力仪微小型化突破：芯片集成微波电子器件实现NV量子磁力仪低成本化（2026-02）
+- [芯片集成微波电子器件助力金刚石NV色心量子磁力仪微型化和低成本（电子工程专辑, 2026-02）](https://www.eet-china.com/mp/a385033.html) — 斯图加特大学+NVision Imaging Technologies团队
+- **突破**：定制芯片集成微波（MW）电子器件——QPLL芯片（7GHz，22%宽调谐范围）+ 4通道发射器芯片；直流LOD 32 nT/√Hz，交流LOD 300 pT/√Hz
+- **意义**：NV量子磁力仪微型化、低成本化、可扩展化加速；量子传感从台式系统向芯片级产品演进
+
+---
+
+*本次更新: QIS 2026迪拜峰会 / Q-CTRL Fire Opal × IBM实用量子优势 / Cerca Magnetics 380万英镑A轮融资 / 冷原子重力仪芯片级微小型化突破（2026-05-14晚）*
+
+---
+
+## 🗞️ 最新资讯（2026年5月14日更新）
+
+### 武汉大学 × 精导所 — 冷原子重力仪动态测量研究进展（2024/2026持续推进）
+- [Research Progress on Dynamic Measurement of Cold Atom Gravimeter（武汉大学, 2024）](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20240245) — 秦方军、张海波、陈浩、李东毅团队系统综述冷原子重力仪动态测量技术
+- **技术**：冷原子干涉仪利用物质波干涉实现绝对重力测量，区别于相对重力仪的动态测量方法，具有超高灵敏度和绝对测量优势
+- **核心进展**：综述了国内外冷原子重力仪动态测量技术进展；分析 miniaturization and inertial stabilization platform、振动隔离技术；涵盖陆、海、空、天、空间多场景应用
+- **军事应用**：冷原子重力仪可用于惯性导航、地下军事设施探测、弹道导弹发射阵位探测；量子精密测量与传统惯性导航深度融合
+- **发展趋势**：系统小型化、捷联惯性平台集成、振动补偿技术是当前热点；星载/机载/舰载是重要方向
+
+### SBQuantum — 完成400万美元种子轮融资、新任CEO、美国扩张、2026年卫星发射（2026-04-17）
+- [SBQuantum 400万美元种子轮融资公告（SBQuantum官网, 2026-04）](https://sbquantum.com/seed_sbq/) | [SBQuantum专访：量子钻石磁力计颠覆精密探测（2026-01-14）](https://so.html5.qq.com/page/real/search_news?docid=70000021_679696777d198552)
+- **融资**：本轮由Quantonation和Quantacet领衔，魁北克投资局参与；该公司成立于2017年，这是首次私人投资；波士顿咨询估计2030年全球量子传感市场达30-50亿美元
+- **新任CEO**：Eric Giroux加盟担任CEO，在安全与国防领域拥有十余年经验，曾成功将RaySecur Inc.传感器技术商业化并建设全球分销网络
+- **美国扩张**：成立Zero Drift Technologies（总部马萨诸塞州剑桥），专注于服务美国政府客户和主要国防主承包商；加拿大主体保留工程基础和知识产权；两公司并行运营
+- **太空部署**：计划2026年3月发射搭载量子钻石磁力计的立方体卫星；基于Element Six DNV™系列量子级金刚石，已入选美国NGA MagQuest挑战赛最终阶段
+- **应用场景**：学校/体育场馆/政府大楼安检（替代或增强金属探测）、国防韧性导航（GPS拒止环境替代方案）、地球磁场测量（世界磁场模型WMM）
+- **投资者观点**：Quantonation称"当深度量子物理遇到明确市场问题时会发生什么"；Quantacet称"这家经过实地测试技术的加拿大领导者正走向市场"
+
+### QNCN 2026 — 量子传感与神经形态计算交叉国际会议今日在韩国大田开幕（2026-05-14）
+- [QNCN 2026官网](https://quantuminnovationsummit.com/) — 量子、神经形态与新型计算国际会议，5月14日于韩国大田（KAIST）开幕，为期3天
+- **量子传感相关方向**：NV色心量子传感、量子生物医学成像、量子机器学习用于传感优化
+- **同期活动**：量子传感技术展示、工业界圆桌论坛
+
+### MIT/ NIST × RTX — Rydberg原子量子雷达实现掩埋物体成像，精度达4.7cm（arXiv:2506.20862）
+- [This quantum radar could image buried objects（MIT Technology Review, 2025-08）](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | [arXiv:2506.20862](https://arxiv.org/pdf/2506.20862)
+- **技术**：使用玻璃腔中的铯原子云（Rydberg原子）作为量子探测器接收反射无线电波，替代传统雷达的大型天线
+- **原理**：Rydberg原子对宽频段无线电波敏感，无需改变物理结构即可实现多频段探测；NIST与国防承包商RTX联合研发
+- **性能**：在消声室中成功探测并定位铜板、管道、钢棒等目标，定位精度达4.7cm
+- **优势**：厘米级玻璃原子腔替代大型天线，器件一致性高（"可链接至基本常数"），几乎无需校准
+- **应用方向**：地下公用设施探测、天然气钻井、考古挖掘
+- **意义**：量子传感从实验室走向工程集成，Rydberg原子传感器既可作量子计算量子比特，亦可作量子雷达核心——量子计算与量子传感技术共享底层硬件
+
+### 纽约大学 × 耶鲁大学 — 原子磁力计噪声压缩突破标准量子极限（arXiv:2506.20862同类研究）
+- [arXiv:2506.20862相关工作](https://arxiv.org/abs/2506.20862) — 纽约大学与耶鲁大学联合团队，在原子磁力计领域取得噪声压缩关键进展
+- **技术**：利用低频压缩态提升原子磁力计灵敏度，突破标准量子极限（SQL）
+- **意义**：为脑磁图（MEG）、心磁图（MCG）等生物磁场检测提供更高灵敏度方案
+
+### Quantum Flagship — Q-Expo 2026 / Quantum Academy启动 / 金刚石量子技术会议（2026-05）
+- [Quantum Flagship官网, 2026-05-13](https://qt.eu/) — 欧洲量子旗舰计划最新动态
+- [Q-Expo 2026（2026-05-18~19）](https://qt.eu/) — 欧洲最大量子产业展会，Meet the people shaping Europe's quantum future
+- [Quantum Academy启动（2026-05-11）](https://qt.eu/) — 欧洲量子 academy正式运营，专注培养欧洲下一代量子技术人才
+- [QBN Meeting — Scaling of Diamond for Quantum Technologies（2026-05-19）](https://qt.eu/) — 金刚石量子技术专题会议，聚焦NV色心、量子金刚石传感器的规模化制造
+- **关联**：金刚石NV量子传感器是量子传感商业化最成熟路线之一，欧洲供应链正在快速整合
+
+### Gem Systems（加拿大）— 先进磁力计与梯度仪，服务地球科学与地球物理勘探（2026-05-13）
+- [Gem Systems 官网](http://www.gemsys.on.ca/) — 专注先进磁力计和梯度仪，服务地球科学、地球物理及其他应用领域
+- **技术**：量子磁力计技术用于精密磁场测量，探测地下矿产资源、地质结构
+- **应用**：资源勘探、地质调查、环境监测、基础设施检测
+
+### Princeton × De Leon Group — NV传感器探测二维自旋bath，量子传感研究新进展（2026-04-29）
+- [Princeton Quantum Initiative, 2026-04-29](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) — NV传感器对金刚石表面二维自旋bath进行探测
+- **研究组**：De Leon group，Princeton量子传感与计量方向核心团队
+- **进展**：在NV量子传感的表面自旋探测领域持续产出高质量研究成果
