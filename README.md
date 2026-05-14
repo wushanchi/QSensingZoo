@@ -754,4 +754,36 @@
 
 *本次更新: MarketsandMarkets/IMARC/QYResearch市场数据更新 / QuiX Quantum光子误差阈值突破 / Monarch Quantum$55M融资 / SBQuantum$4M种子轮*
 
+---
 
+## 🗞️ 新增补充条目（2026-05-14·下午更新）
+
+### Diamond Genesis Instruments（加拿大DGI）— 量子磁力计/梯度仪，服务脑神经科学与地球物理（2026-05-14更新）
+- [Diamond Genesis Instruments 官网](https://www.diamondgenesis.com/) — 专注量子磁力计与梯度仪研发与制造，总部位于加拿大
+- **核心技术**：基于金刚石氮-空位（NV）色心的量子磁传感技术，测量地球磁场微弱扰动
+- **应用方向**：脑神经科学（脑磁图MEG/心磁图MCG生物磁场成像）、地球物理勘探、矿产探测
+- **产品特点**：室温工作、高灵敏度、便携性强，区分于传统SQUID低温磁力计
+
+### Stanford × ETH Zurich — NV量子磁力计时域分辨率突破1.1纳秒（arXiv:2411.05542）
+- [Quantum magnetometry of transient signals with a time resolution of 1.1 nanoseconds（arXiv:2411.05542）](https://arxiv.org/abs/2411.05542) — Konstantin Herb（Stanford/ETH）、Laura A. Völker、John M. Abendroth等
+- **技术突破**：基于单NV色心磁力计，在室温下实现1.1纳秒瞬态信号时间分辨率，即时带宽达0.5 GHz以上
+- **核心创新**：现有NV磁测量协议主要针对静态或窄带动态信号，侧重高灵敏度而非快时域响应；本研究首次在NV磁力计中实现亚纳秒级瞬态信号检测
+- **实验验证**：成功探测磁性系统中快速信号瞬变过程，包括铁磁/反铁磁超导和电流感应场
+- **意义**：为研究磁性系统丰富动力学过程开辟新路径，时间域量子传感能力从"静态成像"向"高速瞬态捕捉"跃升
+
+### Gordon Research Conference — 量子传感2027年会开放注册，聚焦"传感架构多样化"（2027-07-11）
+- [Gordon Research Conference — Quantum Sensing 2027](https://www.grc.org/quantum-sensing-conference/default.aspx) — 量子传感领域最高水平闭门学术会议
+- **时间地点**：2027年7月11-16日，瑞士Les Diablerets Conference Center
+- **会议主题**：Diversity of Sensing Architectures for New Physics and Real-World Applications（面向新物理与实际应用的多样化传感架构）
+- **历史沿革**：GRC量子传感会议每两年一届，前两届分别于2025年（瑞士Les Diablerets）和2023年（香港中文大学）成功举办
+- **量子传感方向**：原子体系、固态体系、光子体系三大路线协同推进，量子传感进入架构多样化发展阶段
+
+### 量子纠缠增强重力波探测器灵敏度：LIGO/Virgo/KAGRA后下一代探测方案（2026-02）
+- [量子纠缠增强引力波探测器灵敏度（量子科话, 2026-03）](https://so.html5.qq.com/page/real/search_news?docid=70000021_62569afdfb189352) — 量子纠缠技术正在成为下一代引力波探测的核心使能技术
+- **背景**：LIGO、Virgo、KAGRA等现有探测器已达到设计灵敏度极限，量子纠缠注入技术有望实现数量级灵敏度提升
+- **技术路径**：在光干涉仪输入端注入量子压缩态光场，降低量子噪声，克服标准量子极限（SQL）
+- **意义**：量子传感与引力波物理深度融合，量子纠缠增强方案是未来"量子引力波天文学"的基础设施级技术
+
+---
+
+*本次更新: Diamond Genesis Instruments量子磁力计公司 / Stanford×ETH Zurich NV磁力计1.1ns瞬态时域分辨率 / GRC Quantum Sensing 2027开放注册 / 量子纠缠增强引力波探测器灵敏度*
