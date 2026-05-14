@@ -49,6 +49,45 @@
 
 ---
 
+### 🆕 新增条目（2026-05-14深夜）
+
+#### MIT/芝加哥大学/东京大学/港中文 — 固态量子传感器首次实现多参数同时估计（PRX Quantum, 2026-04）
+- [MIT/芝加哥大学/东京大学/港中文联合研究（so.html5.qq.com, 2026-04-16）](https://so.html5.qq.com/page/real/search_news?docid=70000021_15469e0c1b599852) — 发表在PRX Quantum
+- **技术**：基于金刚石氮-空位（NV）中心固态量子传感器，实验实现量子多参数估计
+- **作者**：Takuya Isogawa、Guoqing Wang（王国庆）、Boning Li 为共同第一作者，Haidong Yuan、Paola Cappellaro 为共同通讯作者
+- **意义**：多参数同时估计是量子传感实用化的重要方向，突破单参数测量局限，为量子传感系统工程应用提供理论基础
+
+#### Quantum Singapore 2026论坛 — 量子汇聚：从硬件突破到工业应用（2026-02-04）
+- [Quantum Singapore 2026论坛在新加坡盛大开幕（new.qq.com, 2026-02-07）](https://new.qq.com/rain/a/20260207A067DT00)
+- **主办**：ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办，IEEE Photonics Society新加坡分会学术支持
+- **主题**："Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"
+- **论坛焦点**：量子传感硬件优化、软硬协同、区域化生态构建；量子传感已从"能做"进入"规模化部署"阶段
+- **意义**：新加坡作为亚洲量子产业枢纽，Quantum Singapore为量子传感商用化提供亚太市场对接渠道
+
+#### 国内科学家"拉伸"钻石造下一代量子传感器：运行温度大幅提升，成本降低（2026-05-12）
+- [60年弯道超车!国内科学家"拉伸"钻石,造出了下一代量子传感器（象视汽车, 2026-05-12）](https://so.html5.qq.com/page/real/search_news?docid=70000021_9466a02d6ac62152)
+- **技术路径**：通过在热玻璃上沉积金刚石薄膜，冷却过程中玻璃比钻石收缩更慢，在分子层面实现对钻石的"拉伸"
+- **核心突破**：拉伸改变钻石分子晶格，使量子位元维持纠缠的温度从略高于绝对零度提升至 -269℃，大幅降低运行成本
+- **意义**：降低设备运行成本，使量子位元更易实现高保真控制，推动量子传感器从实验室走向工业规模部署
+
+#### 量子传感进入美国最核心武器系统长期采购目录——IonQ入选1510亿美元MDA SHIELD计划（2026-02）
+- [IonQ入选1510亿美元MDA SHIELD计划（腾讯, 2026-02-25）](https://so.html5.qq.com/page/real/search_news?docid=70000021_690699ed88536652)
+- **背景**：2026年2月23日，IonQ成功入围美国导弹防御局（MDA）"战略一体化、分层防御与赋能（SHIELD）"IDIQ合同名单
+- **规模**：总金额上限高达1510亿美元，战略层面标志量子技术已正式跨越实验室研究阶段
+- **意义**：IonQ业务覆盖量子计算、量子网络和量子传感三大赛道，此次入选意味着量子传感已纳入美国最核心武器系统的长期采购目录
+
+#### Monarch Quantum × Oratomic：光子系统+中性原子架构战略合作，瞄准本十年末数万物理量子比特（2026-04-28）
+- [量子界, 2026-04-29](https://so.html5.qq.com/page/real/search_news?docid=70000021_95769f1e58162352)
+- **合作内容**：整合光子系统和中性原子架构，打造容错、实用规模的量子计算机
+- **目标**：本十年末交付拥有数万个物理量子比特、编码数千个错误更正逻辑量子比特的系统
+- **关联**：中性原子量子技术同时支撑量子计算与量子传感（原子磁力计/陀螺仪），此次合作为QS上游供应链注入新动能
+
+---
+
+*本次更新: MIT/芝加哥/东京/港中文PRX Quantum多参数估计 / Quantum Singapore 2026 / 国内拉伸钻石量子传感器 / IonQ入选MDA SHIELD / Monarch×Oratomic战略合作（2026-05-14深夜）*
+
+---
+
 ### Qnami × Nature Communications — 超高效自旋电子学论文发表，ProteusQ揭示BFO材料新潜能（2026-05-14傍晚）
 - [ultraefficient-spintronics-closer-to-reality（Qnami, 2026-05）](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications](https://www.nature.com/articles/s41467-025-41392-x)
 - **技术**：使用Qnami ProteusQ扫描NV显微镜，揭示BFO（BiFeO₃）材料的纳米级磁特性，推动节能自旋电子学器件研发
