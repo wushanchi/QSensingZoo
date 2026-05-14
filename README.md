@@ -428,11 +428,46 @@
 ---
 
 *最后更新: 2026-05-14*
-*本次更新: IQM欧洲首家量子计算公司SPAC上市 / QunaSys量子学习网站书籍化 / Quantum.Tech World新加坡峰会回顾*
+*本次更新: 量子传感2026年5月最新动态补遗（伦敦帝国理工皇家海军舰船测试/Diamond Quantum传感器 workshop/ETSI量子安全密码学大会/Quantum Innovation Summit Dubai 2026/QCNC 2026神户）*
 
 ---
 
 ## 🗞️ 最新资讯（2026年5月）
+
+### 伦敦帝国理工学院 × 英国皇家海军 — 量子传感海上导航测试，舰船首次试验（2026-05）
+- [Q&A: How will quantum science transform technology?（Imperial News, 2026-05-08）](https://www.imperial.ac.uk/news/246634/qa-how-will-quantum-science-transform)
+- **进展**：帝国理工学院在皇家海军舰船上首次测试量子传感器作为未来导航系统，该测试为全球首次将量子传感技术集成至海军舰船环境
+- **技术方向**：量子导航系统可在GPS拒止环境下提供高精度定位，填补传统卫星导航在海上的盲区
+- **意义**：继量子传感飞行测试（在英国皇家空军飞机上成功演示）之后，量子传感技术向海上/水下应用场景延伸，验证了多平台兼容性
+
+### QCNC 2026 — 国际量子通信、网络与计算会议（2026-04-06, 神户, 日本）
+- [QCNC 2026 官网](https://www.myhuiban.com/conference/4810)
+- **时间地点**：2026年4月6日，日本神户
+- **四大Track**：①量子通信与网络 ②量子计算与传感 ③量子安全 ④量子模拟、原型、测试平台与应用
+- **量子传感Track焦点**：纠缠生成与调度、广域网量子网络与量子云、量子网络拓扑、量子计算与传感交叉领域
+
+### Quantum Innovation Summit Dubai 2026 — 阿联酋推动全球量子技术领导力（2026-09-28-30）
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) — 2026年9月28-30日，迪拜Grand Hyatt
+- **主题**：Quantum & Emerging Frontiers — Advancing Global Innovation & Technological Leadership
+- **背景**：阿联酋正在通过战略投资、研究卓越和跨境合作推动量子技术发展，定位为全球量子技术领导者
+- **焦点**：量子技术从理论探索快速与产业融合，政府、企业、创业公司、学术界协作规模空前
+
+### ETSI/IQC Quantum Safe Cryptography Conference 2026 — 后量子密码学与量子传感安全交叉（2026-06-16-18, 渥太华）
+- [ETSI Quantum Safe Cryptography Conference 2026](https://www.etsi.org/) — 2026年6月16-18日，加拿大渥太华
+- **背景**：ETSI与滑铁卢大学量子计算研究所（IQC）联合主办，关注量子安全密码学标准
+- **关联**：量子传感网络的量子安全通信需求日益增长，量子传感与量子密码学的交叉是未来量子传感地面/空间网络的重要方向
+
+### 低温NV扫描磁学显微镜 — 1.8K低温、3 µT/√Hz灵敏度、纳米尺度定量磁场成像（2026-01）
+- [限额免费测1.8 K 低温 NV 色心扫描磁学显微镜（so.html5.qq.com, 2026-01-22）](https://so.html5.qq.com/page/real/search_news?docid=70000021_54769717fc807152)
+- **参数**：1.8K低温工作、3 µT/√Hz灵敏度、实现纳米尺度定量磁场成像
+- **技术**：金刚石中的氮空位（NV）中心是可靠的量子传感技术载体，低温环境大幅提升量子相干时间
+- **应用**：理解量子层面磁性现象、研发新型存储设备或量子计算机用材料
+
+### Quantum Singapore 2026 论坛闭幕 — "量子汇聚：从硬件突破到工业应用"（2026-02-04）
+- [Quantum Singapore 2026（腾讯, 2026-02-07）](https://new.qq.com/rain/a/20260207A067DT00) | [搜狐, 2026-02-10](https://so.html5.qq.com/page/real/search_news?docid=70000021_12669871b9e15152)
+- **主题**：`Quantum Convergence: From Hardware Breakthrough to Industrial Adoption`
+- **主办**：ICV TA&K、FinQ Tech Inc.、Informa Markets，IEEE Photonics Society 新加坡分会学术支持
+- **会议内容**：量子技术在硬件优化、软硬协同及区域化生态构建等维度的最新进展
 
 ### Quantum.Tech World 2026新加坡峰会闭幕，Peter Shor亲临演讲（2026-05-13）
 - [2026年量子技术监测报告（搜狐, 2026-05-13）](https://www.sohu.com/a/1019974840_121973852) — 量子计算公司收入2025年首超10亿美元，300+行业客户（摩根大通、阿斯利康、宝马等）通过付费联合研发探索量子价值
