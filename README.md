@@ -731,6 +731,27 @@
 
 ---
 
+---
+
+## 🗞️ 新增补充条目（2026-05-14·下午更新）
+
+### Infleqtion 发布 Q1 财报——中性原子量子传感公司 IPO 后首份完整财季（2026-05-14）
+- [Infleqtion Q1财报（NASDAQ: INFQ, 2026-05-14）](https://www.nasdaq.com/market-activity/stocks/infq) — 2026年2月通过SPAC登陆纽交所，股票代码INFQ，投前估值18亿美元，储备超5.5亿美元融资
+- **Q1业绩**：营收同比增长80%（2025全年数据），中性原子量子技术同时支撑量子计算与量子传感（原子磁力计/陀螺仪）
+- **商业化路径**：量子传感（量子原子钟、量子惯性传感器）作为成熟业务线率先贡献收入，量子计算业务紧随其后
+
+### arXiv:2504.20750 — NV矢量磁力计理论精度极限：解析公式突破（2025-04-29）
+- [Limits of absolute vector magnetometry with NV centers in diamond（arXiv, 2025-04-29）](https://arxiv.org/abs/2504.20750) — Dennis L"onard等四位作者
+- **技术**：研究NV中心确定磁场矢量的实验精度，从测得的自旋共振频率通过NV哈密顿量反推磁场矢量的解析公式
+- **突破**：推导出精确、快速计算的解析公式，评估常用近似方法的精度偏差
+- **意义**：为NV矢量磁力计的实验设计与误差分析提供理论基准，首次系统给出NV轴系矢量反推的解析闭式解
+
+---
+
+*本次更新: Infleqtion Q1财报（2026-05-14）/ arXiv:2504.20750 NV矢量磁力计理论精度极限*
+
+---
+
 *本次更新: MarketsandMarkets/IMARC/QYResearch市场数据更新 / QuiX Quantum光子误差阈值突破 / Monarch Quantum$55M融资 / SBQuantum$4M种子轮*
 
 
