@@ -27,6 +27,28 @@
 
 ## 🗞️ 最新资讯（2026年5月）
 
+### 📌 本周新增（2026-05-14）
+
+#### Q-CTRL × IBM — 实现全球首个"实用量子优势"，材料发现提速3000倍（2026-05-06）
+- [3000倍提速,Q-CTRL联手IBM打响「实用量子优势」第一枪（新浪, 2026-05-08）](https://k.sina.com.cn/article_5953189932_162d6782c0670489v8.html?cre=tianyi&mod=pcpager_news&loc=19&r=0&rfunc=79&tj=cxvertical_pc_pager_news&tr=174) | [Q-CTRL官网, 2026-05-13](https://q-ctrl.com/)
+- **突破**：在IBM量子硬件上运行量子算法解决真实材料发现问题，实现高达3000倍绝对加速——量子运行仅需2分钟，同等问题经典高性能计算机需超过100小时
+- **技术核心**：Q-CTRL的AI驱动量子误差抑制软件（Fire Opal），将量子硬件与自主校准软件结合，突破噪声壁垒实现稳定运行
+- **意义**：首次全球性"实用量子优势"演示，全球约三分之一超级计算机算力耗在化学/材料模拟上，此次突破打开商业化空间；Q-CTRL同时在量子传感赛道（量子导航/惯性传感器）布局，误差抑制技术对QS硬件同样关键
+
+#### Quantum Computing Inc.（QCi）— 股价涨超38%，NeuraWave光子计算平台商用 + 收购完成（2026-05-12）
+- [Quantum Computing涨超38%（so.html5.qq.com, 2026-05-12）](https://so.html5.qq.com/page/real/search_news?docid=70000021_2516a03342f82952)
+- [从实验室走向产业现场:NeuraWave光子计算平台（so.html5.qq.com, 2026-04-24）](https://so.html5.qq.com/page/real/search_news?docid=70000021_23469eb515758652) — 2026年4月23日，Quantum Computing Inc.宣布NeuraWave进入可部署商用状态，以标准服务器PCIe插卡形态主攻边缘侧实时AI推理
+- [QCi收购NuCrypt/Freedom Photonics/EM4/Optogration完成（QCi官网, 2026-05）](https://quantumcomputinginc.com/) — QCi完成对NuCrypt（量子通信与计量）、Freedom Photonics（光子组件）、EM4（高性能光子组件）、Optogration（先进光电探测器）的收购整合，完成从"技术创新"到"规模化制造"的战略转型
+- **股价表现**：2026年5月12日，QCi股价涨超38%，Q1营收369万美元（超市场预期328万美元），每股亏损0.02美元（市场预期-0.05美元）
+- **战略**：量子光子技术覆盖量子传感（高灵敏度光子探测器）与量子计算两条主线，CEO黄玉平博士（华人）主导从原型开发向工业规模制造过渡
+
+#### Quantum Flagship — Q-Expo 2026 / Quantum Academy启动 / 金刚石量子技术会议（2026-05）
+- [Quantum Flagship官网, 2026-05-13](https://qt.eu/) — 欧洲量子旗舰计划最新动态
+- [Q-Expo 2026（2026-05-18~19）](https://qt.eu/) — 欧洲最大量子产业展会，Meet the people shaping Europe's quantum future
+- [Quantum Academy启动（2026-05-11）](https://qt.eu/) — 欧洲量子 academy正式运营，专注培养欧洲下一代量子技术人才
+- [QBN Meeting — Scaling of Diamond for Quantum Technologies（2026-05-19）](https://qt.eu/) — 金刚石量子技术专题会议，聚焦NV色心、量子金刚石传感器的规模化制造
+- **关联**：金刚石NV量子传感器是量子传感商业化最成熟路线之一，欧洲供应链正在快速整合
+
 ### Quantum.Tech World 2026新加坡峰会闭幕，Peter Shor亲临演讲（2026-05-13）
 - [Quantum.Tech World 2026 — 新加坡峰会](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
 - **亮点**：Peter Shor（Shor算法提出者）亲临演讲，量子计算领域祖师级人物极少公开露面；Dani Couger（Lockheed Martin）展示量子工程前沿进展
@@ -468,7 +490,9 @@
 
 ---
 
-*本次更新: Q-STAR磁场/重力细分市场展望 / 山西大学石墨烯量子磁传感器Nature·Sensors / 国盛量子QDM-100商用 / 萨塞克斯量子传感器MEG阿尔茨海默症早筛 / 量子传感芯片级小型化路线图*
+*本次更新: Q-CTRL×IBM"实用量子优势"3000倍加速 / QCi股价+38%NeuraWave商用 / Quantum Flagship Q-Expo2026+Quantum Academy启动 / MarketsandMarkets+IDTechEx+ResearchandMarkets市场报告更新 / Bosch×Element Six金刚石合资公司*
+
+ (docs: 更新量子传感市场数据与公司动态（2026-05-14）)
 
 ---
 
@@ -530,3 +554,58 @@
 - **估值**：18亿美元，成为欧洲首家公开上市的量子计算公司
 - **战略**：在全球量子竞赛白热化阶段，欧洲通过资本力量夺回技术主权；IQM同时布局量子传感赛道
 - **背景**：量子传感与量子计算共享硬件平台（超导电路、稀释制冷机等），量子计算公司IPO为量子传感上游供应链提供资金支撑
+
+---
+
+## 🗞️ 市场数据与公司动态补充（2026年5月）
+
+### 📊 量子传感市场数据更新（2026版）
+
+#### MarketsandMarkets量子传感市场报告（2026版）
+- [Quantum Sensors Market — MarketsandMarkets（更新至2026）](https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html) — 全球量子传感市场持续强劲增长
+- **市场驱动**：高灵敏度测量需求激增，量子技术在国防、油气、农业、汽车、矿业、医疗等领域加速渗透
+- **产品类型**：原子钟、磁传感器、PAR量子传感器、重力仪与加速度计
+- **应用领域**：航空航天与国防、油气、农业、汽车、矿业、医疗
+- **预测**：2027年市场规模预计达到42亿美元（2022-2027 CAGR 16.8%）
+
+#### IDTechEx量子传感市场报告（2024-2046版）
+- [Quantum Sensors Market 2024-2044 — IDTechEx（2026参考）](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) — 全球量子传感器产业深度分析
+- **覆盖范围**：原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器
+- **厂商数量**：40+家厂商参与
+- **细分领域**：20+个细分应用领域
+- **预测**：2046年市场规模增至19亿美元
+
+#### ResearchandMarkets量子技术市场报告（2025-2035版）
+- [Quantum Technology Market 2025-2035 — ResearchandMarkets（2025-08）](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) — 416页深度报告
+- **量子传感与成像**：报告核心板块之一
+- **预测**：2025年市场规模18.8亿美元 → 2035年50.7亿美元（CAGR 10.42%）
+- **量子点粒子、量子级联激光器、量子磁力计**：均列入重点分析范围
+
+---
+
+### 🏢 公司与产品动态（补充）
+
+#### Bosch Quantum Sensing × Element Six — 金刚石量子传感器合资公司（2025-07）
+- [Bosch establishes company with Element Six — Bosch Quantum Sensing（2025-07-04）](https://www.bosch-quantumsensing.com/insights-and-updates/bosch-establishes-company-with-the-synthetic-diamond-solutions-provider-element-six/)
+- **合作方**：Element Six，全球领先的人造金刚石解决方案提供商
+- **合资公司**：2022年Bosch内部创业团队建立，2025年正式成立合资公司，落户德国Ludwigsburg
+- **技术核心**：合成金刚石是Bosch量子传感器的关键组件，Element Six提供量子级金刚石材料
+- **战略**：Bosch估计量子传感器在全球医疗和移动出行领域的市场潜力巨大，此次合作将进一步巩固技术领先地位
+- **背景**：Bosch在量子传感领域研发已超过十年，Element Six是金刚石NV色心量子传感器的核心材料供应商
+
+#### Qubic Technologies（加拿大/荷兰）—— 量子微波传感与通信（2026-05活跃）
+- [Qubic Technologies 官网](https://qubictech.co/) — Quantum remote sensing tools
+- **技术**：基于超导电路的量子微波系统，产生最大相关性、最小附加噪声
+- **优势**：量子增益灵敏度提升，在极端条件下检测微弱信号
+- **使命**：消除噪声、放大灵敏度、确保无与伦比的传输和传感准确性
+- **应用**：抗噪声通信、最优安全传感、量子遥感
+
+#### Onnes Technologies（荷兰）—— 低温纳米定位系统赋能量子传感器商用（2026-04活跃）
+- [Onnes Technologies 官网](https://onnestechnologies.com/) — 专注量子传感器低温环境应用，提供低温振动隔离系统（cVIS）和纳米定位平台（arQtika）
+- **产品线**：cVIS（低温振动隔离系统）和arQtika（基于低温步行技术的纳米定位系统）
+- **应用**：量子计量、NV色心扫描显微镜、量子计算 readout
+
+---
+
+*本次更新: MarketsandMarkets/IDTechEx/ResearchandMarkets市场报告更新 / Bosch×Element Six金刚石合资公司 / Qubic Technologies量子微波传感 / Onnes Technologies低温系统*
+
