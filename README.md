@@ -32,7 +32,35 @@
 
 ---
 
-*本次更新: Qnami × Nature Communications论文 / GRC Quantum Sensing 2027 / 冷原子重力仪进展 / SBQuantum融资+CEO+2026卫星发射（2026-05-14傍晚）*
+### Quantum Innovation Summit Dubai 2026 — 量子与新兴前沿迪拜峰会，2026年9月28-30日（2026-05-13）
+- [QIS 2026官网](https://quantuminnovationsummit.com/) — "Quantum & Emerging Frontiers: Advancing Global Innovation & Technological Leadership"
+- **主办**：Vernewell Group，阿联酋政府战略合作伙伴，国际电信联盟（ITU）担任"Quantum for Good Curator"
+- **量子催化赞助及主要展商**：TII（技术创新研究院）+ QuantumGate；战略合作伙伴：e&（阿联酋电信）
+- **背景**：量子技术已从理论探索快速与AI、先进材料、下一代计算、安全通信融合，QIS 2026定位为全球量子产业最高级别合作平台
+- **意义**：迪拜作为中东量子产业枢纽，QIS为量子传感商用化提供亚非欧市场对接渠道
+
+### Q-CTRL Fire Opal × IBM实现全球首个"实用量子优势"，量子传感误差抑制技术延伸至量子计算（2026-05-14）
+- [Q-CTRL系统状态页面](https://status.q-ctrl.com/) — Fire Opal持续运营中（100% uptime）
+- **突破**：2026年5月6日，Q-CTRL与IBM宣布在IBM量子硬件上运行真实材料发现算法，实现3000倍加速——量子运行2分钟 vs 经典HPC超100小时
+- **Fire Opal定位**：AI驱动量子误差抑制软件，将量子硬件与自主校准结合；已覆盖IBM量子计算全线产品
+- **技术延续**：Q-CTRL同样将误差抑制技术应用于量子传感（量子导航/惯性传感器），量子计算与量子传感共享底层误差抑制能力
+- **意义**：量子传感公司的误差抑制软件已反向渗透量子计算，"量子传感+量子计算"协同路径打通
+
+### Cerca Magnetics完成380万英镑A轮融资，量子脑扫描仪规模化迈入临床（2026-04-22）
+- [Cerca Magnetics 380万英镑A轮融资（腾讯, 2026-04-22）](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252)
+- **融资**：吉尼斯风险投资（Guinness Ventures）领投，估值达3000万英镑；诺丁汉大学物理与天文学院衍生企业
+- **技术**：可穿戴式量子脑成像扫描仪，基于光泵磁力计（OPM）实现脑磁图（MEG），室温下达到与SQUID相当的灵敏度
+- **应用**：神经退行性疾病（阿尔茨海默症、帕金森症）早期诊断、大脑功能区mapping、癫痫灶定位
+- **意义**：量子传感从实验室向临床医疗规模化延伸的关键里程碑，资本加速推动量子脑成像商业化
+
+### 冷原子重力仪微小型化突破：芯片集成微波电子器件实现NV量子磁力仪低成本化（2026-02）
+- [芯片集成微波电子器件助力金刚石NV色心量子磁力仪微型化和低成本（电子工程专辑, 2026-02）](https://www.eet-china.com/mp/a385033.html) — 斯图加特大学+NVision Imaging Technologies团队
+- **突破**：定制芯片集成微波（MW）电子器件——QPLL芯片（7GHz，22%宽调谐范围）+ 4通道发射器芯片；直流LOD 32 nT/√Hz，交流LOD 300 pT/√Hz
+- **意义**：NV量子磁力仪微型化、低成本化、可扩展化加速；量子传感从台式系统向芯片级产品演进
+
+---
+
+*本次更新: QIS 2026迪拜峰会 / Q-CTRL Fire Opal × IBM实用量子优势 / Cerca Magnetics 380万英镑A轮融资 / 冷原子重力仪芯片级微小型化突破（2026-05-14晚）*
 
 ---
 
