@@ -49,6 +49,18 @@
 - [QBN Meeting — Scaling of Diamond for Quantum Technologies（2026-05-19）](https://qt.eu/) — 金刚石量子技术专题会议，聚焦NV色心、量子金刚石传感器的规模化制造
 - **关联**：金刚石NV量子传感器是量子传感商业化最成熟路线之一，欧洲供应链正在快速整合
 
+#### Gem Systems（加拿大）— 先进磁力计与梯度仪，服务地球科学与地球物理勘探（2026-05-13）
+- [Gem Systems 官网](http://www.gemsys.on.ca/) — 专注先进磁力计和梯度仪，服务地球科学、地球物理及其他应用领域
+- **技术**：量子磁力计技术用于精密磁场测量，探测地下矿产资源、地质结构
+- **应用**：资源勘探、地质调查、环境监测、基础设施检测
+
+#### Princeton × De Leon Group — NV传感器探测二维自旋bath，量子传感研究新进展（2026-04-29）
+- [Princeton Quantum Initiative, 2026-04-29](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) — NV传感器对金刚石表面二维自旋bath进行探测
+- **研究组**：De Leon group，Princeton量子传感与计量方向核心团队
+- **进展**：在NV量子传感的表面自旋探测领域持续产出高质量研究成果
+
+
+
 ### Quantum.Tech World 2026新加坡峰会闭幕，Peter Shor亲临演讲（2026-05-13）
 - [Quantum.Tech World 2026 — 新加坡峰会](https://www.quantumtechcongress.com/) — 汇聚40+国家1000+创新者，主题"Quantum, AI & HPC: Redefining What's Possible"
 - **亮点**：Peter Shor（Shor算法提出者）亲临演讲，量子计算领域祖师级人物极少公开露面；Dani Couger（Lockheed Martin）展示量子工程前沿进展
@@ -490,7 +502,7 @@
 
 ---
 
-*本次更新: Q-CTRL×IBM"实用量子优势"3000倍加速 / QCi股价+38%NeuraWave商用 / Quantum Flagship Q-Expo2026+Quantum Academy启动 / MarketsandMarkets+IDTechEx+ResearchandMarkets市场报告更新 / Bosch×Element Six金刚石合资公司*
+*本次更新: Q-CTRL×IBM"实用量子优势"3000倍加速 / QCi股价+38%NeuraWave商用 / Quantum Flagship Q-Expo2026+Quantum Academy启动 / MarketsandMarkets+IDTechEx+ResearchandMarkets市场报告更新 / Bosch×Element Six金刚石合资公司 / Gem Systems先进磁力计 / Princeton NV自旋bath探测*
 
  (docs: 更新量子传感市场数据与公司动态（2026-05-14）)
 
