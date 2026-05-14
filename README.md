@@ -25,14 +25,14 @@
 
 ---
 
-### QNCN 2026 — 量子传感与神经形态计算交叉国际会议今日在韩国大田开幕（2026-05-14）
-- [QNCN 2026官网](https://quantuminnovationsummit.com/) — 量子、神经形态与新型计算国际会议，5月14日于韩国大田（KAIST）开幕，为期3天
-- **量子传感相关方向**：NV色心量子传感、量子生物医学成像、量子机器学习用于传感优化
-- **同期活动**：量子传感技术展示、工业界圆桌论坛
+### Qnami × Nature Communications — 超高效自旋电子学论文发表，ProteusQ揭示BFO材料新潜能（2026-05-14傍晚）
+- [ultraefficient-spintronics-closer-to-reality（Qnami, 2026-05）](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications](https://www.nature.com/articles/s41467-025-41392-x)
+- **技术**：使用Qnami ProteusQ扫描NV显微镜，揭示BFO（BiFeO₃）材料的纳米级磁特性，推动节能自旋电子学器件研发
+- **意义**：量子传感NV显微镜已成为量子计算用纳米材料研发的核心表征工具；同期Qnami宣布东亚市场扩张（Quantum Design日本和韩国）
 
 ---
 
-*本次更新: QNCN 2026 KAIST开幕（2026-05-14）*
+*本次更新: Qnami × Nature Communications论文 / GRC Quantum Sensing 2027会议公告（2026-05-14傍晚）*
 
 ---
 
@@ -764,6 +764,28 @@
 ---
 
 *本次更新: MarketsandMarkets/IMARC/QYResearch市场数据更新 / QuiX Quantum光子误差阈值突破 / Monarch Quantum$55M融资 / SBQuantum$4M种子轮*
+
+---
+
+## 🗞️ 新增补充条目（2026-05-14·傍晚更新）
+
+### Qnami × Nature Communications — 超高效自旋电子学研究新突破，ProteusQ揭示BFO材料完整潜能（2026-05）
+- [Qnami新闻页, 2026-05](https://qnami.ch/news/) | [ultraefficient-spintronics-closer-to-reality](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications论文](https://www.nature.com/articles/s41467-025-41392-x)
+- **技术**：使用Qnami ProteusQ量子扫描NV显微镜，揭示BFO（BiFeO₃）材料的完整潜能，推动超高效自旋电子学器件发展
+- **发表**：研究论文发表于《自然·通讯》（Nature Communications），使用ProteusQ在纳米尺度表征BFO的磁特性
+- **意义**：量子传感（NV显微镜）已成为下一代自旋电子学材料研发的核心工具，直接支撑量子计算用量子比特的纳米级制造
+- **同期动态**：Qnami同时宣布与Quantum Design日本和韩国建立商业合作，将量子传感器产品线引入东亚市场
+
+### Gordon Research Conference — Quantum Sensing 2027会议时间地点正式公布（2026-05）
+- [GRC Quantum Sensing Conference页面](https://www.grc.org/quantum-sensing-conference/default.aspx) — 量子传感领域最重要的学术会议之一，每两年一届
+- **下一届**：2027年7月11-16日，瑞士Les Diablerets Conference Center
+- **2025届主题**：「Diversity of Sensing Architectures for New Physics and Real-World Applications」，2025年7月13-18日已举办
+- **历史**：2023届主题「Frontiers of Sensing in the Quantum Regime with Atomic, Solid-State and Photonic Systems」，2019届主题「Quantum Sensing Applications in Metrology and Imaging」
+- **意义**：量子传感领域最权威的学术交流平台，汇聚全球顶尖研究团队与最新突破性成果
+
+---
+
+*本次更新: Qnami × Nature Communications BFO自旋电子学论文 / Qnami东亚市场扩张 / GRC Quantum Sensing 2027会议公告（2026-05-14傍晚）*
 
 ---
 
