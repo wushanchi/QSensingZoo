@@ -25,7 +25,56 @@
 
 ---
 
-*本次更新: 第五届量子科仪节(5/15-17,合肥) / 国家重大专项2026-2030项目建议征集启动(5/18) / 量子精密测量从"能测"迈向"能用" / 量子科技Q1融资32亿元超越2025全年 / 2026年量子技术监测报告发布(2026-05-19)*
+*本次更新: Sandia原子干涉仪量子惯性/重力传感器小型化突破(2025专利) / 量子传感器市场2025-2045:半导体工艺蒸汽电池+VCSEL成关键 / IDTechEx预测2044年71亿美元 / Sandia光泵磁力计fMCG研究 / 量子传感最新学术与产业动态(2026-05-19凌晨)*
+
+---
+
+### 🆕 新增条目(2026-05-19凌晨)
+
+#### Sandia国家实验室 - 原子干涉仪量子惯性/重力传感器小型化突破,2025年获多项核心专利(2026)
+- [Sandia量子传感页面](https://www.sandia.gov/quantum/atom-interferometry/) - Sandia National Laboratories
+- **技术突破**:Sandia开发了紧凑坚固的原子干涉仪传感器头,采用光栅磁光阱(MOT)实现动态环境下的可靠量子传感;核心组件包括定制钛真空室、微制造光栅芯片、固定光学组件、兼容光子集成电路的激光系统
+- **关键进展**:多通道光子集成电路激光系统,采用硅光子单边带调制器;膜光子集成电路(membrane photonic integrated circuits)实现膜 magneto-optical trap和光子原子阱集成平台
+- **最新专利(2025年)**:紧凑光栅磁光阱传感器头用于动态环境惯性导航(US12449256, 2025-10-11);紧凑原子干涉仪惯性导航传感器配合定制衍射光学器件(US12424810, 2025-09-23);大动态范围高灵敏度渐变场模式引导原子干涉仪测量协议(US12392611, 2025-08-19)
+- **最新论文(2025)**:"A Low-Power Evanescent Field Atom Guide Based on Nanofiber Testbeds for Chip-Scale Quantum Inertial Sensors with Photonic Integrated Circuits", arXiv:2311.07055(2025);"High-Performance Silicon Photonic Single-Sideband Modulators for Cold-Atom Interferometry", Science Advances 10, eade4454(2024)
+- **意义**:量子惯性/重力传感器是下一代惯性导航的核心,在GPS拒止环境下结合重力辅助导航可减少对GPS依赖;Sandia在微小型化方面的多专利突破标志该领域工程化进程加速
+
+#### 量子传感器市场2025-2045:半导体工艺成为蒸汽电池与VCSEL量产关键,解决SWaP-C挑战是商业化核心(2025)
+- [Quantum sensor market to grow to 2B by 2045 (App Developer Magazine, 2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) - 基于IDTechEx报告
+- **核心观点**:量子传感器商业化的最大挑战是SWaP-C(尺寸、重量、功率、成本);半导体制造工艺是解决该挑战的最有效途径
+- **蒸汽电池(vapor cells)**:原子干涉仪核心组件,传统玻璃吹制技术存在尺寸极限和光散射问题;晶圆级半导体制造工艺可批量生产高度一致的蒸汽电池,包括玻璃蚀刻、原子气体填充、晶圆级键合等工艺环节
+- **VCSEL(垂直腔面发射激光器)**:可用晶圆级大规模制造,发射方向垂直于芯片表面,支持芯片级量子传感器堆叠;但量子传感用VCSEL需要700-900nm波长、窄线宽、高稳定性;Microchip已于2011年实现芯片级原子钟商业化(CSAC),为其他量子传感器提供量产模板
+- **半导体代工机遇**:将量子传感组件纳入现有半导体代工体系,可加速量产并降低成本;"量子代工厂"(quantum foundries)概念正在兴起
+- **市场驱动力**:消费电子(手机、汽车)对VCSEL的规模化需求正在降低量子传感用VCSEL的成本曲线
+
+#### IDTechEx量子传感市场报告:2025年约19亿美元 → 2044年71亿美元,年均复合增长率约10%(2025)
+- [Quantum Sensors Market 2024-2044(IDTechEx)](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951)
+- **覆盖范围**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器五类技术
+- **技术路线**:半导体制造工艺将蒸汽电池量产成本大幅降低;VCSEL在消费电子中的大规模应用正在反哺量子传感激光器成本
+- **市场玩家**:芯片级原子钟(Microchip)、光泵磁力计(OPM)、金刚石NV色心磁力计、原子干涉重力仪等方向均有商业化进展
+- **价值预测**:到2035年,量子技术对各行业"价值风险"达1.3-2.7万亿美元,量子传感作为商业化最快的量子技术方向率先受益
+
+#### 光泵磁力计(OPM)用于胎儿心磁图(fMCG)研究:与SQUID相当的检测能力,2025年Scientific Reports发表(2026-02)
+- [A customized bed based stand alone array of optically pumped magnetometers for fetal magnetocardiography measurements(Scientific Reports, 2025-02)](https://www.nature.com/articles/s41598-025-90846-y)
+- **技术**:可穿戴式OPM阵列,用于检测胎儿心电活动产生的磁场;无需低温制冷,成本远低于SQUID系统
+- **进展**:在22名孕妇不同孕周进行72次联合OPM-SQUID检测,基于新型腹部形状患者接口设计和可移动传感器实现与SQUID金标准相当的检测能力
+- **意义**:OPM去制冷剂化(low-cryogenics)是量子传感医疗应用的关键优势,胎儿心磁图是量子传感在神经心脏病学方向的标杆应用场景
+
+#### Sandia × Nature Communications:紧凑冷原子干涉仪实现高数据率光栅磁光阱+光子集成电路兼容激光系统(2022→2025持续引用)
+- [A Compact Cold-Atom Interferometer with a High Data-Rate Grating Magneto-Optical Trap and a Photonic-Integrated-Circuit-Compatible Laser System(Nature Communications 13, 5131, 2022)](https://doi.org/10.1038/s41467-022-31410-4)
+- **技术**:高数据率光栅磁光阱(GMOT)+光子集成电路兼容激光系统;双轴高数据率原子干涉仪通过冷原子团交换实现
+- **进展**:2025年Sandia发表"Low-Power Evanescent Field Atom Guide"论文(arXiv:2311.07055)延续该方向,将 nanofiber testbeds用于芯片级量子惯性传感器
+- **意义**:芯片级冷原子干涉仪是量子惯性传感的终极目标,Sandia路线图显示光子集成电路(PLC)集成是实现小型化的关键技术路径
+
+#### 量子时频传输:光学时钟网络开启下一代定位授时,地球同步链路量子限幅传输实验发表(2023→2026持续)
+- [Quantum-limited optical time transfer for future geosynchronous links(Nature, 2023)](https://www.nature.com/articles/s41586-023-06032-5)
+- **技术**:光学时频传输结合光钟,实现大规模自由空间网络连接地面和天基光钟
+- **应用**:量子传感时间基准的高精度分发是量子定位导航系统的基础;量子限幅(optical time transfer)可在地球同步链路上实现皮秒级精度
+- **意义**:量子时频传输是量子传感支撑新一代PNT(定位、导航、授时)体系的核心技术基础,也是量子传感与量子通信深度融合的方向之一
+
+---
+
+*本次更新: 第五届量子科仪节(5/15-17,合肥) / 国家重大专项2026-2030项目建议征集启动(5/18) / 量子精密测量从"能测"迈向"能用" / 量子科技Q1融资32亿元超越2025全年 / 量子技术监测报告发布(2026-05-19)*
 
 ---
 
