@@ -1276,6 +1276,33 @@
 
 ---
 
+## 🗞️ 最新资讯（2026年5月18日晚间更新）
+
+### Q-Expo 2026 开幕首日，欧洲最大量子产业盛会进行中（2026-05-18）
+- [Quantum Flagship at Q-Expo 2026（qt.eu, 2026-05-12）](https://qt.eu/) — 欧洲量子旗舰计划参会，与量子传感领域全球创新者会面
+- **时间**：2026年5月18-19日，欧洲最大量子产业展会
+- **主题**：Meet the people shaping Europe's quantum future
+- **同期活动**：Quantum Academy正式运营（5月11日启动）+ 金刚石量子技术专题会议QBN Meeting（5月19日）
+- **金刚石QS分会场**：Scaling of Diamond for Quantum Technologies，聚焦NV色心与量子金刚石传感器的规模化制造
+- **意义**：量子传感商业化最成熟路线（NV金刚石传感器）的欧洲供应链正在快速整合
+
+### Quantum Academy 正式运营，欧洲量子技术人才培养体系全面启动（2026-05-11）
+- [The Quantum Academy launches to train Europe's next（qt.eu, 2026-05-11）](https://qt.eu/) — 专注培养欧洲下一代量子技术人才
+- **课程覆盖**：量子计算、量子传感、量子通信、量子软件全领域
+- **背景**：2025年被联合国定为"国际量子科学与技术年"，欧洲加速构建量子技术人才生态
+- **意义**：量子传感商业化加速催生大量工程化人才需求，Quantum Academy填补这一关键缺口
+
+### SEQUOIA Workshop on Quantum Imaging — 量子成像前沿研讨会（2026-05-27~28）
+- [SEQUOIA Workshop on Quantum Imaging（qt.eu, 2026-05-27~28）](https://qt.eu/) — 欧洲量子旗舰计划SEQUOIA项目量子成像研讨会
+- **主题**：量子传感与量子成像的交叉领域前沿
+- **意义**：量子传感与量子成像深度融合，推动高灵敏度量子图像传感器研发
+
+### AFQC 2026 — 量子计算年度社区会议公布日程（2026-05）
+- [AFQC 2026: Challenge（qt.eu, 2026）](https://qt.eu/) — AFQC（Annual Forum on Quantum Computing）是量子社区年度学术会议
+- **意义**：量子传感已纳入量子计算学术社区重要议题，反映QS与QC深度融合趋势
+
+---
+
 ## 🗞️ 最新资讯（2026年5月18日更新）
 
 ### 中国启动量子通信与量子计算机重大专项2026-2030年项目征集（2026-05-18）
