@@ -25,7 +25,7 @@
 
 ---
 
-*本次更新: Sandia原子干涉仪量子惯性/重力传感器小型化突破(2025专利) / 量子传感器市场2025-2045:半导体工艺蒸汽电池+VCSEL成关键 / IDTechEx预测2044年71亿美元 / Sandia光泵磁力计fMCG研究 / 量子传感最新学术与产业动态(2026-05-19凌晨)*
+*本次更新: Google REPLIQA量子+AI生命科学 / 深圳国际量子院四脚薛定谔猫态PRL / 上海交大深度强化学习量子传感 / Quantum Flagship项目群更新 / 量子传感最新学术与产业动态(2026-05-19深夜)*
 
 ---
 
@@ -155,6 +155,43 @@
 - **进展**:帝国理工学院在皇家海军舰船上首次测试量子传感器作为未来导航系统,该测试为全球首次将量子传感技术集成至海军舰船环境
 - **技术方向**:量子导航系统可在GPS拒止环境下提供高精度定位,填补传统卫星导航在海上的盲区
 - **意义**:继量子传感飞行测试(英国皇家空军飞机)之后,量子传感技术向海上/水下应用场景延伸,验证了多平台兼容性
+
+*本次更新: Google REPLIQA量子+AI生命科学 / 深圳国际量子院四脚薛定谔猫态PRL / 上海交大深度强化学习量子传感 / Quantum Flagship项目群更新 / 量子传感最新产业动态(2026-05-19深夜)*
+
+---
+
+### 🆕 新增条目(2026-05-19深夜)
+
+#### Google启动REPLIQA计划,出资千万美元将"量子+AI"用于生命科学,量子传感器成为核心工具(2026-05-11)
+- [Google REPLIQA公告](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences/) - Google Quantum AI联合Google.org宣布
+- **计划规模**:1000万美元,资助哈佛、MIT等五所顶尖大学
+- **核心目标**:开发量子传感器及量子增强算法,精确模拟分子相互作用,攻克生物学难题
+- **量子传感器角色**:作为REPLIQA三大技术支柱之一(量子传感、量子算法、量子AI),量子传感器用于分子层面的精确测量,是发现药物-靶点相互作用的关键工具
+- **意义**:Google将量子传感器从量子物理领域延伸至生命科学基础研究,量子传感成为AI for Science的核心使能技术之一
+
+#### 深圳国际量子研究院 × 北京大学 - 四脚薛定谔猫态量子增强暗物质搜索,成果发表于PRL(2026-04-29)
+- [深圳国际量子研究院, 2026-04-29](https://www.szqi.ac.cn/) | [中新网, 2026-04-30](https://www.chinanews.com.cn/kj/2026/04-30/10395291.shtml) | [广东科技, 2026-04-30](https://www.gddky.cn/)
+- **技术**:量子增强暗物质搜索,使用四脚薛定谔猫态(cat states)大幅提升信号灵敏度
+- **论文**:"Quantum-Enhanced Dark Matter Search Using Cat States", Physical Review Letters, 2026-04-29
+- **团队**:俞大鹏院士领衔,核心成员徐源、刘松,联合北大舒菁团队
+- **意义**:将量子传感技术直接应用于暗物质探测这一基础物理前沿,拓展量子传感在极端灵敏度需求场景中的应用边界
+
+#### 上海交大曾贵华团队 - 深度强化学习驱动智能量子传感,达到量子速度极限QSL(NPJ Quantum Information)
+- [上海交通大学量子感知与信息处理研究所(QSIP)](https://qsip.sjtu.edu.cn/info/1116/1328.htm) | [Nature子刊](https://www.nature.com/npjqi/)
+- **技术**:提出基于量子调控的量子深度强化学习协议,解决时变过程参数估计的精度饱和问题
+- **突破**:利用强化机器学习方法,实现时变系统的量子感知精度达到量子速度极限(Quantum Speed Limit, QSL)
+- **成果**:在传感、导航、精密测量等相关应用领域具有广泛的应用前景和实用价值
+- **团队**:上海交大量子感知与信息处理研究所,承担国防项目、国家自然科学基金项目10余项,总经费超过1000万元
+
+#### Quantum Flagship项目群更新:PoQus便携式神经外科量子传感器/C-QuENS量子纠缠NV色心传感/ACDQ_Q金刚石量子传感器先进电路(2026持续)
+- [Quantum Flagship官网, 2026-05](https://qt.eu/) - 欧洲量子旗舰项目最新进展
+- **PoQus - 便携式神经外科量子传感器**:Portable Quantum Sensors for Neurosurgery,开发适用于手术室的量子传感系统,用于术中实时神经监测
+- **C-QuENS - 量子纠缠NV色心传感**:Capacitation of Quantum-Entangled NV-Center Sensing,提升NV色心量子传感器的纠缠辅助测量能力
+- **ACDQ_Q - 金刚石量子传感器先进电路**:Advanced Circuits for Detection and Control of Diamond Quantum Sensors,开发用于金刚石量子传感器的先进信号读取与控制电路
+- **PROMISE - 欧洲磁成像系统原型**:基于金刚石NV色心的量子磁成像传感器预产业化,无需传统真空系统、低温技术或磁屏蔽
+- **意义**:Quantum Flagship框架下量子传感项目持续推进,从基础研究向产业应用延伸,欧洲量子传感供应链整合加速
+
+---
 
 ---
 
