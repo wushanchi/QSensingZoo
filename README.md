@@ -806,4 +806,43 @@
 - **技术方向**:量子导航系统可在GPS拒止环境下提供高精度定位,填补传统卫星导航在海上的盲区
 - **意义**:继量子传感飞行测试(英国皇家空军飞机)之后,量子传感技术向海上/水下应用场景延伸,验证了多平台兼容性
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19深夜*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19深夜·三刷*
+
+---
+
+### 🆕 新增条目(2026-05-19深夜·三刷)
+
+#### 布里斯托大学 × QET Labs - 环芯谐振器使量产光子传感器达到量子极限,温室气体监测/癌症检测新路径(2025-02)
+- [Quantum Sensing to Engineer Photonic Sensors(Tech Briefs, 2025-02)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | 布里斯托大学
+- **技术**:使用微环谐振器(microring resonator)——一种跑道形光循环结构,最大化光与样品相互作用——实现无需纠缠或压缩态即可达到量子极限测量精度
+- **突破**:大多数量子传感方案依赖难以产生的纠缠/压缩态,此研究证明利用智能手机芯片同款制程可批量制造的光子芯片即可实现量子极限传感
+- **关键**:环芯谐振器可使用与智能手机芯片相同的制程在商业代工厂批量制造
+- **应用**:吸收率/折射率变化精密测量→温室气体监测、癌症检测
+- **意义**:量子传感从"需要复杂量子态"向"利用成熟半导体工艺"转变,芯片级量子传感量产路径打通
+
+#### QDTI - 哈佛系量子NV生物标志物检测平台,≤5µL样本/<1pg/mL灵敏度/<1小时手动操作(2026-05)
+- [QDTI官网](https://www.qdti.com/) | [论文:Rapid quantum magnetic IL-6 point-of-care assay in patients hospitalized with COVID-19](https://www.qdti.com/publications/rapid-quantum-magnetic-il-6-point-of-care-assay-in-patients-hospitalized-with-covid-19)
+- **技术**:基于金刚石NV中心的量子磁显微镜平台,利用NV中心量子态对纳米级磁场的高灵敏度响应进行生物标志物检测
+- **核心参数**:≤5µL样本需求;<1pg/mL分析灵敏度;<1小时手动操作;仅5步样本制备流程
+- **应用场景**:生物医学研究、药物发现与开发、诊断检测
+- **意义**:量子传感从物理实验场进入临床诊断现场,生物标志物超低浓度检测是NV量子传感的全新商业化路径
+
+#### MIT × NIST × RTX - 量子雷达利用原子蒸气池探测掩埋物体,新型射频传感路线(2025-08)
+- [This quantum radar could image buried objects(MIT Technology Review, 2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/)
+- **技术路线**:使用玻璃腔中的铯原子蒸气(室温)在反射射频波照射下产生可测量量子态变化,无需复杂低温冷却
+- **合作方**:NIST + RTX(雷神技术公司,美国国防主承包商)
+- **意义**:不同于Sandia冷却原子干涉仪方案,此路线采用室温原子蒸气,代表量子雷达物理验证的另一个技术方向
+
+#### 普林斯顿大学量子传感进展 - NV色心探测二维自旋bath,de Leon组(2026-04持续)
+- [Princeton Quantum Initiative - Quantum Sensing and Metrology](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology)
+- **技术**:使用NV传感器探测金刚石表面二维自旋bath的磁响应
+- **团队**:de Leon组,普林斯顿大学
+- **意义**:NV色心用于材料科学基础研究,量子传感与量子计算材料研发深度协同
+
+#### Qnami东亚市场扩张 - Quantum Design日本/韩国正式代理ProteusQ系列(2026-05)
+- [Qnami官网](https://qnami.ch/) - 东亚市场扩张公告(2026-05)
+- **扩张内容**:Quantum Design Japan和Quantum Design Korea正式成为Qnami东亚区域代理,负责ProteusQ系列产品销售与技术支持
+- **ProteusQ系列**:ProteusQ(室温NV扫描显微镜)、ProteusQ-LT(低温版本),用于纳米级磁场成像
+- **意义**:继2025年Nature Communications超高效自旋电子学论文后商业化加速,东亚市场是量子传感产业重镇
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19深夜·三刷*
