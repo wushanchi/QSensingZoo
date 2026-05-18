@@ -846,3 +846,37 @@
 - **意义**:继2025年Nature Communications超高效自旋电子学论文后商业化加速,东亚市场是量子传感产业重镇
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19深夜·三刷*
+
+---
+
+*本次更新: Q-Expo 2026进行中 / Quantum Academy / IEEE QCE26 / 量子传感市场(IDTechEx) / 国家重大专项2026-2030(2026-05-19凌晨)*
+
+---
+
+### 🆕 新增条目(2026-05-19凌晨 - 第二批)
+
+#### Q-Expo 2026正在进行(5/18-19,阿姆斯特丹) / Quantum Flagship核心展示量子传感产业化进展(2026-05-18)
+- [Quantum Flagship Q-Expo 2026公告(2026-05-16)](https://qt.eu/) - Meet the people shaping Europe's quantum future
+- [Quantum Academy正式启动(2026-05-11)](https://qt.eu/) - 欧洲量子 Academy正式运营,专注培养欧洲下一代量子技术人才
+- [QBN Meeting - Scaling of Diamond for Quantum Technologies(2026-05-19)](https://qt.eu/) - 金刚石量子技术专题会议,聚焦NV色心规模化制造
+- **意义**:Q-Expo是欧洲最大量子产业展会,量子传感工程化、产业化是核心议题之一
+
+#### 量子传感市场预测:2025年约19亿美元 → 2044年71亿美元,年均复合增长率约10%(2026-05)
+- [Quantum Sensors Market 2024-2044(IDTechEx)](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) - IDTechEx最新报告
+- **覆盖**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器五类技术
+- **价值预测**:到2035年,量子技术对各行业"价值风险"达1.3-2.7万亿美元,量子传感作为商业化最快的量子技术方向率先受益
+- **市场驱动力**:消费电子对VCSEL的规模化需求正在降低量子传感用激光器成本曲线
+
+#### "量子通信与量子计算机"国家重大专项2026-2030项目建议征集启动,量子精密测量列为四大重点领域之一(2026-05-18)
+- [国家科技重大专项项目建议征集通知(科技部, 2026-05-11)](https://service.most.gov.cn/kjjh_tztg/?v=1732247723861) | [中国科学技术大学公告(2026-05-17)](http://ustc.edu.cn/info/1362/21757.htm)
+- **四大领域**:量子通信、量子计算、**量子精密测量**、量子材料器件与设备
+- **战略意义**:量子传感已明确纳入国家重大专项框架,"十五五"规划将量子科技列为六大未来产业之首
+
+#### IEEE Quantum Week 2026(QCE26)将于2026年9月13-18日举办,量子传感工程化成为核心议题(2026-05-07)
+- [IEEE Quantum Week 2026官网](https://qce.quantum.ieee.org/) - "Transforming quantum ideas into real-world impact"
+- **规模**:2025年参会人数增加超过13%达1750+人
+- **议题**:量子传感从实验室向工业部署转化,涵盖误差抑制、工程化封装、可靠性验证
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
