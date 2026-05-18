@@ -653,3 +653,79 @@
 ---
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+---
+
+*本次更新(追加): Q-Expo 2026进行中 / Quantum Academy启动 / 量子传感市场2025约19亿美元→2044年71亿美元(IDTechEx) / 国家重大专项2026-2030项目建议征集启动 / IEEE Quantum Week 2026将于QCE26举办(2026-05-19凌晨)*
+
+---
+
+### 🆕 新增条目(2026-05-19凌晨 - 第二批)
+
+#### Q-Expo 2026正在进行(5/18-19,阿姆斯特丹) / Quantum Flagship核心展示量子传感产业化进展(2026-05-18)
+- [Quantum Flagship Q-Expo 2026公告(2026-05-16)](https://qt.eu/) - Meet the people shaping Europe's quantum future
+- [Quantum Academy正式启动(2026-05-11)](https://qt.eu/) - 欧洲量子 Academy正式运营,专注培养欧洲下一代量子技术人才,加速量子传感工程师供给
+- [QBN Meeting - Scaling of Diamond for Quantum Technologies(2026-05-19)](https://qt.eu/) - 金刚石量子技术专题会议,聚焦NV色心、量子金刚石传感器的规模化制造,欧洲供应链加速整合
+- **意义**:Q-Expo是欧洲最大量子产业展会,量子传感工程化、产业化是核心议题之一;欧洲量子传感供应链整合加速,从"展示能做什么"进入"规模化交付"阶段
+
+#### 量子传感市场预测:2025年约19亿美元 → 2044年71亿美元,年均复合增长率约10%(2026-05持续)
+- [Quantum Sensors Market 2024-2044(IDTechEx)](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) - IDTechEx最新报告
+- **覆盖**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器五类技术
+- **技术路线**:半导体制造工艺将蒸汽电池量产成本大幅降低;VCSEL在消费电子中的规模化应用正在反哺量子传感激光器成本
+- **价值预测**:到2035年,量子技术对各行业"价值风险"达1.3-2.7万亿美元,量子传感作为商业化最快的量子技术方向率先受益
+- **市场驱动力**:消费电子(手机、汽车)对VCSEL的规模化需求正在降低量子传感用VCSEL的成本曲线
+
+#### "量子通信与量子计算机"国家重大专项2026-2030项目建议征集启动,量子精密测量列为四大重点领域之一(2026-05-18)
+- [国家科技重大专项项目建议征集通知(科技部, 2026-05-11)](https://service.most.gov.cn/kjjh_tztg/?v=1732247723861) | [中国科学技术大学公告, 2026-05-17](http://ustc.edu.cn/info/1362/21757.htm) | [腾讯新闻, 2026-05-18](https://so.html5.qq.com/page/real/search_news?docid=70000021_8356a0a865698452)
+- **背景**:合肥国家实验室、"量子通信与量子计算机"国家科技重大专项管理办公室发布《关于征集"量子通信与量子计算机"国家科技重大专项公开竞争类项目建议的通知》,面向全国公开征集2026-2030年项目建议
+- **四大领域**:量子通信、量子计算、**量子精密测量**、量子材料器件与设备;量子精密测量与量子传感直接对应
+- **战略意义**:量子传感已明确纳入国家重大专项框架,"十五五"规划将量子科技列为六大未来产业之首,产业化进入系统性政策支撑阶段
+
+#### IEEE Quantum Week 2026(QCE26)将于2026年9月13-18日举办,量子传感工程化成为核心议题(2026-05-07)
+- [IEEE Quantum Week 2026官网](https://qce.quantum.ieee.org/) - "Transforming quantum ideas into real-world impact"
+- **会议**:IEEE Quantum Week 2026(QCE26),2026年9月13-18日举行
+- **规模**:2025年参会人数增加超过13%,达1750+人,量子计算与工程领域首屈一指的国际论坛
+- **议题**:量子传感从实验室向工业部署转化,涵盖量子传感器的误差抑制、工程化封装、可靠性验证;量子传感在国防、医疗、交通、能源等领域的商用案例分享
+- **意义**:IEEE Quantum Week是量子传感从"学术研究"向"工业落地"过渡的核心论坛,2026年量子传感工程化成为独立track
+
+#### 量子传感最新arXiv论文(2026-05-15当周):量子传感与成像、量子限幅传输、hBN色心研究持续活跃
+- [arXiv quant-ph pastweek(2026-05-15)](https://arxiv.org/list/quant-ph/pastweek?skip=75&show=25) - 本周量子物理领域共有399篇新提交
+- **相关论文**:量子传感与成像(OAM-induced lattice rotation reveals fractional optimum in fault-tolerant GKP)、量子传感时变电磁场单电子激发、hBN二维材料量子色心传感持续活跃
+- **趋势**:量子传感研究持续从"单点物理实验"向"多场景系统工程"扩展,量子传感与量子计算深度交叉
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19* APPENDED
+
+---
+
+*本次更新(追加): Q-Expo 2026进行中 / Quantum Academy启动 / 量子传感市场2025约19亿美元→2044年71亿美元(IDTechEx) / 国家重大专项2026-2030项目建议征集启动 / IEEE Quantum Week 2026(2026-05-19凌晨)*
+
+---
+
+### 🆕 新增条目(2026-05-19凌晨 - 第二批)
+
+#### Q-Expo 2026正在进行(5/18-19,阿姆斯特丹) / Quantum Flagship核心展示量子传感产业化进展(2026-05-18)
+- [Quantum Flagship Q-Expo 2026公告(2026-05-16)](https://qt.eu/) - Meet the people shaping Europe's quantum future
+- [Quantum Academy正式启动(2026-05-11)](https://qt.eu/) - 欧洲量子 Academy正式运营,专注培养欧洲下一代量子技术人才
+- [QBN Meeting - Scaling of Diamond for Quantum Technologies(2026-05-19)](https://qt.eu/) - 金刚石量子技术专题会议,聚焦NV色心规模化制造
+- **意义**:Q-Expo是欧洲最大量子产业展会,量子传感工程化、产业化是核心议题之一
+
+#### 量子传感市场预测:2025年约19亿美元 → 2044年71亿美元,年均复合增长率约10%(2026-05)
+- [Quantum Sensors Market 2024-2044(IDTechEx)](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) - IDTechEx最新报告
+- **覆盖**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器五类技术
+- **价值预测**:到2035年,量子技术对各行业"价值风险"达1.3-2.7万亿美元,量子传感作为商业化最快的量子技术方向率先受益
+- **市场驱动力**:消费电子对VCSEL的规模化需求正在降低量子传感用激光器成本曲线
+
+#### "量子通信与量子计算机"国家重大专项2026-2030项目建议征集启动,量子精密测量列为四大重点领域之一(2026-05-18)
+- [国家科技重大专项项目建议征集通知(科技部, 2026-05-11)](https://service.most.gov.cn/kjjh_tztg/?v=1732247723861) | [中国科学技术大学公告(2026-05-17)](http://ustc.edu.cn/info/1362/21757.htm)
+- **四大领域**:量子通信、量子计算、**量子精密测量**、量子材料器件与设备
+- **战略意义**:量子传感已明确纳入国家重大专项框架,"十五五"规划将量子科技列为六大未来产业之首
+
+#### IEEE Quantum Week 2026(QCE26)将于2026年9月13-18日举办,量子传感工程化成为核心议题(2026-05-07)
+- [IEEE Quantum Week 2026官网](https://qce.quantum.ieee.org/) - "Transforming quantum ideas into real-world impact"
+- **规模**:2025年参会人数增加超过13%达1750+人
+- **议题**:量子传感从实验室向工业部署转化,涵盖误差抑制、工程化封装、可靠性验证
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
