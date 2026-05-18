@@ -1417,3 +1417,38 @@
 - **资本加速**：2025年十大交易出现多笔超10亿美元融资（PsiQuantum、SandboxAQ等），PIPE/SPAC平均融资规模增长314%
 
 *本次更新: 量子技术监测报告(2026-05-18) / IonQ 1.3亿美元营收成全球首家 / Horizon×IonQ 256量子比特协议 / Q-CTRL×IBM 3000倍实用量子优势（2026-05-18晚）*
+
+---
+
+## 🗞️ 最新资讯（2026年5月18日夜间更新）
+
+### Q-Expo 2026 欧洲最大量子产业展会今日在维也纳盛大开幕（2026-05-18）
+- [Quantum Flagship at Q-Expo 2026（qt.eu, 2026-05-12）](https://qt.eu/) — 欧洲量子旗舰计划参会，今日（5月18日）起在维也纳举办，为期两天
+- **主题**：`Meet the people shaping Europe's quantum future`
+- **同期活动**：Quantum Academy正式运营（5月11日启动）+ 金刚石量子技术专题会议QBN Meeting（5月19日）
+- **金刚石QS分会场**（5月19日）：`Scaling of Diamond for Quantum Technologies`，聚焦NV色心与量子金刚石传感器的规模化制造
+- **意义**：NV金刚石量子传感器是量子传感商业化最成熟路线，欧洲供应链正在快速整合
+
+### Quantum Sensor Market — 2025年3.04亿美元 → 2030年5.69亿美元，年均复合增长率13.3%（2026版）
+- [Quantum Sensor Market: Growth, Trends, Forecast 2025-2030（Knowledge Sourcing, 2026-05）](https://www.knowledge-sourcing.com/report/global-quantum-sensor-market)
+- **数据**：全球量子传感器市场2025年约3.041亿美元，预计2030年增长至5.692亿美元，CAGR 13.3%
+- **产品类型**：磁传感器、原子钟、重力传感器、旋转传感器、温度传感器、成像传感器
+- **应用领域**：油气、国防、建筑、交通等
+- **技术原理**：利用量子纠缠等量子关联实现超越经典系统精度的测量，量子传感器用于制造更精确的原子钟和更灵敏的磁力计
+
+### Quantum Academy — 欧洲量子技术人才培养体系正式运营（2026-05-11）
+- [The Quantum Academy launches to train Europe's next（qt.eu, 2026-05-11）](https://qt.eu/) — 专注培养欧洲下一代量子技术人才
+- **课程覆盖**：量子计算、量子传感、量子通信、量子软件全领域
+- **背景**：2025年被联合国定为"国际量子科学与技术年"，欧洲加速构建量子技术人才生态
+- **意义**：量子传感商业化加速催生大量工程化人才需求，Quantum Academy填补这一关键缺口
+
+### Quantum Flagship — QBN Meeting金刚石量子技术会议明日举行（2026-05-19，维也纳）
+- [QBN Meeting - Scaling of Diamond for Quantum Technologies（qt.eu, 2026-05-19）](https://qt.eu/) — 金刚石量子技术专题会议，聚焦NV色心、量子金刚石传感器的规模化制造
+- **时间**：2026年5月19日，与Q-Expo 2026同期
+- **聚焦**：金刚石NV量子传感器是量子传感商业化最成熟路线之一，此次会议推动欧洲供应链加速整合
+- **意义**：量子传感从"能做"进入"规模化制造"阶段，金刚石量子传感器的工程化量产是关键节点
+
+---
+
+*本次更新: Q-Expo 2026维也纳开幕（2026-05-18）/ Quantum Sensor Market 2025→2030市场预测更新（CAGR 13.3%）/ Quantum Academy正式运营 / QBN Meeting金刚石量子技术会议明日举行（2026-05-18夜间）*
+
