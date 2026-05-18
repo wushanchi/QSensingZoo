@@ -25,7 +25,35 @@
 
 ---
 
-*本次更新: Google REPLIQA量子+AI生命科学 / 深圳国际量子院四脚薛定谔猫态PRL / 上海交大深度强化学习量子传感 / Quantum Flagship项目群更新 / 量子传感最新学术与产业动态(2026-05-19深夜)*
+*本次更新: Google REPLIQA量子+AI生命科学 / 深圳国际量子院四脚薛定谔猫态PRL / 上海交大深度强化学习量子传感 / Quantum Flagship项目群更新 / arXiv商业化展望综述(2407.00689) / Qnami商业产品线 / IOP量子产业会议(2026-05-19清晨)*
+
+---
+
+### 🆕 新增条目(2026-05-19清晨)
+
+#### arXiv:2407.00689 - 《从基础研究到商业应用的量子传感器展望》(2024-06, 96页综述)
+- [A Perspective on Quantum Sensors from Basic Research to Commercial Applications(arXiv:2407.00689)](https://arxiv.org/abs/2407.00689) - Eun Oh, Maxwell D. Gregoire等12位作者,Sandia国家实验室主导
+- **覆盖范围**:量子惯性传感器与重力传感器——原子干涉陀螺仪/加速度计/重力仪/重力梯度仪、NMR陀螺仪、原子与自旋缺陷磁力计、Rydberg电场传感器
+- **核心论述**:量子传感器在精度、准确性、稳定性、环境鲁棒性上均优于经典传感器;数十年实验室发展后,多类量子传感器已商业可用或正处于商业化进程中
+- **技术路线图**:原子干涉仪(最成熟)、NMR陀螺仪、NV色心磁力计、Rydberg电场传感器——分别处于不同商业化阶段
+- **意义**:量子传感从"能做"到"商业产品"的全面综述,技术成熟度分级明确,是QSensingZoo理论框架的重要补充
+
+#### Qnami - 全球量子传感领先企业,ProteusQ系列商业产品完整覆盖(2026)
+- [Qnami官网](https://qnami.ch/) | [ultraefficient-spintronics论文(2026-05)](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications](https://www.nature.com/articles/s41467-025-41392-x)
+- **公司定位**:世界领先的量子传感公司,量子金刚石传感器商业化先驱;专注纳米金刚石量子芯片微加工、系统集成、数据分析软件
+- **ProteusQ-LT**:低温扫描NV显微镜专用,原子尺度捕获表面磁场,用于量子材料表征
+- **ProteusQ**:量子波技术平台,解锁量子技术赋能更美好世界;量子金刚石探头为核心产品
+- **Quantilever**:先锋级量子传感产品,基于NV色心技术,用于纳米级磁场成像
+- **最新论文**:超高效自旋电子学研究(Nature Communications 2025),NV显微镜已成为量子计算用纳米材料研发的核心表征工具
+- **市场扩张**:2026年宣布东亚市场扩张,Quantum Design Japan和Quantum Design Korea正式成为代理
+- **意义**:Qnami代表量子传感从实验室到商业仪器的完整路径,ProteusQ系列是量子传感商业化的标杆产品
+
+#### IOP Commercialising Quantum Global 2025 - 联合国"国际量子科学与技术年"旗舰会议(2025)
+- [Commercialising Quantum Global 2025(IOP)](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025)
+- **会议背景**:2025年被联合国定为"国际量子科学与技术年",本届会议升级为两天全项目议程
+- **核心议题**:真实量子应用与可测量投资回报;量子传感是三大核心方向之一(量子计算、量子传感与计量、量子安全通信)
+- **价值**:企业无论处于量子旅程的哪个阶段,均能从中获得产业洞察与合作机会
+- **意义**:量子传感从技术研究迈向商业化应用的全球顶级交流平台
 
 ---
 
