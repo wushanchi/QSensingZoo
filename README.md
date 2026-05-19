@@ -1147,3 +1147,44 @@
 ---
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20 | 下次自动更新: 约24小时后*
+
+---
+
+*本次更新(追加): Quantum Science and Technology期刊最新动态/Quantum Innovation Summit Dubai 2026/IOP期刊最新论文/量子传感产业链供应商动态(2026-05-20凌晨-04:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20凌晨-04:43 - 本次更新)
+
+#### IOP Quantum Science and Technology - 量子传感与量子热力学交叉前沿,2026年最新论文(2026-05)
+- [Quantum Science and Technology(IOPscience)](https://iopscience.iop.org/journal/2058-9565) | 最新文章
+- **期刊定位**:量子科技领域高影响力期刊,涵盖量子传感、量子计算、量子通信等核心方向
+- **2026年热点方向**:量子热力学与量子传感的交叉研究日益活跃;量子参数测量与量子光学的前沿进展持续更新
+- **量子传感关联**:量子热力学测量协议是量子传感的新兴方向;Steve Campbell等作者发表综述文章
+
+#### Quantum Innovation Summit Dubai 2026(9月28-30日) - 量子传感与量子技术商业化旗舰会议(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 会议官网
+- **时间地点**:2026年9月28-30日,迪拜君悦酒店
+- **核心主题**:量子传感突破与行业采纳(Quantum Breakthroughs & Industry Adoption);深度技术协同--量子、AI与先进计算的融合
+- **量子传感关联**:量子传感从实验室演示向产业化规模化采纳迈进;会议聚焦量子传感在国防、工业和医疗领域的早期落地
+
+#### Quantum Science and Technology期刊 - 2026年量子传感研究活跃,压缩态测量与贝尔态测量成为热点(2026-05)
+- [Quantum Sci. Technol. 11 012501](https://iopscience.iop.org/article/10.1088/2058-9565/adc5df) | Steve Campbell等作者
+- **研究方向**:量子热力学(quantum thermodynamics)成为量子传感的重要理论基础;量子压缩态在精密测量中的应用持续深化
+- **测量协议进展**:量子测量理论为量子传感器设计提供新思路;贝尔态测量(Bell state measurements)在多量子比特传感中发挥关键作用
+
+#### Quantum Technology Group - 先进荧光纳米颗粒与量子传感生命科学应用(2026)
+- [Quantum Technology Group官网](https://qtech-group.com/) | 公司主页
+- **技术方向**:先进荧光纳米颗粒(Advanced Fluorescent Nanoparticles)用于生命科学量子传感应用
+- **应用领域**:量子传感与生物医学成像结合;量子点作为新型荧光标记用于高灵敏度生物检测
+- **量子传感关联**:纳米级量子传感探针是量子生物传感的核心技术;室温操作量子传感器的重要路线
+
+#### ResearchAndMarkets量子技术市场报告2025-2035:量子传感板块占重要份额(2025-08)
+- [Quantum Technology Market 2025-2035(ResearchAndMarkets)](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页报告,2025年8月发布
+- **量子传感板块**:量子传感与成像是四大板块之一;量子图像传感器(Quantum Image Sensors)是新兴增长点
+- **市场驱动力**:国防领域量子传感器的早期落地;医疗成像领域量子磁力计的商业化推进
+- **半导体集成趋势**:量子传感器与CMOS工艺的结合是实现芯片级产品的关键路径
+
+---
+
+*本次更新追加: 量子传感技术研讨会/学术会议/产业论坛最新动态(2026-05-20凌晨-04:43)*
