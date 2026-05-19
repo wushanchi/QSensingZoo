@@ -1418,3 +1418,50 @@
 - [Quantum Technology Market 2025-2035(ResearchAndMarkets)](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页报告
 - **量子传感与成像**:量子传感与成像是四大板块之一(量子计算、量子通信与安全、量子传感与成像、量子建模与模拟)
 - **增长驱动**:国防和医疗领域的早期落地推动市场规模扩张;半导体工艺进步降低SWaP-C推动嵌入式量子传感器发展
+
+
+---
+
+*本次更新(追加): 量子传感最新论文/技术突破/产业动态(2026-05-20早-07:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20早-07:43 - 本次更新)
+
+#### 中国团队研发"光学导航"技术:清华大学智能微纳卫星团队,全球首创无惧GPS干扰(2026-03-30)
+- [全球首创!中国团队研发"光学导航"技术,无惧GPS干扰(观察者网, 2026-03-30)](https://so.html5.qq.com/page/real/search_news?docid=70000021_17269ca726482152) | [清华大学团队报道](https://www.tsinghua.edu.cn/)
+- **技术背景**:清华大学智能微系统与纳卫星团队历时20年攻关,成功研发基于光学特征的导航定位技术
+- **核心优势**:在GPS信号受干扰或拒止环境下仍可实现精确定位;作为北斗系统的关键补充手段
+- **量子传感关联**:量子惯性导航与光学辅助导航技术结合,是构建抗干扰PNT体系的核心路径;清华大学的工作为量子-光学融合导航奠定基础
+
+#### Quantum Technology Group - 先进荧光纳米颗粒与生命科学量子传感应用(2026持续)
+- [Quantum Technology Group官网](https://qtech-group.com/) | 公司主页
+- **技术方向**:先进荧光纳米颗粒(Advanced Fluorescent Nanoparticles)用于生命科学量子传感应用
+- **核心产品**:量子点(Quantum Dots)等荧光纳米材料作为新型量子传感探针
+- **量子传感关联**:荧光纳米颗粒可在室温下工作,无需低温制冷;是量子生物传感、细胞成像的重要使能技术
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:全球SQUID磁学测量垄断地位加强(2026-01-02)
+- [Quantum Design宣布完成收购牛津仪器纳米科学部门(腾讯, 2026-01-18)](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352)
+- **收购方**:Quantum Design(QD) - 世界顶级科学仪器制造商,MPMS和PPMS系统广泛分布全球半导体、超导、材料研究实验室
+- **被收购方**:Oxford Instruments NanoScience - 超低温设备和SQUID磁力计的核心供应商
+- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感最成熟的高灵敏度磁力计;本次收购强化了Quantum Design在量子传感精密测量仪器的全球垄断地位
+
+#### Sandia国家实验室 - 硅光子原子干涉仪2025年核心专利:紧凑光栅磁光阱+惯性导航传感器(2025-10/09)
+- [Sandia量子传感专利(US12449256, 2025-10-11)](https://patents.google.com/patent/US12449256) | [惯性导航传感器专利(US12424810, 2025-09-23)](https://patents.google.com/patent/US12424810)
+- **紧凑光栅磁光阱传感器头(US12449256)**:采用光栅磁光阱(grating MOT)技术,实现原子干涉仪传感器头的小型化与坚固化;支持动态环境下的可靠量子传感
+- **紧凑原子干涉仪惯性导航传感器(US12424810)**:面向GPS拒止环境的高性能量子惯性传感,结合量子重力辅助导航减少对GPS依赖
+- **量子传感关联**:硅光子技术是量子传感器芯片级集成的关键使能;光栅MOT可大幅降低量子传感器的体积、功耗与成本
+
+#### ResearchAndMarkets量子技术市场报告2025-2035:2025年339亿美元→2035年993亿美元(CAGR 11.3%)(2025-08)
+- [Quantum Technology Market 2025-2035(ResearchAndMarkets)](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页报告
+- **量子传感份额**:量子传感与成像是四大板块之一;在国防和医疗领域的早期落地推动市场规模扩张
+- **关键驱动**:半导体工艺进步降低SWaP-C,量子传感器从实验室走向嵌入式系统
+
+#### Quantum Innovation Summit Dubai 2026(9月28-30日) - 量子传感与量子技术商业化旗舰会议(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 会议官网
+- **核心主题**:量子传感突破与行业采纳(Quantum Breakthroughs & Industry Adoption);深度技术协同--量子、AI与先进计算的融合
+- **量子传感关联**:量子传感从实验室演示向产业化规模化采纳迈进;会议聚焦量子传感在国防、工业和医疗领域的早期落地
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(07:43 CST) | 下次自动更新: 约24小时后*
