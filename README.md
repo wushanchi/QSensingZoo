@@ -782,3 +782,32 @@
 ---
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+
+---
+
+*本次更新(追加): MIT量子雷达探测地下物体/NIST×RTX Rydberg原子雷达/Cerca Magnetics 380万英镑量子脑扫描/ResearchAndMarkets量子技术99亿美元报告(2026-05-19深夜)*
+
+---
+
+### 🆕 新增条目(2026-05-19深夜 - 今日最新)
+
+#### MIT Technology Review - 量子雷达新方案:原子云室温探测反射射频波,可成像隐蔽目标(2025-08)
+- [MIT Technology Review (2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | 研究团队:NIST + RTX
+- **技术原理**:使用玻璃气室中悬浮的铯(Caesium)原子云在室温下探测反射的射频波;激光将原子驱动到高度敏感的量子态,当射频信号反弹回来时,原子云发射可检测的光信号
+- **创新点**:传统雷达需发射强射频信号才能探测回波,容易被探测和干扰;量子雷达利用原子量子态放大微弱返回信号,可探测隐蔽目标
+- **量子传感关联**:量子雷达本质是量子传感技术的军事应用;原子气室作为传感介质的工作机制与NV色心量子磁力计共享量子相干增强原理
+- **当前状态**:仍为原型阶段,体积较大(光学表+组件);但展示了量子传感在国防安全领域的巨大潜力
+
+#### NIST × RTX - Rydberg原子量子射频传感器:无天线射频检测,突破传统射频感知架构(2025)
+- [NIST Rydberg原子传感研究页面](https://www.nist.gov/news-events/news/2025/quantum-radar-new-kind-radio-wave-detector) | [RTX(原Raytheon)官网](https://www.rtx.com/)
+- **技术原理**:Rydberg原子射频传感利用高激发态Rydberg原子对电磁场的极端敏感性;原子作为"天线",检测射频信号无需物理天线结构
+- **核心优势**:Rydberg原子可覆盖DC至THz的极宽频谱;无方向性天线,球形全向响应;原子响应速度快,适合动态信号
+- **量子传感关联**:Rydberg原子传感是量子传感领域发展最快的方向之一;与NV色心磁力计互补,前者测射频电场,后者测磁场
+- **商业化**:NIST与RTX合作,推动Rydberg原子射频传感器从实验室向国防和商业应用转化
+
+#### ResearchAndMarkets量子技术市场报告:2025年339亿美元→2035年993亿美元(CAGR 11.3%)(2025-08)
+- [Quantum Technology Market by Computing, Communications, Imaging, Security, Sensing, Modeling and Simulation 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页报告
+- **量子传感份额**:报告涵盖量子计算、量子通信与安全、量子传感与成像、量子建模与仿真四大板块;量子传感是增长最快的板块之一
+- **地区格局**:北美主导,亚太快速增长;量子传感在国防和医疗领域的早期落地推动市场规模扩张
+- **关键驱动**:半导体工艺进步降低SWaP-C,量子传感器从实验室走向嵌入式系统
+
