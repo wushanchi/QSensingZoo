@@ -1253,4 +1253,30 @@
 
 ---
 
+### 🆕 新增条目(2026-05-19晚间 - 今日最新)
+
+#### Quantum Design完成收购牛津仪器纳米科学部门,低温量子传感平台整合加速(2026-01-02)
+- [Quantum Design完成牛津仪器纳米科学部门收购(so.html5.qq.com, 2026-01-18)](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352)
+- **交易**:2026年1月2日,Quantum Design宣布完成对Oxford Instruments(牛津仪器)旗下NanoScience(纳米科学)部门的收购
+- **意义**:实现两家低温技术先驱企业的战略联合,标志拥有超百年创新积淀的低温物理、材料科学及显微技术服务体系的诞生;Quantum Design是全球领先的低温仪器厂商,其PPMS/MPMS系统广泛用于量子材料表征,与量子传感上游测试生态深度绑定
+
+#### Georgetown University - 量子传感专业证书课程上线(edX, 2026-04)
+- [Foundations of Quantum Sensing Professional Certificate(Georgetown, edX)](https://www.edx.org/certificates/professional-certificate/georgetownx-foundations-of-quantum-sensing)
+- **课程定位**:系统性量子传感入门课程,覆盖量子传感基础原理、主流技术路线(NV色心、原子磁力计、冷原子干涉仪等)、典型应用场景
+- **发布机构**:乔治城大学,edX平台,2026年4月正式开课
+- **意义**:量子传感教育正从顶尖研究机构向大众普及渗透,越来越多高校和平台推出量子传感系统课程,为产业规模化储备人才
+
+#### 布里斯托大学 - 量子纠缠四光子干涉突破标准量子极限(2026-04)
+- [Quantum Engineering Centre for Doctoral Training, University of Bristol](https://www.bristol.ac.uk/quantum-engineering/research/sensing/)
+- **技术**:利用量子纠缠态演示光学相位测量,纠缠四光子干涉可见度超过标准量子极限阈值
+- **意义**:光学相位测量可用于距离、位置、位移、加速度、光学路径长度测量,量子纠缠增强精密测量是量子传感的核心技术路径之一;布里斯托大学量子工程博士培养中心代表欧洲量子传感人才培养的前沿阵地
+
+#### 乌尔姆大学 - 激光写入波导集成NV色心金刚石磁力计,实现生物系统无光照射磁测量(2026持续)
+- [Universität Ulm - Quantum Sensing with NV centers via laser written waveguides](https://www.uni-ulm.de/en/nawi/institute-for-quantum-optics/group-prof-kubanek/experiments/quantum-sensing/)
+- **技术**:将NV色心与激光写入波导集成,实现NV的高效光学读取;传感任务可通过波导操作,无需对样品直接光照
+- **核心优势**:对光敏感的生物系统(如活细胞)进行磁测量时,避免光照对样品的干扰和损伤
+- **意义**:NV金刚石量子传感向生物医学应用延伸的关键技术路径之一,实现真正无创的纳米级量子磁成像
+
+
+
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
