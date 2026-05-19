@@ -981,3 +981,57 @@
 - [IEEE ICPACS 2026量子传感军事应用综述( IEEE Xplore, 2026-05-06)](https://ieeexplore.ieee.org/xpl/conhome/10006808/all-proceedings)
 - **核心议题**:量子传感在未来军事作战环境中的变革性影响;分析从实验室到战场的技术成熟度路径
 - **量子传感关联**:量子传感是军事大国竞相投入的关键技术方向,高精度、抗干扰、全天候作战能力提升
+
+---
+
+*本次更新(追加): 量子传感最新搜索结果补充(2026-05-20凌晨-01:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20凌晨-01:43 - 最新补充)
+
+#### IDTechEx量子传感市场报告2025-2045:量子传感器市场预计2045年突破20亿美元(2025-04)
+- [Quantum sensor market to grow to 2B by 2045(App Developer Magazine, 2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | 基于IDTechEx报告
+- **核心挑战**:量子传感器商业化的最大瓶颈是SWaP-C(尺寸/重量/功耗/成本);半导体制造工艺是解决该挑战的最有效途径
+- **蒸汽电池(vapor cells)**:玻璃蒸汽电池是原子干涉仪的核心组件;传统玻璃吹制工艺难以小型化,晶圆级半导体工艺可批量生产高度一致的微型蒸汽电池
+- **VCSEL技术**:垂直腔面发射激光器(VCSEL)可晶圆级大规模制造;与边发射激光器不同,VCSEL垂直发射光束,允许其他组件直接堆叠在芯片上,是实现芯片级量子传感器的关键
+- **市场规模**:量子传感市场预计到2045年增长至20亿美元; IDTechEx报告预测量子传感器市场2025-2045年CAGR约10%
+
+#### ResearchAndMarkets量子技术市场报告:2025年339亿美元→2035年993亿美元(CAGR 11.3%)(2025-08)
+- [Quantum Technology Market by Computing, Communications, Imaging, Security, Sensing, Modeling and Simulation 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页报告
+- **量子传感份额**:报告涵盖量子计算、量子通信与安全、量子传感与成像、量子建模与仿真四大板块;量子传感是增长最快的板块之一
+- **地区格局**:北美主导,亚太快速增长;量子传感在国防和医疗领域的早期落地推动市场规模扩张
+- **关键驱动**:半导体工艺进步降低SWaP-C,量子传感器从实验室走向嵌入式系统
+
+#### Nature Communications 2025 - 二维量子传感器利用自旋缺陷实现精确磁场探测(2025-06-03)
+- [2D quantum sensor uses spin defects for precise magnetic field detection(Phys.org, 2025-06-03)](https://so.html5.qq.com/page/real/search_news?docid=70000021_287683edf9978452) | 论文DOI: 10.1038/s41467-025-59642-0
+- **技术方案**:利用二维材料中的自旋缺陷实现高灵敏度磁场探测;二维材料提供更高的表面积比和更好的集成性
+- **量子传感关联**:二维材料(如hBN、MoS₂等)中的自旋缺陷是新兴量子传感平台;与NV色心形成互补,可实现更紧凑的量子传感器件
+
+#### npj Quantum Information 2024 - 分子自旋量子磁场传感:混合量子电路+动态解耦协议(2024-04)
+- [Quantum sensing of magnetic fields with molecular spins(npj Quantum Information, 2024-04)](https://link.springer.com/10.1038/s41534-024-00838-5) | 17篇参考文献
+- **技术方案**:分子自旋系综嵌入混合量子电路,实现AC磁场传感;仅使用回波检测和微波频率,无需光读出
+- **核心优势**:分子自旋可化学设计,可调谐灵敏度和工作频率范围;室温运行,无需低温制冷
+- **量子传感关联**:分子自旋是新型量子传感介质;通过量子电路集成实现高灵敏度测量;为化学可定制量子传感器开辟新方向
+
+#### Q.ANT量子磁力计 - 汉诺威工业博览会展示皮特斯拉精度(2024-03)
+- [Measuring with picotesla precision(Hannover Messe, 2024-03)](https://www.hannovermesse.de/en/news/news-articles/measuring-with-picotesla-precision)
+- **技术**:Q.ANT量子磁力计实现高精密磁场测量;紧凑尺寸、常温运行
+- **应用**:工业检测、医学成像、国防传感
+- **量子传感关联**:Q.ANT是德国量子传感产业化的重要代表;展示量子磁力计从实验室走向工业应用的成熟路径
+
+#### Quantum Singapore 2026论坛(2026-02):量子汇聚——从硬件突破到工业采纳(2026-02)
+- [Quantum Singapore 2026论坛(new.qq.com, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.及Informa Markets联合主办,IEEE Photonics Society学术支持
+- **核心主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
+- **关注方向**:硬件优化、软硬协同、区域化生态构建;汇聚全球顶尖量子科学家、行业领袖及技术专家
+- **量子传感关联**:论坛涵盖量子传感的工程化与商业化路径;探讨量子传感技术从实验室到工业级部署的挑战与机遇
+
+#### Quantum Innovation Summit Dubai 2026(2026-09-28~30):量子与新兴前沿,全球创新与技术领导力(2026-09)
+- [QIS 2026官网](https://quantuminnovationsummit.com/) | 2026年9月28-30日,迪拜君悦酒店
+- **主题**:Quantum Frontiers: Innovating for a Secure Future;聚焦量子与AI、材料、计算、通信融合
+- **量子传感覆盖**:量子传感在Timing、Navigation、Mapping、Brain Scans等应用;IDTechEx报告指出量子传感器市场2044年达71亿美元
+- **量子传感关联**:量子传感是大会六大技术方向之一;阿联酋将量子传感列为国家战略方向
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20* | *下次自动更新: 约24小时后*
