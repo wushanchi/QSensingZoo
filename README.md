@@ -663,9 +663,30 @@
 - [Quantum Flagship Q-Expo 2026](https://qt.eu/) - 欧洲最大量子产业展会,Meet the people shaping Europe's quantum future
 - [Quantum Academy正式启动(2026-05-11)](https://qt.eu/) - 欧洲量子技术人才培训平台,专注培养下一代量子传感工程师
 - [QBN Meeting - Scaling of Diamond for Quantum Technologies(2026-05-19)](https://qt.eu/) - 金刚石量子技术专题会议,聚焦NV色心、量子金刚石传感器的规模化制造
-
 ---
+### 🆕 新增条目(2026-05-19晚 - 今日最新追加)
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+#### arXiv:2605.04136 - 任意汉密尔顿量多参数函数估计:通用量子传感极限与估计协议(2026-05-07)
+- [arXiv:2605.04136](https://arxiv.org/abs/2605.04136) | 作者: Abbasgholineadh, Bringewatt, Conlon, Gorshholi等; NPJ Quantum Information
+- **技术**:编码于汉密尔顿量的物理参数估计是量子传感与机器学习的核心任务;本研究导出任意函数形式参数估计的终极量子极限,并提出通用估计协议
+- **核心突破**:对于任意函数形式的参数,推导其终极量子极限;提出估计协议,涵盖可能非对易的生成元;超越单参数情况的限制
+- **量子传感关联**:多参数函数估计是量子传感实用化的核心难题;本研究提供量子传感系统设计的最优性理论边界,直接指导实际量子传感协议的开发
+
+#### Princeton大学量子传感与计量学:NV色心探测二维自旋bath(2026)
+- [Princeton Quantum Sensing and Metrology](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) | de Leon研究组
+- **研究方向**:利用NV色心量子传感器探测金刚石表面二维自旋bath;探索量子传感在材料表征中的应用
+- **技术平台**:NV色心扫描磁学显微镜;低温环境下的高灵敏度量子成像
+- **量子传感关联**:Princeton是美国量子传感研究重镇;该工作为量子传感在凝聚态物理和材料科学中的应用提供示范
+
+#### Georgetown大学 - Quantum Sensing Professional Certificate在线课程(2026)
+- [Foundations of Quantum Sensing Professional Certificate(edX, 2026-04)](https://www.edx.org/certificates/professional-certificate/georgetownx-foundations-of-quantum-sensing) | Georgetown University
+- **课程内容**:量子传感基础理论与应用;面向工程师、科学家的系统化量子传感知识培训
+- **意义**:量子传感人才培育体系逐步完善;edX等平台提供在线量子传感课程,降低学习门槛
+
+#### Quantum Innovation Summit Dubai 2026(2026-09):量子与新兴前沿,全球创新与技术领导力(2026-09)
+- [Quantum Innovation Summit 2026 Dubai](https://quantuminnovationsummit.com/) | 2026年9月28-30日,迪拜君悦酒店
+- **主题**:量子与新兴前沿技术,推动全球创新与技术领导力
+- **关注方向**:量子计算、量子通信、量子传感的融合;从理论探索到产业化的转变;量子技术作为新兴战略资产
+- **量子传感关联**:量子传感是峰会的核心板块之一;全球首个量子传感商用市场报告(IDTechEx)有望在峰会发布---
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
