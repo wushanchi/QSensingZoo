@@ -1240,4 +1240,59 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(05:13) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(05:43) | 下次自动更新: 约24小时后*
+
+---
+
+*本次更新(追加): 量子传感最新论文/商用产品/产业动态(2026-05-20早-05:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20早-05:43 - 本次更新)
+
+#### Nature Physics 2026 - 单自旋相干量子传感:核 ensemble 中的相干单自旋激发(2020-2021, Nature子刊经典)
+- [Nature Physics论文(2020)](https://www.nature.com/articles/s41567-020-01161-4) | 作者:K. S. Liu, et al.
+- **技术突破**:通过 proxy qubit 访问相干相互作用 ensemble 中的单个量子,揭示涌现量子现象;是量子传感从单点向多体系统扩展的里程碑论文
+- **量子传感关联**:单自旋量子传感是 NV 色心、金刚石量子探针等固态量子传感器的核心协议;对多体相干系统的探测能力直接决定量子传感器的灵敏度上限
+
+#### 华中科技大学 - 光导原子干涉仪量子传感与计量学术报告(2025-05-07)
+- [HUST 量子传感学术报告(2025-05-07)](http://phys.hust.edu.cn/info/1563/9507.htm) | 报告人单位:HUST(华中科技大学)
+- **报告主题**:Quantum Sensing and Metrology with Optically Guided Atom Interferometer
+- **量子传感关联**:光导原子干涉仪是量子重力仪、量子陀螺仪的核心技术路线;华中科技大学是国内原子干涉量子传感的重要研究基地
+
+#### Physical Review Applied 2026 - Phononics and Metamaterials 专辑:量子力学与弹性波的深度交叉(2026-03)
+- [Physical Review Applied Phononics and Metamaterials Collection(APS, 2026-03)](https://journals.aps.org/prapplied/) | Guest Editors: Muamer Kadić, Daniel Torrent, Abdelkrim Nashash
+- **专辑覆盖**:声子晶体、超材料、弹性波与量子效应的深度融合; travelling-wave parametric amplifiers (TWPAs) 是超导量子处理器核心组件
+- **量子传感关联**:声子作为机械振动的量子化描述,与量子传感中的噪声抑制和相干控制直接相关;声子-光子耦合是芯片级量子传感器件的重要物理机制
+
+#### 华南师范大学王振宇教授 - NV色心磁共振/量子传感/自旋动力学(2020-2024)
+- [华南师范大学物理学院王振宇主页](https://physics.scnu.edu.cn/a/20201219/6977.html)
+- **研究方向**:量子控制、自旋动力学、氮空位(NV)色心、磁共振、量子传感、量子信息
+- **量子传感关联**:NV 色心是当前最成熟的固态量子传感平台;王振宇团队的研究涵盖 NV 量子传感的核心协议与实验实现
+
+#### IDTechEx量子传感器市场路线图(2023-2024):创新地图与产业路径
+- [IDTechEx Quantum Sensor Industry Roadmap](https://www.idtechex.com/portal.v2/pages/innovation-map.asp?articleid=29655&portaltopicid=all) | 创新地图( Innovation Mapping)
+- **覆盖内容**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器五大技术领域的创新路线图
+- **产业路径**:从实验室演示到商业化产品的发展路径;市场玩家分析;17个量子传感技术领域的深度覆盖
+- **量子传感关联**:IDTechEx 是量子传感市场研究最权威的报告之一;是追踪产业进展和商业化成熟度的重要参考
+
+#### Cerca Magnetics完成380万英镑A轮融资:可穿戴量子脑扫描仪,诺丁汉大学衍生企业(2026-04)
+- [英国量子脑成像设备研发企业Cerca Magnetics完成380万英镑A轮融资(腾讯, 2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Guinness Ventures领投
+- **技术**:可穿戴式脑成像扫描仪,采用量子传感器(原子磁力计)实现对神经活动的高精度测量
+- **公司背景**:诺丁汉大学物理与天文学院衍生企业;已推出商用量子脑磁图系统
+- **量子传感关联**:量子脑成像是量子传感在医疗健康领域最直接的商业化应用之一;原子磁力计无需低温制冷,是可穿戴化的关键优势
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:低温量子技术超级整合(2026-01)
+- [Quantum Design宣布完成收购牛津仪器纳米科学部门(腾讯, 2026-01-18)](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352)
+- **收购方**:Quantum Design( QD)
+- **被收购方**:Oxford Instruments NanoScience(牛津仪器纳米科学部门)
+- **战略意义**:Quantum Design 与 Oxford Instruments 低温技术先驱战略联合,拥有超百年创新积淀的低温物理、材料科学及显微技术服务系统
+- **量子传感关联**:牛津仪器是全球最重要的低温恒温器、稀释制冷机供应商之一;量子传感(特别是 NV 色心扫描显微镜)需要 mK 级低温环境;此次收购强化量子传感上游供应链
+
+#### Infleqtion × Safran Electronics & Defense:全球首款量子增强型军用授时系统,量子精密授时商业化落地(2026-04)
+- [Infleqtion推出量子精密授时解决方案(腾讯, 2026-04-05)](https://so.html5.qq.com/page/real/search_news?docid=70000021_68069ce675711852) | [Infleqtion官网](https://infleqtion.com/)
+- **合作方**:Infleqtion(中性原子量子技术, NYSE: INFQ) + Safran Electronics & Defense(赛峰电子与防务)
+- **产品定位**:全球首款量子增强型精密授时解决方案,用于关键任务授时和国防导航
+- **技术路线**:中性原子光学钟比传统微波钟精度高数个数量级;量子增强可实现授时系统的抗干扰和自主守时能力
+- **量子传感关联**:光学原子钟是量子传感精密测量的巅峰应用;量子授时是量子导航(PNT)的核心使能技术;国防场景是量子传感最早商业化落地方向之一
+
