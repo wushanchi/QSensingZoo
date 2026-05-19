@@ -873,3 +873,49 @@
 - **理论结果**:三轴独立时延差的最大量子Fisher信息分别达到(2, 0.1, 0.006),证明可突破散粒噪声极限
 - **意义**:为后续量子陀螺仪在全球导航传感领域的实际应用提供了理论基础
 
+
+
+---
+
+*本次更新: MIT量子雷达地下物体成像 / Qnami量子传感商业化产品线 / 微型SERF原子磁力计心脑磁检测 / 多脚猫态量子计量PRL / 量子传感市场CAGR 10.42%(2026-05-19上午 - 第五批)*
+
+---
+
+### 🆕 新增条目(2026-05-19上午 - 第五批)
+
+#### MIT Technology Review - MIT/NIST量子雷达:利用原子量子态探测地下物体(2025-08)
+- [This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) (MIT Technology Review, 2025-08-11) | [腾讯新闻中文报道](https://so.html5.qq.com/page/real/search_news?docid=70000021_8d65d2af03b6b116)
+- **技术原理**:使用玻璃腔室中的铯原子云作为量子探测器,激光操控原子能级探测反射无线电波;利用量子干涉效应检测极微弱返回信号
+- **核心突破**:量子雷达利用原子量子态叠加与纠缠,可探测经典雷达无法识别的极微弱返回信号;当前原型仍连接光学台组件,团队正在推进小型化
+- **研发团队**:NIST(美国国家标准与技术研究院) + 国防承包商RTX联合开发
+- **意义**:量子传感从"量子计算/通信"向"量子雷达/成像"领域渗透,国防与地下探测应用前景广阔
+
+#### Microsystems & Nanoengineering - 微型混合蒸汽泵浦SERF原子磁力计,心磁图(MCG)与脑磁图(MEG)应用重大突破(2024)
+- [Ultrasensitive SERF atomic magnetometer with a miniaturized hybrid vapor cell](https://link.springer.com/10.1038/s41378-024-00758-6) (Microsystems & Nanoengineering, 2024-08) | 基于中科院安徽光机所成果
+- **技术突破**:基于微加工原子蒸汽室的小型化单束混合光泵SERF原子磁力计;采用差分检测方案有效抑制光噪声;灵敏度达175.4 fT/Hz^1/2
+- **应用场景**:心磁图(MCG)和脑磁图(MEG)无创检测,无需传统SQUID所需的低温冷却设备
+- **核心意义**:SERF磁力计去低温化是量子传感医疗应用的关键;芯片级集成是实现可穿戴医疗量子传感设备的必经之路
+
+#### Qnami商业产品线完整更新:ProteusQ-LT/ProteusQ/Quantilever三大平台(2026-05)
+- [Qnami官网](https://qnami.ch/) | [量子传感商业化路线图](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [超高效自旋电子学论文(Nature Communications 2025)](https://www.nature.com/articles/s41467-025-41392-x)
+- **ProteusQ-LT**:低温扫描NV显微镜专用,原子尺度捕获表面磁场,用于量子材料表征和超导自旋电子器件研发
+- **ProteusQ**:通用量子波技术平台,解锁量子技术赋能更美好世界;量子金刚石探头为核心
+- **Quantilever**:先锋级量子传感产品,基于NV色心技术,用于纳米级磁场成像,全球量子传感商业仪器标杆
+- **最新产品**:2026年3月推出第四代NV探头,信噪比提升40%;宣布量子传感教学实验室解决方案
+- **最新论文**:超高效自旋电子学研究(Nature Communications 2025);NV显微镜已成为量子计算用纳米材料研发的核心表征工具
+- **市场动态**:2026年宣布东亚扩张,Quantum Design Japan和Quantum Design Korea正式成为代理;客户覆盖全球30+国家顶尖实验室
+
+#### MIT/芝加哥/东京/港中文联合团队 - 固态量子传感器多参量纠缠增强估计,PRX Quantum发表(2026)
+- [Entanglement-Assisted Multiparameter Estimation with a Solid-State Quantum Sensor](https://so.html5.qq.com/page/real/search_news?docid=70000021_05bcb556b90e71d8) (PRX Quantum, 2026) | 港大新闻报道
+- **研究机构**:MIT、芝加哥大学、东京大学、东京工业大学、香港中文大学组成国际联合团队
+- **技术方案**:基于金刚石氮-空位(NV)中心,实验实现纠缠增强的多参量量子估计
+- **第一作者**:Takuya Isogawa、王国庆(Guoqing Wang)、Boning Li
+- **通讯作者**:Haidong Yuan、Paola Cappellaro
+- **技术意义**:多参量同时估计是量子传感实用化的核心挑战,传统方法存在参数间折衷;纠缠增强方案可同时提高多个参数估计精度,为量子传感系统工程化提供新路径
+
+#### Sandia国家实验室 - 紧凑型原子干涉仪惯性传感器2025年获多项核心专利,芯片级集成路线清晰(2026)
+- [Sandia量子传感页面](https://www.sandia.gov/quantum/atom-interferometry/) | [Low-Power Evanescent Field Atom Guide论文(arXiv:2311.07055, 2025)](https://arxiv.org/abs/2311.07055) | [Science Advances论文(Science Advances 10, eade4454, 2024)](https://www.science.org/doi/10.1126/sciadv.ade4454)
+- **最新专利(2025年)**:紧凑光栅磁光阱传感器头用于动态环境惯性导航(US12449256, 2025-10-11);紧凑原子干涉仪惯性导航传感器配合定制衍射光学器件(US12424810, 2025-09-23);大动态范围高灵敏度渐变场模式引导原子干涉仪测量协议(US12392611, 2025-08-19)
+- **技术路线**:GMOT(光栅磁光阱)+光子集成电路激光系统;膜光子集成电路(membrane photonic integrated circuits)集成平台
+- **目标**:芯片级冷原子干涉仪是量子惯性传感终极目标,光子集成电路(PLC)集成是实现小型化关键
+- **意义**:量子惯性/重力传感器在GPS拒止环境下结合重力辅助导航可减少对GPS依赖;2025年多专利突破标志该领域工程化进程加速
