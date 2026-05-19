@@ -25,11 +25,70 @@
 
 ---
 
+*本次更新: 上海交大QSIP量子传感基础研究全体系 / Imperial Q&A量子传感海军测试+铁路突破 / Quantum Flagship项目群(PoQus/PROMISE/ACDQ_Q/QUANTIFY) / Nature Sensors 2026创刊 / Bosch Quantum Sensing加入战局(2026-05-19上午)*
+
+---
+
+### 🆕 新增条目(2026-05-19上午 - 第四批)
+
+#### 上海交大QSIP研究所 - 量子精密测量基础研究体系完整覆盖,弱测量+机器学习+多参量方案(2026持续)
+- [量子感知与信息处理研究所(QSIP)](https://qsip.sjtu.edu.cn/info/1116/1328.htm) - 上海交通大学,曾贵华团队
+- **弱值测量技术**:提出基于反馈控制的弱值测量技术,动态范围提升+信噪比6dB以上;提出"弱值衰减"概念,光学相位调制误差降低5倍以上;灵敏度提升2-3个数量级
+- **机器学习噪声抑制**:首次提出基于机器学习的噪声补偿算法,解决长期关联噪声对弱测量精度的影响
+- **多参量测量**:利用高阶模(厄米-高斯模指针)实现多参量同时测量,解决环境变化引入的物理参量交叉敏感问题
+- **自适应调制**:针对偏置点的自适应反馈控制,使测量灵敏度在大范围内保持最高
+- **量子相位估计**:结合机器学习算法提出有效量子相位估计方案,同等条件下比现有方案更快逼近量子海森堡极限
+- **核心成果**:已完成灵敏度达10⁻²⁴秒量级的时延测量、精度达3×10⁻⁶摄氏度的相对温度测量、精度达7.5×10⁻⁷弧度的非线性相移测量
+- **已获专利**:承担国防项目、国家自然科学基金项目10余项,总经费超过1000万元;SCI论文20余篇;发明专利10余项,已获授权9项
+- **意义**:弱测量+机器学习是量子传感智能化方向的核心技术路径,QSIP的体系化成果为该方向提供了完整的理论验证框架
+
+#### Imperial College London - 量子传感Q&A:海军舰船导航测试、铁路量子突破、双缝实验时间版本、QuEST中心启动(2026-05-08)
+- [Q&A: How will quantum science transform technology?(Imperial News, 2026-05-08)](https://www.imperial.ac.uk/news/246634/qa-how-will-quantum-science-transform) | [量子传感海军测试(Imperial, 2026)](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) | [QuEST中心公告(Imperial, 2026)](https://www.imperial.ac.uk/news/245835/new-quantum-technologies-developed-imperial-initiative/)
+- **量子传感最新进展**:帝国理工学院是全球量子科学与技术领导者,近期在皇家海军舰船上测试了首个用于未来导航系统的量子传感器
+- **量子传感测试平台**:测试在英国皇家空军飞机上首次演示量子导航后延伸至海军舰船,代表量子传感多平台兼容性持续验证
+- **量子实验新突破**:成功重现"时间双缝实验"(double-slit experiment in time),探索量子物理基本问题
+- **QuEST中心启动**:新成立量子工程、科学与技术中心(QuEST),加速量子科学发现向变革性技术转化
+- **专家团队**:Dr Joseph Cotter、Professor Peter Haynes、Professor Sandrine Heutz、Professor Myungshik Kim、Dr Jess Wade、Professor Ian Walmsley等顶尖专家
+- **量子传感应用前景**:包括量子脑成像(测量大脑活动用于医学诊断)、量子惯性导航、量子材料表征等
+- **意义**:Imperial代表了欧洲量子传感从基础研究向工程应用转化的最重要阵地之一
+
+#### Nature Portfolio将于2026年正式推出《Nature Sensors》新刊,量子传感成为核心征稿方向之一
+- [Nature Sensors将于2026年正式创刊(new.qq.com, 2025-10-13)](https://new.qq.com/rain/a/20251013A03CWI00)
+- **期刊定位**:Nature Portfolio旗下传感技术领域新刊,发表传感技术各领域基础研究、应用研究和工程研究
+- **覆盖范围**:新型传感器材料和装置开发、传感器系统设计整合与广泛应用,包括生物、计算、工程和系统等领域
+- **量子传感关联**:量子传感作为下一代高灵敏度传感器技术的代表,将是Nature Sensors的核心征稿方向之一
+- **意义**:Nature Sensors的创刊标志着量子传感获得顶刊级别的独立学术平台认可
+
+#### Bosch Quantum Sensing - 博世正式切入量子传感赛道,目标颠覆性量子传感解决方案(2026)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | 博世量子传感部门
+- **公司定位**:"Quantum technology will be a game changer in many areas"——博世将量子传感视为多领域颠覆性技术
+- **应用领域**:工业测量与导航、量子传感技术商业化
+- **战略意义**:Bosch作为全球最大汽车与工业技术供应商之一,其量子传感部门正式入场意味着工业资本对量子传感商业化前景的确认
+- **市场影响**:博世的品牌、渠道与制造能力将为量子传感工业化规模应用提供加速
+
+#### Quantum Flagship最新项目:PoQus神经外科手术/QUANTIFY光子集成传感/PROMISE欧洲磁成像/C-QuENS量子纠缠NV色心传感/ACDQ_Q金刚石先进电路(2026)
+- [Quantum Flagship官网](https://qt.eu/) - 欧洲量子旗舰项目持续更新
+- **PoQus - 便携式神经外科量子传感器**:Portable Quantum Sensors for Neurosurgery,开发适用于手术室的量子传感系统,用于术中实时神经活动监测,Quantum Flagship最接近临床医学的量子传感项目
+- **QUANTIFY - 光子集成量子传感**:Quantum enhANced phoTonic Integrated sensors For metrologY,基于光子集成电路的量子增强传感平台,用于精密计量
+- **PROMISE - 欧洲磁成像系统原型**:Prototypes of Magnetic Imaging Systems,基于金刚石NV色心的量子磁成像预产业化,无需传统真空系统、低温技术或磁屏蔽
+- **C-QuENS - 量子纠缠NV色心传感**:Capacitation of Quantum-Entangled NV-Center Sensing,提升NV色心量子传感器的纠缠辅助测量能力
+- **ACDQ_Q - 金刚石量子传感器先进电路**:Advanced Circuits for Detection and Control of Diamond Quantum Sensors,开发用于金刚石量子传感器的先进信号读取与控制电路
+- **UVQuanT - 量子技术深紫外激光器**:Deep Ultraviolet Laser For Quantum Technology,量子传感用深紫外激光源
+- **意义**:Quantum Flagship框架下量子传感已形成完整的"基础研究→系统集成→商业化"项目梯队
+
+#### "量子通信与量子计算机"国家重大专项2026-2030项目建议征集启动,量子精密测量列为四大重点领域之一(2026-05-18)
+- [国家科技重大专项项目建议征集通知(科技部, 2026-05-11)](https://service.most.gov.cn/kjjh_tztg/?v=1732247723861) | [中国科学技术大学公告, 2026-05-17](http://ustc.edu.cn/info/1362/21757.htm) | [腾讯新闻, 2026-05-18](https://so.html5.qq.com/page/real/search_news?docid=70000021_8356a0a865698452)
+- **背景**:合肥国家实验室、"量子通信与量子计算机"国家科技重大专项管理办公室发布《关于征集"量子通信与量子计算机"国家科技重大专项公开竞争类项目建议的通知》,面向全国公开征集2026-2030年项目建议
+- **四大领域**:量子通信、量子计算、**量子精密测量**、量子材料器件与设备;量子精密测量与量子传感直接对应
+- **战略意义**:量子传感已明确纳入国家重大专项框架,"十五五"规划将量子科技列为六大未来产业之首,产业化进入系统性政策支撑阶段
+
+---
+
 *本次更新: Google REPLIQA量子+AI生命科学 / 深圳国际量子院四脚薛定谔猫态PRL / 上海交大深度强化学习量子传感 / Quantum Flagship项目群更新 / arXiv商业化展望综述(2407.00689) / Qnami商业产品线 / IOP量子产业会议(2026-05-19清晨)*
 
 ---
 
-### 🆕 新增条目(2026-05-19上午 - 第三批)
+### 🆕 新增条目(2026-05-19上午 - 第三批)### 🆕 新增条目(2026-05-19上午 - 第三批)
 
 #### 香港大学 × 国内外合作 - 神经形态视觉传感器赋能宽场金刚石量子传感,突破帧率极限(Advanced Science, 2024-02)
 - [HKU工程团队量子传感突破(港大新闻, 2024-02-19)](https://www.hku.hk/press/press-releases/detail/27099.html) | 论文:"Widefield Diamond Quantum Sensing with Neuromorphic Vision Sensors"(Advanced Science)
