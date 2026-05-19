@@ -690,3 +690,58 @@
 - **量子传感关联**:量子传感是峰会的核心板块之一;全球首个量子传感商用市场报告(IDTechEx)有望在峰会发布---
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+
+---
+
+*本次更新(追加): Quantum Singapore 2026论坛/IEEE Quantum Week 2026/Quantum Motion 1.6亿美元C轮/Quantum Design收购牛津仪器纳米科学部/QuiX Quantum光子量子计算突破阈值/Cisco量子传感最新论文(2026-05-19夜)*
+
+---
+
+### 🆕 新增条目(2026-05-19夜 - 今日最新)
+
+#### Quantum Motion完成1.6亿美元C轮融资:押注硅基量子计算"晶体管时刻"(2026-05-07)
+- [英国Quantum Motion融资1.6亿美元(腾讯, 2026-05-07)](https://so.html5.qq.com/page/real/search_news?docid=70000021_18369fc878c29252)
+- **技术**:采用与智能手机、电脑芯片相同的标准硅晶体管架构制造量子比特;所用技术与CMOS半导体工艺兼容
+- **融资**:DCVC和Kembara共同领投,英国商业银行、Firgun及现有投资者跟投;创下英国量子公司最大单笔VC融资纪录
+- **量子传感关联**:硅基量子比特工艺与量子传感器件(特别是硅基NV色心、CMOS集成量子磁力计)的规模化制造高度相关;半导体代工能力将推动量子传感器件批量生产
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:全球SQUID磁学测量垄断地位加强(2026-01-02)
+- [Quantum Design宣布完成收购牛津仪器纳米科学部门(腾讯, 2026-01-18)](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352)
+- **收购方**:Quantum Design(QD) - 世界顶级科学仪器制造商,MPMS和PPMS系统广泛分布全球半导体、超导、材料研究实验室
+- **被收购方**:Oxford Instruments NanoScience - 超低温设备和SQUID磁力计的核心供应商
+- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感最成熟的高灵敏度磁力计;本次收购强化了Quantum Design在量子传感精密测量仪器的全球垄断地位
+
+#### IEEE Quantum Week 2026(QCE26):量子技术从想法到现实影响,参会人数增长超13%(2026-05)
+- [IEEE Quantum Week 2026官网](https://qce.quantum.ieee.org/) | 2026年IEEE量子计算与工程国际会议
+- **规模**:参会人数2025年增长超13%至1750+人,来自量子技术前沿的研究者、实践者、开发者、教育家、创新者和组织
+- **主题**:Transforming quantum ideas into real-world impact;多学科交叉平台,展示原创研究、分享实践洞察、与专家互动
+- **量子传感关联**:量子传感是QCE的重要板块;会议涵盖量子传感技术在医疗、国防、资源勘探等领域的应用进展
+
+#### Quantum Singapore 2026论坛:量子汇聚——从硬件突破到工业应用(2026-02)
+- [Quantum Singapore 2026论坛(腾讯, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | [新代公众号](https://so.html5.qq.com/page/real/search_news?docid=70000021_12669871b9e15152)
+- **主办方**:ICV TA&K、FinQ Tech Inc.及Informa Markets联合主办,获得IEEE Photonics Society新加坡分会学术支持
+- **主题**:Quantum Convergence: From Hardware Breakthrough to Industrial Adoption(量子汇聚:从硬件突破到工业应用)
+- **量子传感关联**:论坛覆盖量子传感硬件优化、软硬协同及区域化生态构建等核心议题;量子传感是量子技术产业化的重要方向
+
+#### QuiX Quantum光子量子计算突破误差阈值:开启可扩展计算新纪元(2026-04-02)
+- [QuiX Quantum突破光子误差阈值(腾讯, 2026-04-03)](https://so.html5.qq.com/page/real/search_news?docid=70000021_67369cfa2c255852)
+- **突破**:2026年4月2日在荷兰恩斯赫德宣布,成功将光子量子计算机的物理误差抑制到足以支撑大规模扩展、兼容容错计算的水平
+- **意义**:光子路径正式进入"阈值以下"的新纪元,标志光子量子技术从理论可行迈向工程可扩展
+- **量子传感关联**:光子技术是量子传感(特别是量子成像、量子通信)的关键使能技术;光子量子计算突破将为集成光子量子传感芯片提供技术基础
+
+#### Cisco Research量子传感最新论文:优化GKP态用于 bosonic channel sensing / 波长复用量子安全通信(2026-02)
+- [Cisco Research量子研究主页](https://research.cisco.com/) | 已发表论文列表
+- **论文1**:Optimized GKP State for Bosonic Channel Sensing - Thinh Le, Jianqing Liu, Jiapeng Zhao and Eneet Kaur(December 2025);GKP态是量子光学传感中用于估计光学模式参数的热门方案
+- **论文2**:Secure optical communication enabled by a wavelength-division-multiplexed quantum alarm - Amir Minoofar, Jiapeng Zhao, Michael Kilzer, Eneet Kaur, Ramana Rao Kompella, Reza Nejabati(February 2026);基于量子alarm的安全光通信方案
+- **量子传感关联**:GKP态优化直接提升量子光学传感器的参数估计精度;量子alarm方案将量子传感原理应用于安全通信,是量子传感在网络安全领域的延伸
+
+#### 量子传感市场数据更新(2026):IDTechEx预测2030年达30-50亿美元/CAGR 10.42%(2025-2035)
+- [Quantum Sensor Market Growth to 2B by 2045(App Developer Magazine, 2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | 基于IDTechEx报告
+- **市场规模**:量子传感市场预计从2025年约18.8亿美元增长至2030年30-50亿美元;2035年达50.7亿美元(CAGR 10.42%);2044年达71亿美元;2045年将突破20亿美元
+- **驱动因素**:晶圆级半导体制造、芯片级集成、商用量子磁力计在医疗/国防领域的加速落地
+- **主要产品类型**:原子钟、磁力计、PAR量子传感器、重力仪与加速度计
+- **量子传感关联**:市场高速增长验证量子传感从实验室向商业化转型的加速;投资热度持续
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
