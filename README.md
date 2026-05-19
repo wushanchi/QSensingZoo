@@ -1381,3 +1381,40 @@
 - **其他分会场**:量子级联激光器气体传感、中红外带间激光器、太赫兹光谱与探测、硅光子学、二维材料、红外探测、纳米光子学与等离子体激元
 - **量子传感关联**:该系列会议是量子传感领域历史最悠久的学术交流平台之一;涵盖从材料器件到系统应用的完整技术链条
 
+
+---
+
+*本次更新(追加): MIT量子雷达/Bosch量子传感/Quantum Singapore 2026论坛/三星量子传感(2026-05-20早-07:13)*
+
+---
+
+### 🆕 新增条目(2026-05-20早-07:13)
+
+#### MIT Technology Review - 量子雷达实现地下物体成像:铯原子云玻璃腔+射频波探测,量子传感器新突破(2025-08-11)
+- [This quantum radar could image buried objects(MIT Technology Review, 2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/)
+- **技术原理**:在玻璃腔中使用铯原子云作为量子探测器,利用激光将每个原子激发至特定量子态,射频波反射信号与原子云相互作用后改变原子状态,从而实现目标探测;无需传统天线组件
+- **研究机构**:NIST(美国国家标准与技术研究院)联合国防承包商RTX开发
+- **核心优势**:探测极微弱射频信号;可探测隐蔽目标;相比传统雷达具有更高的灵敏度
+- **量子传感关联**:量子雷达是量子传感在国防安检领域的突破性应用;量子效应使雷达能探测到传统技术无法分辨的微弱信号
+
+#### Quantum Singapore 2026论坛(2026-02):汇聚全球顶尖科学家,探讨量子技术从硬件突破到工业采纳(2026-02-07)
+- [Quantum Singapore 2026(new.qq.com, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.及Informa Markets联合主办,IEEE Photonics Society学术支持
+- **核心主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
+- **论坛亮点**:全球顶尖量子科学家、行业领袖及技术专家共同参与;探讨量子技术在硬件优化、软硬协同及区域化生态构建等维度的最优解
+- **量子传感关联**:量子传感是论坛核心议题之一,重点讨论从实验室到工业级部署的技术路径与商业化挑战
+
+#### Bosch Quantum Sensing - 博世量子传感官方页面正式上线(2026-01)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | 博世量子传感部门
+- **战略定位**:博世集团正式进入量子传感领域;口号:"Quantum technology will be a game changer in many areas"
+- **应用领域**:高精度磁场测量、量子惯性导航、量子成像等
+- **量子传感关联**:博世是全球最大工业传感器供应商之一;其入场标志量子传感从实验室和初创公司向工业巨头主导的产业化阶段过渡
+
+#### 三星电子 - 量子传感与量子计算协同布局,探索量子技术在半导体检测中的应用(2026持续)
+- [三星量子技术页面(三星官网)](https://semiconductor.samsung.com/cn/)
+- **技术探索**:三星电子探索量子传感技术在先进半导体制造检测中的应用;量子传感器可用于缺陷检测和纳米尺度成像
+- **量子传感关联**:量子传感与半导体制造的协同是产业趋势;量子精密测量可弥补传统光学/电子显微镜的精度局限
+
+#### ResearchAndMarkets量子技术市场报告2025-2035:整体量子技术市场339亿美元→993亿美元(CAGR 11.3%)(2025-08)
+- [Quantum Technology Market 2025-2035(ResearchAndMarkets)](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页报告
+- **量子传感与成像**:量子传感与成像是四大板块之一(量子计算、量子通信与安全、量子传感与成像、量子建模与模拟)
+- **增长驱动**:国防和医疗领域的早期落地推动市场规模扩张;半导体工艺进步降低SWaP-C推动嵌入式量子传感器发展
