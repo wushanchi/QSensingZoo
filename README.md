@@ -689,7 +689,7 @@
 - **关注方向**:量子计算、量子通信、量子传感的融合;从理论探索到产业化的转变;量子技术作为新兴战略资产
 - **量子传感关联**:量子传感是峰会的核心板块之一;全球首个量子传感商用市场报告(IDTechEx)有望在峰会发布---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20*
 
 ---
 
@@ -744,7 +744,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20*
 
 
 ---
@@ -781,7 +781,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20*
 
 ---
 
