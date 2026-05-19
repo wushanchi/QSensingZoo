@@ -25,6 +25,31 @@
 
 ---
 
+*本次更新(追加): 量子使能鬼成像植物非侵入成像(MedSci 2026-05-08) / TOPTICA量子传感与计量 / Princeton量子传感研究(2026-05-20凌晨补充)*
+
+---
+
+### 🆕 新增条目(2026-05-20凌晨 - 今日最新)
+
+#### Science Advances 2026 - 量子使能鬼成像:植物非侵入成像,超越经典成像信噪比极限(2026-05-08)
+- [Quantum-enabled ghost imaging for non-invasive imaging of plants(MedSci, 2026-05-08)](https://www.medsci.cn/sci/show_paper.asp?id=35c4a1259231266b) | 作者:DP Ryan, K Meier, D Thompson, R Newell, JH Werner等
+- **技术**:量子增强鬼成像利用量子纠缠光子对实现低于经典信噪比极限的植物内部结构成像;完全非接触、非侵入,无需聚焦,可对活体植物进行三维成像
+- **核心优势**:在低光条件下仍可获得高信噪比图像;对光敏感生物样本无损伤
+- **量子传感关联**:量子成像(Quantum Imaging)是量子传感的重要分支;鬼成像利用量子纠缠实现超越经典极限的成像能力
+
+#### TOPTICA - 量子传感与计量商业化产品线,德国高端激光系统供应商(2026-05)
+- [TOPTICA Quantum Sensing & Metrology](https://www.toptica.com/applications/applied-quantum-technology/communication/) | 公司主页
+- **技术定位**:TOPTICA提供应用于量子传感和计量的高端半导体激光器和光纤激光器系统;波长覆盖从紫外到红外全波段
+- **核心产品**:用于原子钟、原子干涉仪、NV色心磁力计的专用激光系统;支持量子重力仪、量子陀螺仪研发
+- **量子传感关联**:激光系统是量子传感器的核心光源;TOPTICA的技术支撑多种量子传感平台的精度提升
+
+#### Princeton Quantum Initiative - NV传感器探测二维自旋 bath,量子传感实验平台(2026)
+- [Princeton Quantum Initiative - Quantum Sensing and Metrology](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) | 普林斯顿大学
+- **研究方向**:利用NV色心传感器探测金刚石表面二维自旋bath(de Leon组);开发新型量子传感协议
+- **实验进展**:在NV中心量子传感基础上,探索多量子比特纠缠增强传感;量子-经典混合传感方案
+- **量子传感关联**:NV色心是当前最成熟的固态量子传感平台;Princeton的工作推动NV传感向多参数、高灵敏度方向发展
+
+---
 *本次更新(追加): Infleqtion量子频谱定义新类别(2026-05-20凌晨)*
 
 ---
