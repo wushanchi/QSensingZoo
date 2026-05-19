@@ -745,3 +745,40 @@
 ---
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
+
+
+---
+
+*本次更新(追加): Nature工程化蛋白量子传感/MagLOV单细胞ODMR/Paragraf石墨烯量子传感/南加州大学Ramsey极限突破165%灵敏度/arXiv NV色心矢量磁力计绝对极限(2026-05-19夜-最终批)*
+
+---
+
+### 🆕 新增条目(2026-05-19夜 - 今日最新)
+
+#### Nature 2026 - 工程化蛋白中的量子自旋共振(Quantum Spin Resonance in Engineered Proteins):MagLOV实现单细胞灵敏度ODMR,开辟量子生物传感新方向(2026-01-29)
+- [Nature论文: Quantum spin resonance in engineered proteins for multimodal sensing(2026)](https://doi.org/10.1038/s41586-025-09971-3) | [腾讯云开发者社区导读](https://cloud.tencent.com/developer/article/2627523) | 作者: Abrahams, Štuhec, Spreng等
+- **技术突破**:研究人员通过定向进化工程化磁敏感荧光蛋白(MagLOV),首次在活细胞中、室温条件下观测到光学检测磁共振(ODMR)信号,达到单细胞灵敏度;该效应源于蛋白骨架与黄素辅因子(FMN)之间形成的自旋相关自由基对机制
+- **关键结果**:磁场开启时荧光强度下降约50%;射频共振驱动时荧光强度显著恢复;单细胞层面仍可分辨共振信号;成功实现多信号复用、弱信号锁相放大、三维量子成像、细胞微环境感知
+- **量子传感关联**:MagLOV是首个可在活细胞内编码、表达、遗传的量子传感探针;与NV色心、石墨烯FET形成互补的量子传感技术路线;将量子自旋动力学引入可工程化蛋白体系,标志量子生物传感从自然现象走向可设计工具
+
+#### Paragraf × Graphene Flagship - PMF2000石墨烯场效应晶体管(GFET)量子传感商用产品发布(2026-05-12)
+- [Paragraf PMF2000公告(newscienceventures.com, 2026-05-12)](http://www.newscienceventures.com/) | [Paragraf官网](https://paragraf.com/)
+- **技术**:石墨烯场效应晶体管(GFET)量子传感平台,利用石墨烯的高电子迁移率和可调谐电学特性实现高灵敏度磁场探测;Paragraf已能生产直径达8英寸(20cm)的晶圆级石墨烯,满足商业电子器件需求
+- **产品**:PMF2000是Paragraf基于石墨烯量子传感技术的最新商用产品,2026年5月12日正式发布;相较传统石墨烯传感器,灵敏度提升超过30倍
+- **量子传感关联**:石墨烯是二维材料量子传感的重要平台;GFET可在室温下实现高灵敏度磁场探测;与NV色心形成互补的固态量子传感技术路线;晶圆级石墨烯量产能力是推动商用量子传感器成本下降的关键
+
+#### 南加州大学 × Quantum Elements - 击败Ramsey极限:确定性量子比特控制实现1.65倍灵敏度提升(2025-04-30)
+- [Nature Communications论文:Beating the Ramsey limit on sensing with deterministic qubit control(2025-04-29)](https://www.nature.com/articles/s4422025) | [腾讯新闻导读(2025-04-30)](https://news.qq.com/rain/a/20250430A08NXU00) | 第一作者: M. O. Hecht;通讯作者: Eli M. Levenson-Falk
+- **技术方案**:提出新协议在退相干存在下通过连续驱动稳定布洛赫矢量分量,提高量子比特频率测量灵敏度;在超导量子比特上实验验证,与Ramsey方法相比每个测量灵敏度提高1.65倍,每个量子比特演化时间灵敏度提高1.09倍;理论上无条件增强最大分别为1.96×和1.18×
+- **核心突破**:协议无需反馈和额外控制或测量资源,可立即应用于各种量子计算和量子传感器技术;对参数误校准具有鲁棒性
+- **量子传感关联**:Ramsey极限是量子传感测量精度的基本限制;本研究提供了一种在不退相干条件下突破该极限的实用方案,对量子磁力计、量子重力仪等各类量子传感器的灵敏度提升有直接指导意义
+
+#### arXiv:2504.20750 - NV色心绝对矢量磁力计的极限:高灵敏度fT/√Hz与精确磁場反演公式(2025-04-29)
+- [arXiv:2504.20750: Limits of absolute vector magnetometry with NV centers in diamond](https://arxiv.org/abs/2504.20750) | 作者: Dennis Lönard等(4位作者)
+- **技术内容**:单晶金刚石中四个NV轴使矢量磁力计成为可能,磁场灵敏度可达fT/√Hz;本研究推导了从已知磁场矢量计算共振频率的精确解析公式,以及从测量共振频率反演磁场矢量的解析公式;评估了常用近似的精度
+- **核心贡献**:导出精确、快速计算的解析公式;为NV矢量磁力计提供了理论精度评估基准;是量子传感基础理论研究的重要进展
+- **量子传感关联**:NV色心是量子传感最成熟平台之一;精确的矢量反演公式对NV磁力计的校准和性能评估至关重要;该工作为量子传感理论极限研究提供重要参考
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-19*
