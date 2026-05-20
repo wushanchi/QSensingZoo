@@ -2042,4 +2042,31 @@
 - **量子传感关联**:中国量子传感产业链已覆盖从核心材料(金刚石)、核心器件(NV色心探针)到系统集成(国仪量子、中科院)的完整链条;商业化和产业化进程加速
 
 ---
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(14:13 CST) | 下次自动更新: 约24小时后*
+
+*本次更新(追加): Paragraf PMF2000/6英寸石墨烯/Princeton NV传感/Quantum Design收购牛津纳米科学部(2026-05-20下午-16:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20下午-16:43 - 本次更新)
+
+#### Paragraf - PMF2000石墨烯场效应晶体管传感器/6英寸晶圆突破/Archer Materials量子器件合作(2026持续)
+- [Paragraf官网](https://paragraf.com/) | [PMF2000 GFET产品页](https://www.paragraf.com/gfet-sensors/) | [Archer Materials合作公告](https://paragraf.com/)
+- **PMF2000 GFET**:Paragraf推出的下一代石墨烯场效应晶体管,采用专有直接生长工艺,无聚合物石墨烯通道保证高一致性和可重复性;三个独立石墨烯通道围绕平面内栅电极排列,支持液相分子传感和生物分子固定化;2026年5月正式发布
+- **6英寸石墨烯**:Paragraf宣布首次生产6英寸石墨烯,标志晶圆级二维材料产业化重大突破,为芯片级量子传感器的规模化生产奠定材料基础
+- **Archer Materials战略合作**:Paragraf与Archer Materials合作开发石墨烯基量子器件,整合双方在石墨烯传感器和量子材料领域的优势
+- **量子传感关联**:石墨烯量子传感是NV色心的重要替代路线;Paragraf的Graphene Hall Sensors(GHS)可在10µT至30T、极低温至mK级别的极宽范围内工作;无制冷剂芯片级石墨烯传感器是量子传感商业化的重要方向
+
+#### Princeton Quantum Initiative - NV色心探测二维自旋bath:量子传感实验平台,de Leon组(2026持续)
+- [Princeton Quantum Initiative - Quantum Sensing and Metrology](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) | 普林斯顿大学
+- **研究方向**:de Leon团队利用NV传感器探测钻石表面的二维自旋bath;是NV色心量子传感在凝聚态物理研究中的典型应用
+- **核心平台**:基于单NV中心和NV系综的扫描NV磁强计,可对局部磁场进行纳米级空间分辨率成像
+- **量子传感关联**:Princeton是全球NV量子传感研究的核心重镇之一;其工作连接量子传感与量子材料物理,是量子传感基础研究的重要推动力
+
+#### Quantum Design完成收购牛津仪器纳米科学部:更名为Quantum Design Oxford,低温量子传感平台整合(2026-01-02)
+- [Quantum Design完成收购牛津仪器纳米科学部(腾讯新闻, 2026-01-15)](https://new.qq.com/rain/a/20260115A02IIM00) | [Quantum Design中国](https://www.qd-china.com/)
+- **收购完成**:2026年1月2日,Quantum Design宣布完成对Oxford Instruments旗下NanoScience部门的收购;Oxford NanoScience更名为Quantum Design Oxford
+- **产品整合**:Quantum Design Oxford提供稀释制冷机(DR)及Sub-Kelvin低温恒温器、高场超导磁体、全系列光学低温恒温器等;为量子信息科学、低温物理和材料科学提供全套低温解决方案
+- **量子传感意义**:Quantum Design是OPM、NV磁力计等量子传感器商业化的重要OEM平台;此次收购整合了百年低温技术创新积淀,强化了其在全球量子传感低温设备供应的主导地位
+
+---
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(16:43 CST) | 下次自动更新: 约24小时后*
