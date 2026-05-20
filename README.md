@@ -46,6 +46,43 @@
 - **量子传感关联**:IDTechEx是量子传感市场最权威的分析机构之一;报告系统梳理全球量子传感技术格局与商业化路径
 
 ---
+*本次更新(追加): Quantum Sci. Technol.最新论文/布里斯托量子光子芯片/IOP最新量子传感研究/arXiv多参数量子估计/CIDEX 2026量子传感/Inspira更名QTREX Quantum上市(2026-05-20晚-19:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20晚-19:43 - 本次更新)
+
+#### IOP Quantum Science and Technology - 多参数量子传感终极极限:arXiv:2605.04136通用哈密顿量参数函数估计(2026-05-07)
+- [arXiv:2605.04136](https://arxiv.org/abs/2605.04136) | Authors: Abbasgholinejad, Muleady, Bringewatt, Conlon, Gorshkov (NIST/UMD)
+- **技术突破**:推导出任意函数形式参数估计的终极量子极限,并提出估计协议;首次给出多参数量子传感中非平凡参数函数精度的通用量子极限;涉及commuting和non-commuting两种 генератора
+- **核心进展**:多参数量子传感是下一代量子传感系统的核心挑战;同时测量磁场、梯度、温度等多物理量需要克服参数间非对易性带来的精度限制
+- **量子传感关联**:该工作为多参数量子传感协议设计提供理论基准;对NV色心、原子系综等多种平台的实际传感协议有重要指导意义
+
+#### University of Bristol - 质子级光量子传感器:环谐振器实现量子极限探测,晶圆级量产(2025-02)
+- [Quantum Sensing to Engineer Photonic Sensors(TechBriefs, 2025-02)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | QET Labs, Bristol
+- **技术**:利用微环谐振器(microring resonator)实现质量可manufacture的光子传感器在量子极限运行;微环谐振器形状像跑道,光在环中循环并与样品最大化相互作用
+- **突破**:无需复杂的纠缠或压缩态即可实现量子极限精度测量;用与智能手机芯片相同工艺的晶圆级CMOS工艺制造
+- **应用**:吸收率/折射率变化传感可识别温室气体、癌症检测;芯片级量子光子传感器是量子传感商业化的重要方向
+- **量子传感关联**:光子芯片量子传感器是量子传感走向大规模商用的重要路径;量子工程与技术实验室(QET Labs)实现mass manufacturable的量子极限光子传感器
+
+#### 2026第十四届中国国际国防电子展览会(CIDEX 2026):量子传感成为国防电子重要方向,2026年9月2-4日北京(2026-04)
+- [CIDEX 2026(搜狐, 2026-04-17)](https://so.html5.qq.com/page/real/search_news?docid=70000021_71369e1a87544552) | 指导单位:装备发展部;主办方:中国电子信息产业集团
+- **量子传感关联**:中国国际国防电子展是国防电子领域最高级别展会;量子导航、量子探测、量子成像等量子传感技术是重要展示方向
+- **背景**:中国国防支出2026年预计1.94万亿元;量子传感在军事精确制导、战场感知、量子导航定位(PNT)等领域有重要应用前景
+
+#### arXiv:2605.04136 - Multiparameter Function Estimation for General Hamiltonians:多参数量子传感的终极精度极限(2026-05-07)
+- [arXiv:2605.04136](https://arxiv.org/abs/2605.04136) | Authors: Erfan Abbasgholinejad, Sean R. Muleady, Jacob Bringewatt, Lorcan O. Conlon, Alexey V. Gorshkov
+- **技术**:研究编码在哈密顿量中的物理参数估计的终极精度极限;推导任意参数函数的量子克拉美尔界限(QCRB);提出可达该极限的估计协议
+- **核心突破**:首次给出多参数系统中参数函数精度的通用量子极限;处理commuting和non-commuting两种发生器情况
+- **量子传感关联**:多参数量子传感是实用量子传感系统的核心需求;该工作为设计接近最优精度的实际传感协议提供理论指导
+
+#### QTREX Quantum(原Inspira Technologies)今日(5/20)登陆纳斯达克:量子增材制造电子+量子连接基础设施(2026-05-20)
+- [Inspira Technologies更名QTREX Quantum(富途, 2026-05-19)](https://news.futunn.com/post/73329907/inspira-technologies-to-begin-trading-as-qtrex-quantum-under-nasdaq) | 纳斯达克股票代码:QTEX
+- **战略聚焦**:AME(增材制造电子)技术平台 + 量子连接基础设施(quantum connectivity);新名称体现量子相关业务战略重点
+- **量子传感关联**:量子计算硬件的互连瓶颈是量子系统扩展的关键挑战;量子连接技术直接影响量子传感器阵列和量子计算系统的规模扩展能力
+- **市场动态**:2026年量子科技公司IPO活跃;量子传感产业链上游(材料、设备、互连)获得资本市场关注
+
+---
 *本次更新(追加): 中科大首个核自旋量子传感网络Nature论文/分布式城际量子传感器Nature暗物质探测/量子纠缠增强原子钟PRL/Quantum Innovation Summit Dubai 2026(2026-05-20下午-17:43)*
 
 ---
