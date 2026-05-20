@@ -2625,3 +2625,35 @@
 ---
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(01:14 CST) | 下次自动更新: 约24小时后*
+
+---
+
+### 🆕 新增条目(2026-05-21凌晨-01:44 - 本次更新)
+
+#### arXiv - 多参数函数估计与通用哈密顿量量子传感终极精度极限:2026-05-07(2026-05-07)
+- [arXiv:2605.04136 - Multiparameter function estimation for general Hamiltonians(Scirate)](http://scirate.com/) | [arXiv原文](https://arxiv.org/abs/2605.04136)
+- **论文作者**:Erfan Abbasgholinejad, Sean R. Muleady, Jacob Bringewatt, Lorcan O. Conlon, Alexey V. Gorshkov等;2026-05-07提交
+- **核心贡献**:推导任意函数型参数估计的终极量子极限,并提出任意通用哈密顿量中参数函数的估计协议;首次给出多参数非线性函数估计的量子极限一般性框架
+- **技术细节**:针对可能非对易的生成元,推导出参数函数的终极精度限;提出实现该极限的估计协议
+- **量子传感关联**:量子传感理论前沿突破;为下一代量子传感器设计提供通用理论工具;从单参数估计扩展到多参数非线性函数估计
+
+#### Quantum Sensors Market - 量子传感器市场到2045年增长至20亿美元,半导体工艺降低SWaP-C成本(2025-04)
+- [Quantum sensor market to grow to 2B by 2045(App Developer Magazine)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | IDTechEx研究;基于2024-2044年报告
+- **市场预测**:量子传感器市场将从当前水平增长至2045年20亿美元;关键驱动力为半导体制造工艺使vapor cells和lasers成本下降
+- **技术瓶颈**:SWaP-C挑战(尺寸/重量/功率/成本)是量子传感器大规模普及的核心障碍;半导体fab正在整合进量子传感价值链
+- **技术路线**:半导体可扩展制造工艺使vapor cells和激光器更高效生产;OPM(光泵浦磁力计)技术路线受益于半导体集成
+- **量子传感关联**:量子传感器商业化进入关键成本控制阶段;芯片级小型化是打开消费级市场的关键;从2025到2045年双位数增长预期
+
+#### Nature Portfolio - Nature Sensors将于2026年正式创刊:传感技术领域首个Nature子刊(2025-10)
+- [Nature Sensors将于2026年正式创刊(腾讯, 2025-10-13)](https://new.qq.com/rain/a/20251013A03CWI00) | Nature Portfolio
+- **期刊定位**:发表传感技术各领域(生物/计算/工程/系统)基础研究、应用研究和工程研究;涵盖新型传感器材料和装置开发、传感器系统设计整合与广泛应用
+- **量子传感机会**:Nature Sensors创刊将为量子传感技术提供首个Nature级别顶刊出口;量子传感论文从Nature Physics/Communications等分散发表转向专业期刊聚焦
+- **量子传感关联**:量子传感技术获得专业期刊平台认可;2026年Nature Sensors创刊将是量子传感领域重要里程碑
+
+#### IDTechEx - 量子传感器市场2024-2044:市场规模达71亿美元,17类量子传感技术全覆盖(2023-07)
+- [Quantum Sensors Market 2024-2044(IDTechEx)](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx;2023年7月发布,2024年持续更新
+- **市场覆盖**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器;覆盖17类量子传感技术领域;基于主要开发商和用户访谈的公司画像
+- **应用场景**:电动汽车、GPS拒止导航、医学成像、量子计算;量子传感器市场预计2044年达到71亿美元
+- **技术成熟度**:评估商业和技术就绪度;覆盖成熟企业和新兴企业;多数基于一手访谈
+- **量子传感关联**:量子传感市场进入全面商业化阶段;IDTechEx报告是产业研究重要参考文献
+
