@@ -1658,4 +1658,43 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(10:43 CST) | 下次自动更新: 约24小时后*
+*本次更新(追加): QDTI量子生物标志物检测/Harvard NV钻石即时诊断/Quantum.Tech World 2026/AQIS'26/Paragraf PMF2000发布/New Science Ventures量子传感组合(2026-05-20午-11:13)*
+
+---
+
+### 🆕 新增条目(2026-05-20午-11:13 - 本次更新)
+
+#### QDTI × Harvard - NV钻石量子传感即时生物标志物检测平台:≤5µL样本/<1 pg/mL灵敏度/<1小时,量子生物传感商业化里程碑(2026持续)
+- [QDTI官网](https://www.qdti.com/) | [Rapid Quantum Magnetic IL-6 Point-of-Care Assay论文](https://www.qdti.com/publications/rapid-quantum-magnetic-il-6-point-of-care-assay-in-patients-hospitalized-with-covid-19) | Harvard大学
+- **技术平台**:基于金刚石NV色心量子磁成像技术,利用NV中心作为纳米级磁显微镜,对生物标志物进行超高灵敏度检测;
+- **核心参数**:≤5µL样本量;<1 pg/mL分析灵敏度;<1小时手工操作时间;仅需5步样本制备
+- **发表论文**:COVID-19住院患者IL-6即时量子磁检测论文发表,展示量子传感从实验室向临床诊断的里程碑式跨越
+- **量子传感关联**:NV色心是量子传感最成熟的生物医学应用平台;量子磁力计替代传统ELISA等免疫检测方法;量子钻石显微镜是实现即时诊断(PoC)的关键使能技术
+
+#### Quantum.Tech World 2026:量子+AI+HPC融合旗舰会议,1000+创新者/领导者/决策者参与(2026持续)
+- [Quantum.Tech World 2026官网](https://www.quantumtechcongress.com/) | 官方会议主页
+- **会议主题**:"Quantum, AI & HPC: Redefining What's Possible"——量子、AI与高性能计算融合,重新定义可能边界;量子技术不再是理论探索,而是正在部署的现实
+- **覆盖领域**:国家安全、医疗健康、金融、气候、物流等量子技术落地场景;40+国家、50+行业合作伙伴、6大展区
+- **量子传感关联**:量子传感是大会核心板块之一;量子传感+AI的融合是当前产业趋势,机器学习算法优化量子传感系统的信号处理与参数估计
+
+#### AQIS'26 第26届亚洲量子信息科学会议:2026年8月24-28日,韩国大田KAIST主办,量子传感成为核心板块(2026-05)
+- [AQIS'26官网](http://aqis-conf.org/) | [KAIST量子科学技术研究生院](https://qt.kai.st.ac.kr/)
+- **时间地点**:2026年8月24-28日,韩国大田KAIST校园融合大厅
+- **主题**:量子信息科学,涵盖量子计算、量子通信、量子传感与量子光学
+- **量子传感关联**:AQIS是亚洲量子科技顶级会议;量子传感是核心板块之一,展示量子传感从理论到实验的最新进展
+
+#### Paragraf × Graphene Flagship - PMF2000石墨烯场效应晶体管正式发布,灵敏度提升30倍/8英寸晶圆级石墨烯(2026-05-12)
+- [Paragraf PMF2000公告(New Science Ventures, 2026-05-12)](http://www.newscienceventures.com/) | [Paragraf官网](https://paragraf.com/)
+- **技术**:石墨烯场效应晶体管(GFET)量子传感平台,利用石墨烯高电子迁移率实现室温高灵敏度磁场探测;Paragraf已实现直径达8英寸(20cm)晶圆级石墨烯量产
+- **产品发布**:PMF2000于2026年5月12日正式发布;相较传统石墨烯传感器灵敏度提升超过30倍
+- **量子传感关联**:GFET是NV色心之外最重要的固态量子传感技术路线之一;晶圆级量产能力是推动商用量子传感器成本下降的关键;室温操作无需低温制冷
+
+#### New Science Ventures - 量子传感投资组合:Paragraf/QDTI/多家量子传感明星企业(2026持续)
+- [New Science Ventures官网](http://www.newscienceventures.com/) | 总部位于康涅狄格州和伦敦的风险投资公司
+- **投资哲学**:投资于利用新颖科学方法解决生命科学和信息技术领域重大未满足需求的早期和晚期公司
+- **量子传感组合**:Paragraf(石墨烯量子传感,PMF2000发布)、QDTI(Harvard NV量子生物标志物检测)等多家量子传感明星企业
+- **量子传感关联**:NSV代表欧美顶级风投对量子传感商业化前景的持续看好;量子传感已进入临床诊断、即时检测等快速变现赛道
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(11:13 CST) | 下次自动更新: 约24小时后*
