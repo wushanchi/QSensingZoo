@@ -24,6 +24,52 @@
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
 ---
+*本次更新(追加): 量子传感最新论文/布里斯托量子光子芯片/Quantum Sensing Zoo资料搜集(2026-05-21凌晨-01:14)*
+
+---
+
+### 🆕 新增条目(2026-05-21凌晨-01:14 - 本次更新)
+
+#### University of Bristol - 质子级光量子传感器:环谐振器实现量子极限探测,晶圆级量产(2025-02)
+- [Quantum Sensing to Engineer Photonic Sensors(TechBriefs, 2025-02)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | QET Labs, Bristol
+- **技术**:利用微环谐振器(microring resonator)实现质量可manufacture的光子传感器在量子极限运行;微环谐振器形状像跑道,光在环中循环并与样品最大化相互作用
+- **突破**:无需复杂的纠缠或压缩态即可实现量子极限精度测量;用与智能手机芯片相同工艺的晶圆级CMOS工艺制造
+- **应用**:吸收率/折射率变化传感可识别温室气体、癌症检测;芯片级量子光子传感器是量子传感商业化的重要方向
+- **量子传感关联**:光子芯片量子传感器是量子传感走向大规模商用的重要路径;量子工程与技术实验室(QET Labs)实现mass manufacturable的量子极限光子传感器
+
+#### Quantum Innovation Summit Dubai 2026:9月28-30日迪拜,量子传感从硬件突破到工业采纳(2026-09)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办方:Quantum for Good Curator,战略合作伙伴:阿联酋政府
+- **主题**:"Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership"
+- **核心议题**:量子传感商业化路径、量子AI融合、量子与先进计算协同、量子传感从实验室到工业采纳的转型
+- **量子传感关联**:中东地区加大量子科技投资;迪拜量子峰会聚焦量子技术从展示向规模化交付的转型
+
+#### MarketsandMarkets量子传感器市场:2034年前规模显著增长,原子钟/磁传感器/PAR量子传感器/重力仪(2024-12)
+- [MarketsandMarkets Quantum Sensors Market](https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html) | 报告覆盖原子钟、量子磁传感器、PAR量子传感器、量子重力仪与加速度计
+- **市场驱动**:量子传感器在精度上显著优于传统传感器;半导体工艺进步降低SWaP-C(尺寸/重量/功耗/成本)是商业化关键
+- **应用领域**:国防安全(量子雷达/量子导航)、医疗健康(脑成像/癌症检测)、工业检测(精密制造/石油勘探)、汽车(EV电池检测/自动驾驶)
+- **量子传感关联**:MarketsandMarkets是量子传感市场最权威的分析机构之一;报告系统梳理全球量子传感技术格局与商业化路径
+
+#### Quantum Coast Capital:投资量子传感早期创业公司,量子传感从实验室走向市场的产业化加速(2026-05)
+- [Quantum Coast Capital](https://quantumcoastcapital.com/) | 专注于量子传感早期投资的风投机构
+- **投资方向**:量子计算、量子传感、量子安全通信;量子传感是重点投资领域之一
+- **团队背景**:科学顾问+资本市场+风投建设+企业运营的综合团队;执行内部科学尽职调查
+- **战略定位**:不仅是投资者,更是战略合作伙伴;在量子传感商业化、监管和长期规模扩展方面积极支持创始团队
+- **量子传感关联**:量子传感创业公司获资本市场持续支持;量子传感从实验室到市场的产业化加速
+
+#### Quantum Singapore 2026论坛:2026年2月4日新加坡滨海湾金沙会展中心开幕,聚焦量子从硬件突破到工业应用(2026-02)
+- [Quantum Singapore 2026报道(腾讯, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | 主办方:ICV TA&K、FinQ Tech Inc.、Informa Markets;学术支持:IEEE Photonics Society新加坡分会
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications"
+- **核心议程**:量子计算在不同维度的前沿突破;量子传感商业化路径;量子通信与量子计算协同;量子技术从理论到产业化的工程挑战
+- **主持人**:FinQ Tech Inc.总裁、英国石油公司(BP)量子计算专家Shangjie Guo
+- **量子传感关联**:东南亚是量子传感产业的新兴市场;Quantum Singapore是亚太地区最具影响力的量子技术论坛之一
+
+#### Nature Communications Physics 2026 - NV色心量子传感Fe₃GeTe₂居里临界点热激活磁化翻转:室温近邻效应与量子磁学成像(2026-03)
+- [Communications Physics (2026-03-02)](https://www.nature.com/articles/s42005-023-01472-x) | DOI: 10.1038/s42005-023-01472-x
+- **技术方案**:将Fe₃GeTe₂多层薄膜转移至金刚石(100)表面并封装于两层hBN之间;532nm激光垂直激发,微波通过金线施加;利用NV色心扫描磁学显微镜对二维材料磁结构进行量子成像
+- **核心发现**:揭示Fe₃GeTe₂中临近临界点的热激活逃离双稳态磁态行为;Fe₃GeTe₂是研究范德华磁性和拓扑磁结构的理想平台
+- **量子传感关联**:NV色心是实现二维材料纳米尺度磁性表征的唯一无损、非接触式工具;量子成像可捕捉居里临界点附近磁化动力学细节
+
+---
 *本次更新(追加): Cerca Magnetics量子脑扫描仪380万英镑A轮/Q-CTRL TIME 100/Sandia原子干涉仪/Princeton NV传感/arXiv NV自旋-128mg悬浮谐振器/Equal1-Q-CTRL量子计算合作(2026-05-21凌晨-00:44)*
 
 ---
@@ -2578,4 +2624,4 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(23:44 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(01:14 CST) | 下次自动更新: 约24小时后*
