@@ -24,6 +24,50 @@
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
 ---
+*本次更新(追加): 量子传感最新产业与产品动态/MIT量子雷达/光学泵浦磁力计MEG应用/ResearchAndMarkets量子技术报告/CesiumTracker原子钟/Acta Physica Sinica机载量子重力仪(2026-05-20下午-14:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20下午-14:43 - 本次更新)
+
+#### CesiumTracker原子钟芯片 - 芯片级量子传感商业化标杆(2026持续)
+- [Cesium Tracker官网](https://cesiumtracker.com/) | 芯片级铯原子钟技术
+- **技术**:基于MEMs工艺与原子物理学结合的芯片级原子钟;可在无GPS信号环境下提供高精度授时,误差远小于传统晶体振荡器
+- **量子传感关联**:芯片原子钟是量子传感最成熟、规模最大的商业化产品;是量子传感技术从实验室走向大规模商用的成功范例
+
+#### MIT Technology Review - 量子雷达新方案:原子云室温探测反射射频波,可成像隐蔽目标(2025-08-11)
+- [MIT Technology Review (2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | 研究团队:NIST + RTX(原Raytheon)
+- **技术原理**:使用玻璃气室中悬浮的铯(Caesium)原子云在室温下探测反射的射频波;激光将原子驱动到高度敏感的量子态,当射频信号反弹回来时,原子云发射可检测的光信号
+- **创新点**:传统雷达需发射强射频信号才能探测回波,容易被探测和干扰;量子雷达利用原子量子态放大微弱返回信号,可探测隐蔽目标
+- **当前状态**:仍为原型阶段,体积较大(光学表+组件);展示了量子传感在国防安全领域的巨大潜力
+
+#### Optically Pumped Magnetometers (OPM)用于脑磁图(MEG):Springer综述+Commercialising Quantum Global 2025(2019-2025持续)
+- [Springer: Optically Pumped Magnetometers for MEG](https://link.springer.com/10.1007/978-3-030-00087-5_49) | Authors: Elena Boto等(Nottingham大学)
+- **技术原理**:光泵浦磁力计利用圆偏振光泵浦碱金属原子使其极化,射频场引起退极化导致光吸收变化从而检测磁场;无需低温制冷
+- **灵敏度**:目前最好灵敏度可达~1 fT/√Hz,与SQUID相当,但可在室温下工作
+- **商用进展**:Cerca Magnetics(380万英镑A轮)、Quantum Design(收购Oxford NanoScience)均在OPM/MEG领域布局
+- **量子传感关联**:OPM是量子磁力计商业化最活跃的方向之一;室温运行优势使其成为最具商用前景的量子传感器类型
+
+#### Acta Physica Sinica 2025 - 机载绝对重力测量量子重力仪:量子传感精密测量支撑国家战略(2025)
+- [Acta Physica Sinica (2025-02-09)](https://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.74.20241621) | 作者:翟晨洁,王晶,周俊杰等(多家单位联合)
+- **技术**:基于量子重力仪的机载绝对重力测量;利用原子干涉仪技术实现绝对重力加速度测量
+- **科学意义**:机载重力测量对地质勘探、冰川监测、海平面变化等有重要应用价值;量子重力仪提供前所未有的测量精度
+- **量子传感关联**:原子干涉重力仪是量子传感精密测量的核心方向;机载化是量子重力仪从实验室走向大规模地球观测应用的关键里程碑
+
+#### ResearchAndMarkets量子技术市场报告:2025年339亿美元→2035年993亿美元(CAGR 11.3%)(2025-08)
+- [Quantum Technology Market 2025-2035(ResearchAndMarkets)](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页报告
+- **量子传感份额**:量子传感与成像是四大板块之一;在国防和医疗领域的早期落地推动市场规模扩张
+- **地区格局**:北美主导,亚太快速增长;半导体工艺进步降低SWaP-C,量子传感器从实验室走向嵌入式系统
+- **量子传感关联**:市场规模高速增长验证量子传感从实验室向商业化转型的加速;国防和医疗是率先落地场景
+
+#### NIST × RTX Rydberg原子量子射频传感器:无天线射频检测,突破传统射频感知架构(2025)
+- [NIST Rydberg原子传感研究页面](https://www.nist.gov/news-events/news/2025/quantum-radar-new-kind-radio-wave-detector) | [RTX官网](https://www.rtx.com/)
+- **技术原理**:Rydberg原子射频传感利用高激发态Rydberg原子对电磁场的极端敏感性;原子作为"天线",检测射频信号无需物理天线结构
+- **核心优势**:Rydberg原子可覆盖DC至THz的极宽频谱;无方向性天线,球形全向响应;原子响应速度快,适合动态信号
+- **量子传感关联**:Rydberg原子传感是量子传感领域发展最快的方向之一;与NV色心磁力计互补,前者测射频电场,后者测磁场
+
+---
+
 *本次更新(追加): Sandia 2025三大核心专利/Physical Review Applied量子声子学专辑/Princeton量子传感/arXiv光频梳量子计量/CQT首届亚洲离子阱会议(2026-05-20早-10:43)*
 
 ---
