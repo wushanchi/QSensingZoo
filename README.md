@@ -3059,4 +3059,35 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(04:14 CST) | 下次自动更新: 约24小时后*
+---
+
+### 🆕 新增条目(2026-05-21早-06:44 - 本次更新)
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:全球SQUID磁学测量霸主整合,量子传感低温测量能力跃升(2026-01)
+- [Quantum Design India新闻(2026-01)](https://qd-india.com/) | [QD International](http://www.qd-international.com/) | 原Oxford Instruments NanoScience部门
+- **收购背景**:2026年1月2日Quantum Design宣布完成对Oxford Instruments(牛津仪器)NanoScience部门的收购;牛津仪器NanoScience曾是MPMS(SQUID)磁学测量系统的 original manufacturer
+- **产品整合**:MPMS 3——基于SQUID的超高精度磁学测量系统,灵敏度10⁻⁹ emu,温度范围1.9K-400K;2026年Quantum Design同步推出MPMS 3升级版和全新OptiCool低温光学平台
+- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感最成熟的商用技术路径之一;MPMS系列是全球SQUID技术商业化的标杆产品;此次整合将进一步提升Quantum Design在量子传感低温测量领域的主导地位
+
+#### 北京大学量子光学磁力仪研究组(CREAM) - 氦原子光泵磁力仪:非接触式激光泵浦,灵敏度持续提升,生物磁场检测应用(2026持续)
+- [北京大学量子光学磁力仪研究主页](https://iqe.pku.edu.cn/english/dht_en/quantum_optics_and_quantum/research/quantum_optical_magnetometry/index.htm) | CREAM Group
+- **研究方向**:光泵原子磁力仪(OPM)——利用碱金属和氦原子实现极弱磁场探测;氦磁力仪成功研发,激光泵浦关键技术突破
+- **技术路线**:非接触式激光泵浦;过-spin-exchange弛豫(SERF)机制实现超高灵敏度;磁场调制单光束检测方案(灵敏度175.4 fT/√Hz @ 1.1kHz调制)
+- **应用方向**:生物磁场检测(心磁图、脑磁图)、地球物理勘探、量子精密测量
+- **量子传感关联**:OPM是当前最成熟的商用量子磁传感技术路径;北京大学在OPM领域的持续研究代表中国在原子磁力计领域的基础实力
+
+#### 2026年Nature Nanotechnology里程碑论文:磁序介导天然"负折射",超越人工"超原子"结构限制(2026-01)
+- [Nature Nanotechnology论文报道(腾讯, 2026-02-06)](https://so.html5.qq.com/page/real/search_news?docid=70000021_9546985612649152) | 香港大学+武汉大学+华南师范大学联合团队
+- **核心成果**:利用激子内在量子特性与磁序对称性,在天然晶体中实现对光的深度控制——无需笨重人工"超原子"结构
+- **技术意义**:从"人为设计"到"自然涌现"的范式转变;天然晶体+磁序替代人工微结构,是纳米光子学与量子传感交叉的重要突破
+- **量子传感关联**:负折射材料可用于开发新型量子传感器件;磁序工程为量子传感材料设计提供新思路
+
+#### Princeton Quantum Initiative - NV色心量子传感:二维材料自旋bath探测,量子系统实验平台持续突破(2026-04)
+- [Princeton量子传感与计量学研究主页](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) | de Leon研究组
+- **研究内容**:NV传感器探测金刚石表面二维自旋bath;用于材料表征和量子系统实验
+- **技术平台**:NV色心扫描磁学显微镜;Princeton持续保持NV量子传感研究领先地位
+- **量子传感关联**:NV色心是当前最成熟的固态量子传感平台;Princeton工作为量子传感在凝聚态物理和材料科学中的应用提供持续示范
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(06:44 CST) | 下次自动更新: 约24小时后*
