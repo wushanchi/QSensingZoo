@@ -24,6 +24,42 @@
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
 ---
+*本次更新(追加): Sandia 2025三大核心专利/Physical Review Applied量子声子学专辑/Princeton量子传感/arXiv光频梳量子计量/CQT首届亚洲离子阱会议(2026-05-20早-10:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20早-10:43 - 本次更新)
+
+#### MIT × 本田研究所 × 美国陆军DEVCOM - 腔增强固态核自旋量子陀螺仪:灵敏度提升3个数量级,PRL里程碑(2025-05-09)
+- [MIT腔增强核自旋陀螺仪(腾讯新闻, 2025-05-12)](https://new.qq.com/rain/a/20250512A083QW00) | 发表于Physical Review Letters
+- **技术方案**:基于金刚石NV色心系综,采用nNV-cQED(核自旋-腔量子电动力学)系统,观察到电磁感应透明、无反转激射和振荡行为
+- **核心突破**:旋转灵敏度相比此前固态自旋演示提升3个数量级;NV电子自旋同时作为共磁力计,四个结晶轴NV实现单一系统矢量分辨率
+- **量子传感关联**:核自旋陀螺仪兼顾长期稳定性与短期灵敏度;量子传感在惯性导航领域的关键突破;固态平台室温运行比传统原子陀螺仪更具实用性
+
+#### Sandia国家实验室 - 硅光子原子干涉仪2025年三大核心专利获批:紧凑grating MOT + Evanescent Field引导 + 惯性导航(2025)
+- [US12449256 (2025-10-11)](https://patents.google.com/patent/US12449256B1/en) | [US12424810 (2025-09-23)](https://patents.google.com/patent/US12424810B1/en) | [US12392611 (2025-08-19)](https://patents.google.com/patent/US12392611B1/en)
+- **US12449256**: Compact Grating Magneto-Optical Trap Sensor Head—紧凑光栅磁光阱传感器头,采用custom titanium真空腔+微纳加工光栅芯片+固定光学组件,支持动态环境下的可靠量子传感
+- **US12424810**: Compact Atom Interferometry Inertial Navigation Sensors—定制衍射光学紧凑原子干涉仪惯性导航传感器,实现双轴高速数据率原子干涉仪
+- **US12392611**: Measurement Protocol for Large Dynamic Range and High Sensitivity of Evanescent-Field-Mode Guided Atom Interferometer—大动态范围高灵敏度Evanescent-Field-Mode引导原子干涉仪测量协议;Sandia硅光子单边带调制器(Science Advances 2024, eade4454)支撑
+- **量子传感关联**:硅光子PIC激光系统无需笨重铌酸锂调制器,为芯片级量子惯性传感器铺平道路;三大专利覆盖传感器头、光学、测量协议全技术栈
+
+#### Physical Review Applied 2026 - Phononics and Metamaterials专辑:量子力学与弹性波的深度交叉,TWPAs是超导量子处理器核心组件(2026-03)
+- [Physical Review Applied Phononics and Metamaterials Collection(APS, 2026-03)](https://journals.aps.org/prapplied/) | Guest Editors: Muamer Kadić, Daniel Torrent, Abdelkrim Nashash
+- **专辑覆盖**:声子晶体、超材料、弹性波与量子效应的深度融合;traveling-wave parametric amplifiers (TWPAs)是超导量子处理器核心组件
+- **量子传感关联**:声子作为机械振动的量子化描述,与量子传感中的噪声抑制和相干控制直接相关;声子-光子耦合是芯片级量子传感器件的重要物理机制
+
+#### arXiv:2605.16585 - Penning陷阱中H₂⁺和H̅₂⁻的高精度光谱:10⁻¹⁷量级CPT不变性检验,量子精密测量新平台(2026-05-15)
+- [arXiv:2605.16585](https://arxiv.org/abs/2605.16585) | 作者:19页
+- **技术方案**:H₂⁺和H̅₂⁻振动跃迁频率比较提供CPT不变性检验新途径;在Penning陷阱中进行非破坏性读出激光光谱,结合连续Stern-Gerlach效应或量子逻辑光谱
+- **精度目标**:在现有技术下可实现10⁻¹⁷量级的振动频率比较精度--逼近量子精密测量的极限
+- **量子传感关联**:Penning陷阱是实现最高精度原子传感器(如量子磁场计)的核心技术;分子离子光谱为量子精密测量提供新型传感平台
+
+#### CQT新加坡首届亚洲离子阱会议:量子传感与量子计算交叉融合,离子阱传感器在电场/磁场/重力场测量中极高精度(2026-04-24)
+- [CQT hosts inaugural Asian Conference on Trapped Ions(CQT, 2026-04-24)](https://www.quantumlah.org/news) | 新加坡国立大学
+- **会议主题**:聚焦离子阱技术在量子计算、量子传感和量子精密测量中的应用
+- **量子传感关联**:离子阱是实现高灵敏度量子传感器的核心技术平台之一;离子阱量子传感器在电场、磁场和重力场测量中具有极高精度
+
+---
 
 *本次更新(追加): arXiv量子传感最新论文/NASA量子重力梯度仪Pathfinder/Imperial量子传感Q&A/2026量子技术监测报告(2026-05-20早-06:43)*
 
@@ -1188,7 +1224,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(06:13) | 下次自动更新: 约24小时后)
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(10:43 CST) | 下次自动更新: 约24小时后)
 
 ---
 
@@ -1282,11 +1318,11 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(05:43) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(10:43 CST) | 下次自动更新: 约24小时后*
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(06:13) | 下次自动更新: 约24小时后)
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(10:43 CST) | 下次自动更新: 约24小时后)
 
 ---
 
@@ -1622,4 +1658,4 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(10:17 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(10:43 CST) | 下次自动更新: 约24小时后*
