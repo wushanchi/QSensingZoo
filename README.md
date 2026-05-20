@@ -2621,10 +2621,56 @@
 - **产业阶段**:从实验室走向工程验证与供应链整合;竞争核心转向批量交付稳定性与成本控制;资本向具备工程化能力的头部企业集中
 - **全球格局**:全球形成东西方双技术体系,中美欧为核心区域;美国以国防牵引技术落地;中国将量子科技列为未来产业首位并在磁传感、重力领域形成集群优势
 - **量子传感关联**:量子传感正从"展示能做什么"进入"规模化交付"阶段;产业从单点设备向系统能力升级是2026年最显著趋势
-
 ---
+*本次更新(追加): DARPA RoQS/ AIRSA 2026量子传感+AI/ Bosch Quantum Sensing/ Princeton+Sandia量子传感详情/ Nature暗物质探测v2(2026-05-21凌晨-02:14)*
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(01:14 CST) | 下次自动更新: 约24小时后*
+### 🆕 新增条目(2026-05-21凌晨-02:14 - 本次更新)
+
+#### DARPA Robust Quantum Sensors (RoQS)计划:Phase 1启动,2400万美元合同构建非空间GPS替代量子传感(2025-09)
+- [Air & Space Forces Magazine (2025-09-04)](https://www.airandspaceforces.com/pentagon-gps-alternatives-not-in-space/) | 项目:DARPA RoQS (Robust Quantum Sensors);一家入选公司获2400万美元总额两份合同
+- **技术背景**:美国军方持续加大对GPS替代方案的投资;量子传感器提供本地化、非空间依赖的高精度定位导航;不依赖容易被干扰的卫星信号
+- **技术方案**:利用 Rydberg 量子传感器实验装置从0频率到20 GHz采样射频频谱并检测真实世界通信信号;陆军研究实验室(ARL)开发
+- **军事价值**:在GPS拒止环境下提供可靠的定位、导航与授时(PNT)能力;量子传感技术不发射强射频信号,具有低截获概率
+- **量子传感关联**:RoQS是美国国防部量子传感技术的最大国家级项目之一;量子惯性导航是量子传感最明确的军用场景;DARPA项目代表全球量子传感军事应用最高水平
+
+#### AIRSA 2026:人工智能与遥感应用国际会议,量子传感+AI+遥感交叉前沿(2026-04)
+- [AIRSA 2026官网](http://www.icairsa.net/) | 会议:The 2nd International Conference on Artificial Intelligence and Remote Sensing Applications;2026年4月
+- **会议主题**:人工智能与遥感应用的深度融合;量子传感技术是遥感高精度测量的核心支撑
+- **量子传感关联**:量子传感与AI的结合是重要趋势;量子增强遥感可提升目标识别、环境监测精度;AIRSA是量子传感在遥感领域应用的重要学术交流平台
+
+#### Bosch Quantum Sensing:量子传感产品化,#CreateBeyondPossible,三大应用领域(2026)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | 公司:Bosch
+- **技术定位**:Bosch将量子传感定位为变革性技术;目标是实现量子传感产品的规模化商用
+- **应用领域**:重点布局量子传感在汽车、工业、消费电子等领域的应用
+- **量子传感关联**:Bosch是工业巨头中最积极布局量子传感的企业之一;其产业化能力有望推动量子传感从实验室走向实际产品
+
+#### Princeton量子 Initiative - NV色心量子传感:二维材料磁学成像与量子系统实验(2026-04)
+- [Princeton量子传感研究主页](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) | 研究机构:Princeton University
+- **研究方向**:NV传感器探测金刚石表面二维自旋系统bath;量子传感用于材料科学和基础物理研究
+- **核心平台**:金刚石NV色心是实现纳米尺度磁性表征的核心工具;Princeton在NV量子传感实验平台处于全球领先地位
+- **量子传感关联**:NV色心是当前最成熟的固态量子传感平台;Princeton的研究推动NV色心在量子材料表征中的应用边界
+
+#### Sandia国家实验室 - 原子干涉仪量子惯性传感器:无需GPS实现高精度导航,移动化是最大挑战(2025-10)
+- [Sandia量子传感](https://www.sandia.gov/quantum/atom-interferometry/) | [Sandia量子传感主页](https://www.sandia.gov/quantum/quantum-sensing/) | 研究机构:Sandia National Laboratories
+- **技术方案**:原子干涉仪量子传感器用于惯性测量;结合重力辅助导航减少对GPS依赖;关键挑战是传感器的微型化与坚固化
+- **核心能力**:紧凑坚固的原子干涉仪传感器头(grating magneto-optical trap, GMOT);极端微型化需要开发新型传感器子系统技术和架构
+- **应用场景**:GPS拒止环境下的高性能量子惯性传感;恶劣条件下运行的传感器平台
+- **量子传感关联**:原子干涉仪是量子传感精密测量的核心方向;Sandia代表美国国家实验室在量子传感领域的最高水平
+
+#### Cisco Research - GKP态量子传感+量子安全光通信论文(2025-12/2026-02)
+- [Cisco Research Quantum Publications](https://research.cisco.com/) | 研究机构:Cisco Research
+- **arXiv(2025-12)**: Optimized GKP State for Bosonic Channel Sensing - Thinh Le, Jianqing Liu, Jiapeng Zhao, Eneet Kaur;GKP(Gottesman-Kitaev-Preskill)压缩态优化用于量子传感,量子编码纠错与传感的融合
+- **ACM(2026-02)**: Secure optical communication enabled by wavelength-division-multiplexed quantum alarm - Amir Minoofar, Jiapeng Zhao, Michael Kilzer, Eneet Kaur, Ramana Rao Kompella, Reza Nejabati;量子报警(quantum alarm)结合波分复用实现安全光通信
+- **IEEE Quantum(2025-09)**: Quantum-Resistant Security: PQC Readiness and Research Challenges (Invited) - Ashish Kundu, Ramana Kompella;后量子密码(PQC)准备度与量子安全研究挑战
+- **量子传感关联**:Cisco布局量子传感与量子安全的融合;量子传感技术可支撑量子通信安全;GKP态结合量子纠错是量子传感实用化的重要方向
+
+#### Nature 2025 - 分布式城际量子传感器约束轴子暗物质:全球光学磁力计网络探测拓扑缺陷暗物质,灵敏度超天文观测40倍(2025-12 Nature)
+- [Nature论文:s41586-025-10034-w](https://www.nature.com/articles/s41586-025-10034-w) | DOI: 10.1038/s41586-025-10034-w | Nature, 2025年12月发表,2026年1月广泛报道
+- **技术方案**:利用分布式光学磁力计(OPM)城际网络探测轴子类暗物质拓扑缺陷(Topological Defect Dark Matter, TDM);当地球穿越暗物质墙时,轴子与核自旋传感器发生极微弱相互作用产生瞬时信号
+- **核心突破**:暗物质探测灵敏度超过天文观测40倍;这是量子传感技术首次在暗物质探测领域展现出超越传统天文观测的灵敏度
+- **研究意义**:探索占比宇宙26.8%的暗物质;轴子是暗物质热门候选者之一;拓扑缺陷暗物质是轴子场的重要表现形式
+- **量子传感关联**:分布式量子传感网络是量子传感技术的重要发展方向;光学磁力计(OPM)无需低温即可工作,是构建城际量子传感网络的理想平台;该工作验证了量子传感在基础物理探索中的独特价值
+
 
 ---
 
