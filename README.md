@@ -1464,7 +1464,51 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(07:43 CST) | 下次自动更新: 约24小时后*
+---
+
+*本次更新(追加): Cerca Magnetics融资/Bosch量子传感/Qnami产品线/IDTechEx市场报告/量子传感产业动态(2026-05-20早-08:43)*
+
+---
+
+### 🆕 新增条目(2026-05-20早-08:43 - 本次更新)
+
+#### Cerca Magnetics完成380万英镑A轮融资:可穿戴量子脑扫描仪规模化,诺丁汉大学衍生企业获投后估值3000万英镑(2026-04-22)
+- [Cerca Magnetics A轮融资(腾讯, 2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252)
+- **融资详情**:英国量子脑成像设备研发企业Cerca Magnetics完成380万英镑A轮融资,投后估值达3000万英镑;本轮由吉尼斯风险投资(Guinness Ventures)领投
+- **技术基础**:诺丁汉大学物理与天文学院衍生企业,开发可穿戴式脑成像扫描仪,采用量子传感器实现对神经活动的高精度测量
+- **量子传感关联**:量子磁力计(OPM)脑成像是量子传感在医疗领域的代表性应用;融资标志该技术进入临床商业化加速阶段
+
+#### Bosch Quantum Sensing:量子传感企业级应用与多领域商业落地(2026)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/)
+- **定位**:博世集团旗下量子传感企业,推动量子技术从实验室走向企业级实际应用
+- **技术领域**:量子惯性测量、量子磁场传感、量子重力传感等核心方向
+- **量子传感关联**:博世作为工业巨头入局量子传感,标志量子传感技术进入产业化深水区;多领域应用同步推进
+
+#### Qnami:量子传感领军企业,ProteusQ系列+东亚市场扩张(2026持续)
+- [Qnami官网](https://www.qnami.com/) | [Qnami东亚扩张公告](https://qnami.ch/news/)
+- **核心产品**:Scanning NV显微镜(低温)、ProteusQ-LT(原子级磁场测量)、ProteusQ(量子波技术平台)、Quantilever(NV量子传感产品)
+- **最新动态**:正式授权Quantum Design Japan和Quantum Design Korea为东亚区域代理,亚太商业化版图加速扩展
+- **技术定位**:量子波(Unlocking quantum technology),聚焦纳米传感、生命科学、地球科学应用;金刚石量子芯片+NV色心+机器学习软件全栈能力
+
+#### IDTechEx Quantum Sensors Market 2024-2044:全面覆盖17种量子传感技术,EV/GPS拒止导航/脑成像市场(2023-07)
+- [IDTechEx Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) - 原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器
+- **17种量子传感技术**:覆盖多种原子钟和磁场传感器类型;基于一手访谈的 granular量子传感器市场预测和公司profile
+- **应用领域**:电动汽车(EV)、GPS拒止导航、脑成像、地下勘探、工业检测
+- **量子传感关联**:量子传感器通过大幅提升灵敏度解锁新应用;市场从"展示能力"向"规模化交付"转型
+
+#### Quantum Singapore 2026论坛:"量子汇聚:从硬件突破到工业应用"(2026-02)
+- [Quantum Singapore 2026论坛(新腾讯, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | [论坛官网](http://www.icairsa.net/)
+- **主办方**:ICV TA&K、FinQ Tech Inc.、Informa Markets;IEEE Photonics Society新加坡分会学术支持
+- **核心主题**:Quantum Convergence: From Hardware Breakthrough to Industrial Adoption
+- **量子传感关联**:论坛汇聚全球顶尖量子科学家和行业领袖;探讨量子传感硬件优化、软硬协同及区域化生态构建等核心议题
+
+#### 2026量子科技博览会:成都(7月)/上海(11月)量子通信与量子信息技术展(2026-03)
+- [2026量子科技展(腾讯, 2026-03-25)](https://so.html5.qq.com/page/real/search_news?docid=70000021_67869c34b5802652)
+- **成都展会**:2026年7月15-17日,成都世纪城新国际会展中心
+- **上海展会**:2026年11月5-7日
+- **量子传感关联**:量子传感作为量子信息技术的重要分支,在博览会中设有专门展示区域;产业与学术交流平台
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(08:43 CST) | 下次自动更新: 约24小时后*
 
 ---
 
