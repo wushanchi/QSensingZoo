@@ -23,6 +23,28 @@
 
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
+#### Qnami - 全球量子传感领先企业,东亚市场扩张,NV色心扫描显微镜+ProteusQ双产品线商业化(2026-05)
+- [Qnami官网](https://qnami.ch/) | [ProteusQ产品页](https://qnami.ch/proteusq/) | [ProteusQ-LT产品页](https://qnami.ch/proteusq/)
+- **ProteusQ-LT**:低温扫描NV显微镜专用,原子尺度捕获表面磁场,用于量子材料表征;工作温度2K至300K;灵敏度3µT/√Hz(1.8K低温条件);空间分辨率亚纳米级
+- **ProteusQ**:常温量子波技术平台,面向纳米技术、生命科学和地球科学应用
+- **实测案例**:斯图加特大学Wrachtrup团队用attoNVM在1.8K低温下以<50nm分辨率清晰分辨NbSe₂单个磁通涡旋(PRL);波士顿学院Zhou团队对CrPS₄反铁磁畴实现原子级成像(Nature Materials)
+- **市场扩张**:2026年5月宣布东亚市场扩张,Quantum Design Japan和Quantum Design Korea正式成为区域代理
+- **量子传感关联**:Qnami是全球量子传感商业化最成功的企业之一;金刚石NV色心是当前最成熟的固态量子传感平台
+
+#### Quantum Innovation Summit Dubai 2026:9月28-30日迪拜,量子传感从硬件突破到工业采纳(2026-09)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办方:Quantum for Good Curator,战略合作伙伴:阿联酋政府
+- **主题**:"Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership"
+- **核心议题**:量子传感商业化路径、量子AI融合、量子与先进计算协同、量子传感从实验室到工业采纳的转型
+- **量子传感关联**:中东地区加大量子科技投资;迪拜量子峰会聚焦量子技术从展示向规模化交付的转型
+
+#### IDTechEx量子传感市场报告2024-2044:17类技术覆盖,原子钟/量子磁力计/量子重力仪/量子陀螺仪/量子图像传感器(2024-07)
+- [Quantum Sensors Market 2024-2044(IDTechEx)](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | 报告覆盖17类量子传感技术
+- **技术覆盖**:原子钟、量子陀螺仪、量子磁场传感器( NV/OPM/SQUID)、量子重力仪、量子图像传感器
+- **应用领域**:电动汽车(EV)、GPS拒止导航、工业检测、国防安全、脑成像等
+- **核心技术路线**:NV色心磁力计、原子干涉重力仪、冷原子Rb/Rb蒸汽室、光泵磁力计、超导量子干涉仪(SQUID)
+- **SWaP-C挑战**:尺寸、重量、功耗、成本是商业化最大瓶颈;晶圆级VCSEL、微纳加工蒸汽电池是破局关键
+- **量子传感关联**:IDTechEx是量子传感市场最权威的分析机构之一;报告系统梳理全球量子传感技术格局与商业化路径
+
 ---
 *本次更新(追加): 中科大首个核自旋量子传感网络Nature论文/分布式城际量子传感器Nature暗物质探测/量子纠缠增强原子钟PRL/Quantum Innovation Summit Dubai 2026(2026-05-20下午-17:43)*
 
