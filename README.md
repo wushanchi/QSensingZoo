@@ -2887,3 +2887,49 @@
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(04:44 CST) | 下次自动更新: 约24小时后*
 
+
+---
+
+### 🆕 新增条目(2026-05-21凌晨-04:14 - 本次更新)
+
+#### Quantum Sensing Healthcare & Medical Applications 2026 - 生物医学量子传感:心磁图、脑成像、癌症检测最新进展
+
+**心磁图与脑成像**
+- **Qdti(2026-05)**: [Quantum-powered biomarker detection](https://www.qdti.com/) - QDTI Instruments实现超灵敏、超简单、超快速的量子驱动生物标志物检测;量子传感在生物标志物检测中的临床应用
+- **Cerca Magnetics(2026-04)**:量子OPM脑成像扫描仪已完成380万英镑A轮融资;向12个国家神经科学研究机构交付19套系统;年销售增长100%+;临床注册审批同步推进英国与美国;已实现首次婴幼儿脑功能成像
+- **Scientific Reports(2024)**:移动磁屏蔽条件下光泵磁力计心磁图的可行性研究;OPM替代SQUID实现室温可穿戴MEG;心磁图是量子磁力计的重要临床应用方向
+
+**NV色心量子显微镜与单细胞成像**
+- **Nature Methods(2015)**: [Single-cell magnetic imaging using a quantum diamond microscope](https://www.nature.com/articles/nmeth.3449) - 量子金刚石显微镜检测免疫磁性标记细胞;NV色心用于相关磁性和荧光成像
+- **Princeton量子 Initiative**:NV传感器探测金刚石表面二维自旋系统;量子传感用于材料科学和基础物理研究
+- **斯图加特大学Wrachtrup团队**:用attoNVM在1.8K低温下以<50nm分辨率清晰分辨NbSe₂单个磁通涡旋(PRL);NV色心扫描显微镜实现原子尺度磁性表征
+
+**量子传感导航与自动驾驶**
+- **Q-CTRL**:全球唯一实现GPS-free导航真实量子优势的量子基础设施软件公司;入选TIME 100 2026行业领袖;McKinsey量子市场估值2万亿美元
+- **Sandia国家实验室**:原子干涉仪量子惯性传感器,无需GPS实现高精度导航;关键挑战是传感器的微型化与坚固化;结合重力辅助导航减少对GPS依赖
+- **Robotaxi 2025**:2025年成为全球无人驾驶行业规模化运营和全球竞争新时期;量子传感高精度定位是重要支撑技术;中国萝卜快跑出海迪拜、阿布扎比、瑞士等市场
+
+**量子陀螺仪与惯性导航**
+- **IDTechEx Quantum Sensors 2024-2044**:量子陀螺仪是量子传感市场重要细分领域;Honeywell、SAAB、Sandia等美国主要玩家正推动量子陀螺仪研发;预计2044年量子传感器市场达71亿美元
+- **Quantum Singapore 2026**:量子传感商业化论坛聚焦量子重力仪在石油勘探和精密制造中的应用进展
+
+**量子传感市场与产业趋势**
+- **ResearchAndMarkets(2025)**: [量子技术市场报告2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) - 整体量子市场将达994亿美元;量子传感是重要细分市场
+- **MarketsandMarkets**:量子传感器在国防安全(量子雷达/量子导航)、医疗健康(脑成像/癌症检测)、工业检测(精密制造/石油勘探)、汽车(EV电池检测/自动驾驶)等应用持续扩大
+- **Quantum Coast Capital**:专注量子传感早期投资的VC机构;推动量子传感从实验室走向市场;执行内部科学尽职调查
+
+**量子传感学术前沿**
+- **arXiv(2026-05)**:多参数函数估计与通用哈密顿量量子传感终极精度极限;量子传感理论前沿
+- **arXiv(2026-05)**: [NV色心自旋-128mg悬浮谐振器耦合研究](https://arxiv.org/abs/2605.17750) - 纳米力学与量子传感融合,实现量子-宏观力耦合里程碑;首次实验观测到原子尺度以上自旋力对宏观质量的作用
+- **Nature(2025-12)**: [分布式城际量子传感器约束轴子暗物质](https://www.nature.com/articles/s41586-025-10034-w) - 量子传感网络在基础物理探索中首次超越天文观测灵敏度;分布式OPM城际网络约束轴子暗物质拓扑缺陷
+
+**国际量子传感活动与会议**
+- **Quantum Innovation Summit Dubai 2026(2026-09)**:9月28-30日迪拜,聚焦量子传感从硬件突破到工业采纳;阿联酋政府战略支持
+- **Quantum Singapore 2026(2026-02)**:新加坡滨海湾金沙会展中心,量子技术亚太论坛;ICV TA&K、FinQ Tech、Informa Markets主办,IEEE Photonics Society学术支持
+- **IQIS 2026**:量子传感与量子信息国际会议
+- **IOPhys Quantum Science 2026**:量子传感科学大会
+- **AIRSA 2026(2026-04)**:AI与遥感传感应用国际会议,量子传感与AI融合趋势
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(04:14 CST) | 下次自动更新: 约24小时后*
