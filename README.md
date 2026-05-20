@@ -2069,4 +2069,18 @@
 - **量子传感意义**:Quantum Design是OPM、NV磁力计等量子传感器商业化的重要OEM平台;此次收购整合了百年低温技术创新积淀,强化了其在全球量子传感低温设备供应的主导地位
 
 ---
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(16:43 CST) | 下次自动更新: 约24小时后*
+*本次更新(追加): SRI International量子传感/AMBIIENT生物磁场/量子磁力计+量子陀螺仪+量子天线(2026-05-20下午-17:13)*
+---
+
+### 🆕 新增条目(2026-05-20下午-17:13 - 本次更新)
+
+#### SRI International - 量子传感研发:AMBIIENT生物磁场成像/量子磁力计/量子陀螺仪/量子天线,可装进行李箱的量子传感器(2026持续)
+- [SRI International量子传感主页](https://www.sri.com/atsd/quantum/sri-is-developing-breakthrough-quantum-technologies-for-ultrasensitive-sensing/) | Director: Jesse Wodin(SRI Applied Physics Lab)
+- **三大核心项目**:SRI正开展三项量子传感项目——①高灵敏磁场传感器(hypersensitive magnetic field sensors);②射频传感器(radiofrequency sensors);③量子陀螺仪(quantum gyroscope);均基于单原子量子态操控,灵敏度理论上比经典传感器高出数个数量级
+- **AMBIIENT项目**:Atomic Magnetometer for Biological Imaging in Earth's Native Terrain——与Twinleaf LLC和普林斯顿大学合作研发;可在无昂贵磁屏蔽室的野外环境下对心脏磁信号进行活体测量;已在DARPA FORWARD会议上现场演示
+- **量子天线**:SRI量子天线项目覆盖极宽射频范围(从MHz到THz),基于Rydberg原子或蒸气室原子技术;无传统天线方向性限制,球形全向响应
+- **终极目标**:Jesse Wodin称"目标是造出手机大小的量子传感器,可以随身携带到任何地方";现有量子传感器必须在昂贵的专用实验室中运行,需要屏蔽地球磁场,极度笨重
+- **量子传感关联**:SRI代表美国国家实验室-初创-学术三螺旋量子传感创新模式;AMBIIENT将量子磁力计从实验室推向真实生物医学环境;量子天线(Rydberg原子)是量子射频传感的核心技术路线
+
+---
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(17:13 CST) | 下次自动更新: 约24小时后*
