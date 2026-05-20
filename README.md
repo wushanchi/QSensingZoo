@@ -2255,5 +2255,43 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(19:13 CST)*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(20:13 CST)*
 
+
+---
+*本次更新(追加): Cerca Magnetics量子脑扫描仪A轮/ Sandia量子传感概览/Cisco量子传感论文/量子技术市场2025-2035达993亿(2026-05-20晚-20:13)*
+
+---
+
+### 🆕 新增条目(2026-05-20晚-20:13 - 本次更新)
+
+#### Cerca Magnetics - 英国可穿戴量子脑成像扫描仪A轮380万英镑:诺丁汉大学衍生,OPM技术,临床医疗市场拓展(2026-04-22)
+- [Cerca Magnetics完成380万英镑A轮融资(腾讯, 2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | 领投:吉尼斯风险投资(Guinness Ventures);投后估值3000万英镑
+- **技术方案**:基于光学泵浦磁力计(OPM)技术的可穿戴式脑成像扫描仪;利用量子传感器实现神经活动的高精度测量;无需低温环境即可工作
+- **团队背景**:诺丁汉大学物理与天文学院衍生企业;核心技术源自大学量子传感研究团队
+- **市场布局**:资金将用于拓展临床医疗市场;脑磁图(MEG)是量子传感在医疗领域的杀手级应用之一
+- **量子传感关联**:OPM(光泵浦磁力计)是量子传感商业化最活跃的方向之一;可穿戴设计突破传统MEG的笨重屏蔽室限制;Cercaround是量子传感进入临床诊断的重要里程碑
+
+#### Sandia - 美国国家实验室量子传感技术路线图:小型化量子传感器与时钟/PNT导航/量子信息处理(2025-08)
+- [Sandia Quantum Sensing页面](https://www.sandia.gov/quantum/quantum-sensing/) | Sandia National Laboratories
+- **核心方向**: miniaturizing quantum sensors and clocks(小型化量子传感器和时钟);enable new concepts of operations and operability(新型作战概念与可操作性)
+- **技术覆盖**:NV色心、原子钟、纠缠增强传感、冷原子干涉仪;覆盖从基础科学到国家安全应用的完整技术栈
+- **应用方向**:国家安全保障(国安);小型化量子传感器支撑新型作战概念;量子信息科学链接工程与基础科学
+- **量子传感关联**:Sandia代表美国政府量子传感最高水平;其路线图反映量子传感从实验室向实用系统的转化路径;与DARPA、NASA同属量子传感领域的核心推动者
+
+#### Cisco Research - 量子传感研究最新论文:优化GKP态用于玻色信道传感(2025-12)/量子安全后量子密码学(2025-09)(2026-05)
+- [Cisco Research Quantum](https://research.cisco.com/) | Cisco Research
+- **论文1**:Optimized GKP State for Bosonic Channel Sensing(优化GKP态用于玻色信道传感);作者:Thinh Le, Jianqing Liu, Jiapeng Zhao, Eneet Kaur;发表于IEEE Quantum Week 2025/IEEE(2025-12)
+- **论文2**:Quantum-Resistant Security: PQC Readiness and Research Challenges(抗量子安全:后量子密码学准备度与研究挑战);作者:Ashish Kundu, Ramana Kompella;发表于IEEE(2025-09)
+- **研究定位**:Cisco研究团队探索量子网络与量子传感的交叉领域;量子传感与量子安全成为网络基础设施的重要组成部分
+- **量子传感关联**:量子传感进入网络/通信基础设施层面;GKP态用于玻色信道传感代表连续变量量子传感的新进展
+
+#### Quantum Technology Market 2025-2035:市场规模达993亿美元,量子传感/量子计算/量子通信三分天下(2025-08)
+- [Quantum Technology Market 2025-2035(Research and Markets)](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Mind Commerce;416页;2025年8月发布
+- **市场规模**:2025-2035年量子技术市场预计将从当前水平增长至9934亿美元(约1000亿美元);量子传感是核心细分市场之一
+- **技术分类**:量子计算、量子通信与密码学、量子传感与成像、量子点粒子、量子级联激光器
+- **驱动因素**:量子计算实用化突破、量子通信基础设施部署、量子传感商业化加速
+- **量子传感关联**:量子传感市场是量子技术中增速最快的细分领域之一;从2025到2035年保持双位数增长;芯片级小型化是打开消费级市场的关键
+
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(20:13 CST)*
