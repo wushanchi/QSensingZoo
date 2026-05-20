@@ -1577,4 +1577,49 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(08:13 CST) | 下次自动更新: 约24小时后*
+
+
+*本次更新(追加): Sandia硅光子原子干涉仪专利/量子雷达/量子传感学术最新突破/2026量子传感产业动态(2026-05-20早-09:13)*
+
+---
+
+### 🆕 新增条目(2026-05-20早-09:13 - 本次更新)
+
+#### Sandia硅光子原子干涉仪三大核心专利获批2025年:无GPS导航/紧凑grating MOT传感器头/超紧凑Evanescent Field Atom Guide(2025)
+- [Sandia Atom Interferometry](https://www.sandia.gov/quantum/atom-interferometry/) | [US12449256](https://patents.google.com/patent/US12449256B1/en) | [US12424810](https://patents.google.com/patent/US12424810B1/en) | [US12392611](https://patents.google.com/patent/US12392611B1/en)
+- **US12449256 (2025-10-11)**: Compact Grating Magneto-Optical Trap Sensor Head for Inertial Navigation - 紧凑grating MOT传感器头用于动态环境惯性导航,基于custom titanium真空腔、微纳加工光栅芯片、固定光学组件,激光系统与光子集成电路(PIC)兼容
+- **US12424810 (2025-09-23)**: Compact Atom Interferometry Inertial Navigation Sensors with Tailored Diffractive Optics - 定制衍射光学紧凑原子干涉仪惯性导航传感器,实现双轴高速数据率原子干涉仪
+- **US12392611 (2025-08-19)**: Measurement Protocol for Large Dynamic Range and High Sensitivity of Evanescent-Field-Mode Guided Atom Interferometer - 大动态范围高灵敏度Evanescent-Field-Mode引导原子干涉仪测量协议;Sandia硅光子单边带调制器(Science Advances 2024, eade4454)支撑,突破传统原子干涉仪局限
+- **硅光子PIC激光系统**:多通道硅光子单边带调制器实现,无需笨重铌酸锂调制器,为芯片级量子惯性传感器铺平道路
+- **量子传感关联**:Sandia的专利布局标志量子惯性传感从实验室走向军事级应用;三大专利覆盖传感器头、光学、测量协议全技术栈
+
+#### MIT Technology Review - NIST×RTX量子雷达图像化隐藏物体:原子蒸汽室射频传感,经典雷达根本性升级(2025-08-11)
+- [MIT Technology Review量子雷达报道(2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | 研究团队来自NIST和RTX
+- **技术方案**:使用铯原子蒸汽室作为量子传感器探测反射射频波;激光将原子激发到Rydberg态使其对射频场高度敏感;反射信号与原子云相互作用产生可测量的量子效应
+- **核心优势**:相比传统雷达更小型化;利用量子效应增强信号检测能力;可在室温下运行;通过测量返回波与原子云的相互作用成像隐藏物体
+- **量子传感关联**:量子雷达是量子传感在射频探测方向的重大突破;室温原子蒸汽量子传感器可替代复杂低温系统
+
+#### Sandia Quantum Sensing研究项目:硅光子PIC原子干涉仪+芯片级冷原子系统+量子网络与后量子密码(2025-2026)
+- [Sandia Quantum Sensing页](https://www.sandia.gov/quantum/quantum-sensing/) | [Sandia Quantum Information Program](https://www.sandia.gov/quantum/)
+- **核心技术**:冷原子干涉仪、硅光子集成电路、光学原子钟、量子网络与量子密钥分发
+- **突破方向**:极小体积化(芯片级)、极高灵敏度、高数据率、抗恶劣环境;面向无GPS环境的量子惯性导航
+- **相关专利(2024)**:US12038285 Hybrid Inertial Navigation System(7/16/2024)、US11971256 Guided Cold Atom Inertial Sensors with Membrane Integrated Photonics(4/30/2024)
+- **量子传感关联**:Sandia的量子传感研究是美国国家安全驱动的典型;从芯片级原子钟到量子惯性导航系统全面覆盖
+
+#### 量子传感最新学术突破:arXiv自旋-质量混合系统/复Berry相位/高斯态贝叶斯估计/紧凑微腔(2026-05)
+- **量子-宏观力耦合**:arXiv:2605.17750(NV色心驱动128mg悬浮谐振器,自旋力作用于宏观质量,100nm运动幅度) - 原子自旋与宏观机械振荡器耦合的里程碑
+- **非厄米量子传感**:arXiv:2605.16559(复Berry相位实部+虚部同时测量,首次完全量子系统验证) - 非厄米传感为鲁棒量子计量提供新途径
+- **量子估计理论**:arXiv:2605.16978(高斯量子态贝叶斯量子估计闭式解) - 变分框架+解析解,无需数值优化
+- **量子充电**:arXiv:2605.16935(完整量子充电纠缠深度速度边界,块正交化机制突破量子速限) - 对量子传感系统中纠缠资源分配有理论指导意义
+- **固态量子传感**:arXiv:2605.16694(紧凑可调谐开放式微腔,InGaAs量子点cooperativity超1) - 量子点与微腔耦合实现高保真光-物质相互作用
+
+#### IDTechEx量子传感市场2025-2045:晶圆级半导体工艺将量子传感器带入大规模商用;SWaP-C是商业化最大瓶颈(2025-04)
+- [IDTechEx Quantum Sensor Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | [App Developer Magazine报道(2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/)
+- **市场预测**:2025年约19亿美元→2045年20亿美元;从"展示能做什么"进入"规模化交付"阶段
+- **SWaP-C挑战**:尺寸/重量/功耗/成本是量子传感器商业化最大瓶颈;半导体工艺(晶圆级VCSEL、微纳加工蒸汽电池)是破局关键
+- **技术路线**:蒸汽电池微纳加工实现晶圆级批量生产;VCSEL垂直发射光束允许组件直接堆叠在芯片上
+- **量子传感关联**:量子传感市场从实验室走向嵌入式系统;半导体工艺进步是产业化的决定性因素
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20(09:13 CST) | 下次自动更新: 约24小时后*
