@@ -46,6 +46,53 @@
 - **量子传感关联**:IDTechEx是量子传感市场最权威的分析机构之一;报告系统梳理全球量子传感技术格局与商业化路径
 
 ---
+*本次更新(追加): Cisco量子传感研究/Quantum Singapore 2026/量子传感市场$2B-$99B/UN国际量子科技年/IOP Commercialising Quantum Global 2025(2026-05-21凌晨-00:14)*
+
+---
+
+### 🆕 新增条目(2026-05-21凌晨-00:14 - 本次更新)
+
+#### Cisco Research - 量子传感最新研究论文:GKP态量子传感+量子安全研究(2025-12/2026-02)
+- [Cisco Research Quantum Publications](https://research.cisco.com/) | 研究机构:Cisco Research
+- **arXiv(2025-12)**: Optimized GKP State for Bosonic Channel Sensing - Thinh Le, Jianqing Liu, Jiapeng Zhao, Eneet Kaur;GKP(Gottesman-Kitaev-Preskill)压缩态优化用于量子传感,量子编码纠错与传感的融合
+- **ACM(2026-02)**: Secure optical communication enabled by wavelength-division-multiplexed quantum alarm - Amir Minoofar, Jiapeng Zhao, Michael Kilzer, Eneet Kaur, Ramana Rao Kompella, Reza Nejabati;量子报警(quantum alarm)结合波分复用实现安全光通信
+- **IEEE Quantum(2025-09)**: Quantum-Resistant Security: PQC Readiness and Research Challenges (Invited) - Ashish Kundu, Ramana Kompella;后量子密码(PQC)准备度与量子安全研究挑战
+- **量子传感关联**:Cisco布局量子传感与量子安全的融合;量子传感技术可支撑量子通信安全;GKP态结合量子纠错是量子传感实用化的重要方向
+
+#### Quantum Singapore 2026论坛:2026年2月4日新加坡滨海湾金沙会展中心开幕,聚焦量子从硬件突破到工业应用(2026-02)
+- [Quantum Singapore 2026报道(腾讯, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | 主办方:ICV TA&K、FinQ Tech Inc.、Informa Markets;学术支持:IEEE Photonics Society新加坡分会
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications"
+- **核心议程**:量子计算在不同维度的前沿突破;量子传感商业化路径;量子通信与量子计算协同;量子技术从理论到产业化的工程挑战
+- **主持人**:FinQ Tech Inc.总裁、英国石油公司(BP)量子计算专家Shangjie Guo
+- **量子传感关联**:东南亚是量子传感产业的新兴市场;Quantum Singapore是亚太地区最具影响力的量子技术论坛之一
+
+#### 量子传感市场规模:2025年约18.8亿美元→2045年增至20亿美元以上,复合增长率约12-15%(2025-04)
+- [Quantum sensor market to grow to 2B by 2045(App Developer Magazine, 2025-04-02)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | 引用数据
+- **市场驱动**:量子传感器在精度上显著优于传统传感器;半导体工艺进步降低SWaP-C(尺寸/重量/功耗/成本)是商业化关键
+- **应用领域**:国防安全(量子雷达/量子导航)、医疗健康(脑成像/癌症检测)、工业检测(精密制造/石油勘探)、汽车(EV电池检测/自动驾驶)
+- **量子传感关联**:量子传感市场规模相对量子计算更小但增长稳定;2025年是联合国"国际量子科学与技术年",量子传感从展示进入规模化交付阶段
+
+#### 量子技术市场2025-2035:339亿美元→993亿美元(CAGR 11.3%),量子传感与成像是四大板块之一(2025-08)
+- [ResearchAndMarkets:Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页,2025年8月发布
+- **市场预测**:2025年339亿美元→2035年993亿美元(CAGR 11.3%);量子传感与成像是四大板块之一(另三:量子计算、量子通信、量子建模与仿真)
+- **驱动因素**:半导体工艺进步降低SWaP-C;国防和医疗领域早期落地;量子传感器从实验室走向嵌入式系统
+- **区域格局**:北美主导,亚太快速增长;亚太地区制造业升级推动量子传感工业应用
+- **量子传感关联**:ResearchAndMarkets报告验证量子传感市场高速增长;国防和医疗是量子传感率先落地场景
+
+#### IOP Physics - Commercialising Quantum Global 2025:4th Annual Conference,庆祝联合国"国际量子科学与技术年",量子传感商用化从承诺到落地(2025-05)
+- [IOP Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics主办
+- **会议主题**:量子技术从展示向实用转型的真实案例;量子传感、量子计算、量子通信的商用化路径
+- **核心议题**:量子传感商业应用与投资回报;量子技术落地准备度评估;量子传感在国防和工业检测中的应用
+- **亮点**:UN宣布2025年为"国际量子科学与技术年",量子传感获全球政策支持;论坛强调量子传感已从"承诺"进入"交付"阶段
+- **量子传感关联**:IOP是英国物理学会,量子传感商用化会议代表欧洲最高规格;量子传感投资从早期探索进入理性布局阶段
+
+#### 联合国宣布2025年为"国际量子科学与技术年":全球量子科技从理论走向产业化(2024-06)
+- [联合国量子科学与技术年(quantumcomputer.ac.cn, 2024-06-17)](https://quantumcomputer.ac.cn/Knowledge/detail/70a8dd38f650480facb909c705f60ea1/586594a45b4a4c4aad86dc6c1def947a.html)
+- **国际背景**:联合国大会宣布2025年为国际量子科学与技术年(IYQ-2025);全球量子科技从理论探索迈向产业化落地
+- **中国响应**:量子科技被列为未来产业首位;量子传感在磁传感、重力领域形成集群优势;中国量子传感市场规模快速增长
+- **量子传感关联**:国际量子年的宣布标志着量子传感从学术研究进入国家战略层面;全球协调加速量子传感标准化和产业化
+
+---
 *本次更新(追加): Nature子刊量子传感论文/Imperial量子导航/Princeton NV量子成像/MIT量子雷达/量子传感产业最新arXiv(2026-05-20晚-22:45)*
 
 ---
