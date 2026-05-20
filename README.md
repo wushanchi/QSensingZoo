@@ -2796,3 +2796,69 @@
 - **研究意义**:暗物质占宇宙26.8%;轴子是暗物质热门候选者;分布式量子传感网络在基础物理探索中首次超越天文观测灵敏度
 - **量子传感关联**:分布式量子传感网络是量子传感技术重要发展方向;OPM无需低温是构建城际量子传感网络的理想平台
 
+
+---
+*本次更新(追加): 量子传感最新论文/技术应用/商用产品更新(2026-05-21凌晨-03:44)*
+
+---
+
+### 🆕 新增条目(2026-05-21凌晨-03:44 - 本次更新)
+
+#### cerca Magnetics完成380万英镑A轮融资:量子OPM脑成像扫描仪规模化,已向12个国家交付19套系统(2026-04-22)
+- [Cerca Magnetics官网](https://www.cercamagnetics.com/) | [Quantum Insider (2026-04-21)](https://thequantuminsider.com/2026/04/21/cerca-magnetics-secures-38m-series-a-funding-scale-quantum-brain-scanner/) | 领投:Guinness Ventures,估值3000万英镑
+- **技术**:可穿戴式脑成像扫描仪,采用量子光泵磁力仪(OPM)替代传统固定式SQUID-MEG设备;允许受试者自然活动,首次实现婴幼儿脑功能成像
+- **应用场景**:癫痫、多发性硬化、痴呆等神经系统疾病研究;英国国防部280万英镑项目(爆炸冲击对军人脑部影响评估)
+- **市场进展**:已向12个国家神经科学研究机构交付19套系统;过去三年年销售额增长率持续保持100%以上;临床注册审批同步推进英国与美国
+- **量子传感关联**:OPM是量子磁力计商业化最活跃方向之一;常温运行+可穿戴是其相对于SQUID的核心竞争优势;儿童脑成像是差异化临床应用场景
+
+#### Q-CTRL入选TIME 100行业领袖2026:全球唯一实现GPS-free导航真实量子优势的量子基础设施软件公司(2026-05)
+- [Q-CTRL官网](https://q-ctrl.com/) | [TIME 100 List 2026](https://time.com/) | McKinsey量子市场估值2万亿美元
+- **量子优势**:First and only in the world to deliver quantum advantage in GPS-free navigation;量子基础设施软件桥接量子硬件与实际应用需求
+- **核心产品**:量子传感+量子计算双垂直领域;AI驱动的量子控制基础设施软件(Fire Opal)
+- **市场定位**:量子传感和量子计算基础设施建设者;全球首个实现实用量子优势的量子软件公司
+- **量子传感关联**:Q-CTRL是量子传感软件基础设施领域的全球领导者;GPS-free导航量子优势是其量子传感能力的直接验证
+
+#### Sandia国家实验室 - 原子干涉仪量子惯性传感器:无需GPS实现高精度导航,移动化是最大挑战(2025-10)
+- [Sandia量子传感](https://www.sandia.gov/quantum/atom-interferometry/) | [Sandia量子传感主页](https://www.sandia.gov/quantum/quantum-sensing/)
+- **技术方案**:原子干涉仪量子传感器用于惯性测量;结合重力辅助导航减少对GPS依赖;关键挑战是传感器的微型化与坚固化
+- **核心能力**:紧凑坚固的原子干涉仪传感器头(grating magneto-optical trap, GMOT);极端微型化需要开发新型传感器子系统技术和架构
+- **应用场景**:GPS拒止环境下的高性能量子惯性传感;恶劣条件下运行的传感器平台
+- **量子传感关联**:原子干涉仪是量子传感精密测量的核心方向;Sandia代表美国国家实验室在量子传感领域的最高水平
+
+#### arXiv:2605.17750 - NV色心系综自旋力驱动128mg悬浮谐振器:量子-宏观力耦合里程碑,自旋-质量混合系统进入高质量regime(2026-05-19)
+- [arXiv:2605.17750](https://arxiv.org/abs/2605.17750) | 22页,4图
+- **技术**:在金刚石中利用NV缺陷系综的自旋力驱动128mg抗磁性悬浮振荡器的可控质心运动;通过周期性光初始化NV自旋态诱导振荡器相干运动,实现超过100nm的运动幅度
+- **核心突破**:首次实验观测到原子尺度以上自旋力对宏观质量的作用;是实现自旋-质量混合系统量子工程的关键里程碑
+- **量子传感关联**:NV色心自旋与机械振荡器的耦合为新型量子传感器(如量子加速度计、量子重力仪)提供混合系统路径;悬浮机械振子可用于探索量子与引力界面
+
+#### Nature 2025 - 分布式城际量子传感器约束轴子暗物质:全球光学磁力计网络探测拓扑缺陷暗物质,首次超越天文观测(2025-12)
+- [Nature论文:s41586-025-10034-w](https://www.nature.com/articles/s41586-025-10034-w) | DOI: 10.1038/s41586-025-10034-w
+- **技术方案**:利用分布式光学磁力计(OPM)城际网络探测轴子类暗物质拓扑缺陷(Topological Defect Dark Matter, TDM);当地球穿越暗物质墙时,轴子与核自旋传感器发生极微弱相互作用产生瞬时信号
+- **研究意义**:探索占比宇宙26.8%的暗物质;轴子是暗物质热门候选者之一;分布式量子传感网络在基础物理探索中首次超越天文观测
+- **量子传感关联**:分布式量子传感网络是量子传感技术的重要发展方向;光学磁力计(OPM)无需低温即可工作,是构建城际量子传感网络的理想平台
+
+#### Quantum Singapore 2026论坛开幕:量子汇聚——从硬件突破到工业应用,2026年2月4日新加坡滨海湾金沙会展中心(2026-02)
+- [Quantum Singapore 2026报道(腾讯, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | 主办方:ICV TA&K、FinQ Tech Inc.、Informa Markets;学术支持:IEEE Photonics Society新加坡分会
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications"
+- **核心议程**:量子计算前沿突破;量子传感商业化路径;量子通信与量子计算协同;量子技术从理论到产业化的工程挑战
+- **主持人**:FinQ Tech Inc.总裁、英国石油公司(BP)量子计算专家Shangjie Guo
+- **量子传感关联**:东南亚是量子传感产业的新兴市场;Quantum Singapore是亚太地区最具影响力的量子技术论坛之一
+
+#### IDTechEx量子传感市场报告2024-2044:17类技术覆盖,量子传感器市场2044年达71亿美元(2023-07)
+- [Quantum Sensors Market 2024-2044(IDTechEx)](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | 报告覆盖17类量子传感技术
+- **技术覆盖**:原子钟、量子陀螺仪、量子磁场传感器(NV/OPM/SQUID)、量子重力仪、量子图像传感器
+- **应用领域**:电动汽车(EV)、GPS拒止导航、工业检测、国防安全、脑成像等
+- **核心技术路线**:NV色心磁力计、原子干涉重力仪、冷原子Rb/Rb蒸汽室、光泵磁力计、超导量子干涉仪(SQUID)
+- **SWaP-C挑战**:尺寸、重量、功耗、成本是商业化最大瓶颈;晶圆级VCSEL、微纳加工蒸汽电池是破局关键
+- **量子传感关联**:IDTechEx是量子传感市场最权威的分析机构之一;报告系统梳理全球量子传感技术格局与商业化路径
+
+#### Quantum Innovation Summit Dubai 2026:9月28-30日迪拜,量子传感从硬件突破到工业采纳(2026-09)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办方:Quantum for Good Curator,战略合作伙伴:阿联酋政府
+- **主题**:"Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership"
+- **核心议题**:量子传感商业化路径、量子AI融合、量子与先进计算协同、量子传感从实验室到工业采纳的转型
+- **量子传感关联**:中东地区加大量子科技投资;迪拜量子峰会聚焦量子技术从展示向规模化交付的转型
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(03:44 CST) | 下次自动更新: 约24小时后*
+
