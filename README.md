@@ -24,6 +24,26 @@
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
 
+### 🆕 新增条目(2026-05-21中午-12:44 - 本次更新)
+
+#### arXiv quant-ph 2026-05-21 最新论文:57篇量子物理新论文,量子传感相关工作摘要(2026-05-21)
+- [arXiv quant-ph New Submissions (2026-05-21)](https://arxiv.org/list/quant-ph/recent) | 57篇新提交论文
+- **量子传感相关论文重点关注**:
+  - **arXiv:2605.21457** - An Exponential Sample-Complexity Advantage for Coherent Quantum Inference (Zhaoyi Li等, 2026-05-20);相干量子推理相较于非相干(测量中介)协议,在样本复杂度上实现指数级加速;量子纯度放大(QPA)仅需O(1/ε)份拷贝,而任何非相干协议需要Ω(d/ε)份;为量子传感数据处理中的相干保持提供理论依据
+  - **arXiv:2605.21346** - Evidence of Quantum Machine Learning Advantage with Tens of Noisy Qubits (2026-05-19);在仅30-40个嘈杂量子比特规模下,相干量子数据处理即展现出明显量子优势;数据获取成为瓶颈而非经典计算;为量子传感+量子机器学习的实用化提供关键证据
+  - **arXiv:2605.21380** - Modeling and Resource Optimization for Quantum Oracles (2026-05-19);量子oracle的分层递归综合评估(HRSE)模型,自适应时空权衡(ASDT)算法;与W-cycle方法相比平均电路深度降低53.99%;量子传感系统可建模为oracle进行资源优化
+  - **arXiv:2605.21293** - Quantum Nonlocality and Device-Independent Randomness are Robust to Noisy Signaling Channels (Lewis Wooltorton等, 2026-05-20);量子非定域性在有噪信令通道下仍然鲁棒;即使发送近乎完美的输入副本时仍可认证设备无关随机性;为量子传感网络的信息安全提供新保障
+  - **arXiv:2605.21140** - Optimization of Secret Key Rate for BB84 under Collective Rotation Noise (2026-05-19);BB84协议在集合旋转噪声下的安全密钥率优化;识别出Eve获取信息最小而SKR降解相对较小的非零噪声区间;为量子传感安全通信提供实用参考
+  - **arXiv:2605.20930** - Symmetry-Protected Fast Relaxation and the Strong Quantum Mpemba Effect (2026-05-19);对称性保护的快弛豫机制与强量子Mpemba效应;SU(2)对称点附近高度对称初态展现出与系统尺寸无关的指数弛豫;为量子传感器退相干控制提供新思路
+  - **arXiv:2605.21447** - Combining non-parametric quantum states and MERA tensor networks for ground-state optimization (2026-05-20);结合量子退火制备的非参数量子态与经典等距张量网络;改进基态近似精度而不增加量子电路深度;为量子传感器读出数据的变分优化提供新框架
+  - **arXiv:2605.21274** - Semidefinite Programming for Optimal Quantum Cloning (2026-05-19);量子克隆优化的半定规划计算框架;为BB84协议在去极化噪声下的克隆攻击提供定量安全分析;量子克隆上限直接影响量子传感信息的泄露风险评估
+- **量子传感关联**:今日57篇论文中量子传感相关工作集中在量子机器学习、量子oracle优化、量子安全通信三个方向;量子传感系统与量子计算共享量子数据处理框架,相干量子推理的指数加速将直接赋能下一代量子传感器设计
+
+---
+*本次更新(追加): 量子传感最新论文 arXiv quant-ph 2026-05-21(2026-05-21中午-12:44)*
+
+
+
 ### 🆕 新增条目(2026-05-21早-08:14 - 本次更新)
 
 #### arXiv:2605.19125 - 超导陷阱中纳米磁体的旋转量子隧穿:rest-gas退相干保护+实验可行参数区(2026-05-18)
