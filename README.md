@@ -1367,4 +1367,33 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21*
+
+### 🆕 新增条目(2026-05-21下午-14:44 - 本次更新)
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:attocube attoNVM低温NV显微镜商业化+免费测样(2026-01)
+- [Quantum Design宣布完成收购(腾讯新闻, 2026-01-18)](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | [attocube attoNVM产品页](https://www.attocube.com/)
+- **交易概况**:2026年1月2日,Quantum Design宣布完成对Oxford Instruments NanoScience部门的收购;将牛津仪器的无液氦稀释制冷机、氦循环压缩机纳入旗下
+- **attocube attoNVM**:低温NV色心扫描成像磁强计;温度范围2K–300K;灵敏度3µT/√Hz;纳米级空间分辨率;Quantum Design中国开放50个名额免费测样(限额免费)
+- **量子传感关联**:Quantum Design通过收购完善量子传感/低温强磁场测量产品线; attocube NV磁学显微镜与QD低温设备形成高度协同
+
+#### Qnami(瑞士)ProteusQ量子磁力计:商业化量产,东亚市场扩张(2026-05)
+- [Qnami官网](https://qnami.ch/) | [ProteusQ产品页](https://qnami.ch/proteusq/) | [ProteusQ-LT产品页](https://qnami.ch/proteusq/)
+- **公司背景**:瑞士工程科技公司;四位科学家联合创立;专注纳米级量子成像探针与量子磁力计研发;人造金刚石NV色心探针获多项专利
+- **产品介绍**:ProteusQ系列量子磁力计;基于氮空位(NV)色心的人造金刚石探针;可获取纳米层面的形态与磁场信号;为纳米技术、生命科学和地球科学提供科学仪器和分析解决方案
+- **市场扩张**:2026年5月宣布东亚市场扩张;Quantum Design Japan和Quantum Design Korea正式成为区域代理
+- **量子传感关联**:Qnami是NV量子传感商业化的代表企业;Quantum Design全球渠道整合推动量子传感仪器市场快速扩张
+
+#### 量子传感市场规模预测:2035年20亿美元,2045年或超20亿美元(2025)
+- [量子传感市场报告(Research and Markets, 2025-08)](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | [量子传感器市场将增长至20亿美元(App Developer Magazine, 2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/)
+- **市场规模**:量子传感市场预计2035年达到20亿美元;2045年或超20亿美元;半导体工艺进步推动SWaP-C(尺寸、重量、功耗、成本)问题解决,加速商业化采用
+- **技术趋势**:量子传感器在精度上优于传统传感器,但广泛采用仍取决于解决SWaP-C挑战;半导体工艺突破是关键驱动因素
+- **量子传感关联**:量子传感是最具增长潜力的量子技术细分市场之一;高精度测量需求(医疗诊断、导航、国防)是市场增长的核心驱动力
+
+#### Quantum Singapore 2026论坛:从硬件突破到工业应用,量子传感成为焦点议题(2026-02)
+- [Quantum Singapore 2026开幕报道(腾讯新闻, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA, FinQ Tech Inc., Informa Markets联合主办;IEEE Photonics Society学术支持
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications";量子科技从理论探索迈向产业化落地
+- **量子传感焦点**:量子传感技术在医疗健康(脑成像、癌症早筛)、工业检测(精密测量、无损检测)、国防安全(磁场探测、导航授时)等领域的商业化路径成为会议讨论核心
+- **量子传感关联**:量子传感是Quantum Singapore 2026的核心议题之一;会议汇聚全球量子传感学术界和产业界代表,推动技术向产业化迈进
+
+---
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(14:44 CST) | 下次自动更新: 约24小时后*
