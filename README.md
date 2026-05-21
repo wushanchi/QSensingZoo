@@ -24,6 +24,43 @@
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
 
+### 🆕 新增条目(2026-05-21下午-16:14 - 本次更新)
+
+#### Quantum Design完成收购Oxford Instruments纳米科学部门:百年低温技术先驱联合,量子传感低温实验平台整合(2026-01)
+- [Quantum Design收购公告(腾讯新闻, 2026-01-18)](https://new.qq.com/rain/a/20260115A02IIM00) | [Quantum Design官网](https://www.quantumdesign.com/)
+- **收购完成**:2026年1月2日Quantum Design宣布完成对Oxford Instruments NanoScience部门的收购;两家低温技术先驱企业实现战略联合
+- **技术整合**:标志着一个拥有超百年创新积淀的低温物理、材料科学及显微技术服务体系的诞生;QD是全球低温物理领域的绝对领导者
+- **量子传感关联**:Quantum Design的低温系统是量子传感实验( NV低温成像、原子干涉仪等)的核心支撑;收购完成后其在量子传感低温平台领域的话语权进一步增强
+
+#### Twinleaf - 精密磁场传感器,PPM脉冲泵浦磁力计,世界最高性能磁场传感器之一(2026-05)
+- [Twinleaf官网](https://twinleaf.com/) | [Twinleaf磁场传感器](https://twinleaf.com/magnetometers)
+- **核心产品**:PPM(Pulsed Pump Magnetometer)脉冲泵浦磁力计;提供无与伦比的灵敏度、线性度、动态范围和带宽
+- **技术优势**:Twinleaf传感器在灵敏度、线性度、动态范围和带宽方面测量磁场性能世界领先
+- **量子传感关联**:Twinleaf代表量子磁力计商业化的重要力量;其PPM技术在脑成像、地球物理勘探和量子惯性导航等领域有重要应用
+
+#### Quantum Technology Group - 先进荧光纳米颗粒,生命科学量子传感应用(2026)
+- [Quantum Technology Group官网](http://qtech-group.com/) | 量子技术公司
+- **核心产品**:先进荧光纳米颗粒,专为生命科学应用设计;量子荧光特性用于生物标记和医学成像
+- **技术方向**:纳米颗粒量子发光特性用于单分子检测、细胞成像和药物递送
+- **量子传感关联**:荧光纳米颗粒是量子生物传感的核心材料;量子发光特性可实现高灵敏度、高特异性的生物分子检测
+
+#### attocube低温NV色心扫描磁学显微镜attoNVM:1.8K至300K工作,3µT/√Hz灵敏度,纳米级分辨率已商业化量产(2026-01)
+- [attocube attoNVM产品页](https://www.attocube.com/) | [腾讯新闻免费测样(2026-01-22)](https://new.qq.com/rain/a/20260122A024JB00)
+- **参数**:工作温度2K至300K;灵敏度3µT/√Hz(1.8K低温条件);空间分辨率亚纳米级
+- **实测案例**:斯图加特大学Wrachtrup团队用attoNVM在1.8K低温下以<50nm分辨率清晰分辨NbSe₂单个磁通涡旋(PRL);波士顿学院Zhou团队对CrPS₄反铁磁畴实现原子级成像(Nature Materials)
+- **量子传感关联**:低温NV色心是实现纳米尺度磁性表征的最高灵敏度工具;attoNVM是市面上唯一商业化的低温NV扫描磁学显微镜;Quantum Design中国开放免费测样活动(限50个名额)
+
+#### Quantum Technology Market 2025-2035:2025年339亿美元→2035年993亿美元(CAGR 11.3%),量子传感与成像是四大板块之一(2025-08)
+- [ResearchAndMarkets:Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317366/quantum-technology-market-by-computing) | 416页报告
+- **市场预测**:2025年339亿美元→2035年993亿美元(CAGR 11.3%;整体量子技术市场);量子传感与成像是四大板块之一(另三:量子计算、量子通信、量子建模与仿真)
+- **技术覆盖**:原子钟、量子陀螺仪、量子磁场传感器(NV/OPM/SQUID)、量子重力仪、量子图像传感器
+- **应用领域**:电动汽车(EV)、GPS拒止导航、工业检测、国防安全、脑成像等
+- **量子传感关联**:ResearchAndMarkets报告验证量子传感市场高速增长;国防和医疗是量子传感率先落地场景
+
+---
+*本次更新(追加): Quantum Design收购牛津纳米/Twinleaf PPM/Twinleaf量子传感/TechGroup/attocube attoNVM低温NV/量子传感市场2025-2035(2026-05-21下午-16:14)*
+
+
 ### 🆕 新增条目(2026-05-21下午-13:14 - 本次更新)
 
 #### arXiv:2605.21457 - 相干量子推理的指数级样本复杂度优势:量子纯度放大(QPA)仅需O(1/ε)份拷贝(2026-05-20)
