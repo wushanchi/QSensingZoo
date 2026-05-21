@@ -24,6 +24,34 @@
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
 
+### 🆕 新增条目(2026-05-21早-08:44 - 本次更新)
+
+#### arXiv量子传感最新论文 - NV色心温度传感/OFDM量子计量/量子增强分布式网络传感/腔光机械量子传感(2026-05-19)
+- **arXiv - Enhanced Temperature Sensitivity in Ensemble NV Centers through Improved ODMR Spectral Modeling**: Yuki S. Kato等;Submitted 15 May 2026;提出改进的ODMR光谱建模方法,提升NV系综温度测量灵敏度;NV色心是量子传感最成熟的固态平台之一
+- **arXiv - Quantum-enhanced distributed network sensing using multiple quantum resources**: Rui Zhang等;Submitted 19 May 2026;提出利用多量子资源增强分布式网络传感的理论方案;分布式量子传感网络是量子传感的重要发展方向
+- **arXiv - Quantum Viterbi Algorithm**: Abdessatar Souissi;Submitted 17 May 2026;量子Viterbi解码算法用于隐藏量子马尔可夫模型,在连续流形上优化超越经典对角策略;量子序列决策的新算法原语
+- **arXiv - Statistical Quantum Phase Estimation: Extensions and Practical Considerations**: Brandon Allen等;Submitted 15 May 2026;统计量子相位估计框架扩展至负Pauli权重+变化点检测,适用于早期容错量子计算机
+- **arXiv - Strong nanomechanical Duffing nonlinearity**: Jesse J. Slim, Ewold Verhagen;Submitted 18 May 2026;腔光机械系统中强非线性与相互作用;纳米机械振子在量子传感中的应用
+- **arXiv - Energy-Resolved Eigenmode Spectroscopy of Non-Hermitian Skin Effects**: Rohith Srikanth等;Submitted 18 May 2026;非厄米晶格系统能谱与皮肤效应;非厄米量子传感中的敏感性增强
+- **arXiv - Spin-Induced Non-Markovian Time-Crystal-Like Dynamics**: Submitted 19 May 2026;自旋诱导非马尔可夫时间晶体样动力学与分形标度;量子系统中的时间晶体现象
+
+#### QuantumTech World 2026会议启动:量子+AI+HPC融合,从突破到部署(2026-05)
+- [Quantum.Tech World 2026](https://www.quantumtechcongress.com/) | 全球量子技术综合会议
+- **主题**:`Quantum, AI & HPC: Redefining What's Possible`;突破已发生且正在被部署;从国家安全到医疗健康
+- **核心议题**:量子传感与量子计算的工程化挑战;量子AI融合;量子技术商业化路径
+- **量子传感关联**:量子传感是大会核心板块之一;跨学科融合推动量子传感从实验室向实际应用转化
+
+#### TOPTICA量子传感与计量:德国高端激光系统支撑量子传感平台(2026-05)
+- [TOPTICA Quantum Sensing & Metrology](https://www.toptica.com/applications/applied-quantum-technology/) | 公司主页
+- **技术定位**:TOPTICA提供应用于量子传感和计量的高端半导体激光器和光纤激光器系统;波长覆盖从紫外到红外全波段
+- **核心产品**:用于原子钟、原子干涉仪、NV色心磁力计的专用激光系统;支持量子重力仪、量子陀螺仪研发
+- **量子传感关联**:激光系统是量子传感器的核心光源;TOPTICA的技术支撑多种量子传感平台的精度提升
+
+---
+*本次更新(追加): 量子传感最新论文/技术应用/商用产品更新(2026-05-21早-08:44)*
+
+---
+
 ### 🆕 新增条目(2026-05-21早-08:14 - 本次更新)
 
 #### arXiv:2605.19125 - 超导陷阱中纳米磁体的旋转量子隧穿:rest-gas退相干保护+实验可行参数区(2026-05-18)
@@ -3130,7 +3158,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:14 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:44 CST) | 下次自动更新: 约24小时后*
 
 
 ---
@@ -3208,4 +3236,4 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:14 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:44 CST) | 下次自动更新: 约24小时后*
