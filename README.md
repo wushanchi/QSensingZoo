@@ -24,78 +24,6 @@
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
 
-### 🆕 新增条目(2026-05-21早-08:44 - 本次更新)
-
-#### arXiv量子传感最新论文 - NV色心温度传感/OFDM量子计量/量子增强分布式网络传感/腔光机械量子传感(2026-05-19)
-- **arXiv - Enhanced Temperature Sensitivity in Ensemble NV Centers through Improved ODMR Spectral Modeling**: Yuki S. Kato等;Submitted 15 May 2026;提出改进的ODMR光谱建模方法,提升NV系综温度测量灵敏度;NV色心是量子传感最成熟的固态平台之一
-- **arXiv - Quantum-enhanced distributed network sensing using multiple quantum resources**: Rui Zhang等;Submitted 19 May 2026;提出利用多量子资源增强分布式网络传感的理论方案;分布式量子传感网络是量子传感的重要发展方向
-- **arXiv - Quantum Viterbi Algorithm**: Abdessatar Souissi;Submitted 17 May 2026;量子Viterbi解码算法用于隐藏量子马尔可夫模型,在连续流形上优化超越经典对角策略;量子序列决策的新算法原语
-- **arXiv - Statistical Quantum Phase Estimation: Extensions and Practical Considerations**: Brandon Allen等;Submitted 15 May 2026;统计量子相位估计框架扩展至负Pauli权重+变化点检测,适用于早期容错量子计算机
-- **arXiv - Strong nanomechanical Duffing nonlinearity**: Jesse J. Slim, Ewold Verhagen;Submitted 18 May 2026;腔光机械系统中强非线性与相互作用;纳米机械振子在量子传感中的应用
-- **arXiv - Energy-Resolved Eigenmode Spectroscopy of Non-Hermitian Skin Effects**: Rohith Srikanth等;Submitted 18 May 2026;非厄米晶格系统能谱与皮肤效应;非厄米量子传感中的敏感性增强
-- **arXiv - Spin-Induced Non-Markovian Time-Crystal-Like Dynamics**: Submitted 19 May 2026;自旋诱导非马尔可夫时间晶体样动力学与分形标度;量子系统中的时间晶体现象
-
-#### QuantumTech World 2026会议启动:量子+AI+HPC融合,从突破到部署(2026-05)
-- [Quantum.Tech World 2026](https://www.quantumtechcongress.com/) | 全球量子技术综合会议
-- **主题**:`Quantum, AI & HPC: Redefining What's Possible`;突破已发生且正在被部署;从国家安全到医疗健康
-- **核心议题**:量子传感与量子计算的工程化挑战;量子AI融合;量子技术商业化路径
-- **量子传感关联**:量子传感是大会核心板块之一;跨学科融合推动量子传感从实验室向实际应用转化
-
-#### TOPTICA量子传感与计量:德国高端激光系统支撑量子传感平台(2026-05)
-- [TOPTICA Quantum Sensing & Metrology](https://www.toptica.com/applications/applied-quantum-technology/) | 公司主页
-- **技术定位**:TOPTICA提供应用于量子传感和计量的高端半导体激光器和光纤激光器系统;波长覆盖从紫外到红外全波段
-- **核心产品**:用于原子钟、原子干涉仪、NV色心磁力计的专用激光系统;支持量子重力仪、量子陀螺仪研发
-- **量子传感关联**:激光系统是量子传感器的核心光源;TOPTICA的技术支撑多种量子传感平台的精度提升
-
----
-
-### 🆕 新增条目(2026-05-21上午-09:14 - 本次更新)
-
-#### arXiv quant-ph 2026-05-20 最新论文:88篇量子物理新论文,包含多个量子传感相关工作(2026-05-20)
-- [arXiv quant-ph New Submissions (2026-05-20)](https://arxiv.org/list/quant-ph/recent) | 88篇新提交论文
-- **量子传感相关论文重点关注**:
-  - **arXiv:2605.20180** - Beyond the Purcell Effect: Controlling Pure Quantum Dephasing with Spin Noise Metasurfaces (Wenbo Sun等, 2026-05-19);使用CoFeB超材料控制NV色心纯退相干;纳米光子学方法修改量子退相干动力学;是量子传感读出保真度的重要突破
-  - **arXiv:2605.19917** - Spin-Induced Non-Markovian Time-Crystal-Like Dynamics and Fractal Scaling (2026-05-19);自旋诱导非马尔可夫时间晶体样动力学与分形标度;无需外部周期驱动的持续时间晶体样现象;量子传感系统的时间相干性研究
-  - **arXiv:2605.19980** - Developing a photon-number-resolving detection chain for mesoscopic quantum states (Alexey Galda等, 2026-05-19);光子数分辨探测链用于介观量子态;SiPM+14bit 1Gs/s DAQ实时处理;量子通信与量子传感的读出技术
-- **量子传感关联**:arXiv quant-ph每日88篇论文中有多个量子传感直接相关工作;NV退相干工程与时间晶体动力学是当前量子传感研究的前沿方向
-
-#### Quantum Motion完成1.6亿美元C轮融资:加速硅基量子比特技术研发,已交付首台商用量子计算机(2026-05-13)
-- [Quantum Motion融资报道(腾讯, 2026-05-13)](https://so.html5.qq.com/page/real/search_news?docid=70000021_2916a044ed903252) | 投资方:DCVC和Kembara领投
-- **技术方向**:硅基量子比特CMOS制造;利用与半导体工业兼容的工艺实现规模化量子计算
-- **商业进展**:已交付首台量子计算机给英国国家量子计算中心;三服务器机架规模,处理器仅数毫米
-- **量子传感关联**:硅量子比特技术同样可用于量子传感器的读出与控制;量子计算与量子传感共享硅基量子技术平台
-
-#### Quantum Design完成收购牛津仪器纳米科学部门:全球最大科学仪器经销商整合高端量子测量设备(2026-01-02)
-- [Quantum Design收购公告(腾讯, 2026-01-18)](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | Quantum Design完成对Oxford Instruments NanoScience的收购
-- **产品整合**:牛津仪器纳米科学部门拥有无液氦稀释制冷机、超导量子干涉仪(SQUID)、低温磁场系统等高端量子测量设备
-- **市场影响**:Quantum Design是全球最大科学仪器经销商之一;收购后将为量子传感研究提供更完整的低温测量解决方案
-- **量子传感关联**:SQUID是量子传感商业化最成熟的技术之一;Quantum Design的渠道将推动SQUID量子磁力计的更广泛应用
-
-#### arXiv:2605.20077 - 超大容量的被动量子接入网络:单热源驱动304用户13Gbps密钥率热态量子随机数分发(2026-05-20)
-- [arXiv:2605.20077](https://arxiv.org/abs/2605.20077) | QKD接入网络研究
-- **技术方案**:利用热态量子随机数分发 Polychromatic Thermal-State QAN (TS-QAN);单热源支持304用户,聚合密钥率13Gbps;基于Glauber-Sudarshan表示的宽带热态
-- **创新点**:无需主动调制器和量子随机数生成器;EO梳Beacon提供时变多色相位跟踪
-- **量子传感关联**:量子随机数是量子安全通信的核心;量子传感与量子通信在物理层共享基础设施
-
-#### arXiv:2605.20092 - 弱几乎独立量子源的熵集中与通用典型性:量子信息基础理论研究(2026-05-19)
-- [arXiv:2605.20092](https://arxiv.org/abs/2605.20092) | 作者:Nilanjana Datta; 25页
-- **技术方案**:弱几乎独立量子源的序列理论;建立非交换弱大数定律与通用熵集中原理;渐近收敛到指数维子空间
-- **核心成果**:为量子信息处理提供统一框架;适用于量子传感网络的信息论分析
-- **量子传感关联**:量子传感网络的信道容量和信息处理极限需要这类信息论基础;是量子传感理论的重要支撑
-
-#### arXiv:2605.20071 - 非线性微分方程量子算法:基于枢轴移位Carleman线性化的量子计算框架(2026-05-19)
-- [arXiv:2605.20071](https://arxiv.org/abs/2605.20071) | 量子算法
-- **技术方案**:枢轴移位Carleman线性化框架用于二次非线性常微分方程;移除传统初始条件约束;截断阶数与模拟时间呈对数关系
-- **量子传感关联**:量子传感器的信号处理涉及非线性微分方程;量子算法可为量子传感数据处理提供加速
-
----
-*本次更新(追加): 量子传感最新论文/技术应用/商用产品更新(2026-05-21上午-09:14)*
-
----
-*本次更新(追加): 量子传感最新论文/技术应用/商用产品更新(2026-05-21早-08:44)*
-
----
-
 ### 🆕 新增条目(2026-05-21早-08:14 - 本次更新)
 
 #### arXiv:2605.19125 - 超导陷阱中纳米磁体的旋转量子隧穿:rest-gas退相干保护+实验可行参数区(2026-05-18)
@@ -3202,7 +3130,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:44 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:14 CST) | 下次自动更新: 约24小时后*
 
 
 ---
@@ -3280,6 +3208,38 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:44 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(08:14 CST) | 下次自动更新: 约24小时后*
+
 ---
-*本次更新(追加): 量子传感最新论文/技术应用/商用产品更新(2026-05-21上午-09:14)*
+
+### 🆕 新增条目(2026-05-21早-09:44 - 本次更新)
+
+#### Bosch Quantum Sensing:博世×元素六成立量子传感合资公司,"Create Beyond Possible"打造量子磁场传感产品线(2026-01)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | [网易订阅报道](https://www.163.com/dy/article/JVHTEK88051980LO.html)
+- **技术方案**:博世与戴比尔斯集团旗下元素六(Element Six)成立合资公司;元素六提供量子级CVD人造金刚石(NV色心理想衬底),博世提供工业制造能力与全球渠道
+- **核心理念**:"Create Beyond Possible"——量子技术将在多个领域成为游戏规则改变者
+- **应用场景**:医疗健康、工业检测、国防安全;量子磁场传感器是核心产品方向
+- **量子传感关联**:金刚石NV色心是当前最成熟的固态量子传感平台;博世+元素六的组合打通从材料生长到产品制造的完整产业链
+
+#### 量子传感助力医疗健康:英国创新署《Quantum for Health》报告,多系统迈向商业化(2025-08)
+- [量子传感助力医疗健康(腾讯, 2025-08-19)](https://so.html5.qq.com/page/real/search_news?docid=70000021_97868a43f5224152) | 引用英国创新署《Quantum for Health》(2024-10)报告
+- **技术原理**:量子传感器可助力研究人体机理,提升医学诊断能力;多项相关系统正迈向商业化;未来量子计算机可能通过精准表征原子结构、加速药物反应计算辅助新药研发
+- **应用方向**:癌症早筛、阿尔茨海默病诊断、心脑血管疾病检测;量子传感可提供远超传统设备的检测灵敏度
+- **量子传感关联**:量子传感+医疗健康是最具商业化潜力的应用方向之一;英国政府已将量子医疗传感列为国家量子战略重点
+
+#### Quantum杂志(QUANTUM-AUSTRIA):量子科学与技术国际期刊,影响因子5.1,年发文量352篇(2026)
+- [Quantum期刊主页](https://www.haofabiao.com/sci/2521327x.html) | IOP出版,ISSN 2415-3079
+- **期刊定位**:量子科学领域国际权威期刊,主要刊载物理学与天文学(miscellaneous)相关领域研究成果与实践
+- **核心数据**:影响因子5.1;年发文量352篇;研究类文章占比99.72%;开源占比0.68%;创刊时间2017年;出版周期1 issue/year
+- **量子传感关联**:Quantum是量子传感基础研究的重要发表平台;期刊持续追踪量子传感技术突破与商业化进展
+
+#### 量子传感技术在手机领域的应用前景:摄像头/指纹识别/电池管理/量子通信(2025-02)
+- [量子传感技术在手机领域的应用前景2025(原创力文档)](https://max.book118.com/html/2025/0225/5112224041012104.shtm) | 技术分析报告
+- **摄像头量子传感**:通过检测光子的量子特性提高低光照成像能力,拍摄更清晰、更亮度的照片
+- **指纹识别量子传感**:测量指纹细微的量子特性,提高指纹识别的安全性和准确性
+- **电池管理量子传感**:实时检测电池中的电荷量和电流变化,为用户提供更精确的电池剩余时间估计
+- **量子通信应用**:量子密钥分发(QKD)和量子随机数生成(QRNG)应用于手机通信,提供更安全可靠的通信服务
+- **量子传感关联**:手机是量子传感消费化的重要场景;量子传感芯片化是实现手机集成的关键路径
+
+---
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(09:44 CST) | 下次自动更新: 约24小时后*
