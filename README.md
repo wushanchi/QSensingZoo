@@ -1796,3 +1796,38 @@
 
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(18:44 CST) | 下次自动更新: 约24小时后*
+
+---
+
+### 🆕 新增条目(2026-05-21晚-21:14 - 本次更新)
+
+#### MIT量子雷达:原子蒸气室探测地下目标,NIST+RTX联合研发,量子传感原型验证(2025-08)
+- [MIT Technology Review, 2025-08-11](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | NIST+RTX防御承包商
+- **技术原理**:使用玻璃池中的铯原子云(室温)作为量子探测器;利用激光读取原子与反射射频波的相互作用;属于量子传感器的新型雷达应用
+- **核心进展**:首次展示量子传感原理用于探测埋藏目标;原型系统已验证可行性,但仍需光学元件支撑(体积较大)
+- **下一步**:缩小体积以实现现场部署;目标是将量子雷达小型化集成到可搬运设备
+- **量子传感关联**:量子雷达是量子传感在国防安全领域的重要新兴方向;原子蒸气室量子传感器(SERF/原子磁力计)可同时实现磁场传感和雷达探测
+
+#### Quantum Motion完成1.6亿美元C轮融资:硅基量子比特,英国国家量子计算中心首台量子计算机在路上(2026-05)
+- [Techcrunch/腾讯新闻, 2026-05-07](https://so.html5.qq.com/page/real_search_news?docid=70000021_18369fc878c29252) | DCVC+Kembara联合领投;英国量子计算
+- **融资规模**:1.6亿美元C轮融资;距上次融资约三年;投后估值行业领先;创下英国量子公司最大单笔VC融资纪录
+- **技术方向**:基于硅晶体管的量子比特技术;所用工艺与智能手机/电脑芯片相同;高可扩展性、高能效
+- **最新进展**:正在为英国国家量子计算中心(NQCC)建造量子计算机;处理器仅几毫米,体积相当于三个服务器机架
+- **量子传感关联**:硅基量子比特平台同时支撑量子传感研发(如硅基NV色心);量子计算与量子传感在硅工艺上共享基础;量子计算平台的控制技术可迁移至量子传感器精密控制
+
+#### Quantum Singapore 2026论坛:"量子汇聚:从硬件突破到工业应用"(2026-02)
+- [腾讯新闻, 2026-02-07](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA, FinQ Tech, Informa Markets联合主办;IEEE Photonics Society学术支持
+- **论坛主题**:Quantum Convergence: From Hardware Breakthrough to Industrial Adoption;量子科技从理论探索迈向产业化落地
+- **量子传感焦点**:量子传感技术在医疗健康(脑成像、癌症早筛)、工业检测(精密测量、无损检测)、国防安全(磁场探测、导航授时)等领域的商业化路径
+- **量子传感关联**:量子传感是Quantum Singapore 2026的核心议题之一;会议汇聚全球量子传感学术界和产业界代表,推动技术向产业化迈进
+
+#### Quantum Innovation Summit Dubai 2026:9月28-30日迪拜,量子传感从硬件突破到工业采纳(2026-09)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办方:Quantum for Good Curator;战略合作伙伴:阿联酋政府
+- **主题**:"Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership"
+- **核心议题**:量子传感商业化路径、量子AI融合、量子与先进计算协同、量子传感从实验室到工业采纳的转型
+- **量子传感关联**:中东地区加大量子科技投资;迪拜量子峰会聚焦量子技术从展示向规模化交付的转型
+
+---
+*本次更新(追加): MIT量子雷达/NIST+RTX/Quantum Motion 1.6亿美元融资/Quantum Singapore 2026/Quantum Innovation Summit Dubai 2026(2026-05-21晚-21:14)*
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(21:14 CST) | 下次自动更新: 约24小时后*
