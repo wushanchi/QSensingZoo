@@ -53,6 +53,45 @@
 
 ---
 
+### 🆕 新增条目(2026-05-21凌晨-05:44 - 本次更新)
+
+#### MIT Technology Review 2025 - NIST×RTX Rydberg原子量子雷达:玻璃气室铯原子室温探测反射射频波,可成像地下隐蔽目标(2025-08)
+- [MIT Technology Review (2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | 研究团队:NIST + RTX(原Raytheon)防务承包商
+- **技术原理**:使用玻璃气室中悬浮的铯(Caesium)原子云在室温下探测反射的射频波;激光将原子驱动到高度敏感的Rydberg状态(膨胀至细菌大小约10,000倍);当射频信号反弹回来时,原子云发射可检测的光信号,光颜色随射频相互作用而改变
+- **创新点**:传统雷达需发射强射频信号才能探测回波,容易被探测和干扰;量子雷达利用原子量子态放大微弱返回信号,可探测隐蔽目标;单个紧凑玻璃气室(约1厘米)可覆盖多个频段,无需改变物理设置
+- **测试结果**:在泡沫尖刺隔音室中成功定位铜板、管道、钢棒等目标,精度达4.7厘米(5米距离);arXiv论文(2506.20862)已发表
+- **量子传感关联**:量子雷达本质是量子传感技术的军事延伸;Rydberg原子射频传感与NV色心磁力计共享量子相干增强原理;室温原子传感无需低温制冷,是商用量子雷达的重要方向
+
+#### Cerca Magnetics完成380万英镑A轮融资:可穿戴量子脑成像扫描仪规模化,向临床医疗市场拓展(2026-04)
+- [Cerca Magnetics官网](https://www.cercamagnetics.com/) | [Quantum Insider (2026-04-21)](https://thequantuminsider.com/2026/04/21/cerca-magnetics-secures-38m-series-a-funding-scale-quantum-brain-scanner/) | 领投:Guinness Ventures;投后估值3000万英镑
+- **技术**:可穿戴式脑成像扫描仪,采用量子光泵磁力仪(OPM)替代传统固定式MEG设备;允许受试者自然活动,首次实现婴幼儿脑功能成像
+- **市场进展**:已向12个国家神经科学研究机构交付19套系统;过去三年年销售额增长率持续保持100%以上;临床注册审批同步推进英国与美国
+- **应用场景**:癫痫、多发性硬化、痴呆等神经系统疾病研究;英国国防部280万英镑项目(爆炸冲击对军人脑部影响评估)
+- **量子传感关联**:OPM是量子磁力计商业化最活跃方向之一;常温运行+可穿戴是其相对于SQUID的核心竞争优势
+
+#### MarketsandMarkets量子传感器市场:2034年前规模显著增长,原子钟/磁传感器/PAR量子传感器/重力仪(2024-12)
+- [MarketsandMarkets Quantum Sensors Market](https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html) | 报告覆盖原子钟、量子磁传感器、PAR量子传感器、量子重力仪与加速度计
+- **市场驱动**:量子传感器在精度上显著优于传统传感器;半导体工艺进步降低SWaP-C(尺寸/重量/功耗/成本)是商业化关键
+- **应用领域**:国防安全(量子雷达/量子导航)、医疗健康(脑成像/癌症检测)、工业检测(精密制造/石油勘探)、汽车(EV电池检测/自动驾驶)
+- **量子传感关联**:MarketsandMarkets是量子传感市场最权威的分析机构之一;报告系统梳理全球量子传感技术格局与商业化路径
+
+#### Princeton Quantum Initiative - NV色心量子传感:二维材料磁学成像与量子系统实验(2026-04)
+- [Princeton量子传感研究主页](https://quantum.princeton.edu/research/quantum-systems-experiment/quantum-sensing-and-metrology) | de Leon研究组
+- **研究方向**:NV传感器探测金刚石表面二维自旋bath;探索量子传感在材料表征中的应用
+- **技术平台**:NV色心扫描磁学显微镜;金刚石NV色心是当前最成熟的固态量子传感平台
+- **量子传感关联**:Princeton在美国量子传感研究领域处于领先地位;该工作为量子传感在凝聚态物理和材料科学中的应用提供示范
+
+#### Quantum Singapore 2026论坛:2026年2月4日新加坡滨海湾金沙会展中心开幕,聚焦量子从硬件突破到工业应用(2026-02)
+- [Quantum Singapore 2026报道(腾讯, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | 主办方:ICV TA&K、FinQ Tech Inc.、Informa Markets;学术支持:IEEE Photonics Society新加坡分会
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications"
+- **核心议程**:量子计算在不同维度的前沿突破;量子传感商业化路径;量子通信与量子计算协同;量子技术从理论到产业化的工程挑战
+- **量子传感关联**:东南亚是量子传感产业的新兴市场;Quantum Singapore是亚太地区最具影响力的量子技术论坛之一
+
+---
+
+---
+
+
 ### 🆕 新增条目(2026-05-21凌晨-02:44 - 本次更新)
 
 #### Quantum Sensing Research Frontiers 2026 - 多维度最新研究进展汇总
@@ -1340,7 +1379,7 @@
 - **关注方向**:量子计算、量子通信、量子传感的融合;从理论探索到产业化的转变;量子技术作为新兴战略资产
 - **量子传感关联**:量子传感是峰会的核心板块之一;全球首个量子传感商用市场报告(IDTechEx)有望在峰会发布---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21*
 
 #### arXiv:2605.02376 - 大规模量子核方法用于高光谱数据分类: Fidelity量子核 vs 经典核方法的可扩展性突破(2026-05)
 - [arXiv:2605.02376](https://arxiv.org/abs/2605.02376) | 作者:A. Delilbasic, A. Miroszewski, A. Wijata, J. Nalepa, J. Mielczarek, M. Riedel, G. Cavallaro (波兰/德国联合团队)
@@ -1413,7 +1452,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21*
 
 
 ---
@@ -1450,7 +1489,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-20*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21*
 
 ---
 
