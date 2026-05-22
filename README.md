@@ -25,6 +25,30 @@
 
 
 ---
+### 🆕 新增条目(2026-05-22晚-22:14 - 本次更新)
+
+#### Cisco Quantum Research最新成果:通用量子开关(2026-04)与量子报警系统(2026-02),量子传感与量子网络深度融合(2026-05)
+- [Cisco Quantum Research - Universal Quantum Switch](https://research.cisco.com/) | [arXiv:2506.20862](https://arxiv.org/pdf/2506.20862) | Jiapeng Zhao, Stéphane Vinet, Michael Kilzer et al.
+- **通用量子开关(April 2026)**:Cisco提出通用量子开关——支持多用户量子信息路由与交换;是量子传感网络化的基础设施技术
+- **量子报警系统(February 2026)**:波分复用量子报警安全光通信系统——将量子传感原理应用于安全通信;加密光通信的量子传感方案
+- **量子传感关联**:Cisco的量子传感研究代表电信设备巨头对量子技术的长线布局;量子传感与量子网络/量子通信的融合是重要趋势
+
+#### 量子手性传感突破:量子电浆耦合纳米结构实现单分子手性检测,Nature Communications 2023持续跟踪(2023-2026)
+- [Nature Communications, 2023](https://www.nature.com/articles/s41467-023-42719-z) | Quantum plasmonics pushes chiral sensing limit to single molecules
+- **技术原理**:纳米粒子-镜子(NPoM)谐振器在经典与量子机制下工作;设计在量子隧穿机制中增强手性灵敏度,尽管局部电场降低,但强库仑相互作用实现检测
+- **核心结果**:单分子手性检测;检测单层中对映体过量;量子隧穿-regime手性传感新范式
+- **应用场景**:药物研发(手性药物合成)、生物医学(对映体区分)
+- **量子传感关联**:量子电浆纳米光学是量子传感与等离激元学交叉的前沿;单分子手性传感代表量子传感在生命科学的高灵敏度方向
+
+#### 分子自旋量子传感磁场:分子自旋系综嵌入混合量子电路实现AC磁场传感,npj Quantum Information 2024(2024-2026持续跟踪)
+- [npj Quantum Information, 2024](https://www.nature.com/articles/s41534-024-00838-5) | Quantum sensing of magnetic fields with molecular spins
+- **技术原理**:分子自旋是探测磁场至原子级限度的原型系统;适当的传感协议利用量子特性扩大对经典传感器的适用性;在混合量子电路中实现
+- **核心发现**:使用回波探测(无光振动)在分子量子比特的弛豫动力学中实现AC磁场传感;超越经典传感极限
+- **量子传感关联**:分子自旋是固态量子传感的新兴平台;与NV色心互补,为量子传感提供更多材料选择
+
+*本次更新(追加): Cisco Quantum Research通用量子开关与量子报警系统/量子手性传感单分子检测(Nature)/分子自旋量子传感磁场(npj Quantum Information)(2026-05-22晚-22:14)*
+
+---
 ### 🆕 新增条目(2026-05-22晚-21:14 - 本次更新)
 
 #### Quantum Technology Market 2025-2035:量子传感市场规模2035年将达99.34亿美元,传感领域CAGR 13.36%,2025年8月(2025-08)
