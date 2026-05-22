@@ -25,6 +25,37 @@
 
 
 ---
+### 🆕 新增条目(2026-05-23 00:14 - 本次更新)
+
+#### Qnami量子传感商用产品线:ProteusQ-LT/ProteusQ/Quantilever,瑞士量子传感领军企业,2026年5月持续更新(2026-05)
+- [Qnami官网](https://qnami.ch/) | 全球量子传感领先企业,钻石NV色心量子传感商业化 pioneer
+- **公司定位**:专注纳米尺度高精度测量;钻石量子芯片纳米级加工+系统集成+数据分析软件;与全球顶尖高校和企业合作
+- **核心产品**:
+  - **ProteusQ-LT**:低温扫描NV显微镜,工作温度2K~300K,原子级磁场成像,捕捉材料表面磁相互作用
+  - **ProteusQ**:常温扫描NV显微镜,适合工业与研究场景
+  - **Quantilever**:即插即用型金刚石探针,集成NV色心,支持多种扫描探头集成
+- **量子传感关联**:Qnami是钻石NV色心量子传感商业化代表;ProteusQ系列是目前最成熟的商用NV扫描显微镜;瑞士是量子传感商业化重要创新策源地
+
+#### Quantum Singapore 2026论坛:量子汇聚——从硬件突破到工业应用,2026年2月4日新加坡滨海湾金沙会展中心(2026-02)
+- [Quantum Singapore 2026](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.及Informa Markets联合主办,IEEE Photonics Society学术支持
+- **论坛主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Applications)
+- **核心议题**:全球量子科技从理论探索迈向产业化落地;量子传感商业化、量子计算、量子通信
+- **量子传感关联**:Quantum Singapore是亚太量子传感产业化的重要论坛;会议议题反映量子传感正从实验室走向工业级应用
+
+#### Nature Sensors将于2026年正式创刊:Nature Portfolio旗下新刊,传感技术各个领域基础与应用研究,2025年10月(2025-10)
+- [Nature Sensors期刊介绍](https://new.qq.com/rain/a/20251013A03CWI00) | 自然期刊家族新成员
+- **期刊范围**:新型传感器材料和装置开发;传感器系统设计、整合与广泛应用;传感技术对社会变革性影响
+- **重点领域**:传感器设计、材料、信号处理和数据分析;生物、计算、工程和系统等广泛领域
+- **量子传感关联**:Nature Sensors创刊反映学术界对传感技术的高度重视;量子传感作为传感技术前沿方向将受益于新刊平台
+
+#### Quantum Innovation Summit Dubai 2026:2026年9月28-30日迪拜,探索量子与新兴前沿技术,全球创新领导力(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日,迪拜君悦酒店
+- **会议主题**:量子与新兴前沿技术(Quantum & Emerging Frontiers);推进全球创新与技术领导力
+- **量子传感关联**:迪拜峰会代表中东地区对量子技术的战略布局;量子传感商业化是全球性趋势
+
+*本次更新(追加): Qnami ProteusQ量子传感产品线(ProteusQ-LT/ProteusQ/Quantilever)/Quantum Singapore 2026论坛/ Nature Sensors 2026创刊/Quantum Innovation Summit Dubai 2026(2026-05-23 00:14)*
+
+---
 ### 🆕 新增条目(2026-05-22晚-22:14 - 本次更新)
 
 #### Cisco Quantum Research最新成果:通用量子开关(2026-04)与量子报警系统(2026-02),量子传感与量子网络深度融合(2026-05)
