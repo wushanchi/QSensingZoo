@@ -549,3 +549,38 @@
 - **2025-09**: Q-BIOMED英国量子生物医学传感研究中心
 - **2025-08**: 国仪量子量子传感产品线国际化
 - **2025-06**: 量子传感产业资本热潮(融资32亿元)
+---
+### 🆕 新增条目(2026-05-22晚-20:44 - 本次更新)
+
+#### 量子传感器市场预测:2035年达50.7亿美元,CAGR 11.4%,IDTechEx预测2045年突破20亿美元(2025-2026持续跟踪)
+- [IDTechEx Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-article/quantum-sensors-market-2024-2044/951) | [App Developer Magazine, 2025-04](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | 市场研究报告
+- **市场规模**:IDTechEx预测量子传感器市场将从2025年约3亿美元增长至2035年50.7亿美元,CAGR 11.4%;另有预测2045年整体突破20亿美元
+- **技术路线**:半导体工艺(vapor cells和lasers)的规模化制造是突破SWaP-C(尺寸/重量/功率/成本)挑战的关键;大规模半导体制造是量子传感器商业化的最有效路径
+- **覆盖领域**:原子钟、量子磁力计、量子陀螺仪、量子重力仪、量子成像传感器
+- **应用场景**:电动汽车GPS拒止导航、工业检测、脑成像、心磁图
+- **量子传感关联**:IDTechEx报告覆盖17个量子传感技术领域;是了解量子传感全球市场格局和技术路线最重要的资源之一
+
+#### Qnami:全球量子传感先锋,NV色心钻石探头与ProteusQ系列,2026年持续活跃
+- [Qnami官网](https://www.qnami.com/) | 瑞士量子传感初创
+- **公司简介**:世界领先的量子传感公司,专注于金刚石量子传感技术商业化;与全球顶尖大学和产业合作
+- **核心产品**:
+  - **ProteusQ-LT**:低温NV色心扫描显微镜——2K低温工作,原子级空间分辨率;用于捕捉材料表面磁场的动态行为
+  - **ProteusQ**:常温版本,面向更广泛的应用场景
+  - **Quantilever探针**:基于金刚石NV色心的标准化探头
+- **技术优势**:金刚石NV色心是量子传感最成熟的固态平台之一;纳米级空间分辨率同时具备高灵敏度
+- **量子传感关联**:Qnami代表了量子传感从科研向工业仪器转型的路径;ProteusQ-LT是当前纳米尺度磁性研究最前沿的商业工具
+
+#### Quantum Innovation Summit Dubai 2026:2026年9月28-30日迪拜,量子传感与AI/深度科技融合是核心议题(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 迪拜,阿联酋
+- **会议主题**:量子技术汇聚AI、深度科技,变革金融、医疗、航空、电信等行业;从理论探索向实际产业应用快速转化
+- **核心议题**:量子传感商业化规模化、AI×量子传感融合、量子传感在国防/医疗的应用
+- **量子传感关联**:迪拜作为全球创新枢纽的量子技术布局;量子传感的商业化应用和跨行业融合是本次峰会重点方向
+
+#### Quantum Singapore 2026论坛:2026年2月4日滨海湾金沙会展中心,量子传感硬件突破与工业应用为核心主题(2026-02)
+- [Quantum Singapore 2026论坛](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K × FinQ Tech × Informa Markets主办,IEEE Photonics Society学术支持
+- **论坛主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
+- **核心议题**:量子传感硬件优化、软硬协同、区域化生态构建;量子传感从实验室到工厂的关键路径
+- **量子传感关联**:Quantum Singapore是亚太地区量子传感产业化的重要平台;论坛汇聚全球顶尖科学家、行业领袖、技术专家
+
+*本次更新(追加): 量子传感器市场2035年50.7亿美元CAGR 11.4%(IDTechEx)/Qnami ProteusQ系列金刚石NV探针/Quantum Innovation Summit Dubai 2026九月迪拜/Quantum Singapore 2026论坛(2026-05-22晚-20:44)*
+
