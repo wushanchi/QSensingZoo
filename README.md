@@ -2647,3 +2647,47 @@
 
 *本次更新(追加): arXiv quant-ph 2026-05-22量子传感论文精选/Princeton NV量子传感/Imperial量子导航皇家海军海试/Nature Sensors创刊/MarketsandMarkets市场报告(2026-05-22早-07:44)*
 
+
+---
+
+### 🆕 新增条目(2026-05-22早-08:14 - 本次更新)
+
+#### QIS 2026 - Quantum Innovation Summit Dubai:9月28-30日格鲁·Hyatt迪拜,主题"量子前沿:创新安全未来",Quantinuum/Q-CTRL等头部企业赞助(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办方:Quantum for Good Curator;阿联酋政府战略合作;ITU联合国机构支持
+- **峰会主题**:"Quantum Frontiers: Innovating for a Secure Future"——量子技术应对复杂安全挑战、促进健康与环境可持续性
+- **核心议题**:量子传感商业化路径、量子AI融合、量子传感从实验室到工业采纳的转型;量子传感与量子计算、量子通信协同
+- **赞助商阵容**:Pioneer Sponsor - Quantinuum;Vanguard Sponsor;Innovation Ally - Q-CTRL、Blue Titan、Norma;Prime Exhibitor - TII (阿联酋);Quantum Catalyst - Quantumgate.ae
+- **会议地点**:迪拜格鲁·Hyatt酒店,东西交汇的战略位置;阿联酋量子科技愿景驱动
+- **量子传感关联**:量子传感是大会核心板块之一;迪拜量子峰会是2026年下半年最具影响力的量子传感活动;跨学科融合推动量子传感从实验室向实际应用转化
+
+#### Quantum Innovation 2026(QI2026):12月8-11日名古屋,RIKEN主办+日本政府12大量子技术中心,量子传感专区 Science Tokyo 主持(2026-03)
+- [Quantum Innovation 2026](https://quantum-innovation.riken.jp/) | RIKEN量子技术创新总部;日本量子技术产业联盟
+- **会议地点**:名古屋,2026年12月8-11日
+- **日本量子技术创新中心布局**(2021年建立,12大中心):
+  - **量子传感中心**(Quantum Sensing Hub) - Science Tokyo 主持;量子传感专属中心标志着日本将量子传感列为独立战略方向
+  - 量子计算先导中心(RIKEN)、量子安全中心(NICT)、量子材料中心(NIMS)、量子生命研发中心(QST)、量子AI商务全球研发中心(AIST)、量子解决方案中心(东北大学)、量子计算机应用中心(东京大学联盟)、量子化学工业研发中心(THERS)、光量子科学中心(京都大学)、量子软件中心(大阪大学)、量子技术国际合作中心(OIST)
+- **会议覆盖**:量子计算、量子传感、量子密码学、量子通信全领域;学术界与产业界对话平台
+- **量子传感关联**:日本Science Tokyo主持量子传感专区,是量子传感学术与产业融合的重要国际平台;日本将量子传感提升为国家战略独立方向
+
+#### Georgetown University - Foundations of Quantum Sensing专业证书:edX首个量子传感职业认证项目,系统学习量子传感理论到应用(2026-04)
+- [Georgetown Quantum Sensing Certificate](https://www.edx.org/certificates/professional-certificate/georgetownx-foundations-of-quantum-sensing) | Georgetown University;edX平台
+- **课程覆盖**:量子传感基础理论、量子态操控、量子计量学、量子传感技术应用;从基础物理到实际传感系统设计
+- **认证价值**:职场竞争力提升;系统掌握量子传感从理论到工程的完整知识体系
+- **量子传感关联**:量子传感高等教育资源日益丰富;edX职业认证代表量子传感人才培养从学术研究向职业技能培训延伸
+
+#### 美国国家量子倡议(NQI)官方网站启动:联邦量子研发统一门户,量子传感资源中心上线(2026-05)
+- [US National Quantum Initiative Portal](https://www.quantum.gov/) | 美国政府官方量子信息网站
+- **涵盖范围**:量子传感、量子计算、量子通信、量子测量;协调NQI QIS中心、核心项目科学、量子产业发展联盟活动
+- **资源中心**:提供量子传感研发进展、行业活动、量子图像库、工作组交流等信息
+- **国际合作**:量子传感是国际对话的重要议题;美国NQI与盟国量子传感战略协调
+- **量子传感关联**:美国政府将量子传感列为国家战略优先方向;联邦政府统一门户标志量子传感从分散研究向国家战略协调体系升级
+
+#### 日本量子传感中心(Science Tokyo)专区:12大量子技术创新中心唯一量子传感专属中心,2026年峰会集中展示(2026-03)
+- [Japan Quantum Technology Innovation Hubs](https://qih.riken.jp/en/) | RIKEN协调;日本内阁府/总务省/文部科学省/经济产业省联合支持
+- **量子传感专区**:Science Tokyo主持日本量子传感专区;2021年日本建立12大量子技术中心,量子传感专区是其中唯一以传感为中心的专属机构
+- **战略定位**:基础研究→技术示范→产业化→知识产权管理→人才培养全链条协同
+- **量子传感关联**:日本将量子传感列为独立国家战略方向而非附属于量子计算;Science Tokyo量子传感专区代表日本量子传感学术-产业协同的制度化
+
+*本次更新(追加): QIS 2026 Dubai详细议程+赞助商/QI2026名古屋12月+日本12大量子中心/Georgetown量子传感edX证书/US NQI官方门户/日本Science Tokyo量子传感专区(2026-05-22早-08:14)*
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-22(08:14 CST) | 下次自动更新: 约24小时后 | 本次更新: 2026-05-22 08:14 CST*
