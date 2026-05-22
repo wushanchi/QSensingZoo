@@ -25,7 +25,65 @@
 
 
 ---
-### 🆕 新增条目(2026-05-22晚-19:44 - 本次更新)
+### 🆕 新增条目(2026-05-22晚-21:14 - 本次更新)
+
+#### Quantum Technology Market 2025-2035:量子传感市场规模2035年将达99.34亿美元,传感领域CAGR 13.36%,2025年8月(2025-08)
+- [Research and Markets: Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 市场研究报告
+- **市场总规模**:量子技术整体市场2025-2035年复合增长率约13.5%,2035年将达993.4亿美元
+- **量子传感细分**:量子传感与成像是量子技术第二大细分市场(仅次于量子计算);传感领域从精密仪器向消费级应用延伸
+- **驱动因素**:量子传感在国防(量子雷达、量子导航)、医疗(脑磁图、心磁图)、工业检测(半导体、材料)的应用加速商业化
+- **量子传感关联**:量子传感市场规模预测是判断产业成熟度的重要指标;本报告是量子传感商业化进程量化分析的重要参考
+
+#### Qnami量子传感仪器产品线:ProteusQ-LT/ProteusQ/Quantilever,瑞士联邦材料科学与技术研究所(EMPA)衍生,2026年持续更新(2026-05)
+- [Qnami官网](https://qnami.ch/) | [腾讯新闻, 2025-09-23](https://new.qq.com/rain/a/20250923A05E3F00) | 瑞士量子传感领军企业
+- **公司定位**:全球量子传感领域领先企业,钻石NV色心量子传感商业化的 pioneer;专注纳米尺度高精度测量
+- **核心产品**:
+  - **ProteusQ-LT**:低温扫描NV显微镜,原子级磁场成像,工作温度2K~300K,捕捉材料表面磁相互作用
+  - **ProteusQ**:常温扫描NV显微镜,适合工业与研究场景
+  - **Quantilever**:即插即用型金刚石探针,集成NV色心,适合多种扫描探头集成
+- **技术优势**:金刚石量子芯片纳米级加工+系统集成+数据分析软件;与全球顶尖高校和企业合作
+- **量子传感关联**:Qnami是钻石NV色心量子传感商业化的代表;其ProteusQ系列是目前最成熟的商用NV扫描显微镜;瑞士是量子传感商业化的重要创新策源地
+
+#### Bosch Quantum Sensing量子传感应用:博世量子传感技术部,汽车/工业/消费电子多领域布局,2026年1月(2026-01)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | 博世量子传感
+- **公司定位**:博世(Bosch)作为全球最大汽车零部件供应商,已设立量子传感技术部;目标是将量子传感从实验室推向汽车和工业应用
+- **应用领域**:汽车(自动驾驶定位、电池检测)、工业(精密制造测量)、消费电子(小型化量子传感)
+- **核心观点**:博世认为"量子技术将在许多领域产生颠覆性影响,是真正的游戏改变者"
+- **量子传感关联**:博世入局量子传感是量子传感汽车/工业应用规模化信号;汽车Tier1供应商的进入意味着量子传感正在跨越从"精密仪器"到"工业级产品"的关键门槛
+
+#### iPronics量子光子可编程处理器:光子量子技术商业化,光学量子信息处理新路径(2025年持续跟踪)
+- [iPronics官网](https://iprtonics.com/) | 量子光子处理器
+- **技术方向**:iPronics专注于可编程光子量子处理器;将量子光学技术转化为实际计算/传感器件
+- **量子传感关联**:光子量子技术不仅是量子计算的新路径,也是量子光学传感(尤其是干涉型量子传感)的关键支撑;iPronics代表光子量子技术商业化方向
+
+#### TOPTICA量子传感与精密测量:TOPTICA产品线覆盖激光器/频率转换/控制系统,量子传感核心支撑,2026年5月(2026-05)
+- [TOPTICA量子传感与精密测量](https://www.toptica.com/applications/applied-quantum-technology/communication/) | 德国TOPTICA
+- **产品线**:TOPTICA为量子传感(原子钟、原子磁力计、原子干涉仪等)提供核心激光器与控制系统;频率转换系统覆盖从紫外到红外的全波段
+- **核心地位**:TOPTICA是全球量子传感研究机构最广泛使用的激光器供应商之一;其产品是量子传感系统的"心脏"
+- **量子传感关联**:量子传感系统的激光器与控制系统是量子传感商业化的基础设施;TOPTICA等关键组件供应商的产品迭代反映量子传感产业化的整体进程
+
+#### Quantum Sensing论文:Neural Network Assisted ¹⁷¹Yb Quantum Magnetometer——神经网络辅助171Yb原子磁力计,突破标准谐波响应极限,npj Quantum Information(2022,持续跟踪)
+- [npj Quantum Information](https://www.nature.com/articles/s41534-022-00669-2) | Neural Network Assisted 171Yb Quantum Magnetometer
+- **技术原理**:¹⁷¹Yb⁺原子磁力计结合神经网络数据处理;将机器学习引入量子传感信号处理链路
+- **核心发现**:神经网络将原子磁力计工作范围扩展至超出标准谐波响应的挑战性场景;射频驱动诱导的超越标准谐波响应可通过NN解码
+- **量子传感关联**:AI/ML与量子传感的融合是智能量子传感的核心方向;此研究代表量子传感信号处理从经典算法向AI增强演进的趋势
+
+#### Quantum Sensing论文:Quantum Diamond Magnetometry for Navigation in GNSS Denied Environments——量子金刚石磁力计用于GNSS拒止环境导航,Springer Nature(2023,持续跟踪)
+- [Springer Nature Link](https://link.springer.com/chapter/10.1007/1345_2023_218) | Quantum Diamond Magnetometry for Navigation in GNSS Denied Environments
+- **技术背景**:卫星导航(GNSS)是现代生活基础,但在地下、水下、室内等GNSS拒止环境无法使用;量子磁力计可作为GNSS拒止环境下的定位辅助
+- **技术方案**:量子金刚石磁力计(NV色心)用于GNSS拒止环境外部位置修正;高灵敏度+低测量噪声特性可在无GNSS条件下实现定位
+- **量子传感关联**:量子磁力计替代GNSS是量子传感在导航领域最具战略价值的方向;此研究为量子惯性导航+量子磁力计组合导航提供了理论基础
+
+#### Quantum Gravimeter论文:Gravity measurements below 10⁻⁹ g with a transportable absolute quantum gravimeter——可运输式量子重力仪,实现1 μGal长期稳定性,Scientific Reports(2018,持续跟踪)
+- [Scientific Reports](https://doi.org/10.1038/s41598-018-30608-1) | Transportable Absolute Quantum Gravimeter
+- **技术性能**:可运输式量子重力仪;长期稳定性<10 nm/s²(1 μGal);在真实野外条件下由非专业人员操作
+- **技术突破**:传统量子重力仪局限于实验室;可运输式设计实现了野外部署能力;仪器轻量化小型化
+- **应用场景**:地下资源勘探、地质灾害监测、地球物理测量
+- **量子传感关联**:可运输式量子重力仪是量子传感从实验室走向野外的里程碑;此技术突破使量子传感进入地质勘探和国防应用
+
+*本次更新(追加): Quantum Tech Market 2025-2035量子传感市场规模预测99.34亿美元/Qnami ProteusQ系列商用NV扫描显微镜/Bosch Quantum Sensing汽车/工业/消费电子布局/TOPTICA量子传感激光器与控制系统/iPronics量子光子可编程处理器/神经网络辅助Yb原子磁力计/量子金刚石磁力计GNSS拒止导航/可运输式量子重力仪(2026-05-22晚-21:14)*
+
+---### 🆕 新增条目(2026-05-22晚-19:44 - 本次更新)
 
 #### arXiv光-微波纠缠量子传感:磁机械系统中介导的光与微波光子纠缠及量子态传输,保真度0.75,2026年5月22日(2026-05)
 - [arXiv:2605.21754](https://arxiv.org/abs/2605.21754) | Victor Bittencourt et al.
