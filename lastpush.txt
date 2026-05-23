@@ -1,11 +1,5 @@
 QSensingZoo
-2026-05-23 17:14 CST
-commit: ea08b9e
-new entries: 3 (波音Q4S量子卫星2026年在轨量子纠缠交换验证/Cerca Magnetics可穿戴量子脑成像扫描仪A轮475万美元/量子传感技术最新综述arXiv:2407.00689商业化路线图)
-push status: FAILED - GitHub unreachable from this environment (network check failed)
----
-2026-05-23 23:51:30 +0800
-commit: e5c4e53
-new entries: 6 (arXiv混合量子神经网络/绝热量子相位估计/Quantum Systems MoU/西蒙斯基金会Science/PsiQuantum昆士兰/量子传感arXiv论文精选54篇)
-push status: FAILED - Network unreachable from this environment (git push hangs, GitHub API works but HTTPS push times out)
-local status: README.md updated, commit e5c4e53 ready, 1832 lines
+2026-05-24 05:14 CST
+commit: 2dfdf72 (amended to 33ffc4c after rebase)
+new entries: 7 (Nature Photonics MoS2全光学生物电压传感/ Nature Physics单核自旋传感/Quantum Motion 1.6亿美元C轮/世界经济论坛量子传感可持续发展/ML辅助QDM实时追踪/IDQ油气解决方案/CES 2026 Physical AI量子传感)
+push status: SUCCESS
