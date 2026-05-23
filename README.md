@@ -1153,3 +1153,52 @@
 - **量子传感关联**:2026年是量子传感从"技术驱动"转向"市场驱动"的关键年;能够提供稳定、可量产、可部署量子传感器的企业将占据市场优势
 
 *本次更新(追加): Northwestern/BU/UC Berkeley首个商业代工厂电子-光子集成量子芯片/量子传感2026年夏季展望(商业化路径全面清晰)(2026-05-23 08:44)*
+
+### 🆕 新增条目(2026-05-23 09:44 - 本次更新)
+
+#### Q.ANT量子磁力计:300 picotesla精度室温测量,TRUMPF集团孵化,四大产品线量子传感布局(2024/2026更新)
+- [Hannover Messe, 2024-03](https://www.hannovermesse.de/en/news/news-articles/measuring-with-picotesla-precision) | Q.ANT (Stuttgart, Germany, TRUMPF Group)
+- **产品性能**:量子磁力计可精确测量最小磁场,精度达300 picotesla (pT),且在室温下工作——无需低温制冷
+- **公司背景**:Q.ANT成立于2018年,作为TRUMPF集团旗下量子技术创业公司;愿景是提升机器环境感知、人类信息处理和思维模式;员工约60人
+- **四大产品线**:光子计算(Photonic Computing)、粒子计量(Particle Metrology)、原子陀螺仪(Atomic Gyroscopes)、磁传感(Magnetic Sensing)——覆盖量子传感多个重要方向
+- **量子传感关联**:Q.ANT代表量子传感从实验室向工业应用迁移的趋势;室温量子磁力计是量子传感商业化的重要里程碑产品
+
+#### 量子传感器市场2025-2034预测:2030年达5.69亿美元CAGR 13.36%,MarketsandMarkets报告(2025-2026)
+- [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html) | [Knowledge Sourcing, 2026-05](https://www.knowledge-sourcing.com/report/global-quantum-sensor-market) | 市场报告
+- **市场规模**:量子传感器市场从2025年3.04111亿美元增长至2030年5.69231亿美元,复合增长率(CAGR)13.36%
+- **产品类型**:原子钟(Atomic Clocks)、磁传感器(Magnetic Sensors)、PAR量子传感器(PAR Quantum Sensors)、重力仪(Gravimeters)、加速度计(Accelerometers)
+- **应用领域**:导航定位、医疗成像、工业检测、国防安全、科学研究
+- **量子传感关联**:量子传感器市场进入高速成长期;从精密科研仪器向工业/消费级产品扩展的产业化路径已清晰
+
+#### Quantum Innovation Summit Dubai 2026:9月28-30日迪拜,量子与新兴前沿技术,量子传感商业化重要平台(2026-05)
+- [Quantum Innovation Summit](https://quantuminnovationsummit.com/) | 2026年9月28-30日 | Grand Hyatt Dubai
+- **会议主题**:Quantum & Emerging Frontiers——推进全球创新与技术领先地位
+- **核心议题**:量子传感与量子通信、量子计算、量子密码融合;量子传感商业化应用案例分享
+- **量子传感关联**:中东地区正在成为量子传感商业化的新兴市场;迪拜作为全球创新枢纽,举办量子传感产业峰会具有战略意义
+
+#### 2026中国国际时间频率技术与设备展:7月17-19日北京国家会议中心,量子频标/原子钟专业展会(2026-04)
+- [腾讯新闻, 2026-04](https://so.html5.qq.com/page/real/search_news?docid=70000021_71569ec31d429252) | 时间频率技术与授权设备展
+- **展会信息**:2026年7月17-19日,北京国家会议中心;同期举办中国国际时间频率与授时技术会议
+- **展会内容**:高精度时间基准、量子频率标准、原子钟、量子传感授时技术;通信/电力/广播电视/安防监控/国防/航空
+- **量子传感关联**:量子频标是量子传感的重要应用方向;时间频率技术展是量子传感产业化的国内重要展示平台
+
+#### Frequency Electronics量子传感导航定时:量子罗盘替代GPS,国防C5ISR量子传感技术(2026-05)
+- [Frequency Electronics](https://freqelec.com/) | FEI量子传感产品
+- **核心产品**:量子传感定时与频率控制产品,用于太空/空中/海上/地面平台;精密授时误差仅十亿分之一/天(300万年误差1秒)
+- **应用场景**:C5ISR(指挥控制通信计算网络情报监视侦察)、JADC2(联合全域指挥控制)、量子罗盘导航——GPS拒止环境下的定位解决方案
+- **量子传感关联**:量子罗盘(quantum compass)是量子传感在国防领域的核心应用之一;量子传感替代GPS是军事导航的重大方向
+
+#### arXiv:2601.18373 原子-光混合干涉仪与量子存储:量子存储增强原子传感,量子传感新技术路线(2026-01)
+- [arXiv:2601.18373](https://arxiv.org/abs/2601.18373) | quant-ph | Xingchang Wang等
+- **核心内容**:提出原子-光混合干涉仪架构,将量子存储与原子传感相结合;可用于高精度磁场测量、重力梯度测量和时间标准
+- **技术突破**:将量子存储功能集成到原子干涉仪中,延长相干时间从而提高灵敏度;超越传统原子干涉仪的噪声限制
+- **量子传感关联**:量子存储+原子干涉仪的融合是量子传感灵敏度提升的新方向;可应用于芯片级量子传感器的下一代架构
+
+#### Qnami:世界领先量子传感公司,NV金刚石探针商业化,ProteusQ系列/Quantilever(2026-05)
+- [Qnami官网](http://www.qnami.com/) | 瑞士量子传感公司
+- **核心产品**:基于NV色心的量子金刚石探针和扫描NV显微镜;ProteusQ-LT(低温)、ProteusQ(室温)、Quantilever三大产品线
+- **技术优势**:量子传感测量原子级表面磁场——传统传感器无法达到的精度;量子波技术解锁量子技术实现更美好世界
+- **应用领域**:纳米技术、生命科学、地球科学;与全球顶尖大学和工业界合作
+- **量子传感关联**:Qnami是量子传感商业化的标杆企业;NV金刚石传感器是量子传感最重要的技术路线之一
+
+*本次更新(追加): Q.ANT量子磁力计300pT室温/量子传感器市场2030年5.69亿美元CAGR 13.36%/Quantum Innovation Summit Dubai 2026(9月迪拜)/2026中国时间频率展(7月北京)/Frequency Electronics量子罗盘替代GPS/arXiv:2601.18373原子光混合干涉仪量子存储/Qnami NV金刚石探针商业化(2026-05-23 09:44)*
