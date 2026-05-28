@@ -1633,5 +1633,36 @@
 
 *本次更新(追加): Infleqtion Quantum Spectrum中性原子射频传感平台 / 欧盟量子旗舰QOMPASS计划启动 / EuroQCI公众咨询启动 / Optica Quantum 2.0 Conference (6月15-18日,格拉斯哥) / Quantum Academy正式启动70+合作机构 / Impact Quantum量子传感电子战深度分析(2026-05-29 03:44 CST)*
 
+*本次更新(追加): Quantum 2.0大会/量子传感产业报告/NIM量子电场测量标准/量子技术监测报告(2026-05-29 04:14 CST)*
+
+### 🆕 新增条目(2026-05-29 04:14 CST - 本次更新)
+
+#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):量子传感进入Quantum 2.0时代,传感与计量并列核心板块
+- 来源:[Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | [Optica Quantum Industry Summit](https://www.osa.org/en-us/meetings/topical_meetings/quantum/)
+- **会议定位**:Quantum 2.0时代——利用量子纠缠和叠加实现大规模量子系统超越单系统Quantum 1.0;覆盖量子计算、通信、传感、计量及生态系统
+- **核心议题**:量子传感与量子计量(sensing and metrology)并列核心板块;量子传感商业化生态;量子传感器从实验室到实际部署
+- **同期活动**:Optica 2026 Quantum Industry Summit同址举办,聚焦量子技术商业化
+- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议展示量子传感与量子通信/计算的融合趋势
+
+#### Quantum Academy正式启动:欧洲量子人才培养计划,70+合作伙伴机构,量子传感工程师培训纳入体系(2026-05-11)
+- 来源:[Quantum Flagship新闻(May 11, 2026)](https://qt.eu/news/2026/2026-05-06_The-Quantum-Academy-launches) | [European Quantum Community](https://qt.eu/)
+- **计划规模**:超过70个合作伙伴机构、100+附属组织联合协调;培养下一代量子技术人才
+- **培训方向**:量子传感工程师纳入培训体系;量子传感系统设计、制造、集成、操作全链条人才
+- **量子传感关联**:量子传感产业化面临人才短缺瓶颈;Quantum Academy将为欧洲量子传感产业提供工程师和科研人员储备
+
+#### Impact Quantum深度分析:量子传感如何重新定义电子战(2026-05-26)
+- 来源:[Impact Quantum(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-an)
+- **核心观点**:现代通信系统依赖清晰接收电磁信号,但频谱日益拥挤——军事系统与民用基础设施竞争、商业卫星涌入轨道、城市无线网络饱和、AI驱动的电子干扰持续进化
+- **量子优势**:量子传感系统在检测传统噪声下隐藏的微弱信号方面具有独特优势;中性原子系统对射频信号响应超灵敏;量子系统能感知传统硬件无法分辨的细微电磁相互作用
+- **量子传感关联**:量子传感正在成为先进防御网络的关键使能技术;电子战场景是量子传感商业化的高价值应用方向
+
+#### NIM发布量子电场测量新技术标准:基于里德伯原子量子传感,可溯源至普朗克常数(2026-04)
+- 来源:[中国计量科学研究院 NIM(May 2026)](https://en.nim.ac.cn/node/623)
+- **技术方案**:基于高激发里德伯原子(Rydberg atoms)的量子电场传感方法;替代传统探头式标准场计量;实现对微波电场的高灵敏度、宽频带测量
+- **核心优势**:测量不确定度可达10^-6量级;对被测系统扰动极小;可直接溯源至普朗克常数
+- **应用场景**:新型材料电磁响应测量、微纳器件芯片性能检测、前沿电磁计量
+- **量子传感关联**:里德伯原子量子传感是量子射频传感的重要路线;量子传感标准化是产业化前提;NIM代表中国在量子传感计量领域的领先地位
+
 ---
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(03:44 CST) | 下次自动更新: 约24小时后*
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(04:14 CST) | 下次自动更新: 约24小时后*
