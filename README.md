@@ -1374,4 +1374,45 @@
 - **开源内容**:硬件设计文档、固件代码、组装说明PDF;推动NV量子传感的开放科学和可复现研究
 - **量子传感关联**:开源NV色心传感器平台降低量子传感研究门槛;有助于加速量子磁力计技术的普及和改进
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-28(23:44 CST/15:44 UTC) | 下次自动更新: 约24小时后*
+*本次更新(追加): 量子传感最新研究论文/产业动态(2026-05-29 00:44 UTC)*
+
+### 🆕 新增条目(2026-05-29 00:44 UTC - 本次更新)
+
+#### 清华大学段路明/邓东灵/侯攀宇团队 - 多体动力学冻结增强磁场测量Nature论文:约一万个NV色心+涌现守恒量+2.7倍灵敏度提升(2026-05-28)
+- 来源:[科学网报道](https://news.sciencenet.cn/htmlnews/2026/5/565577.shtm) | [中国网报道](http://photo.china.com.cn/2026-05/28/content_118519481.shtml) | Nature DOI:10.1038/s41586-026-10585-6
+- **技术方案**:利用金刚石中约一万个有相互作用的氮-空穴(NV)色心电子自旋作为实验系统;激光初始化和读出,全局微波场精确周期驱动;驱动失谐与驱动频率满足特定条件时,系统进入动力学冻结状态
+- **核心发现**:动力学冻结状态下,系统总自旋磁化量可在长时间内保持稳定约200个驱动周期,超过体系相干时间一个数量级以上;涌现守恒量阻止快速热化,保持集体量子响应
+- **磁场测量成果**:动力学冻结传感方案相比传统周期性动力学解耦方案实现约2.7倍磁场灵敏度提升;突破传统方案受限于相干时间的性能瓶颈
+- **量子传感关联**:首次在大规模固态自旋体系中观测到多体动力学冻结现象;揭示新型热化抑制机制;为基于多体动力学的量子传感技术开辟全新方向;金刚石NV色心平台兼具高空间分辨率和高灵敏度优势
+
+#### QuantX Labs量子精密计时:2026年TEMPO光学频率梳首次上天,量子传感导航进入轨道时代(2026-05)
+- 来源:[QuantX Labs官网](https://quantxlabs.com/) | [TEMPO Orbit](https://quantxlabs.com/tempo)
+- **里程碑**:2026年,TEMPO子系统成为首个登上轨道的Optical Frequency Comb(光学频率梳),搭乘SpaceX Transporter-16的Exotrail's Spacevan002升空
+- **技术路线**:原子(ATOMS)超稳光学钟→光子(PHOTONICS)超稳激光+光腔+频率梳→TEMPO为导航/通信/雷达提供GNSS独立精密计时
+- **商业化路径**:2016 Cryoclock成立(阿德莱德大学CRYO技术转化)→2021 Quantum Technology Challenge用量子磁力仪阵列探测地下隐蔽活动→2024 获两个ASCA合同(AUD$6.41M)→2025 获Defence Trailblazer项目(AUD$13.8M)→2026 TEMPO上天
+- **量子传感关联**:量子精密计时是量子传感的重要应用方向;轨道验证标志量子传感导航从地面走向天基;JORN AIR2025 Phase 6军用项目正在推进量子光学钟集成
+
+#### Sandia国家实验室:OPM量子传感可穿戴柔软脑成像系统原型获批,柔性全头覆盖磁脑图系统(2026-02)
+- 来源:[Sandia量子磁力计页面](https://www.sandia.gov/quantum/magnetometry/) | [Neuroimage交叉轴投影误差研究](https://www.sciencedirect.com/science/article/pii/S1053811924009041)
+- **技术方案**:利用光泵磁力计(OPM)量子传感器实现非侵入式脑功能成像;OPM无需低温冷却,可贴合头皮提供高时空分辨率;Sandia开发了全球最早的多通道OPM阵列系统之一
+- **核心成果**:Cross-Axis Projection Error(CAPE)系统误差检测与量化;向量球谐波(VSH)校准方案;柔软可穿戴原型获批推进首台原型机
+- **量子传感关联**:OPM是量子传感商业化最成熟的路线之一;Sandia的工作解决了OPM阵列实际部署中的校准和误差问题;可穿戴脑成像是量子传感医疗应用的明确方向
+
+#### Fraunhofer IAO开源NV金刚石磁场传感器硬软件平台:GitHub公开,量子传感开源硬件加速(2026-05-21)
+- 来源:[GitHub - snchz46/NV-Diamond-Magnetic-Field-Sensor](https://github.com/snchz46/NV-Diamond-Magnetic-Field-Sensor) | Fraunhofer IAO研发
+- **开源内容**:氮空位(NV)中心光学感应的硬件和固件平台;从NV色心获取光子计数信号;包括PCB设计、固件和组装说明
+- **commit记录**:2026年5月9日初始提交,5月21日更新组装文档
+- **量子传感关联**:Fraunhofer IAO继2025年发布NV开源传感器后持续更新;开源硬件降低量子传感研究门槛;代表量子传感从专有产品向开源生态的范式转变
+
+#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):QIS 2.0时代量子传感全面展示,同期举办量子产业峰会(2026-05)
+- 来源:[Optica Quantum 2.0 Conference](https://www.optica.org/events/topical_meetings/quantum) | 2026年5月21日公告
+- **会议定位**:Quantum 2.0利用量子纠缠和叠加实现大规模量子系统(超越单系统Quantum 1.0);涵盖量子计算、通信、传感和计量
+- **同期活动**:Optica 2026 Quantum Industry Summit(量子产业峰会)同址举办,聚焦量子技术商业化生态
+- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议涵盖sensing和metrology板块;量子传感与量子通信/计算的融合是核心趋势
+
+*本次更新(追加): 清华Nature动力学冻结量子磁场测量 - NV色心+动力学冻结+2.7倍灵敏度提升 / QuantX Labs TEMPO光学频率梳轨道验证 / Sandia OPM可穿戴脑成像原型 / Fraunhofer IAO NV开源硬件平台 / Optica Quantum 2.0 Conference(2026-05-29 00:44 UTC)*
+
+---
+
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(00:44 UTC) | 下次自动更新: 约24小时后*
