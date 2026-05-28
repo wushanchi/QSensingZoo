@@ -1665,4 +1665,31 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(04:14 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(04:46 CST) | 下次自动更新: 约24小时后*
+
+---
+
+*本次更新(追加): Qnami量子传感最新动态/产业报告/商业化进展(2026-05-29 04:46 CST)*
+
+### 🆕 新增条目(2026-05-29 04:46 CST - 本次更新)
+
+#### Qnami支持VerticalCompute研发下一代高性能Chiplet:欧洲半导体量子计量合作(2026-06-25)
+- 来源:[Qnami新闻(2025)](https://qnami.ch/qnami-supports-verticalcompute-driving-european-semiconductor-innovation/) | ITF World 2025
+- **合作背景**:imec Technology Forum (ITF World 2025)发布NanoIC pilot line,展示欧盟合作创新模式;VerticalCompute是欧盟初创企业,专注于重新定义存储技术
+- **Qnami角色**:提供先进量子计量解决方案,加速VerticalCompute下一代高性能、高能效Chiplet的研发
+- **量子传感关联**:量子计量是半导体先进制程测量的关键工具;NV磁测量用于Chiplet内部磁场成像;量子传感在半导体行业的重要性从"小众"走向"必需"
+
+#### Qnami ProteusQ助力Nature Communications论文:BiFeO3超高效自旋电子学重大突破(2026-05)
+- 来源:[Qnami新闻(2026)](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications](https://www.nature.com/articles/s41467-024-47232-5)
+- **研究内容**:UC Berkeley和Northeastern大学团队使用ProteusQ成像BiFeO3(铋铁氧体)自旋结构;BiFeO3是多铁性材料,电压即可改变磁结构(磁电耦合);成像观察到自旋摆线在电压作用下的确定性翻转
+- **应用前景**:电压控制磁性——超低能耗存储器件(如MRAM)不再需要大电流翻转磁场;高能效自旋电子学器件迈向实用化
+- **量子传感关联**:ProteusQ扫描NV磁强计是该论文的关键实验工具;扫描NV显微镜在自旋电子学研究中日益普及;NV磁测量有望成为与PFM、cAFM并列的扫描探针标准技术
+
+#### Qnami市场洞察:量子传感从"小众"到"必需",先进半导体产业需求爆发(2026-05)
+- 来源:[Qnami市场分析(2026)](https://qnami.ch/from-niche-to-necessity-quantum-sensings-growing-demand-in-critical-industries/)
+- **核心判断**:芯片小型化、环境压力、战略资源属性、效率追求——四大驱动力使量子传感在先进半导体R&D中从"小众"变"必需"
+- **量子传感价值**:在纳米尺度探测材料性质,支持先进半导体研发;可发现材料变体或全新材料,提升性能、减少稀有原料使用、降低环境足迹
+- **投资逻辑**:量子传感在先进半导体领域的应用对比量子计算——后者多数用例尚待实现,量子传感已有明确商业落地路径
+- **量子传感关联**:先进半导体是量子传感商业化的关键垂直领域;芯片制程进入亚3nm时代对量子级测量提出新需求;量子传感在半导体行业的增长确定性高于量子计算
+
+*本次更新(追加): Qnami×VerticalCompute Chiplet量子计量 / Qnami ProteusQ×Nature Communications BiFeO3自旋电子学 / Qnami市场分析:半导体需求爆发(2026-05-29 04:46 CST)*
