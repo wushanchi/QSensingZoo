@@ -1693,29 +1693,45 @@
 
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(05:14 CST) | 下次自动更新: 约24小时后*
 
+
+
 ---
 
-*本次更新(追加): Qnami量子传感最新动态/产业报告/商业化进展(2026-05-29 04:46 CST)*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(05:44 CST) | 下次自动更新: 约24小时后*
 
-### 🆕 新增条目(2026-05-29 04:46 CST - 本次更新)
+---
 
-#### Qnami支持VerticalCompute研发下一代高性能Chiplet:欧洲半导体量子计量合作(2026-06-25)
-- 来源:[Qnami新闻(2025)](https://qnami.ch/qnami-supports-verticalcompute-driving-european-semiconductor-innovation/) | ITF World 2025
-- **合作背景**:imec Technology Forum (ITF World 2025)发布NanoIC pilot line,展示欧盟合作创新模式;VerticalCompute是欧盟初创企业,专注于重新定义存储技术
-- **Qnami角色**:提供先进量子计量解决方案,加速VerticalCompute下一代高性能、高能效Chiplet的研发
-- **量子传感关联**:量子计量是半导体先进制程测量的关键工具;NV磁测量用于Chiplet内部磁场成像;量子传感在半导体行业的重要性从"小众"走向"必需"
+### 🆕 新增条目(2026-05-29 05:44 CST - 本次更新)
 
-#### Qnami ProteusQ助力Nature Communications论文:BiFeO3超高效自旋电子学重大突破(2026-05)
-- 来源:[Qnami新闻(2026)](https://qnami.ch/ultraefficient-spintronics-closer-to-reality/) | [Nature Communications](https://www.nature.com/articles/s41467-024-47232-5)
-- **研究内容**:UC Berkeley和Northeastern大学团队使用ProteusQ成像BiFeO3(铋铁氧体)自旋结构;BiFeO3是多铁性材料,电压即可改变磁结构(磁电耦合);成像观察到自旋摆线在电压作用下的确定性翻转
-- **应用前景**:电压控制磁性——超低能耗存储器件(如MRAM)不再需要大电流翻转磁场;高能效自旋电子学器件迈向实用化
-- **量子传感关联**:ProteusQ扫描NV磁强计是该论文的关键实验工具;扫描NV显微镜在自旋电子学研究中日益普及;NV磁测量有望成为与PFM、cAFM并列的扫描探针标准技术
+#### 清华大学段路明/邓东灵/侯攀宇团队 - 多体动力学冻结增强磁场测量Nature论文:约一万个NV色心+涌现守恒量+2.7倍灵敏度提升(2026-05-28)
+- 来源:[科学网报道](https://news.sciencenet.cn/htmlnews/2026/5/565577.shtm) | [中国网报道](http://photo.china.com.cn/2026-05/28/content_118519481.shtml) | Nature DOI: 10.1038/s41586-026-10585-6
+- **技术方案**:利用金刚石中约一万个有相互作用的氮-空穴(NV)色心电子自旋作为实验系统;激光初始化和读出,全局微波场精确周期驱动;驱动失谐与驱动频率满足特定条件时,系统进入动力学冻结状态
+- **核心发现**:动力学冻结状态下,系统总自旋磁化量可在长时间内保持稳定约200个驱动周期,超过体系相干时间一个数量级以上;涌现守恒量阻止快速热化,保持集体量子响应
+- **磁场测量成果**:动力学冻结传感方案相比传统周期性动力学解耦方案实现约2.7倍磁场灵敏度提升;突破传统方案受限于相干时间的性能瓶颈
+- **量子传感关联**:首次在大规模固态自旋体系中观测到多体动力学冻结现象;揭示新型热化抑制机制;为基于多体动力学的量子传感技术开辟全新方向;金刚石NV色心平台兼具高空间分辨率和高灵敏度优势
 
-#### Qnami市场洞察:量子传感从"小众"到"必需",先进半导体产业需求爆发(2026-05)
-- 来源:[Qnami市场分析(2026)](https://qnami.ch/from-niche-to-necessity-quantum-sensings-growing-demand-in-critical-industries/)
-- **核心判断**:芯片小型化、环境压力、战略资源属性、效率追求——四大驱动力使量子传感在先进半导体R&D中从"小众"变"必需"
-- **量子传感价值**:在纳米尺度探测材料性质,支持先进半导体研发;可发现材料变体或全新材料,提升性能、减少稀有原料使用、降低环境足迹
-- **投资逻辑**:量子传感在先进半导体领域的应用对比量子计算——后者多数用例尚待实现,量子传感已有明确商业落地路径
-- **量子传感关联**:先进半导体是量子传感商业化的关键垂直领域;芯片制程进入亚3nm时代对量子级测量提出新需求;量子传感在半导体行业的增长确定性高于量子计算
+#### Infleqtion发布"Quantum Spectrum"中性原子射频传感平台:超越传统天线接收器,量子传感重新定义电子战与安全通信(2026-05-11)
+- 来源:[Impact Quantum深度分析(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/) | [Infleqtion官网](https://infleqtion.com/)
+- **技术方案**:基于中性原子(neutral atoms)的射频传感平台——Quantum Spectrum;利用原子量子态对射频信号的超灵敏响应;超越传统天线-based RF接收器的性能边界
+- **核心能力**:超宽带频谱感知(ultra-broadband spectrum awareness);对电子干扰的强抗性;覆盖国防、通信、情报收集、安全基础设施多场景
+- **应用场景**:在拥挤电磁环境中区分弱信号;电子战(EW)中的信号拦截与识别;安全通信中的频谱监控
+- **量子传感关联**:中性原子量子传感是当前量子射频传感最先进的路线之一;Infleqtion代表量子传感从实验室向军事/安全关键应用的实际部署跨越
 
-*本次更新(追加): Qnami×VerticalCompute Chiplet量子计量 / Qnami ProteusQ×Nature Communications BiFeO3自旋电子学 / Qnami市场分析:半导体需求爆发(2026-05-29 04:46 CST)*
+#### 欧盟量子旗舰启动QOMPASS计划:强化欧洲量子生态,迎接《量子法案》(2026-05-27)
+- 来源:[Quantum Flagship新闻(May 27, 2026)](https://qt.eu/news/2026/2026-05-27_Quantum-Flagship-launches-QOMPASS-to-strengthen-Europes-quantum-ecosystem-ahead-of-the-Quantum-Act.php)
+- **计划目标**:QOMPASS——加强欧洲量子生态系统,支撑即将到来的《量子法案》(Quantum Act);协调欧洲量子技术研究、产业化和标准化
+- **量子传感关联**:欧洲量子传感产业化的统一协调机制;QOMPASS将推动量子传感从研究走向商业规模交付;欧盟《量子法案》将为量子传感产品提供统一的监管框架
+
+#### EuroQCI公众咨询启动:塑造下一代欧洲量子通信基础设施,量子传感与QKD深度融合(2026-05-28)
+- 来源:[Quantum Flagship新闻(May 28, 2026)](https://qt.eu/news/2026/2026-05-28_Help-shape-the-next-phase-of-EuroQCI.php) | [EuroQCI](https://qt.eu/)
+- **咨询内容**: EuroQCI公开咨询——征集产业界、学术界、成员国意见,塑造下一代欧洲量子通信基础设施
+- **量子传感融合**:EuroQCI将量子传感(分布式量子传感网络)与量子密钥分发(QKD)深度融合;量子传感用于通信网络的高精度时钟同步和路由优化
+- **量子传感关联**:量子传感网络化是量子通信基础设施的重要组成部分;EuroQCI为量子传感提供天基和地基平台;量子传感与量子通信的融合是未来6G/量子互联网的核心
+
+#### 二维量子传感器——六方氮化硼hBN单自旋矢量磁力计:室温工作+三维磁场探测,固态量子传感新星(2025-06)
+- 来源:[Phys.org报道, 2026](https://so.html5.qq.com/page/real/search_news?docid=70000021_287683edf9978452) | 原文:Nature Communications, DOI: 10.1038/s41467-025-59642-0
+- **技术方案**:利用六方氮化硼(hBN)中单自旋缺陷实现二维量子传感器;hBN是类石墨烯层状材料,层间范德瓦尔斯力耦合;hBN包裹的纳米金刚石含NV色心或单自旋缺陷
+- **核心成果**:实现三维矢量磁场量子传感;单自旋缺陷可室温工作,无需低温冷却;空间分辨率达纳米级
+- **量子传感关联**:hBN是继金刚石NV色心之后最重要的固态量子传感平台之一;hBN自旋缺陷在二维材料体系中实现量子传感,为新型量子磁力计提供新思路;室温工作特性使其更接近实际应用部署
+
+*本次更新(追加): 清华Nature动力学冻结量子磁场测量-万级NV色心+2.7倍灵敏度提升 / Infleqtion Quantum Spectrum中性原子射频传感重新定义电子战 / 欧盟QOMPASS量子旗舰计划迎接量子法案 / EuroQCI公众咨询量子传感融合QKD / hBN单自旋二维量子磁力计(2026-05-29 05:44 CST)*
