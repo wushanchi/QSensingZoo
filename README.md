@@ -1587,3 +1587,51 @@
 - **量子传感关联**:IDTechEx是量子传感市场最权威分析机构之一;报告持续跟踪量子传感器商业化进程;量子传感芯片化进入规模化制造阶段
 
 *本次更新(追加): 2D hBN自旋量子磁力计+IBM Quantum Summit 2026+IDTechEx量子传感器市场20亿美元(2026-05-29 02:14 UTC)*
+
+---
+
+*本次更新(追加): 量子传感最新进展/产业动态(2026-05-29 03:44 CST)*
+
+### 🆕 新增条目(2026-05-29 03:44 CST - 本次更新)
+
+#### Infleqtion发布"Quantum Spectrum"中性原子射频传感平台:超越传统天线接收器,量子传感重新定义电子战与安全通信(2026-05-11)
+- 来源:[Impact Quantum报道(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/) | [Infleqtion官网](https://infleqtion.com/)
+- **技术方案**:基于中性原子(neutral atoms)的射频传感平台——Quantum Spectrum;利用原子量子态对射频信号的超灵敏响应;超越传统天线-based RF接收器的性能边界
+- **核心能力**:超宽带频谱感知(ultra-broadband spectrum awareness);对电子干扰的强抗性(resilience against electronic interference);覆盖国防、通信、情报收集、安全基础设施多场景
+- **应用场景**:在拥挤电磁环境中区分弱信号;电子战(EW)中的信号拦截与识别;安全通信中的频谱监控
+- **量子传感关联**:中性原子量子传感是当前量子射频传感最先进的路线之一;Infleqtion代表量子传感从实验室向军事/安全关键应用的实际部署跨越
+
+#### 欧盟量子旗舰启动QOMPASS计划:强化欧洲量子生态,迎接《量子法案》(2026-05-27)
+- 来源:[Quantum Flagship新闻(May 27, 2026)](https://qt.eu/news/2026/2026-05-27_Quantum-Flagship-launches-QOMPASS-to-strengthen-Europes-quantum-ecosystem-ahead-of-the-Quantum-Act.php) | EU量子旗舰
+- **计划目标**:QOMPASS——加强欧洲量子生态系统,支撑即将到来的《量子法案》(Quantum Act);协调欧洲量子技术研究、产业化和标准化
+- **量子传感关联**:欧洲量子传感产业化的统一协调机制;QOMPASS将推动量子传感从研究走向商业规模交付;欧盟《量子法案》将为量子传感产品提供统一的监管框架
+
+#### EuroQCI公众咨询启动:塑造下一代欧洲量子通信基础设施,量子传感与QKD融合(2026-05-28)
+- 来源:[Quantum Flagship新闻(May 28, 2026)](https://qt.eu/news/2026/2026-05-28_Help-shape-the-next-phase-of-EuroQCI.php) | [EuroQCI](https://qt.eu/)
+- **咨询内容**: EuroQCI(European Quantum Communication Infrastructure)公开咨询——征集产业界、学术界、成员国意见,塑造下一代欧洲量子通信基础设施
+- **量子传感融合**:EuroQCI将量子传感(分布式量子传感网络)与量子密钥分发(QKD)深度融合;量子传感用于通信网络的高精度时钟同步和路由优化
+- **量子传感关联**:量子传感网络化是量子通信基础设施的重要组成部分;EuroQCI为量子传感提供天基和地基平台;量子传感与量子通信的融合是未来6G/量子互联网的核心
+
+#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):量子传感进入Quantum 2.0时代,传感与计量并列核心板块(2026-05)
+- 来源:[Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | [Optica Quantum Industry Summit](https://www.osa.org/)
+- **会议定位**:Quantum 2.0时代——利用量子纠缠和叠加实现大规模量子系统超越单系统Quantum 1.0;覆盖量子计算、通信、传感、计量及生态系统
+- **核心议题**:量子传感与量子计量(sensing and metrology)并列核心板块;量子传感商业化生态;量子传感器从实验室到实际部署
+- **同期活动**:Optica 2026 Quantum Industry Summit同址举办,聚焦量子技术商业化
+- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议展示量子传感与量子通信/计算的融合趋势
+
+#### Quantum Academy正式启动:欧洲量子人才培养计划,70+合作伙伴机构,量子传感工程师培训纳入体系(2026-05-11)
+- 来源:[Quantum Flagship新闻(May 11, 2026)](https://qt.eu/news/2026/2026-05-06_The-Quantum-Academy-launches) | [European Quantum Academy](https://www.europeanquantumacademy.org/)
+- **计划规模**:超过70个合作伙伴机构、100+附属组织联合协调;培养下一代量子技术人才
+- **培训方向**:量子传感工程师纳入培训体系;量子传感系统设计、制造、集成、操作全链条人才
+- **量子传感关联**:量子传感产业化面临人才短缺瓶颈;Quantum Academy将为欧洲量子传感产业提供工程师和科研人员储备
+
+#### Impact Quantum深度分析:量子传感如何重新定义电子战(2026-05-26)
+- 来源:[Impact Quantum(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/) | Candace Gillhoolley
+- **核心观点**:现代通信系统依赖清晰接收电磁信号,但频谱日益拥挤——军事系统与民用基础设施竞争、商业卫星涌入轨道、城市无线网络饱和、AI驱动的电子干扰持续进化
+- **量子优势**:量子传感系统在检测传统噪声下隐藏的微弱信号方面具有独特优势;中性原子系统对射频信号响应超灵敏;量子系统能感知传统硬件无法分辨的细微电磁相互作用
+- **量子传感关联**:量子传感正在成为先进防御网络的关键使能技术;电子战场景是量子传感商业化的高价值应用方向
+
+*本次更新(追加): Infleqtion Quantum Spectrum中性原子射频传感平台 / 欧盟量子旗舰QOMPASS计划启动 / EuroQCI公众咨询启动 / Optica Quantum 2.0 Conference (6月15-18日,格拉斯哥) / Quantum Academy正式启动70+合作机构 / Impact Quantum量子传感电子战深度分析(2026-05-29 03:44 CST)*
+
+---
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(03:44 CST) | 下次自动更新: 约24小时后*
