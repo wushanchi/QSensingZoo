@@ -1,1 +1,18 @@
-c04e676
+QSensingZoo last push record
+=============================
+Last updated: 2026-05-28 14:14 UTC
+Commit: 683e4ab45efe1b1c1c985959405d43e0b72cbd65
+Repository: wushanchi/QSensingZoo
+Update summary:
+  - Cerca Magnetics OPM脑成像 A轮380万英镑
+  - Q-CTRL TIME 100 GPS-free导航量子优势
+  - 英国铁路量子导航突破
+  - 量子传感市场2025-2035预测50.7亿美元
+  - 中国量子传感产业布局
+
+Previous commits:
+  - c41a92bbbc3b (2026-05-28 QSensingZoo cron task)
+  - 64d0e650a2b6 (2026-05-23 evening update)
+  - 3162b814ec5a (2026-05-23 afternoon update)
+  - 0018719ef605 (2026-05-09 IEEE/military Quanvia)
+  - db0befeb (2026-05-07 SBQuantum)
