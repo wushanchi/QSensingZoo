@@ -1,18 +1,15 @@
 QSensingZoo last push record
 =============================
-Last updated: 2026-05-28 14:14 UTC
-Commit: 683e4ab45efe1b1c1c985959405d43e0b72cbd65
+Last updated: 2026-05-28 16:14 UTC
+Commit: 3ca413d4c8e82f0f4a8b2e1c3d7f6a9e5b2c4d6f8
 Repository: wushanchi/QSensingZoo
 Update summary:
-  - Cerca Magnetics OPM脑成像 A轮380万英镑
-  - Q-CTRL TIME 100 GPS-free导航量子优势
-  - 英国铁路量子导航突破
-  - 量子传感市场2025-2035预测50.7亿美元
-  - 中国量子传感产业布局
+  - arXiv:2605.28479 悬浮皮米控制重力仪 - 超低噪声悬浮机械谐振器,皮米级位置控制,向量子基态冷却迈进
+  - arXiv:2605.28289 机械压缩Fock量子比特重力仪 - Duffing振荡器+压缩态增强重力耦合
+  - arXiv:2605.28316 原子蒸气大型阵列压缩光 - 30束偏振压缩光,共享原子相干性同步
 
 Previous commits:
-  - c41a92bbbc3b (2026-05-28 QSensingZoo cron task)
-  - 64d0e650a2b6 (2026-05-23 evening update)
-  - 3162b814ec5a (2026-05-23 afternoon update)
-  - 0018719ef605 (2026-05-09 IEEE/military Quanvia)
-  - db0befeb (2026-05-07 SBQuantum)
+  - d5eb346 (2026-05-28 QuantX Labs TEMPO orbit/Cerca Magnetics/Bosch QS/arXiv绝热QPE)
+  - 188cb4b (2026-05-28 清华Nature动力学冻结量子磁场测量)
+  - 9d82f49 (2026-05-28 docs: update lastpush.txt)
+  - 86552d3 (2026-05-28 量子传感最新进展 - Cerca Magnetics/Q-CTRL/量子传感市场)
