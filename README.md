@@ -3217,3 +3217,30 @@
 
 ---
 *QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-21(09:44 CST) | 下次自动更新: 约24小时后*
+
+---
+
+*本次更新(追加): 量子传感最新进展/产业动态/学术论文(2026-05-28 22:14 CST)*
+
+### 🆕 新增条目(2026-05-28 22:14 CST - 本次更新)
+
+#### Fraunhofer IAF QUASAR项目:金刚石量子传感器快速磁成像,室温NV色心显微方案(2026-05)
+- 来源:[Fraunhofer IAF官方 - QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | 2026-05
+- **项目背景**:Fraunhofer IAF是欧洲顶尖半导体研究机构;QUASAR项目聚焦金刚石量子传感器快速磁成像
+- **技术路线**:利用金刚石NV色心进行快速磁成像;室温运行+高灵敏度+高空间分辨率;针对量子材料、拓扑磁体、二维材料的磁结构成像
+- **技术优势**:欧洲自主研发的量子磁成像方案;代表欧洲工业界对量子传感芯片化的布局方向
+- **量子传感关联**:金刚石NV是量子磁成像最成熟技术路线,正在向实用化快速磁成像仪器演进;Fraunhofer IAF代表欧洲量子传感产业化的重要力量
+
+#### Nature:分布式城际量子传感器网络约束轴子暗物质拓扑缺陷,全球光学磁力计阵列首秀(2026-01)
+- 来源:[Nature - Constraints on axion dark matter by distributed intercity quantum sensors](https://www.nature.com/articles/s41586-025-10034-w) | DOI:10.1038/s41586-025-10034-w | 2026-01-28
+- **技术路线**:利用全球分布式光学磁力计网络(基于碱金属原子SERF磁力计)监测可能的瞬态极化自旋旋转信号,用于约束超轻轴子粒子暗物质拓扑缺陷(TDM)参数空间
+- **科学意义**:超越天文观测冷却过程约束,探索真实参数空间的轴子暗物质存在性;是量子传感网络化用于基础物理探测的里程碑
+- **数据支撑**:参考了2021年Nature Physics发表的全球光学磁力计网络搜索拓扑缺陷暗物质工作(Afach et al., Nat. Phys. 17, 1396–1401, 2021)
+- **量子传感关联**:分布式量子传感网络是量子传感从单点测量向网络化演进的重要方向;该工作是量子传感直接用于暗物质探测的标志性成果
+
+#### Fraunhofer IAF混合量子处理器:金刚石量子技术"德国制造",量子计算+量子传感融合(2026-05)
+- 来源:[Fraunhofer IAF官方](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | 2026-05
+- **技术路线**:使用金刚石实现混合量子处理器;"德国制造"代表欧洲在量子技术领域的自主可控布局
+- **量子传感关联**:金刚石同时支撑量子计算(qubit)和量子传感(NV色心);混合量子处理器体现了量子传感与量子计算的深度融合趋势
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-28(22:14 CST) | 下次自动更新: 约24小时后*
