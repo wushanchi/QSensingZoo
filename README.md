@@ -1,5 +1,31 @@
 ---
 
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 05:14 CST)*
+
+### 🆕 新增条目(2026-05-29 05:14 CST - 本次更新)
+
+#### Bristol大学量子光子传感器达到量子极限:微环谐振器商业代工厂量产,传感器芯片化重大突破(2025-02)
+- [TechBriefs: Quantum Sensing to Engineer Photonic Sensors (2025-02)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | Bristol QET Labs
+- **技术方案**:在商业代工厂量产的光子传感器上首次实现量子极限运行;微环谐振器纳米级加工于商业代工厂;无需纠缠态或压缩态即可达到量子极限
+- **核心成果**:Mass manufacturable photonic sensors operating at the quantum limit——可大规模制造的量子极限光子传感器;改善温室气体监测和癌症检测
+- **量子传感关联**:芯片级量子光子传感是量子传感商业化的关键方向;商业代工厂量产证明可扩展制造路径打通;量子极限传感器在生物医学和环境监测中有重要应用
+
+#### Quantum Design完成收购牛津仪器纳米科学部:全球SQUID磁学测量霸主整合,量子传感低温测量能力跃升(2026-01-02)
+- [腾讯新闻, 2026-01-18](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | [Quantum Design India](https://qd-india.com/) | [QD International](http://www.qd-international.com/)
+- **收购背景**:2026年1月2日Quantum Design宣布完成对 Oxford Instruments(牛津仪器)旗下NanoScience部门的收购;Quantum Design是全球SQUID磁学测量绝对霸主
+- **产品整合**:MPMS 3——基于SQUID的超高精度磁学测量系统,灵敏度10⁻⁹ emu,温度范围1.9K-400K;2026年同步推出MPMS 3升级版和全新OptiCool低温光学平台
+- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感最成熟的商用技术路径之一;MPMS系列是全球SQUID技术商业化的标杆产品;此次整合将进一步提升Quantum Design在量子传感低温测量领域的主导地位
+
+#### Fraunhofer IAO开源NV色心磁场传感器硬件/固件平台:推动量子磁力计开放科学(2026-05)
+- [GitHub: snchz46/NV-Diamond-Magnetic-Field-Sensor](https://github.com/snchz46/NV-Diamond-Magnetic-Field-Sensor) | [Fraunhofer IAO](https://www.iao.fraunhofer.de/)
+- **技术方案**:基于氮空位(NV)色心的光学传感硬件和固件平台;获取NV中心光子计数信号用于磁场探测;2026-05-21更新assembly instructions PDF;2026-05-09完成ESP32初始提交和NV中心读出系统
+- **开源内容**:硬件设计文档、固件代码、组装说明PDF;推动NV量子传感的开放科学和可复现研究
+- **量子传感关联**:NV色心是当前最成熟的固态量子传感平台;开源硬件平台降低量子传感研究门槛;Fraunhofer是欧洲最大的应用研究机构,其开源动作推动量子传感开放生态
+
+*本次更新(追加): Bristol量子光子传感器商业代工厂量子极限/Quantum Design收购牛津NanoScience/SQUID霸主整合/Fraunhofer IAO NV开源传感器平台(2026-05-29 05:14 CST)*
+
+---
+
 *本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29凌晨-03:14)*
 
 ### 🆕 新增条目(2026-05-29凌晨-03:14 - 本次更新)
@@ -1665,7 +1691,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(04:46 CST) | 下次自动更新: 约24小时后*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(05:14 CST) | 下次自动更新: 约24小时后*
 
 ---
 
