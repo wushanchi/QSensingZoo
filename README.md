@@ -1735,3 +1735,40 @@
 - **量子传感关联**:hBN是继金刚石NV色心之后最重要的固态量子传感平台之一;hBN自旋缺陷在二维材料体系中实现量子传感,为新型量子磁力计提供新思路;室温工作特性使其更接近实际应用部署
 
 *本次更新(追加): 清华Nature动力学冻结量子磁场测量-万级NV色心+2.7倍灵敏度提升 / Infleqtion Quantum Spectrum中性原子射频传感重新定义电子战 / 欧盟QOMPASS量子旗舰计划迎接量子法案 / EuroQCI公众咨询量子传感融合QKD / hBN单自旋二维量子磁力计(2026-05-29 05:44 CST)*
+
+---
+
+*本次更新(追加): Infleqtion上市融资5.5亿美元+CHIPS法案1亿+Quantum Innovation Summit Dubai 2026+IndustryNetCouncil量子101研讨会(2026-05-29 06:44 CST)*
+
+### 🆕 新增条目(2026-05-29 06:44 CST - 本次更新)
+
+#### Infleqtion通过SPAC合并上市:代码INFQ,融资超5.5亿美元,首家登陆资本市场的中性原子量子计算公司(2026-02)
+- 来源:[腾讯新闻](https://new.qq.com/rain/a/20260226A032F200) | NYSE:INFQ
+- **上市时间**:2026年2月17日登陆美国纽交所
+- **融资规模**:通过与Churchill Capital Corp X合并,筹集超过5.5亿美元;包括1.25亿美元PIPE及近乎100%保留的SPAC信托现金
+- **技术路线**:中性原子量子计算——室温运行 vs 超导量子比特需接近绝对零度
+- **量子传感关联**:首家中性原子量子计算公司上市,量子传感是产品组合核心板块之一;资本化推动量子传感商业化加速
+
+#### Infleqtion获CHIPS法案1亿美元资金:推进中性原子量子系统美国境内研发(2026-05)
+- 来源:[新浪财经](https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzkskx1266611.shtml) | [Evercore TMT会议](https://so.html5.qq.com/page/real/search_news?docid=70000021_6636a17454643352)
+- **政府支持**:2026年5月与美国商务部签署意向书,拟根据《CHIPS法案》获得1亿美元资金
+- **其他合同**:DARPA 200万美元合同开发混合量子网络软件
+- **ISS任务**:向国际空间站交付升级版量子硬件
+- **财务表现**:2026年Q1营收950万美元,同比增长14%;每股亏损从41美分收窄至26美分
+- **量子传感关联**:美国政府真金白银支持量子传感技术;中性原子路线获芯片法案资助,量子传感商业化获政策背书
+
+#### Quantum Innovation Summit Dubai 2026(2026-09-28-30, 迪拜):全球量子技术创新旗舰,阿联酋战略愿景驱动(2026-05)
+- 来源:[Quantum Innovation Summit](https://quantuminnovationsummit.com/)
+- **时间地点**:2026年9月28-30日,迪拜君悦酒店
+- **主题**:Quantum & Emerging Frontiers——推进全球创新与技术领先地位
+- **会议定位**:量子技术已从理论探索快速迈向产业化落地;量子传感是核心板块
+- **量子传感关联**:中东地区作为全球量子技术新兴力量;迪拜作为阿联酋科技创新中心,推动量子传感产业生态建设;会议涵盖量子传感商业化与应用
+
+#### Industry Network Technology Council量子101网络研讨会(2026-06-30):QKD/纠缠/量子传感/标准需求,量子技术普及教育(2026-05)
+- 来源:[Industry Network Technology Council](https://industrynetcouncil.org/)
+- **时间**:2026年6月30日 15:00-16:00 UTC
+- **主题**:Quantum 101: QKD, Entanglement, Sensors, and the Need for Standards
+- **内容**:量子叠加和纠缠原理;QKD理论上是安全通信,任何窃听可检测;纠缠现象;量子传感与量子计算区别
+- **量子传感关联**:量子传感是网络研讨会核心议题之一;标准化需求推动量子传感技术规范建立;量子技术普及教育促进产业生态
+
+*本次更新(追加): Infleqtion上市INFQ融资5.5亿美元+CHIPS法案1亿+Quantum Innovation Summit Dubai 2026+IndustryNetCouncil量子101研讨会(2026-05-29 06:44 CST)*
