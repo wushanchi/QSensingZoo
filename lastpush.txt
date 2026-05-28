@@ -1,15 +1,37 @@
 QSensingZoo last push record
-=============================
-Last updated: 2026-05-28 16:14 UTC
-Commit: 3ca413d4c8e82f0f4a8b2e1c3d7f6a9e5b2c4d6f8
+===============================
+Last updated: 2026-05-28 22:52 UTC
+Commit: 8e76db8
 Repository: wushanchi/QSensingZoo
 Update summary:
-  - arXiv:2605.28479 悬浮皮米控制重力仪 - 超低噪声悬浮机械谐振器,皮米级位置控制,向量子基态冷却迈进
-  - arXiv:2605.28289 机械压缩Fock量子比特重力仪 - Duffing振荡器+压缩态增强重力耦合
-  - arXiv:2605.28316 原子蒸气大型阵列压缩光 - 30束偏振压缩光,共享原子相干性同步
+  - Infleqtion IPO $550M via SPAC merger (NYSE:INFQ)
+  - Infleqtion CHIPS Act $100M funding
+  - Quantum Innovation Summit Dubai 2026 (Sep 28-30)
+  - IndustryNetCouncil Quantum 101 webinar (Jun 30)
 
-Previous commits:
-  - d5eb346 (2026-05-28 QuantX Labs TEMPO orbit/Cerca Magnetics/Bosch QS/arXiv绝热QPE)
-  - 188cb4b (2026-05-28 清华Nature动力学冻结量子磁场测量)
-  - 9d82f49 (2026-05-28 docs: update lastpush.txt)
-  - 86552d3 (2026-05-28 量子传感最新进展 - Cerca Magnetics/Q-CTRL/量子传感市场)
+Last updated: 2026-05-29 07:14 CST
+Commit: 5dd7e93
+Repository: wushanchi/QSensingZoo
+Update summary:
+  - Superradiant LIDAR (arXiv:2605.28378) Dicke超辐射增强测距灵敏度
+  - Global quantum metrology bounds (arXiv:2605.28374) 全局Cramér-Rao理论
+  - Quantum geometry connected state manifolds (arXiv:2605.28351) 量子几何新机制
+  - Infleqtion Quantum Spectrum中性原子射频传感平台
+  - 欧盟QOMPASS计划/EuroQCI公众咨询
+  - Optica Quantum 2.0 Conference (2026-06-15-18 格拉斯哥)
+
+
+---
+
+QSensingZoo last push record
+===============================
+Last updated: 2026-05-29 07:14 CST
+Commit: 5dd7e93
+Repository: wushanchi/QSensingZoo
+Update summary:
+  - Superradiant LIDAR (arXiv:2605.28378) Dicke超辐射增强测距灵敏度
+  - Global quantum metrology bounds (arXiv:2605.28374) 全局Cramér-Rao理论
+  - Quantum geometry connected state manifolds (arXiv:2605.28351) 量子几何新机制
+  - Infleqtion Quantum Spectrum中性原子射频传感平台
+  - 欧盟QOMPASS计划/EuroQCI公众咨询
+  - Optica Quantum 2.0 Conference (2026-06-15-18 格拉斯哥)

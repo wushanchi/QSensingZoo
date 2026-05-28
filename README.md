@@ -1772,3 +1772,58 @@
 - **量子传感关联**:量子传感是网络研讨会核心议题之一;标准化需求推动量子传感技术规范建立;量子技术普及教育促进产业生态
 
 *本次更新(追加): Infleqtion上市INFQ融资5.5亿美元+CHIPS法案1亿+Quantum Innovation Summit Dubai 2026+IndustryNetCouncil量子101研讨会(2026-05-29 06:44 CST)*
+
+---
+
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 07:14 CST)*
+
+### 🆕 新增条目(2026-05-29 07:14 CST - 本次更新)
+
+#### arXiv:2605.28378 - 超辐射激光雷达(Superradiant LIDAR):Dicke超辐射概念提升LIDAR灵敏度N倍,远距离目标测距新范式(2026-05-27)
+- [arXiv:2605.28378](https://arxiv.org/abs/2605.28378) | 作者:Tim Kulnick等; 量子光学+量子传感
+- **技术方案**:利用Dicke超辐射概念——统计独立光源的集体光发射——增强LIDAR灵敏度;使用N个热光源(TLS),测量m≥2阶强度关联而非传统m=1(强度);Cramér-Rao界相比传统LIDAR降低N倍,随关联阶数m增加可进一步降低
+- **核心成果**:在两热光源和三热光源的特殊情况下得到解析表达式;提出任意数量TLS的通用近似公式;超辐射LIDAR为远程目标测距提供量子增强新路径
+- **量子传感关联**:超辐射效应是量子传感中利用集体发射增强信号的重要机制;该工作将超辐射概念从原子/分子系统拓展至LIDAR应用;为量子激光雷达的商业化提供理论指导
+
+#### arXiv:2605.28374 - 超越局部量子计量的全局边界:全局Cramér-Rao和Barankin型边界,有限数据宽域量子估计新理论(2026-05-27)
+- [arXiv:2605.28374](https://arxiv.org/abs/2605.28374) | 作者:Hai-Long Shi等; 量子计量学理论
+- **技术方案**:提出全局得分函数 tied to parameter domain上的加权方差;生成精度边界层级——全局Cramér-Rao和Barankin型边界作为受限层级;无 restricted score关联产生完全全局边界
+- **核心成果**:在多重复制限制下恢复局部Cramér-Rao理论;揭示宽域有限数据的真实全局精度限制;在量子设置中识别何时可由单一参数无关测量实现完全全局边界
+- **量子传感关联**:量子Cramér-Rao理论是量子传感参数估计的核心;新全局边界为实际量子传感系统的测量策略设计提供更精确的理论指导;适用于参数值仅在宽域内已知时的传感任务
+
+#### arXiv:2605.28351 - 连接态流形的量子几何:当diabolic点作为本征态流形间的桥梁,贝里相位计算新机制(2026-05-27)
+- [arXiv:2605.28351](https://arxiv.org/abs/2605.28351) | 作者:Jan Střeleček等; SciPost Physics投稿; 量子几何+量子传感
+- **技术方案**:通过坐标变换正则化 Provost-Vallee度量;diabolic点(圆锥交叉)作为相邻本征态流形间的桥梁,将它们粘合为单一连接态流形;表征该结构拓扑并细化贝里相位节点线规则
+- **核心成果**:在diabolic点附近恢复数值稳定性;扩大测地线类别允许新的捷径;提供即使穿越diabolic点也能计算贝里相位的新机制
+- **量子传感关联**:量子几何是量子传感中利用量子态几何特性提升灵敏度的理论基础;diabolic点的拓扑特性可用于设计受保护的量子传感协议;该工作为量子传感的几何相位工程提供数学工具
+
+#### Infleqtion发布Quantum Spectrum中性原子射频传感平台:量子传感重新定义电子战与安全通信,近十年研发里程碑(2026-05-11)
+- 来源:[Impact Quantum深度分析(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/) | [Infleqtion官网](https://infleqtion.com/)
+- **技术方案**:基于中性原子的射频传感平台——Quantum Spectrum;利用原子量子态对射频信号的超灵敏响应;超宽带频谱感知+对电子干扰的强抗性
+- **应用场景**:拥挤电磁环境中区分弱信号;电子战(EW)中的信号拦截与识别;安全通信中的频谱监控;覆盖国防、通信、情报收集、安全基础设施
+- **CEO观点**:Matt Kinsella表示"我们开发基于原子的射频传感近十年,所取得的里程碑清楚地表明,现在是加速企业聚焦的时刻"
+- **量子传感关联**:中性原子量子传感是当前量子射频传感最先进的路线之一;Infleqtion于2026年2月通过SPAC上市(NYSE:INFQ),量子传感是其核心产品线之一;量子传感正从实验室向军事/安全关键应用实际部署
+
+#### 欧盟量子旗舰QOMPASS计划启动:加强欧洲量子生态,迎接《量子法案》,70+合作伙伴(2026-05-27)
+- 来源:[Quantum Flagship新闻(May 27, 2026)](https://qt.eu/news/2026/2026-05-27_Quantum-Flagship-launches-QOMPASS-to-strengthen-Europes-quantum-ecosystem-ahead-of-the-Quantum-Act.php) | EU量子旗舰
+- **计划目标**:协调欧洲量子技术研究、产业化和标准化;支撑即将到来的欧盟《量子法案》(Quantum Act);加强欧洲量子生态系统
+- **量子传感关联**:QOMPASS将推动量子传感从研究走向商业规模交付;欧盟《量子法案》将为量子传感产品提供统一的监管框架;量子传感是欧洲量子战略的核心方向之一
+
+#### EuroQCI公众咨询启动:塑造下一代欧洲量子通信基础设施,量子传感与QKD深度融合(2026-05-28)
+- 来源:[Quantum Flagship新闻(May 28, 2026)](https://qt.eu/news/2026/2026-05-28_Help-shape-the-next-phase-of-EuroQCI.php) | EuroQCI
+- **咨询内容**: EuroQCI公开咨询——征集产业界、学术界、成员国意见,塑造下一代欧洲量子通信基础设施
+- **量子传感融合**:EuroQCI将量子传感(分布式量子传感网络)与量子密钥分发(QKD)深度融合;量子传感用于通信网络的高精度时钟同步和路由优化
+- **量子传感关联**:量子传感网络化是量子通信基础设施的重要组成部分;EuroQCI为量子传感提供天基和地基平台;量子传感与量子通信的融合是未来6G/量子互联网的核心
+
+#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):量子传感进入Quantum 2.0时代,传感与计量并列核心板块(2026-05)
+- 来源:[Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | [Optica Quantum Industry Summit](https://www.osa.org/)
+- **会议定位**:Quantum 2.0时代——利用量子纠缠和叠加实现大规模量子系统超越单系统Quantum 1.0;覆盖量子计算、通信、传感、计量及生态系统
+- **核心议题**:量子传感与量子计量(sensing and metrology)并列核心板块;量子传感商业化生态;量子传感器从实验室到实际部署
+- **同期活动**:Optica 2026 Quantum Industry Summit同址举办,聚焦量子技术商业化
+- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议展示量子传感与量子通信/计算的融合趋势
+
+*本次更新(追加): Superradiant LIDAR超辐射激光雷达/全局量子计量边界/量子几何连接态流形/Infleqtion Quantum Spectrum射频传感平台/欧盟QOMPASS计划/EuroQCI公众咨询/Optica Quantum 2.0 Conference(2026-05-29 07:14 CST)*
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(07:14 CST) | 下次自动更新: 约24小时后*
