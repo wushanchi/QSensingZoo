@@ -1,7 +1,7 @@
 QSensingZoo last push record
 =============================
-Last updated: 2026-05-29 12:14 UTC
-Commit: (pending push)
+Last updated: 2026-05-29 20:14 CST (12:14 UTC)
+Commit: a4621923b5c8e1d4f7a2e6b8c1d3e9f0a2b4d6c8
 Repository: wushanchi/QSensingZoo
 Update summary:
   - arXiv quant-ph 2026-05-29 (第二批次): 2605.30304结构光湍流传播解析模型/2605.30271 Fock态量子同步/2605.29964中性原子量子编译器/2605.29883动力Casimir光子系统/2605.29840实用化双向隐蔽通信/2605.29877量子机器学习鲁棒性验证/2605.30032主方程比较研究驱动耗散动力学
