@@ -1,11 +1,1 @@
-QSensingZoo last push record
-===============================
-Last updated: 2026-05-29 08:14 CST
-Repository: wushanchi/QSensingZoo
-Update summary:
-  - Q-Expo 2026 European quantum industry ecosystem showcase
-  - AFQC 2026 quantum sensing fault tolerance protocols
-  - Quantum Flagship Quantum Revolution public outreach week
-  - Infleqtion SPAC IPO $550M + CHIPS Act $1M funding
-  - Optica Quantum 2.0 Conference (2026-06-15-18, Glasgow)
-  - Quantum Academy officially launched (70+ partner institutions)
+QSensingZoo: 888c4663c92121a6b024d3d5482cd64d802e7eaa / Push completed at Thu May 29 2026 09:14 CST
