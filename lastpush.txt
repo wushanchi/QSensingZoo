@@ -1,1 +1,1 @@
-QSensingZoo last push: 2026-05-29 09:44 CST | commit: e22ce99 | content: Real-world quantum sensors outpace quantum computers / arXiv:2605.28479 picometer levitated gravimeter
+2026-05-29 11:54 CST, commit 8dcc2f87e7d222d2110a2ee5d23051972d50861e, content: arXiv量子传感最新论文(磁悬浮重力/μSQUID/中子自旋/CCD/PET) + Infleqtion CHIPS Act + Quantum 2.0 Conf + Quantum Academy
