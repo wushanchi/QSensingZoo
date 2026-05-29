@@ -1,5 +1,32 @@
 ---
 
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 10:14 CST)*
+
+### 🆕 新增条目(2026-05-29 10:14 CST - 本次更新)
+
+#### 量子传感市场预测:2045年20亿美元/20亿英镑,半导体蒸汽池量产是关键路径(IDTechEx/App Developer Magazine, 2025-04)
+- [App Developer Magazine: Quantum sensor market to grow to 2B by 2045 (2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | [IDTechEx: Quantum Sensors Market 2025-2045](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951)
+- **市场核心**:量子传感器市场将成长至20亿美元(2034年MarketsandMarkets)/20亿英镑(IDTechEx);SK-5核心挑战是SWaP-C(体积/重量/功耗/成本)优化
+- **技术路径**:半导体代工厂量产蒸汽池(vapor cells)是实现大规模制造的关键;玻璃蒸汽池是原子干涉量子传感器的核心组件(芯片原子钟/OPM);传统玻璃吹制技术有曲面散射和小尺寸限制,半导体晶圆级工艺可实现高密度量产
+- **蒸气泡核心地位**:玻璃蒸汽池使激光与密封原子气样品相互作用;是原子干涉仪(RF量子传感器/加速度计/陀螺仪)、芯片原子钟、光泵磁力计(OPM)的核心器件;晶圆级半导体制造具有批量生产潜力
+- **量子传感关联**:IDTechEx报告覆盖17类量子传感技术(原子钟/量子磁力计/量子重力仪等);蒸汽池批量制造是量子传感器规模化的最大瓶颈之一;率先实现半导体蒸汽池集成的厂商将赢得最大回报
+
+#### Scientific Magnetics出货第20台量子计算超导磁体:量子计算机规模化核心配件供应商,18台在产(2026-05)
+- [Magnetics Magazine: Scientific Magnetics Ships 20th Quantum Computing Magnet (2026-05)](https://magneticsmag.com/scientific-magnetics-ships-20th-quantum-computing-magnet/) | SciMag / Avingtrans PLC
+- **里程碑**:2026年5月,英国牛津郡SciMag出货第20台量子计算用超导磁体;另有18台系统在产,订单前景强劲
+- **技术积累**:SciMag超过30年超导/电阻磁体系统经验;深度理解量子比特噪声性能相关的环境因素;从设计/制造到现场认证全流程服务
+- **量子传感关联**:量子比特架构需要精密磁环境控制;超导磁体是超导量子比特(SQUID)和离子阱量子计算系统的核心磁场组件;精密磁体系统是量子计算机规模化的关键使能基础设施;英国政府宣布£2.5 billion投资AI和量子技术,预计未来20年创造10万+岗位、产生£2120亿经济效益
+
+#### BESSY II自旋电子学实时分析:Freie Universität Berlin/HZB/Upsala University联合揭示Fe/CoO双层膜超快退磁动力学(2026)
+- [Magnetics Magazine: Spintronics at BESSY II (2026)](https://magneticsmag.com/spintronics-at-bessy-ii-real-time-analysis-of-magnetic-bilayer-systems/) | BESSY II飞秒切片设施
+- **研究内容**:用超短红外激光脉冲激发铁磁/反铁磁双层膜样品;用软X射线脉冲检测和分析磁序变化;在原子级空间分辨率和超快时间尺度上追踪每层磁序变化
+- **核心发现**:9层铁磁Fe层+9层反铁磁CoO层双层体系;退磁动力学由铁磁金属中的热电子将激发能量传递到反铁磁层自旋;是反铁磁层磁序损失的主要原因
+- **量子传感关联**:自旋电子器件依赖铁磁/反铁磁层间耦合,是量子传感材料研究的核心方向;未来自旋器件需要在太赫兹时钟速度运行;NV色心/SQUID等量子传感器是研究自旋动力学的高灵敏度工具;超快磁动力学为量子传感材料设计提供新思路
+
+*本次更新(追加): 量子传感市场20亿美元半导体蒸汽池路径/SciMag第20台量子计算超导磁体/BESSY II自旋电子学Fe/CoO双层超快动力学(2026-05-29 10:14 CST)*
+
+---
+
 *本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 05:14 CST)*
 
 ### 🆕 新增条目(2026-05-29 05:14 CST - 本次更新)
