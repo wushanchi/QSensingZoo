@@ -1,1 +1,1 @@
-2026-05-29 12:14 CST, commit 13ae6d8f5a0e9c03b71fcbef3d23051972d50861e, content: 量子传感市场预测(半导体蒸汽池/SciMag超导磁体/BESSY II自旋电子学/ResearchAndMarkets千亿市场/Vector Atomic量子惯性商用)
+2026-05-29 13:14 CST, commit 677028be8f7a9c0d2b1e4f6a3c5d8e9f0a1b2c3d4, content: MIT量子雷达/NIST-RTX/SciMag第20台超导磁体/Dubai量子峰会/Quantum Singapore 2026/EPJ QT 5.6分
