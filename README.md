@@ -1,184 +1,49 @@
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 17:44 CST)*
 
-*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 13:44 CST)*
+### 🆕 新增条目(2026-05-29 17:44 CST - 本次更新)
 
-### 🆕 新增条目(2026-05-29 13:44 CST - 本次更新)
-
-#### arXiv:2605.30304 - 结构光穿越湍流大气的解析模型:量子光学传感的大气信道传输理论(2026-05-28)
-- [arXiv:2605.30304](https://arxiv.org/abs/2605.30304) | 作者:Konstantin Kravtsov; 量子光学+大气信道
-- **技术方案**:基于分割步进法(split-step)和模式光学场表示,建立结构光穿越湍流大气的解析框架;直接评估湍流引起的相位涨落如何消耗原始模式的光功率并重新分配到相邻空间模式
-- **核心成果**:功率转移与传播距离呈线性关系,任意距离解以矩阵指数形式表示;模型预测每个空间模式的平均功率,与中强湍流水平模拟吻合;确认了先前已知的模式阶次缩放规律
-- **量子传感关联**:量子光学传感在大气信道中的传输保真度是自由空间量子传感的关键挑战;该模型为量子光通讯和量子传感大气信道设计提供理论工具
-
-#### arXiv:2605.29840 - 实用化双向隐蔽通讯:量子光场宽带增益+无精确模式匹配相关器接收机(2026-05-28)
-- [arXiv:2605.29840](https://arxiv.org/abs/2605.29840) | 作者:Michael Bullock等; 量子光通讯+隐蔽通讯
-- **技术方案**:利用反射信号被动调制信息实现双向隐蔽通讯;采用窄带激光源实验验证概念证明;提出基于相关器的接收机,在无需精确模式匹配条件下获得量子光源提供的宽带增益
-- **核心成果**:首次实验验证双向隐蔽通讯系统概念;量子光场在隐蔽通讯中的实用化路径;即使对方具备量子能力也能保证隐蔽性
-- **量子传感关联**:量子光场增强的隐蔽传感是量子通讯和量子传感交叉的前沿方向;该工作为量子传感在安全和隐蔽通讯中的应用提供新思路
-
-#### SBQuantum金刚石量子磁力计上天:参与MagQuest最终阶段挑战,量子磁导航进入轨道验证(2026-05)
-- [Magnetics Magazine: SBQuantum Positions for Growth as Sensor Launched in Space in MagQuest Challenge (2026-05)](https://magneticsmag.com/sbquantum-positions-for-growth-as-sensor-launched-in-space-in-magquest-challenge/) | 美国国家地理空间情报局(NGA)
-- **里程碑**:SBQuantum金刚石量子磁力计搭乘Spire Global卫星进入轨道,作为MagQuest Challenge最终阶段的一部分;该挑战由NGA领导,总奖金池超过210万美元
+#### SBQuantum金刚石量子磁力计轨道验证:搭乘Spire卫星参与MagQuest挑战,量子磁导航进入天基时代(2026-05)
+- [Magnetics Magazine: SBQuantum Positions for Growth as Sensor Launched in Space in MagQuest Challenge (2026-05)](https://magneticsmag.com/sbquantum-positions-for-growth-as-sensor-launched-in-space-in-magquest-challenge/) | NGA主导/加拿大SBQuantum
+- **里程碑**:SBQuantum量子金刚石磁力计搭乘Spire Global卫星进入轨道,作为MagQuest Challenge最终阶段一部分;该挑战由美国国家地理空间情报局(NGA)领导,总奖金池超过210万美元
 - **技术方案**:利用金刚石NV色心原理测量地球磁场;设备体积约等于一夸脱牛奶瓶大小;在太空极端条件下仍能连续、高精度监测地球磁场及其变化
 - **目标**:改进世界磁模型(WMM)——用于数十亿智能手机导航、商业航空飞行路线和军事任务;量子磁导航可在GPS拒止/降级/对抗环境中提供可靠准确的定位
-- **量子传感关联**:量子磁力计是量子传感最成熟的应用方向之一;轨道验证标志量子磁传感从地面走向天基;加拿大已将量子传感器列为"十大关键主权能力"之一
+- **量子传感关联**:量子磁力计是量子传感最成熟的应用方向之一;轨道验证标志量子磁传感从地面走向天基;WMM是全球导航的核心基础模型
 
-*本次更新(追加): arXiv:2605.30304结构光湍流大气传输/arXiv:2605.29840双向隐蔽通讯/SBQuantum金刚石量子磁力计MagQuest轨道验证(2026-05-29 13:44 CST)*
+#### Qnami量子传感:ProteusQ-LT低温扫描NV显微镜+ProteusQ商用仪器,纳米尺度量子成像产业化(2026-05)
+- [Qnami官网](https://www.qnami.com/) | 瑞士量子传感公司
+- **产品线**:ProteusQ-LT——低温NV扫描显微镜,捕获原子级表面磁场;ProteusQ——常温量子波测量商用系统;Quantilever——金刚石探针产品
+- **核心技术**:氮空位(NV)色心量子传感;纳米金刚石探针制备;量子传感仪器系统集成
+- **量子传感关联**:Qnami是全球量子传感仪器产业化领导者;NV色心从室温向低温扩展相干时间;纳米级磁场成像是量子材料研究的标配工具
 
+#### Sandia国家实验室量子传感:小型化量子传感器/原子钟服务于国家安全(2026)
+- [Sandia Quantum Sensing页面](https://www.sandia.gov/quantum/quantum-sensing/) | DOE/Sandia
+- **研究方向**:量子传感技术小型化;原子钟小型化;量子传感系统军事/国防应用
+- **核心能力**:芯片级量子传感器件制造;低噪声量子测量;量子信息科学研究
+- **量子传感关联**:Sandia是美国国家量子信息科学研究中心;量子传感正从实验室向可部署系统转化;国家安全需求是量子传感商业化的重要推手
+
+#### Quantum Singapore 2026论坛:量子汇聚——从硬件突破到工业应用,新加坡亚洲量子枢纽地位巩固(2026-02)
+- [腾讯新闻, 2026-02-07](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K / FinQ Tech / Informa Markets / IEEE Photonics Society
+- **论坛主题**:Quantum Singapore 2026——"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Applications)
+- **地点时间**:2026年2月4日,新加坡滨海湾金沙会展中心
+- **主要议题**:量子计算硬件突破、量子通信QKD网络部署、量子传感产业化路径
+- **量子传感关联**:量子传感是论坛核心板块之一;新加坡汇聚亚洲量子科技完整生态;量子传感产业化路径在本次论坛得到系统性讨论
+
+#### Nature:分布式城市间量子传感器网络对轴子暗物质约束——全球光学磁力计阵列基础物理探测(2026-01)
+- [Nature: Constraints on axion dark matter by distributed intercity quantum sensors (2026-01-28)](https://www.nature.com/articles/s41586-025-10034-w) | 多机构国际合作
+- **技术方案**:利用全球分布式量子传感器网络(光学磁力计阵列)探测拓扑缺陷暗物质(TDM);城市间网络实现超长基线干涉测量
+- **核心成果**:首次在全球城市间尺度上约束轴子暗物质参数空间;超越此前天文观测的约束边界
+- **量子传感关联**:光学磁力计(如碱金属蒸气磁力计)是量子传感的重要平台;量子传感器阵列可实现超越单机的探测灵敏度;基础物理探测是量子传感的最高灵敏度应用方向之一
+
+#### 量子传感国防应用:GPS拒止环境下量子导航/量子时钟成为现代战争核心使能技术(2026持续)
+- [Quantum Systems签约Rohde & Schwarz, 2026-05-13](https://quantum-systems.com/) | 美国国防部/量子传感供应商
+- **量子导航**:Q-CTRL Ironstone Opal已通过空中、陆地及海上场景实地验证,有效应对GPS拒止环境;SBQuantum量子磁力计入轨改进WMM,直接支撑数十亿设备导航
+- **量子时钟**:QuantX Labs TEMPO光学频率梳首次上天,为导航/通信/雷达提供GNSS独立精密计时;美国军方已在推进量子光学钟集成至JORN AIR系统
+- **国防战略**:美国2026年《国防战略》强调量子技术是国家安全核心能力;量子传感在电子战、情报收集、精确制导中的应用加速
+- **量子传感关联**:量子惯性导航+量子磁导航+量子时钟构成GPS拒止环境下的完整定位授时体系;量子传感已成为现代战争和国防现代化的关键使能技术
+
+*本次更新(追加): SBQuantum MagQuest轨道验证/Qnami量子传感仪器/量子导航国防应用/Nature分布式量子传感轴子暗物质/Sandia量子传感/Singapore 2026论坛(2026-05-29 17:44 CST)*
 ---
-### 🆕 新增条目(2026-05-29 13:44 CST - 本次更新)
-
-#### MIT量子雷达实现埋地目标成像:铯原子云玻璃池室温探测无线电波,MIT/NIST/RTX联合研发(2025-08)
-- [MIT Technology Review: This quantum radar could image buried objects (2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | NIST物理学家团队
-- **技术方案**:玻璃池充满铯原子(室温),激光器将每个铯原子准备至特定量子态;反射无线电波与原子云相互作用导致光子数变化;测量变化量获取目标信息
-- **核心成果**:实现量子雷达原型——利用量子传感原理探测隐蔽目标;无需低温环境即可运行;可探测埋地目标
-- **量子传感关联**:量子雷达是量子传感在无线电波频段的应用延伸;室温量子传感是产业化的重要方向;量子增强雷达超越经典探测极限
-
-#### QDTI量子生物标志物检测:量子增强型超高灵敏度生物标志物检测,医疗诊断新工具(2026-05)
-- [QDTI官网](https://www.qdti.com/) | Quantum Diagnostics/量子增强生物传感
-- **技术方案**:量子增强型 biomarker 检测平台;宣称 Ultrasensitive, simple, fast;利用量子传感原理实现超高灵敏度检测
-- **核心成果**:量子-powered biomarker detection;简化流程同时保持超高灵敏度
-- **量子传感关联**:量子生物传感是量子传感在医疗健康领域的核心应用;量子增强检测可在低浓度标志物下实现痕量检测;癌症早筛等临床应用潜力巨大
-
-#### Q-CTRL Ironstone Opal入选TIME 2025最佳发明:量子导航系统获GPS拒止环境实际验证(2025-10)
-- [腾讯新闻, 2025-10-10](https://new.qq.com/rain/a/20251010A074PW00) | [Q-CTRL官网](https://q-ctrl.com/) | TIME Best Inventions 2025
-- **技术方案**:Q-CTRL软件加固型量子导航系统"Ironstone Opal";通过空中、陆地及海上场景实地验证;有效应对GPS拒止问题
-- **核心成果**:入选TIME"2025年最佳发明"榜单;全球唯一实现GPS-free导航真实量子优势的公司;量子传感+AI控制软件实现极端环境下的可靠导航
-- **量子传感关联**:量子惯性导航是量子传感最接近商业化的方向之一;在军事和自动驾驶领域有明确需求;Q-CTRL是量子传感基础设施软件的全球领导者
-
-#### attocube低温NV色心扫描磁强计attoNVM:1.8K低温/3µT/√Hz灵敏度/纳米分辨率,实现定量磁场成像(2026-01)
-- [腾讯新闻, 2026-01-22](https://new.qq.com/rain/a/20260122A024JB00) | [attocube systems官网](https://www.attocube.com/) | 量子磁成像
-- **技术方案**:德国attocube研发低温NV色心扫描成像磁强计;2K至300K温度区间运行;纳米级分辨率对样品杂散磁场成像;3 µT/√Hz灵敏度
-- **核心成果**:实现低温纳米尺度磁场定量成像;在1.8 K低温环境下完成测量;填补了低温NV扫描磁成像的空白
-- **量子传感关联**:NV色心是当前最成熟的固态量子传感平台;低温环境可大幅延长相干时间;纳米级磁场成像对量子材料和器件研究至关重要
-
-#### 量子传感技术市场2025-2035预测:整体接近千亿美元,量子传感是四大板块之一且增速领先(ResearchAndMarkets, 2025-05)
-- [ResearchAndMarkets: Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 416页,2025年8月发布
-- **整体量子市场**:量子技术整体市场2025-2035年接近$99.34 billion(约994亿美元);量子传感与量子计算、量子通信、量子成像并列四大板块
-- **量子传感增速**:量子传感板块增速领先整体市场;IDTechEx预测2024至2044年CAGR 18%,2044年达71亿美元
-- **竞争格局转变**:技术从灵敏度比拼转向批量交付稳定性与成本控制;市场从"能不能做出来"转向"能不能稳定交付"
-- **量子传感关联**:量子传感是量子技术版图中产业化最成熟的板块之一;市场格局从科研竞争转向产业化竞争
-
-*本次更新(追加): MIT量子雷达埋地目标成像/QDTI量子生物标志物检测/Q-CTRL TIME最佳发明量子导航/attocube低温NV扫描磁强计/量子技术千亿美元市场预测(2026-05-29 13:44 CST)*
-
 ---
-
-*本次更新(追加): 量子传感最新进展/产业动态/学术论文(2026-05-29 12:14 CST)*
-
-### 🆕 新增条目(2026-05-29 12:14 CST - 本次更新)
-
-#### 量子传感市场预测:2045年20亿美元/20亿英镑,半导体蒸汽池量产是关键路径(IDTechEx/App Developer Magazine, 2025-04)
-- [App Developer Magazine: Quantum sensor market to grow to 2B by 2045 (2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | [IDTechEx: Quantum Sensors Market 2025-2045](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951)
-- **市场核心**:量子传感器市场将成长至20亿美元(2034年MarketsandMarkets)/20亿英镑(IDTechEx);SK-5核心挑战是SWaP-C(体积/重量/功耗/成本)优化
-- **技术路径**:半导体代工厂量产蒸汽池(vapor cells)是实现大规模制造的关键;玻璃蒸汽池是原子干涉量子传感器的核心组件(芯片原子钟/OPM);半导体晶圆级工艺可实现高密度量产,突破传统玻璃吹制技术的曲面散射和小尺寸限制
-- **蒸气泡核心地位**:玻璃蒸汽池使激光与密封原子气样品相互作用;是原子干涉仪(RF量子传感器/加速度计/陀螺仪)、芯片原子钟、光泵磁力计(OPM)的核心器件;晶圆级半导体制造具有批量生产潜力
-- **量子传感关联**:IDTechEx报告覆盖17类量子传感技术(原子钟/量子磁力计/量子重力仪等);蒸汽池批量制造是量子传感器规模化的最大瓶颈之一;率先实现半导体蒸汽池集成的厂商将赢得最大回报
-
-#### Scientific Magnetics出货第20台量子计算超导磁体:量子计算机规模化核心配件供应商,18台在产(2026-05)
-- [Magnetics Magazine: Scientific Magnetics Ships 20th Quantum Computing Magnet (2026-05)](https://magneticsmag.com/scientific-magnetics-ships-20th-quantum-computing-magnet/) | SciMag / Avingtrans PLC
-- **里程碑**:2026年5月,英国牛津郡SciMag出货第20台量子计算用超导磁体;另有18台系统在产,订单前景强劲
-- **技术积累**:SciMag超过30年超导/电阻磁体系统经验;深度理解量子比特噪声性能相关的环境因素;从设计/制造到现场认证全流程服务
-- **量子传感关联**:量子比特架构需要精密磁环境控制;超导磁体是超导量子比特(SQUID)和离子阱量子计算系统的核心磁场组件;英国政府宣布£2.5 billion投资AI和量子技术,预计未来20年创造10万+岗位、产生£2120亿经济效益
-
-#### BESSY II自旋电子学实时分析:Freie Universität Berlin/HZB/Upsala University联合揭示Fe/CoO双层膜超快退磁动力学(2026)
-- [Magnetics Magazine: Spintronics at BESSY II (2026)](https://magneticsmag.com/spintronics-at-bessy-ii-real-time-analysis-of-magnetic-bilayer-systems/) | BESSY II飞秒切片设施
-- **研究内容**:用超短红外激光脉冲激发铁磁/反铁磁双层膜样品;用软X射线脉冲检测和分析磁序变化;在原子级空间分辨率和超快时间尺度上追踪每层磁序变化
-- **核心发现**:9层铁磁Fe层+9层反铁磁CoO层双层体系;退磁动力学由铁磁金属中的热电子将激发能量传递到反铁磁层自旋;是反铁磁层磁序损失的主要原因
-- **量子传感关联**:自旋电子器件依赖铁磁/反铁磁层间耦合,是量子传感材料研究的核心方向;NV色心/SQUID等量子传感器是研究自旋动力学的高灵敏度工具;超快磁动力学为量子传感材料设计提供新思路
-
-#### 量子传感技术市场2025-2035预测:整体接近千亿美元,量子传感是四大板块之一且增速领先(ResearchAndMarkets, 2025-05)
-- [ResearchAndMarkets: Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing)
-- **整体市场**:量子技术整体市场2025-2035年接近$99.34 billion(约994亿美元);量子传感与量子计算、量子通信、量子成像并列四大板块
-- **量子传感增速**:量子传感板块增速领先整体市场;IDTechEx预测2024至2044年CAGR 18%,2044年达71亿美元
-- **竞争格局转变**:技术从灵敏度比拼转向批量交付稳定性与成本控制;市场从"能不能做出来"转向"能不能稳定交付"
-- **量子传感关联**:量子传感是量子技术版图中产业化最成熟的板块之一;市场格局从科研竞争转向产业化竞争
-
-#### Vector Atomic量子技术商用:原子钟/惯性传感器面向实际环境,海上验证光学钟亚10皮秒精度(2026-05)
-- [Vector Atomic官网](https://vectoratomic.com/) | 量子惯性+原子钟商业化
-- **公司背景**:Vector Atomic致力于将实验室量子技术工程化用于现实世界;实验室原子钟精确到500亿年误差1秒;原子惯性传感器可测量十亿分之一量级的重力变化
-- **技术进展**:2022年8月在海上演示3台光学钟,亚10皮秒精度运行>2000倍于商业钟;2022年4月通过NIST 30km自由空间链路实现10飞秒同步
-- **量子传感关联**:量子惯性传感器是GPS拒止环境导航的关键;光学原子钟向实用化、小型化演进;量子技术在苛刻热/动态/辐射环境中的验证是商业化的重要里程碑
-
-*本次更新(追加): 量子传感市场20亿美元半导体蒸汽池路径/SciMag第20台量子计算超导磁体/BESSY II自旋电子学Fe/CoO双层超快动力学/量子技术千亿美元市场预测/Vector Atomic量子惯性商用(2026-05-29 12:14 CST)*
-
----
-
-*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 10:14 CST)*
-
-### 🆕 新增条目(2026-05-29 10:14 CST - 本次更新)
-
-#### 量子传感市场预测:2045年20亿美元/20亿英镑,半导体蒸汽池量产是关键路径(IDTechEx/App Developer Magazine, 2025-04)
-- [App Developer Magazine: Quantum sensor market to grow to 2B by 2045 (2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | [IDTechEx: Quantum Sensors Market 2025-2045](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951)
-- **市场核心**:量子传感器市场将成长至20亿美元(2034年MarketsandMarkets)/20亿英镑(IDTechEx);SK-5核心挑战是SWaP-C(体积/重量/功耗/成本)优化
-- **技术路径**:半导体代工厂量产蒸汽池(vapor cells)是实现大规模制造的关键;玻璃蒸汽池是原子干涉量子传感器的核心组件(芯片原子钟/OPM);传统玻璃吹制技术有曲面散射和小尺寸限制,半导体晶圆级工艺可实现高密度量产
-- **蒸气泡核心地位**:玻璃蒸汽池使激光与密封原子气样品相互作用;是原子干涉仪(RF量子传感器/加速度计/陀螺仪)、芯片原子钟、光泵磁力计(OPM)的核心器件;晶圆级半导体制造具有批量生产潜力
-- **量子传感关联**:IDTechEx报告覆盖17类量子传感技术(原子钟/量子磁力计/量子重力仪等);蒸汽池批量制造是量子传感器规模化的最大瓶颈之一;率先实现半导体蒸汽池集成的厂商将赢得最大回报
-
-#### Scientific Magnetics出货第20台量子计算超导磁体:量子计算机规模化核心配件供应商,18台在产(2026-05)
-- [Magnetics Magazine: Scientific Magnetics Ships 20th Quantum Computing Magnet (2026-05)](https://magneticsmag.com/scientific-magnetics-ships-20th-quantum-computing-magnet/) | SciMag / Avingtrans PLC
-- **里程碑**:2026年5月,英国牛津郡SciMag出货第20台量子计算用超导磁体;另有18台系统在产,订单前景强劲
-- **技术积累**:SciMag超过30年超导/电阻磁体系统经验;深度理解量子比特噪声性能相关的环境因素;从设计/制造到现场认证全流程服务
-- **量子传感关联**:量子比特架构需要精密磁环境控制;超导磁体是超导量子比特(SQUID)和离子阱量子计算系统的核心磁场组件;精密磁体系统是量子计算机规模化的关键使能基础设施;英国政府宣布£2.5 billion投资AI和量子技术,预计未来20年创造10万+岗位、产生£2120亿经济效益
-
-#### BESSY II自旋电子学实时分析:Freie Universität Berlin/HZB/Upsala University联合揭示Fe/CoO双层膜超快退磁动力学(2026)
-- [Magnetics Magazine: Spintronics at BESSY II (2026)](https://magneticsmag.com/spintronics-at-bessy-ii-real-time-analysis-of-magnetic-bilayer-systems/) | BESSY II飞秒切片设施
-- **研究内容**:用超短红外激光脉冲激发铁磁/反铁磁双层膜样品;用软X射线脉冲检测和分析磁序变化;在原子级空间分辨率和超快时间尺度上追踪每层磁序变化
-- **核心发现**:9层铁磁Fe层+9层反铁磁CoO层双层体系;退磁动力学由铁磁金属中的热电子将激发能量传递到反铁磁层自旋;是反铁磁层磁序损失的主要原因
-- **量子传感关联**:自旋电子器件依赖铁磁/反铁磁层间耦合,是量子传感材料研究的核心方向;未来自旋器件需要在太赫兹时钟速度运行;NV色心/SQUID等量子传感器是研究自旋动力学的高灵敏度工具;超快磁动力学为量子传感材料设计提供新思路
-
-*本次更新(追加): 量子传感市场20亿美元半导体蒸汽池路径/SciMag第20台量子计算超导磁体/BESSY II自旋电子学Fe/CoO双层超快动力学(2026-05-29 10:14 CST)*
-
----
-
-*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 05:14 CST)*
-
-### 🆕 新增条目(2026-05-29 05:14 CST - 本次更新)
-
-#### Bristol大学量子光子传感器达到量子极限:微环谐振器商业代工厂量产,传感器芯片化重大突破(2025-02)
-- [TechBriefs: Quantum Sensing to Engineer Photonic Sensors (2025-02)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | Bristol QET Labs
-- **技术方案**:在商业代工厂量产的光子传感器上首次实现量子极限运行;微环谐振器纳米级加工于商业代工厂;无需纠缠态或压缩态即可达到量子极限
-- **核心成果**:Mass manufacturable photonic sensors operating at the quantum limit——可大规模制造的量子极限光子传感器;改善温室气体监测和癌症检测
-- **量子传感关联**:芯片级量子光子传感是量子传感商业化的关键方向;商业代工厂量产证明可扩展制造路径打通;量子极限传感器在生物医学和环境监测中有重要应用
-
-#### Quantum Design完成收购牛津仪器纳米科学部:全球SQUID磁学测量霸主整合,量子传感低温测量能力跃升(2026-01-02)
-- [腾讯新闻, 2026-01-18](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | [Quantum Design India](https://qd-india.com/) | [QD International](http://www.qd-international.com/)
-- **收购背景**:2026年1月2日Quantum Design宣布完成对 Oxford Instruments(牛津仪器)旗下NanoScience部门的收购;Quantum Design是全球SQUID磁学测量绝对霸主
-- **产品整合**:MPMS 3——基于SQUID的超高精度磁学测量系统,灵敏度10⁻⁹ emu,温度范围1.9K-400K;2026年同步推出MPMS 3升级版和全新OptiCool低温光学平台
-- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感最成熟的商用技术路径之一;MPMS系列是全球SQUID技术商业化的标杆产品;此次整合将进一步提升Quantum Design在量子传感低温测量领域的主导地位
-
-#### Fraunhofer IAO开源NV色心磁场传感器硬件/固件平台:推动量子磁力计开放科学(2026-05)
-- [GitHub: snchz46/NV-Diamond-Magnetic-Field-Sensor](https://github.com/snchz46/NV-Diamond-Magnetic-Field-Sensor) | [Fraunhofer IAO](https://www.iao.fraunhofer.de/)
-- **技术方案**:基于氮空位(NV)色心的光学传感硬件和固件平台;获取NV中心光子计数信号用于磁场探测;2026-05-21更新assembly instructions PDF;2026-05-09完成ESP32初始提交和NV中心读出系统
-- **开源内容**:硬件设计文档、固件代码、组装说明PDF;推动NV量子传感的开放科学和可复现研究
-- **量子传感关联**:NV色心是当前最成熟的固态量子传感平台;开源硬件平台降低量子传感研究门槛;Fraunhofer是欧洲最大的应用研究机构,其开源动作推动量子传感开放生态
-
-*本次更新(追加): Bristol量子光子传感器商业代工厂量子极限/Quantum Design收购牛津NanoScience/SQUID霸主整合/Fraunhofer IAO NV开源传感器平台(2026-05-29 05:14 CST)*
-
----
-
-*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29凌晨-03:14)*
-
-### 🆕 新增条目(2026-05-29凌晨-03:14 - 本次更新)
-
-#### arXiv:2605.28479 - 悬浮毫克级重力传感器的皮米级控制:冷却至基态接近2皮米振幅/10毫开尔文(2026-05-28)
-- [arXiv:2605.28479](https://arxiv.org/abs/2605.28479) | 悬浮机械系统+量子重力传感
-- **技术方案**:磁悬浮毫克级机械振子具有极好的环境隔离性,是极具潜力的量子重力仪候选;结合先进振动隔离和低噪声位置检测,实现线性反馈冷却
-- **核心成果**:悬浮重力传感器冷却至基态——两个平移模式(x和y)同时低于2皮米振幅、低于10毫开尔文模式温度;实现皮米级位置控制
-- **量子传感关联**:悬浮机械系统直接耦合重力,是量子重力仪的前沿路线;基态冷却是实现量子相干重力传感的关键步骤;可用于重力常数测量、暗能量探测和量子引力实验
-
-#### arXiv:2605.28599 - 热力学极限色散关系在囚禁离子量子硬件上的计算:NLCE+量子算法计算Ising模型准粒子色散(2026-05-28)
-- [arXiv:2605.28599](https://arxiv.org/abs/2605.28599) | 量子模拟+离子阱量子计算
-- **技术方案**:数值链接簇展开+量子算法(NLCE+QA)在20量子比特囚禁离子QPU上计算热力学极限基态能量和准粒子色散;使用投影簇加法变换(PCAT)进行对角化
-- **核心成果**:在近-term量子硬件上展示热力学极限性质提取;探索了绝热态制备(ASP)和变分量子本征求解器(VQE)两种方案;验证当前硬件可承受非线性经典后处理的测量噪声
-- **量子传感关联**:量子模拟是量子传感机理研究的重要工具;链接簇方法可用于模拟多体量子系统;离子阱平台的高连通性适合量子计量学研究
-
-#### Vector Atomic量子技术商用:原子钟/惯性传感器面向实际环境(2026-05)
-- [Vector Atomic官网](https://vectoratomic.com/) | 量子惯性+原子钟商业化
-- **公司背景**:Vector Atomic致力于将实验室量子技术工程化用于现实世界;实验室原子钟精确到500亿年误差1秒;原子惯性传感器可测量十亿分之一量级的重力变化
-- **技术进展**:2022年8月在海上演示3台光学钟,亚10皮秒精度运行>2000倍于商业钟;2022年4月通过NIST 30km自由空间链路实现10飞秒同步
-- **量子传感关联**:量子惯性传感器是GPS拒止环境导航的关键;光学原子钟向实用化、小型化演进;量子技术在苛刻热/动态/辐射环境中的验证是商业化的重要里程碑
-
-*本次更新(追加): arXiv:2605.28479悬浮重力传感器皮米控制/2605.28599 NLCE+离子阱量子模拟/Vector Atomic量子惯性商用(2026-05-29凌晨-03:14)*
-
 *本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 02:44 CST)*
 
 ### 🆕 新增条目(2026-05-29 02:44 CST - 本次更新)
@@ -1742,108 +1607,3 @@
 - **量子传感关联**:IDTechEx是量子传感市场最权威分析机构之一;报告持续跟踪量子传感器商业化进程;量子传感芯片化进入规模化制造阶段
 
 *本次更新(追加): 2D hBN自旋量子磁力计+IBM Quantum Summit 2026+IDTechEx量子传感器市场20亿美元(2026-05-29 02:14 UTC)*
-
----
-
-*本次更新(追加): 量子传感最新进展/产业动态(2026-05-29 03:44 CST)*
-
-### 🆕 新增条目(2026-05-29 03:44 CST - 本次更新)
-
-#### Infleqtion发布"Quantum Spectrum"中性原子射频传感平台:超越传统天线接收器,量子传感重新定义电子战与安全通信(2026-05-11)
-- 来源:[Impact Quantum报道(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/) | [Infleqtion官网](https://infleqtion.com/)
-- **技术方案**:基于中性原子(neutral atoms)的射频传感平台——Quantum Spectrum;利用原子量子态对射频信号的超灵敏响应;超越传统天线-based RF接收器的性能边界
-- **核心能力**:超宽带频谱感知(ultra-broadband spectrum awareness);对电子干扰的强抗性(resilience against electronic interference);覆盖国防、通信、情报收集、安全基础设施多场景
-- **应用场景**:在拥挤电磁环境中区分弱信号;电子战(EW)中的信号拦截与识别;安全通信中的频谱监控
-- **量子传感关联**:中性原子量子传感是当前量子射频传感最先进的路线之一;Infleqtion代表量子传感从实验室向军事/安全关键应用的实际部署跨越
-
-#### 欧盟量子旗舰启动QOMPASS计划:强化欧洲量子生态,迎接《量子法案》(2026-05-27)
-- 来源:[Quantum Flagship新闻(May 27, 2026)](https://qt.eu/news/2026/2026-05-27_Quantum-Flagship-launches-QOMPASS-to-strengthen-Europes-quantum-ecosystem-ahead-of-the-Quantum-Act.php) | EU量子旗舰
-- **计划目标**:QOMPASS——加强欧洲量子生态系统,支撑即将到来的《量子法案》(Quantum Act);协调欧洲量子技术研究、产业化和标准化
-- **量子传感关联**:欧洲量子传感产业化的统一协调机制;QOMPASS将推动量子传感从研究走向商业规模交付;欧盟《量子法案》将为量子传感产品提供统一的监管框架
-
-#### EuroQCI公众咨询启动:塑造下一代欧洲量子通信基础设施,量子传感与QKD融合(2026-05-28)
-- 来源:[Quantum Flagship新闻(May 28, 2026)](https://qt.eu/news/2026/2026-05-28_Help-shape-the-next-phase-of-EuroQCI.php) | [EuroQCI](https://qt.eu/)
-- **咨询内容**: EuroQCI(European Quantum Communication Infrastructure)公开咨询——征集产业界、学术界、成员国意见,塑造下一代欧洲量子通信基础设施
-- **量子传感融合**:EuroQCI将量子传感(分布式量子传感网络)与量子密钥分发(QKD)深度融合;量子传感用于通信网络的高精度时钟同步和路由优化
-- **量子传感关联**:量子传感网络化是量子通信基础设施的重要组成部分;EuroQCI为量子传感提供天基和地基平台;量子传感与量子通信的融合是未来6G/量子互联网的核心
-
-#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):量子传感进入Quantum 2.0时代,传感与计量并列核心板块(2026-05)
-- 来源:[Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | [Optica Quantum Industry Summit](https://www.osa.org/)
-- **会议定位**:Quantum 2.0时代——利用量子纠缠和叠加实现大规模量子系统超越单系统Quantum 1.0;覆盖量子计算、通信、传感、计量及生态系统
-- **核心议题**:量子传感与量子计量(sensing and metrology)并列核心板块;量子传感商业化生态;量子传感器从实验室到实际部署
-- **同期活动**:Optica 2026 Quantum Industry Summit同址举办,聚焦量子技术商业化
-- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议展示量子传感与量子通信/计算的融合趋势
-
-#### Quantum Academy正式启动:欧洲量子人才培养计划,70+合作伙伴机构,量子传感工程师培训纳入体系(2026-05-11)
-- 来源:[Quantum Flagship新闻(May 11, 2026)](https://qt.eu/news/2026/2026-05-06_The-Quantum-Academy-launches) | [European Quantum Academy](https://www.europeanquantumacademy.org/)
-- **计划规模**:超过70个合作伙伴机构、100+附属组织联合协调;培养下一代量子技术人才
-- **培训方向**:量子传感工程师纳入培训体系;量子传感系统设计、制造、集成、操作全链条人才
-- **量子传感关联**:量子传感产业化面临人才短缺瓶颈;Quantum Academy将为欧洲量子传感产业提供工程师和科研人员储备
-
-#### Impact Quantum深度分析:量子传感如何重新定义电子战(2026-05-26)
-- 来源:[Impact Quantum(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/) | Candace Gillhoolley
-- **核心观点**:现代通信系统依赖清晰接收电磁信号,但频谱日益拥挤——军事系统与民用基础设施竞争、商业卫星涌入轨道、城市无线网络饱和、AI驱动的电子干扰持续进化
-- **量子优势**:量子传感系统在检测传统噪声下隐藏的微弱信号方面具有独特优势;中性原子系统对射频信号响应超灵敏;量子系统能感知传统硬件无法分辨的细微电磁相互作用
-- **量子传感关联**:量子传感正在成为先进防御网络的关键使能技术;电子战场景是量子传感商业化的高价值应用方向
-
-*本次更新(追加): Infleqtion Quantum Spectrum中性原子射频传感平台 / 欧盟量子旗舰QOMPASS计划启动 / EuroQCI公众咨询启动 / Optica Quantum 2.0 Conference (6月15-18日,格拉斯哥) / Quantum Academy正式启动70+合作机构 / Impact Quantum量子传感电子战深度分析(2026-05-29 03:44 CST)*
-
-*本次更新(追加): Quantum 2.0大会/量子传感产业报告/NIM量子电场测量标准/量子技术监测报告(2026-05-29 04:14 CST)*
-
-### 🆕 新增条目(2026-05-29 04:14 CST - 本次更新)
-
-#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):量子传感进入Quantum 2.0时代,传感与计量并列核心板块
-- 来源:[Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | [Optica Quantum Industry Summit](https://www.osa.org/en-us/meetings/topical_meetings/quantum/)
-- **会议定位**:Quantum 2.0时代——利用量子纠缠和叠加实现大规模量子系统超越单系统Quantum 1.0;覆盖量子计算、通信、传感、计量及生态系统
-- **核心议题**:量子传感与量子计量(sensing and metrology)并列核心板块;量子传感商业化生态;量子传感器从实验室到实际部署
-- **同期活动**:Optica 2026 Quantum Industry Summit同址举办,聚焦量子技术商业化
-- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议展示量子传感与量子通信/计算的融合趋势
-
-#### Quantum Academy正式启动:欧洲量子人才培养计划,70+合作伙伴机构,量子传感工程师培训纳入体系(2026-05-11)
-- 来源:[Quantum Flagship新闻(May 11, 2026)](https://qt.eu/news/2026/2026-05-06_The-Quantum-Academy-launches) | [European Quantum Community](https://qt.eu/)
-- **计划规模**:超过70个合作伙伴机构、100+附属组织联合协调;培养下一代量子技术人才
-- **培训方向**:量子传感工程师纳入培训体系;量子传感系统设计、制造、集成、操作全链条人才
-- **量子传感关联**:量子传感产业化面临人才短缺瓶颈;Quantum Academy将为欧洲量子传感产业提供工程师和科研人员储备
-
-#### Impact Quantum深度分析:量子传感如何重新定义电子战(2026-05-26)
-- 来源:[Impact Quantum(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-an)
-- **核心观点**:现代通信系统依赖清晰接收电磁信号,但频谱日益拥挤——军事系统与民用基础设施竞争、商业卫星涌入轨道、城市无线网络饱和、AI驱动的电子干扰持续进化
-- **量子优势**:量子传感系统在检测传统噪声下隐藏的微弱信号方面具有独特优势;中性原子系统对射频信号响应超灵敏;量子系统能感知传统硬件无法分辨的细微电磁相互作用
-- **量子传感关联**:量子传感正在成为先进防御网络的关键使能技术;电子战场景是量子传感商业化的高价值应用方向
-
-#### NIM发布量子电场测量新技术标准:基于里德伯原子量子传感,可溯源至普朗克常数(2026-04)
-- 来源:[中国计量科学研究院 NIM(May 2026)](https://en.nim.ac.cn/node/623)
-- **技术方案**:基于高激发里德伯原子(Rydberg atoms)的量子电场传感方法;替代传统探头式标准场计量;实现对微波电场的高灵敏度、宽频带测量
-- **核心优势**:测量不确定度可达10^-6量级;对被测系统扰动极小;可直接溯源至普朗克常数
-- **应用场景**:新型材料电磁响应测量、微纳器件芯片性能检测、前沿电磁计量
-- **量子传感关联**:里德伯原子量子传感是量子射频传感的重要路线;量子传感标准化是产业化前提;NIM代表中国在量子传感计量领域的领先地位
-
----
-
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(05:14 CST) | 下次自动更新: 约24小时后*
-
-
-
----
-
-*本次更新(追加): 量子传感最新进展/产业动态/学术论文(2026-05-29 17:14 CST)*
-
-### 🆕 新增条目(2026-05-29 17:14 CST - 本次更新)
-
-#### 中北大学"芯片级固态量子矢量磁传感器"荣获日内瓦国际发明展最高奖:金刚石NV色心+三轴同步矢量测量,获金奖暨评委会特别推荐大奖(特金奖)(2026-05-29)
-- 来源:[搜狐/山西日报, 2026-05-29](https://www.sohu.com/a/1029124910_121124378) | 中北大学刘俊/唐军/马宗敏教授团队
-- **奖项**:第51届日内瓦国际发明展金奖暨评委会特别推荐大奖(特金奖);该校首次获得此奖项;同期"高鲁棒仿生偏振光罗盘"亦获金奖
-- **技术方案**:以金刚石NV色心矢量磁敏感机理为技术核心;提出空间同步矢量磁场测量方法;实现三轴同步、高精度、实时测量
-- **应用验证**:无人装备、电力、芯片等多领域初步落地应用;推动量子传感与精密测量装备向全矢量、小型化、高精度方向升级
-- **量子传感关联**:NV色心是当前最成熟的固态量子传感平台;芯片级矢量磁传感器是量子传感 miniaturization 的里程碑;中国高校在量子传感领域的国际竞争力得到验证
-
-#### 中国首创基于国产抗量子芯片的AI多智能体可信通信试验:量子传感安全技术与AI代理融合,2026-05-28(2026-05-29)
-- 来源:[中国经济网/中新社, 2026-05-29](http://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260529_2996516.shtml) | 中国电信研究院+清华大学+无锡沐创
-- **技术方案**:首次将国产抗量子芯片作为硬件信任锚;攻克多智能体跨域协作中身份难可信、能力难核验、过程难追溯等行业难题
-- **核心成果**:构建基于国产抗量子芯片的AI多智能体可信通信验证环境;实现基于国产抗量子芯片的数字签名背书与知识证明技术;完成多智能体身份与能力全流程可信验证
-- **量子传感关联**:抗量子芯片为量子传感系统提供安全可信的计算和通信底座;量子传感与AI代理的融合是未来智能量子系统的重要方向;中国在量子安全通信领域取得原创性突破
-
-*本次更新(追加): 中北大学芯片级固态量子矢量磁传感器获日内瓦发明展特金奖/中国首创抗量子芯片AI多智能体可信通信试验(2026-05-29 17:14 CST)*
-
----
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(17:14 CST) | 下次自动更新: 约24小时后*
