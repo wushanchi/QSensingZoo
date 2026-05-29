@@ -1,1 +1,1 @@
-QSensingZoo: 888c4663c92121a6b024d3d5482cd64d802e7eaa / Push completed at Thu May 29 2026 09:14 CST
+QSensingZoo last push: 2026-05-29 09:44 CST | commit: TBD | content: Real-world quantum sensors outpace quantum computers / arXiv:2605.28479 picometer levitated gravimeter
