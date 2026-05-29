@@ -1989,3 +1989,59 @@
 - **量子传感关联**:量子惯性传感器是GPS拒止环境导航的关键;光学原子钟向实用化、小型化演进;量子技术在苛刻热/动态/辐射环境中的验证是商业化的重要里程碑
 
 *本次更新(追加): arXiv:2605.28479悬浮重力传感器皮米控制/2605.28599 NLCE+离子阱量子模拟/2605.28647压缩Fock态重力仪/2605.28517格子捕获BEC干涉仪/2605.28600 LNOI 18dB压缩/Vector Atomic量子惯性商用(2026-05-29 10:44 CST)*
+
+
+---
+
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 11:14 CST)*
+
+### 🆕 新增条目(2026-05-29 11:14 CST - 本次更新)
+
+#### Infleqtion发布"Quantum Spectrum"中性原子射频传感平台:超越传统天线接收器,量子传感重新定义电子战与安全通信(2026-05-11)
+- [Impact Quantum报道(May 26, 2026)](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/) | [Infleqtion官网](https://infleqtion.com/)
+- **技术方案**:基于中性原子(neutral atoms)的射频传感平台——Quantum Spectrum;利用原子量子态对射频信号的超灵敏响应;超越传统天线-based RF接收器的性能边界
+- **核心能力**:超宽带频谱感知(ultra-broadband spectrum awareness);对电子干扰的强抗性(resilience against electronic interference);覆盖国防、通信、情报收集、安全基础设施多场景
+- **应用场景**:在拥挤电磁环境中区分弱信号;电子战(EW)中的信号拦截与识别;安全通信中的频谱监控
+- **量子传感关联**:中性原子量子传感是当前量子射频传感最先进的路线之一;Infleqtion代表量子传感从实验室向军事/安全关键应用的实际部署跨越
+
+#### 欧盟量子旗舰启动QOMPASS计划:强化欧洲量子生态,迎接《量子法案》,量子传感产业标准化加速(2026-05-27)
+- [Quantum Flagship新闻(May 27, 2026)](https://qt.eu/news/2026/2026-05-27_Quantum-Flagship-launches-QOMPASS-to-strengthen-Europes-quantum-ecosystem-ahead-of-the-Quantum-Act.php) | EU量子旗舰
+- **计划目标**:QOMPASS——加强欧洲量子生态系统,支撑即将到来的《量子法案》(Quantum Act);协调欧洲量子技术研究、产业化和标准化
+- **量子传感关联**:欧洲量子传感产业化的统一协调机制;QOMPASS将推动量子传感从研究走向商业规模交付;欧盟《量子法案》将为量子传感产品提供统一的监管框架
+
+#### EuroQCI公众咨询启动:塑造下一代欧洲量子通信基础设施,量子传感与QKD融合(2026-05-28)
+- [Quantum Flagship新闻(May 28, 2026)](https://qt.eu/news/2026/2026-05-28_Help-shape-the-next-phase-of-EuroQCI.php) | [EuroQCI](https://qt.eu/)
+- **咨询内容**: EuroQCI(European Quantum Communication Infrastructure)公开咨询——征集产业界、学术界、成员国意见,塑造下一代欧洲量子通信基础设施
+- **量子传感融合**:EuroQCI将量子传感(分布式量子传感网络)与量子密钥分发(QKD)深度融合;量子传感用于通信网络的高精度时钟同步和路由优化
+- **量子传感关联**:量子传感网络化是量子通信基础设施的重要组成部分;EuroQCI为量子传感提供天基和地基平台;量子传感与量子通信的融合是未来6G/量子互联网的核心
+
+#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):量子传感进入Quantum 2.0时代,传感与计量并列核心板块(2026-05)
+- [Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | [Optica Quantum Industry Summit](https://www.osa.org/)
+- **会议定位**:Quantum 2.0时代——利用量子纠缠和叠加实现大规模量子系统超越单系统Quantum 1.0;覆盖量子计算、通信、传感、计量及生态系统
+- **核心议题**:量子传感与量子计量(sensing and metrology)并列核心板块;量子传感商业化生态;量子传感器从实验室到实际部署
+- **同期活动**:Optica 2026 Quantum Industry Summit同址举办,聚焦量子技术商业化
+- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议展示量子传感与量子通信/计算的融合趋势
+
+#### Quantum Academy正式启动:欧洲量子人才培养计划,70+合作伙伴机构,量子传感工程师培训纳入体系(2026-05-11)
+- [Quantum Flagship新闻(May 11, 2026)](https://qt.eu/news/2026/2026-05-11_Quantum-Academy-kicks-off-to-train-the-European-quantum-workforce.php) | EU量子旗舰
+- **计划规模**:欧洲量子旗舰启动Quantum Academy——协调量子科技领域本硕博及继续教育课程;70+合作伙伴机构;2026年正式启动
+- **课程体系**:量子传感(Quantum Sensing)与量子通信、量子计算并列核心课程模块;涵盖NV色心磁力计、OPM、原子干涉仪等主要技术方向
+- **量子传感关联**:量子传感工程师培训纳入欧盟量子人才培养体系;标准化课程将加速量子传感从业者规模扩张;是量子传感产业从研发走向规模化的基础设施之一
+
+#### arXiv:2605.28815 - 低温光学腔耦合二维材料实验平台:cryogenic Fabry-Perot cavity+2D van der Waals materials+光物质耦合增强(2026-05-27)
+- [arXiv:2605.28815](https://arxiv.org/abs/2605.28815) | 量子光学/量子传感平台
+- **技术方案**:超高真空系统容纳长度可调共焦Fabry-Perot光学腔,腔内样品和光学元件均通过低温冷却和振动稳定系统隔离;四轴纳米定位器对准样品并支持载流子密度调制和输运测量电气引线;近共焦构型将光学场集中到局域化超模,大幅增强光-物质耦合
+- **核心成果**:搭建了用于操控二维范德瓦尔斯材料关联电子相的低温实验平台;通过腔内多模传输实现样品原位成像对准;近共焦几何在毫米级腔长条件下保持强光-物质耦合,兼顾对准空间和样品交换
+- **量子传感关联**:二维材料(如过渡金属硫族化合物TMDC)中的自旋缺陷是量子传感的新兴平台;该装置可用于研发基于2D材料自旋缺陷的量子磁力计;低温集成方案为高灵敏度量子传感提供硬件基础
+
+#### arXiv:2605.28808 - 通用化微波噪声计量术:Josephson行波参量放大器非线性噪声原位表征,近量子限电子学计量标准化(2026-05-27)
+- [arXiv:2605.28808](https://arxiv.org/abs/2605.28808) | 量子电子学/计量标准
+- **技术方案**:提出基于可替换噪声源原位替代被测器件(DUT)的噪声计量协议;结合可变温级Planck光谱法与Short-Open-Load-Reciprocal散射参数校准,将噪声和散射参数统一参照到同一低温参考平面;读出链校准与DUT内部动力学解耦
+- **核心成果**:在泵浦激活多模非线性条件下提取JTWPA的增益和输入参考附加噪声;演示设备无关协议支持非线性低温微波器件的便携式噪声表征;为量子极限微波信号处理的计量标准化提供通用框架
+- **量子传感关联**:JTWPA等近量子限微波放大器是量子传感信号链路的核心器件;高精度计量表征对量子磁力计/量子放大器的性能标定至关重要;该协议可推广至其他固态量子传感器的前置放大器表征
+
+*本次更新(追加): Infleqtion Quantum Spectrum中性原子射频传感 / EU QOMPASS量子人才培养计划 / EuroQCI量子通信基础设施咨询 / Optica Quantum 2.0 Conference / Quantum Academy欧洲量子人才培训 / arXiv:2605.28815低温2D材料光学腔 / arXiv:2605.28808 JTWPA微波噪声计量(2026-05-29 11:14 CST)*
+
+---
+
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-29(11:14 CST) | 下次自动更新: 约24小时后*
