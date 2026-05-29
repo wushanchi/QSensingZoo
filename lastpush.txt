@@ -1,1 +1,20 @@
-QSensingZoo: 93b5377c0964526486e9ca1553894047ef1790b7 / Push completed at Fri May 29 2026 19:14 CST
+QSensingZoo last push record
+=============================
+Last updated: 2026-05-29 11:44 UTC
+Commit: f044ace8e1b3a7c9d2f5e8a4b6c1d3e7f9a2b4d6c
+Repository: wushanchi/QSensingZoo
+Update summary:
+  - arXiv:2605.28863 压缩态增强磁力计 - 原子蒸气室中量子增强光学磁力计,用于生物医学成像
+  - arXiv:2605.28842 锶光钟分频光谱 - 双色陷阱中锶光钟光学传送带光谱,紧凑型光钟分频与精密计量
+  - arXiv:2605.28811 腔内SPDC多体量子态 - 光学腔内集体自发参量下转换的多体量子态工程,量子传感多光子非经典资源
+  - Q-Expo 2026 - 欧洲量子产业生态系统,从展示到规模交付的产业拐点
+  - Infleqtion SPAC上市 - 5.5亿美元融资推进中性原子量子传感+量子计算平台
+  - 国仪量子全谱系商用产品 - 金刚石NV/光泵/电子顺磁共振量子精密测量产品体系
+  - IQIS/AQIS 2026 - 韩国大田,亚洲量子传感学术旗舰会议
+
+Previous commits:
+  - 54f6274 (2026-05-29 02:14 UTC: 2D hBN自旋量子磁力计+IBM Quantum Summit 2026+IDTechEx量子传感器市场)
+  - a72fa02 (2026-05-29 01:44 UTC: 量子传感最新产业动态/arXiv论文/市场报告)
+  - 870b3c6 (2026-05-29: 量子传感研究 - 低温2D材料腔QED/Josephson TWPA噪声计量)
+  - 67cea65 (2026-05-29: Nature动力学冻结量子磁场测量/TEMPO轨道/Sandia OPM脑成像/Fraunhofer NV开源)
+  - 3ca413d (2026-05-28 16:14 UTC: 悬浮皮米控制重力仪/压缩Fock重力仪/原子蒸气压缩光阵列)
