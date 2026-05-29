@@ -1,5 +1,45 @@
 ---
 
+*本次更新(追加): 量子传感最新进展/产业动态/学术论文(2026-05-29 12:14 CST)*
+
+### 🆕 新增条目(2026-05-29 12:14 CST - 本次更新)
+
+#### 量子传感市场预测:2045年20亿美元/20亿英镑,半导体蒸汽池量产是关键路径(IDTechEx/App Developer Magazine, 2025-04)
+- [App Developer Magazine: Quantum sensor market to grow to 2B by 2045 (2025-04)](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | [IDTechEx: Quantum Sensors Market 2025-2045](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951)
+- **市场核心**:量子传感器市场将成长至20亿美元(2034年MarketsandMarkets)/20亿英镑(IDTechEx);SK-5核心挑战是SWaP-C(体积/重量/功耗/成本)优化
+- **技术路径**:半导体代工厂量产蒸汽池(vapor cells)是实现大规模制造的关键;玻璃蒸汽池是原子干涉量子传感器的核心组件(芯片原子钟/OPM);半导体晶圆级工艺可实现高密度量产,突破传统玻璃吹制技术的曲面散射和小尺寸限制
+- **蒸气泡核心地位**:玻璃蒸汽池使激光与密封原子气样品相互作用;是原子干涉仪(RF量子传感器/加速度计/陀螺仪)、芯片原子钟、光泵磁力计(OPM)的核心器件;晶圆级半导体制造具有批量生产潜力
+- **量子传感关联**:IDTechEx报告覆盖17类量子传感技术(原子钟/量子磁力计/量子重力仪等);蒸汽池批量制造是量子传感器规模化的最大瓶颈之一;率先实现半导体蒸汽池集成的厂商将赢得最大回报
+
+#### Scientific Magnetics出货第20台量子计算超导磁体:量子计算机规模化核心配件供应商,18台在产(2026-05)
+- [Magnetics Magazine: Scientific Magnetics Ships 20th Quantum Computing Magnet (2026-05)](https://magneticsmag.com/scientific-magnetics-ships-20th-quantum-computing-magnet/) | SciMag / Avingtrans PLC
+- **里程碑**:2026年5月,英国牛津郡SciMag出货第20台量子计算用超导磁体;另有18台系统在产,订单前景强劲
+- **技术积累**:SciMag超过30年超导/电阻磁体系统经验;深度理解量子比特噪声性能相关的环境因素;从设计/制造到现场认证全流程服务
+- **量子传感关联**:量子比特架构需要精密磁环境控制;超导磁体是超导量子比特(SQUID)和离子阱量子计算系统的核心磁场组件;英国政府宣布£2.5 billion投资AI和量子技术,预计未来20年创造10万+岗位、产生£2120亿经济效益
+
+#### BESSY II自旋电子学实时分析:Freie Universität Berlin/HZB/Upsala University联合揭示Fe/CoO双层膜超快退磁动力学(2026)
+- [Magnetics Magazine: Spintronics at BESSY II (2026)](https://magneticsmag.com/spintronics-at-bessy-ii-real-time-analysis-of-magnetic-bilayer-systems/) | BESSY II飞秒切片设施
+- **研究内容**:用超短红外激光脉冲激发铁磁/反铁磁双层膜样品;用软X射线脉冲检测和分析磁序变化;在原子级空间分辨率和超快时间尺度上追踪每层磁序变化
+- **核心发现**:9层铁磁Fe层+9层反铁磁CoO层双层体系;退磁动力学由铁磁金属中的热电子将激发能量传递到反铁磁层自旋;是反铁磁层磁序损失的主要原因
+- **量子传感关联**:自旋电子器件依赖铁磁/反铁磁层间耦合,是量子传感材料研究的核心方向;NV色心/SQUID等量子传感器是研究自旋动力学的高灵敏度工具;超快磁动力学为量子传感材料设计提供新思路
+
+#### 量子传感技术市场2025-2035预测:整体接近千亿美元,量子传感是四大板块之一且增速领先(ResearchAndMarkets, 2025-05)
+- [ResearchAndMarkets: Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing)
+- **整体市场**:量子技术整体市场2025-2035年接近$99.34 billion(约994亿美元);量子传感与量子计算、量子通信、量子成像并列四大板块
+- **量子传感增速**:量子传感板块增速领先整体市场;IDTechEx预测2024至2044年CAGR 18%,2044年达71亿美元
+- **竞争格局转变**:技术从灵敏度比拼转向批量交付稳定性与成本控制;市场从"能不能做出来"转向"能不能稳定交付"
+- **量子传感关联**:量子传感是量子技术版图中产业化最成熟的板块之一;市场格局从科研竞争转向产业化竞争
+
+#### Vector Atomic量子技术商用:原子钟/惯性传感器面向实际环境,海上验证光学钟亚10皮秒精度(2026-05)
+- [Vector Atomic官网](https://vectoratomic.com/) | 量子惯性+原子钟商业化
+- **公司背景**:Vector Atomic致力于将实验室量子技术工程化用于现实世界;实验室原子钟精确到500亿年误差1秒;原子惯性传感器可测量十亿分之一量级的重力变化
+- **技术进展**:2022年8月在海上演示3台光学钟,亚10皮秒精度运行>2000倍于商业钟;2022年4月通过NIST 30km自由空间链路实现10飞秒同步
+- **量子传感关联**:量子惯性传感器是GPS拒止环境导航的关键;光学原子钟向实用化、小型化演进;量子技术在苛刻热/动态/辐射环境中的验证是商业化的重要里程碑
+
+*本次更新(追加): 量子传感市场20亿美元半导体蒸汽池路径/SciMag第20台量子计算超导磁体/BESSY II自旋电子学Fe/CoO双层超快动力学/量子技术千亿美元市场预测/Vector Atomic量子惯性商用(2026-05-29 12:14 CST)*
+
+---
+
 *本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 10:14 CST)*
 
 ### 🆕 新增条目(2026-05-29 10:14 CST - 本次更新)
