@@ -1,3 +1,18 @@
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 20:14 CST)*
+
+### 🆕 新增条目(2026-05-29 20:14 CST - 本次更新)
+
+#### arXiv quant-ph 2026-05-29 最新论文(第二批次):量子传感关联摘要,量子光学/量子通信/量子机器学习(2026-05-29)
+- 来源:[arXiv quant-ph New Submissions (2026-05-29)](https://arxiv.org/list/quant-ph/recent) | 共103篇量子物理新论文
+- **arXiv:2605.30304** - Analytical model for structured light propagation through a turbulent atmosphere (Konstantin Kravtsov, 2026-05-28 | 12 pages);湍流大气中结构光传播的解析模型,基于分裂步近似的模式表示;光功率转移与传播距离呈线性关系,矩阵指数形式解析解;量子成像/量子通信穿越大气湍流是量子传感外场部署的理论基础
+- **arXiv:2605.30271** - Quantum Synchronization of Fock States (Steven Kim, 2026-05-28 | 4+4 pages);展示Fock态量子同步现象,负Wigner函数稳态可被外部驱动相位锁定,在Arnold tongue regime内实现同步;同步是量子传感系统网络化协调的潜在物理机制
+- **arXiv:2605.29964** - A Neutral-Atom Quantum Compiler with Application-Specific Layout and Hub-Assisted Shuttling (Takahiko Satoh, 2026-05-28 | 12 pages);中性原子量子编译器,针对单区monolithic设备的任意连接NISQ电路编译;Hub trap技术使路由主导电路保真度提升3个数量级;中性原子平台同时是量子射频传感(Rydberg原子)的重要技术路线
+- **arXiv:2605.29883** - Dynamical Casimir photons from rotation of a nonspherical particle (François Impens, 2026-05-28 | 8 pages);非球形粒子旋转产生动力Casimir光子对;设置最大尖端速度约束时近乎球形几何发射率最大;对自由空间旋转动力Casimir发射给出严格定量限制;是纳米尺度量子传感的新物理机制探索
+- **arXiv:2605.29840** - Toward Practical Two-Way Covert Communication (Michael Bullock, 2026-05-28 | 14 pages);实用化双向隐蔽量子通信方案,利用窄带激光源和量子bosonic通道实现proof-of-concept;提案相关检测器获得量子光源宽带增益而无需求精确模式匹配;量子传感与量子安全通信共享底层技术
+- **arXiv:2605.29877** - Verifying Adversarial Robustness in Quantum Machine Learning (2026-05-28);QML对抗对抗扰动的鲁棒性验证框架;首个专用QML鲁棒性验证工具VeriQR;在20量子比特超导处理器上完成首次量子对抗鲁棒性实验基准;量子机器学习是量子传感数据处理的重要方向
+- **arXiv:2605.30032** - A comparison of different master equations for driven-dissipative dynamics (Prakritish Gogoi, 2026-05-28);驱动耗散动力学不同主方程比较研究,用于超导量子比特色散读出;Bloch-Redfield方法揭示Lindblad主方程在高混合度下的定量差异;为量子传感读出链路建模提供精确理论工具
+- **量子传感关联**:今日103篇论文中量子传感相关工作集中在量子光学(光与物质相互作用)、量子通信(隐蔽通信/大气传输)、量子机器学习(数据处理)三个方向;中性原子平台在量子计算与量子传感双重路线上同步发展
+
 *本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 18:44 CST)*
 
 ### 🆕 新增条目(2026-05-29 18:44 CST - 本次更新)
