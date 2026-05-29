@@ -1,6 +1,6 @@
-*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-30 01:44 CST)*
+*本次更新(追加): 量子传感最新进展(2026-05-30 02:44 CST) - Qnami低温NV显微镜/Cerca Magnetics A轮融资/IDTechEx市场预测/IOP地下成像/布里斯托光子芯片*
 
-### 🆕 新增条目(2026-05-30 01:44 CST - 本次更新)
+### 🆕 新增条目(2026-05-30 02:44 CST - 本次更新)
 
 #### arXiv quant-ph 2026-05-29 新批次论文精选:量子传感关联摘要(量子光学/量子模拟/量子算法/因果序)(2026-05-29)
 - 来源:[arXiv quant-ph New Submissions (2026-05-29)](https://arxiv.org/list/quant-ph/recent) | 共103篇量子物理新论文
@@ -5211,3 +5211,51 @@
 
 ---
 
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-30 02:44 CST)*
+
+### 🆕 新增条目(2026-05-30 02:44 CST - 本次更新)
+
+#### Qnami ProteusQ-LT低温NV扫描显微镜:1.8K低温/3 µT/√Hz灵敏度,纳米尺度定量磁场成像商用化(2026-05)
+- [Qnami官网](https://www.qnami.com/) | 瑞士量子传感公司 | 低温NV色心扫描磁学显微镜
+- **技术指标**:工作温度1.8 K低温环境;磁场灵敏度3 µT/√Hz;实现纳米尺度定量磁场成像;基于金刚石NV色心扫描探针
+- **核心产品对比**:ProteusQ-LT(低温型) vs ProteusQ(常温型)——低温扩展相干时间、提升灵敏度;Quantilever金刚石探针产品线覆盖多种扫描场景
+- **学术引用**:Prof. Claire Donnelly/Prof. Uri Vool(MPI Dresden)——"在极短时间内产生了大量教科书级质量数据";Prof. Vincent Jacques(CNRS)——"Qnami团队专业且热情";Prof. Elke Neu-Ruffa/RPTU Kaiserslautern——"ProteusQ设备大幅推进NV磁测量适用性"
+- **量子传感关联**:低温NV是量子传感灵敏度最高的工作模式之一;ProteusQ-LT将实验室级低温NV实验产品化;纳米级定量磁场成像是量子材料研究的核心工具
+
+#### Cerca Magnetics完成380万英镑A轮融资:可穿戴量子脑扫描仪全球交付19套,估值3000万英镑(2026-04)
+- [腾讯新闻/光子盒QUANTUMCHINA, 2026-04-22](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | 吉尼斯风险投资领投 | 诺丁汉大学衍生企业
+- **融资规模**:380万英镑(约475万美元)A轮;投后估值3000万英镑;资金用于拓展临床医疗市场布局
+- **产品**:可穿戴式脑成像扫描仪——基于量子光泵磁力计(OPM)实现脑磁图(MEG);允许受试者在自然活动中完成测量,替代传统固定式扫描设备
+- **商业化进度**:已向全球12个国家神经科学研究机构交付19套系统;年销售额增长率持续保持100%以上;正在英国和美国推进临床注册审批
+- **医学应用**:癫痫/多发性硬化/痴呆等神经系统疾病研究;自闭症研究(多伦多病童医院);英国国防部280万英镑项目——爆炸冲击对军人脑部影响评估
+- **量子传感关联**:量子脑成像是量子传感在生物医学领域最接近临床的应用方向;可穿戴化是MEG技术从科研走向临床的关键里程碑;Cerca是量子传感医疗应用的商业化领跑者
+
+#### IDTechEx量子传感市场报告:2044年71亿美元,17类量子传感技术全面覆盖(2024-2044预测)
+- [IDTechEx Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx市场研究
+- **市场预测**:量子传感市场规模预计2044年达到71亿美元;覆盖17种量子传感技术领域
+- **技术分类**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器五大类
+- **应用方向**:电动汽车电池检测;GPS拒止导航;医学成像;量子计算
+- **量子传感关联**:量子传感正从实验室走向大规模商业化;国防和医疗是最强需求驱动;量子传感市场的长期增长确定性高
+
+#### IOP量子传感地下成像:重力传感与振动噪声分离,Einstein等价原理挑战与突破(2022→2026持续影响)
+- [IOP Quantum Sensing - A New Window to the Underground](https://www.iop.org/events/quantum-sensing-new-window-underground) | IOP英国物理学会
+- **核心挑战**:Einstein等价原则——振动噪声与重力加速度信号不可区分,限制了地下成像深度;地下设施定位困难导致道路重复开挖
+- **技术方案**:量子重力传感利用任意两质量间万有引力实现无源探测;突破传统地球物理方法的地面条件依赖性
+- **应用场景**:地下公用设施(管道/电缆)精确定位;考古遗址探测;地质灾害预警
+- **量子传感关联**:量子重力传感是量子传感在基础设施领域的典型应用;振动噪声分离是量子重力仪走向实用的核心挑战;地下成像市场是量子传感的蓝海方向
+
+#### 布里斯托大学光子芯片量子传感:mass manufacturable photonic sensors at the quantum limit(2025→2026)
+- [TechBriefs: Quantum Sensing to Engineer Photonic Sensors](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | 布里斯托大学物理系/QET Labs
+- **技术突破**:在商业代工厂(Foundry)批量制造光子芯片微环谐振器;将批量可制造光子传感器操作至量子极限(quantum limit)
+- **应用方向**:温室气体监测;癌症早期检测;量子成像系统
+- **量子传感关联**:光子芯片批量制造是量子传感走向工业化的关键;量子极限操作是传感器性能的理论极限;该工作证明量子传感可在标准半导体工艺线上生产
+
+#### Quantum Singapore 2026论坛:量子汇聚——从硬件突破到工业采纳,亚洲量子枢纽系统性展示(2026-02)
+- [腾讯新闻, 2026-02-07](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K / FinQ Tech / Informa Markets / IEEE Photonics Society
+- **论坛主题**:Quantum Convergence: From Hardware Breakthrough to Industrial Applications——硬件优化、软硬协同、区域化生态构建
+- **主要议题**:量子传感从实验室到工业采纳的转型路径;量子传感在国防和民用领域的具体应用;亚洲量子传感产业生态构建
+- **量子传感关联**:新加坡是亚洲量子传感产业的重要节点;论坛系统性展示量子传感商业化全貌;量子传感产业化临界点已在2026年到达
+
+*本次更新(追加): Qnami ProteusQ-LT低温NV扫描显微镜1.8K/3µT灵敏度/Cerca Magnetics 380万英镑A轮融资全球19套交付/IDTechEx量子传感市场71亿美元2044年预测/IOP量子传感地下重力成像/布里斯托光子芯片量子极限批量制造/Quantum Singapore 2026亚洲量子枢纽(2026-05-30 02:44 CST)*
+
+---
