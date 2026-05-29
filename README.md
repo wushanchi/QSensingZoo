@@ -1870,3 +1870,51 @@
 
 ---
 
+
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 08:14 CST)*
+
+### 🆕 新增条目(2026-05-29 08:14 CST - 本次更新)
+
+#### 欧盟量子旗舰Q-Expo 2026:欧洲量子产业大集结,量子传感商业化生态全面展示(2026-05-12)
+- 来源:[Quantum Flagship新闻(May 12, 2026)](https://qt.eu/news/2026/2026-05-12_Quantum-Flagship-at-Q-Expo-2026:-meet-the-people-shaping-Europes-quantum-future.php) | [欧洲量子产业联盟QuIC](https://qt.eu/)
+- **展会定位**:Q-Expo 2026是欧洲量子产业界规模最大的展示活动之一;汇聚欧洲量子传感全产业链从研究到商业化的各环节
+- **量子传感关联**:量子传感作为欧洲量子旗舰计划核心方向,在Q-Expo上系统性展示从实验室到产业化的最新进展;欧洲量子传感生态的完整呈现
+
+#### 欧盟AFQC 2026年度大会(2026-05-27~28):量子传感作为年度挑战主题,容错量子传感协议成焦点(2026-05)
+- 来源:[Quantum Flagship新闻(May 27, 2026)](https://qt.eu/news/2026/2026-05-27_AFQC-2026:-Challenge-AFQC-2026-is-the-annual-community-conference-that-brings-together-the-European-Quantum-Sensing-Community.php) | AFQC 2026
+- **大会主题**:AFQC(Australian Frontiers of Quantum Computing)2026年议题聚焦量子传感容错协议和工业部署挑战
+- **量子传感核心议题**:量子传感的容错计算整合;量子传感系统的鲁棒性设计;量子传感在工业环境中的实际部署
+- **量子传感关联**:AFQC是量子传感领域连接学术界和工业界的重要桥梁;容错量子传感是量子传感实用化的关键技术方向
+
+#### 欧盟量子旗舰Q-Expo 2026展会:欧洲量子传感产业生态全景展示(2026-05-12)
+- 来源:[Quantum Flagship新闻(May 12, 2026)](https://qt.eu/news/2026/2026-05-12_Quantum-Flagship-at-Q-Expo-2026:-meet-the-people-shaping-Europes-quantum-future.php) | [欧洲量子产业联盟QuIC](https://qt.eu/)
+- **展会内容**:Q-Expo 2026汇聚欧洲量子传感从研究到商业化的全产业链;量子传感商业化生态全景展示
+- **量子传感关联**:欧洲量子传感产业化体系完整;从研究机构到产业联盟,量子传感生态全面展示
+
+#### Quantum Flagship量子革命公众传播周(2026-05-19):量子传感科普与公众意识提升(2026-05)
+- 来源:[Quantum Flagship新闻(May 19, 2026)](https://qt.eu/news/2026/2026-05-19_Quantum-Revolution:-bringing-quantum-closer-to-the-public.php) | 欧洲量子旗舰
+- **活动内容**:量子革命——将量子科技更贴近公众;面向大众科普量子传感技术的基本原理和应用场景
+- **量子传感关联**:量子传感的公众认知度提升是产业化的社会基础;欧洲量子旗舰持续推动量子科技的大众化传播
+
+#### Infleqtion正式完成SPAC合并上市:募资5.5亿美元,量子传感/量子通信/量子计算三线并进(2026-05-11)
+- 来源:[Infleqtion官网新闻(May 11, 2026)](https://infleqtion.com/) | [Business Wire](https://www.businesswire.com/news/home/20250511005562/en/Infleqtion-Completes-Business-Combination-with-GrAliosc) | [Impact Quantum深度分析](https://impactquantum.com/infleqtion-could-redefine-rf-sensing-electronic-warfare-and-secure-communications/)
+- **上市信息**:Infleqtion完成与GrAliosc的SPAC合并,2026年5月11日以代码INFQ在NYSE正式挂牌交易;此次合并为Infleqtion提供了约5.5亿美元的总募资
+- **CHIPS Act资助**:Infleqtion获得100万美元CHIPS Act资助,用于量子精密计时和量子传感平台的开发
+- **Quantum Spectrum平台**:中性原子射频传感平台Quantum Spectrum——超越传统天线接收器,量子传感重新定义电子战与安全通信
+- **量子传感关联**:Infleqtion是量子传感上市公司的标杆;量子传感从私募走向公开市场;中性原子射频量子传感器是当前量子传感商业化最活跃的路线之一
+
+#### Optica Quantum 2.0 Conference & Exhibition(2026-06-15-18, 格拉斯哥):量子传感进入Quantum 2.0时代,传感与计量并列核心板块
+- 来源:[Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | [Optica Quantum Industry Summit](https://www.osa.org/en-us/meetings/topical_meetings/quantum/)
+- **会议定位**:Quantum 2.0时代——利用量子纠缠和叠加实现大规模量子系统超越单系统Quantum 1.0;覆盖量子计算、通信、传感、计量及生态系统
+- **核心议题**:量子传感与量子计量(sensing and metrology)并列核心板块;量子传感商业化生态;量子传感器从实验室到实际部署
+- **同期活动**:Optica 2026 Quantum Industry Summit同址举办,聚焦量子技术商业化
+- **量子传感关联**:Quantum 2.0时代,量子传感从单点测量走向网络化、规模化;会议展示量子传感与量子通信/计算的融合趋势
+
+#### Quantum Academy正式启动:欧洲量子人才培养计划,70+合作伙伴机构,量子传感工程师培训纳入体系(2026-05-11)
+- 来源:[Quantum Flagship新闻(May 11, 2026)](https://qt.eu/news/2026/2026-05-06_The-Quantum-Academy-launches) | [European Quantum Academy](https://www.europeanquantumacademy.org/)
+- **计划规模**:超过70个合作伙伴机构、100+附属组织联合协调;培养下一代量子技术人才
+- **培训方向**:量子传感工程师纳入培训体系;量子传感系统设计、制造、集成、操作全链条人才
+- **量子传感关联**:量子传感产业化面临人才短缺瓶颈;Quantum Academy将为欧洲量子传感产业提供工程师和科研人员储备
+
+*本次更新(追加): Q-Expo 2026欧洲量子产业生态 / AFQC 2026量子传感容错协议 / Quantum Flagship量子革命公众传播 / Infleqtion SPAC上市5.5亿美元+CHIPS Act 100万 / Optica Quantum 2.0 Conference / Quantum Academy正式启动(2026-05-29 08:14 CST)*
+

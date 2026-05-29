@@ -1,37 +1,11 @@
 QSensingZoo last push record
 ===============================
-Last updated: 2026-05-28 22:52 UTC
-Commit: 8e76db8
+Last updated: 2026-05-29 08:14 CST
 Repository: wushanchi/QSensingZoo
 Update summary:
-  - Infleqtion IPO $550M via SPAC merger (NYSE:INFQ)
-  - Infleqtion CHIPS Act $100M funding
-  - Quantum Innovation Summit Dubai 2026 (Sep 28-30)
-  - IndustryNetCouncil Quantum 101 webinar (Jun 30)
-
-Last updated: 2026-05-29 07:14 CST
-Commit: 5dd7e93
-Repository: wushanchi/QSensingZoo
-Update summary:
-  - Superradiant LIDAR (arXiv:2605.28378) Dicke超辐射增强测距灵敏度
-  - Global quantum metrology bounds (arXiv:2605.28374) 全局Cramér-Rao理论
-  - Quantum geometry connected state manifolds (arXiv:2605.28351) 量子几何新机制
-  - Infleqtion Quantum Spectrum中性原子射频传感平台
-  - 欧盟QOMPASS计划/EuroQCI公众咨询
-  - Optica Quantum 2.0 Conference (2026-06-15-18 格拉斯哥)
-
-
----
-
-QSensingZoo last push record
-===============================
-Last updated: 2026-05-29 07:14 CST
-Commit: 5dd7e93
-Repository: wushanchi/QSensingZoo
-Update summary:
-  - Superradiant LIDAR (arXiv:2605.28378) Dicke超辐射增强测距灵敏度
-  - Global quantum metrology bounds (arXiv:2605.28374) 全局Cramér-Rao理论
-  - Quantum geometry connected state manifolds (arXiv:2605.28351) 量子几何新机制
-  - Infleqtion Quantum Spectrum中性原子射频传感平台
-  - 欧盟QOMPASS计划/EuroQCI公众咨询
-  - Optica Quantum 2.0 Conference (2026-06-15-18 格拉斯哥)
+  - Q-Expo 2026 European quantum industry ecosystem showcase
+  - AFQC 2026 quantum sensing fault tolerance protocols
+  - Quantum Flagship Quantum Revolution public outreach week
+  - Infleqtion SPAC IPO $550M + CHIPS Act $1M funding
+  - Optica Quantum 2.0 Conference (2026-06-15-18, Glasgow)
+  - Quantum Academy officially launched (70+ partner institutions)
