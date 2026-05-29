@@ -2073,3 +2073,40 @@
 
 *本次更新(追加): Q-Expo 2026欧洲量子产业生态 / AFQC 2026量子传感容错协议 / Quantum Flagship量子革命公众传播 / Infleqtion SPAC上市5.5亿美元+CHIPS Act 100万 / Optica Quantum 2.0 Conference / Quantum Academy正式启动(2026-05-29 08:14 CST)*
 
+
+---
+
+*本次更新(追加): 量子传感最新进展/产业动态(2026-05-29 13:14 CST)*
+
+### 🆕 新增条目(2026-05-29 13:14 CST - 本次更新)
+
+#### MIT量子雷达突破:原子蒸气室探测隐蔽物体,量子传感赋能地下目标成像(2025-08)
+- [MIT Technology Review: This quantum radar could image buried objects (2025-08)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | NIST/RTX合作研发
+- **技术方案**:使用玻璃气室中的铯原子云(室温)作为雷达量子组件;激光读取原子与反射射频波的交互;相比传统雷达使用更小的射频频段功率
+- **核心成果**:通过检测返回波与原子云的相互作用实现目标探测;原型系统展示量子传感在低功率隐蔽探测中的独特优势
+- **量子传感关联**:量子雷达是量子传感在国防安全领域的重要应用方向;RTX(雷神技术)是重要军工合作方;MIT-NIST-RTX三角合作模式代表了量子传感器从学术到国防应用的典型路径
+
+#### Scientific Magnetics出货第20台量子计算超导磁体:18台在产,量子计算机规模化核心配件(2026-05)
+- [Magnetics Magazine: Scientific Magnetics Ships 20th Quantum Computing Magnet (2026-05)](https://magneticsmag.com/scientific-magnetics-ships-20th-quantum-computing-magnet/) | Avingtrans PLC
+- **里程碑**:2026年5月,英国牛津郡SciMag出货第20台量子计算用超导磁体;另有18台系统在产,订单前景强劲
+- **技术积累**:SciMag超30年超导/电阻磁体系统经验;深度理解量子比特噪声性能相关的环境因素;从设计/制造到现场认证全流程服务
+- **量子传感关联**:超导磁体是SQUID和离子阱量子计算系统的核心磁场组件;量子比特架构需要精密磁环境控制;英国政府宣布£2.5 billion投资AI和量子技术,预计未来20年创造10万+岗位
+
+#### Quantum Innovation Summit Dubai 2026:量子技术从理论迈向产业,2026年9月迪拜(2026-05)
+- [Quantum Innovation Summit 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日 | 迪拜君悦酒店
+- **主题**:Quantum & Emerging Frontiers——Advancing Global Innovation & Technological Leadership
+- **核心议题**:量子计算、量子通信、量子传感、量子成像;量子技术从理论探索迈向产业化落地;量子传感商业化是重要板块
+- **量子传感关联**:中东地区将量子技术纳入国家战略;迪拜量子峰会汇聚全球头部企业和学术机构;量子传感在国防和工业检测领域的商业化路径在本次峰会系统性展示
+
+#### Quantum Singapore 2026论坛:从硬件突破到工业应用,量子传感产业化加速(2026-02-04)
+- 来源:[腾讯新闻, 2026-02-07](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K / FinQ Tech / Informa Markets / IEEE Photonics Society
+- **主题**:Quantum Singapore 2026——"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Applications)
+- **地点**:2026年2月4日,新加坡滨海湾金沙会展中心
+- **量子传感关联**:量子传感是论坛核心板块之一;新加坡作为亚洲量子科技枢纽,汇聚从学术到产业的完整生态
+
+#### EPJ Quantum Technology影响因子5.6分/Q1区:量子传感学术发表平台持续扩展(2026)
+- 来源:[LetPub期刊投稿经验](https://www.letpub.com.cn/index.php/index.php?page=journalapp&view=detail&journalid=10428)
+- **期刊覆盖**:量子测量/计量/光刻;量子复杂系统/网络/细胞自动机;量子机电系统;量子光机械系统;量子机器/工程/纳米机器人;量子控制理论;量子信息/通信/计算;量子热力学;量子超材料;卡西米尔力对微纳米机电系统的作用
+- **量子传感关联**:量子传感学术发表平台持续扩展;量子传感相关论文在Q1区期刊占比提升
+
+*本次更新(追加): MIT量子雷达隐蔽物体成像/SciMag第20台量子计算超导磁体/Quantum Innovation Summit Dubai 2026/Quantum Singapore 2026/EPJ QT 5.6分(2026-05-29 13:14 CST)*
