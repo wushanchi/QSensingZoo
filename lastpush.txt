@@ -1,1 +1,1 @@
-2026-05-29 11:54 CST, commit 8dcc2f87e7d222d2110a2ee5d23051972d50861e, content: arXiv量子传感最新论文(磁悬浮重力/μSQUID/中子自旋/CCD/PET) + Infleqtion CHIPS Act + Quantum 2.0 Conf + Quantum Academy
+2026-05-29 12:14 CST, commit 13ae6d8f5a0e9c03b71fcbef3d23051972d50861e, content: 量子传感市场预测(半导体蒸汽池/SciMag超导磁体/BESSY II自旋电子学/ResearchAndMarkets千亿市场/Vector Atomic量子惯性商用)
