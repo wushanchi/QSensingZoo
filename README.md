@@ -1,3 +1,34 @@
+*本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 23:44 CST)*
+
+### 🆕 新增条目(2026-05-29 23:44 CST - 本次更新)
+
+#### arXiv quant-ph 2026-05-29 最新论文(第三批次):量子传感关联摘要,量子光学/原子物理/量子材料(2026-05-29)
+- 来源:[arXiv quant-ph New Submissions (2026-05-29)](https://arxiv.org/list/quant-ph/recent) | 共103篇量子物理新论文
+- **arXiv:2605.30304** - Analytical model for structured light propagation through a turbulent atmosphere (Konstantin Kravtsov, 2026-05-28 | 12 pages);湍流大气中结构光传播的解析模型,基于分裂步近似的模式表示;光功率转移与传播距离呈线性关系,矩阵指数形式解析解;量子成像/量子通信穿越大气湍流是量子传感外场部署的理论基础
+- **arXiv:2605.30224** - Heralded ultrafast generation of macroscopic quantum states in matter with bright squeezed vacuum light (2026-05-28 | 21 pages);明亮压缩真空光结合单次正交测量实现宏观量子态超快制备;对共振电偶极耦合二能级系统系综,制备零本征值Dicke态;反旋转项驱动从Dicke态到猫态的 strobesopic 转变;量子光学方法制备多体量子态是量子传感系综的重要技术路径
+- **arXiv:2605.30165** - Tunneling phase diagram: A machine-learning framework for multidimensional kinetic isotope effects (2026-05-28 | 17 pages);机器学习框架解码动力学同位素效应(KIE)中的量子隧穿强度;R²>0.98,RMSE=0.21高精度预测;揭示300-600K温区异常高KIE-低κ区间;量子隧穿是微观传感的重要机制
+- **量子传感关联**:本批次103篇论文中量子传感相关工作集中在:量子光学(压缩真空光与多体态制备)、大气湍流量子通信、量子隧穿微观传感等方向;量子材料与量子光学方法正深度交叉
+
+#### qutools量子传感商用产品:德国量子光学仪器公司/全球量子传感研究基础设施(2026持续)
+- 来源:[qutools官网](https://www.qutools.com/) | qutools GmbH,德国慕尼黑
+- **产品线**:qutools专注于量子光学与量子传感仪器;核心产品包括基于光子相关测量的量子成像系统、量子纠缠光源、单光子探测器校准设备
+- **量子传感关联**:qutools代表量子传感从实验室到商业仪器的转化路径;德国量子光学企业在仪器化方面全球领先;qutools产品被全球多个量子传感研究小组采用
+
+#### SQUID(超导量子干涉仪)商用产品:Quantum Design/全球生物磁测量/地磁探测行业标准(2026持续)
+- 来源:[Quantum Design官网](https://www.qdusa.com/) | Quantum Design Inc.,美国加州
+- **核心产品**:MPMS(磁学测量系统)基于SQUID探测技术,是全球磁学测量行业标准设备;MPMS XL系列和SQUID-VSM两个产品线;灵敏度达10⁻⁸ emu量级,覆盖低温到室温
+- **应用领域**:材料磁学表征;生物磁性测量;地球物理探测;量子传感基准装置
+- **量子传感关联**:SQUID是超导量子传感的经典商用形式;MPMS系统代表量子传感技术在精密测量领域的成熟商业化;Quantum Design的SQUID产品是全球高校和研究机构的标准装备
+
+#### Quantum Tech Congress 2026:量子传感与AI/高性能计算融合,2026年量子产业新风向标(2026-05)
+- 来源:[Quantum.Tech World 2026](https://www.quantumtechcongress.com/) | 2026年度量子科技论坛
+- **主题**:Quantum, AI & HPC: Redefining What's Possible——量子、AI与高性能计算的融合正在重新定义可能性的边界
+- **量子传感关联**:量子传感作为量子技术的重要分支与AI计算深度结合;量子传感数据的AI处理成为新方向;量子-经典混合系统在感知-计算一体化方向突破
+
+*本次更新(追加): qutools量子光学仪器/SQUID商用产品Quantum Design/Quantum Tech Congress 2026/arXiv第三批次量子传感论文(2026-05-29 23:44 CST)*
+
+---
+
 *本次更新(追加): 量子传感最新进展/产业动态/arXiv论文(2026-05-29 21:44 CST)*
 
 *本次更新(追加): 量子传感最新进展/产业动态/学术论文(2026-05-29 22:14 CST)*
