@@ -5259,3 +5259,32 @@
 *本次更新(追加): Qnami ProteusQ-LT低温NV扫描显微镜1.8K/3µT灵敏度/Cerca Magnetics 380万英镑A轮融资全球19套交付/IDTechEx量子传感市场71亿美元2044年预测/IOP量子传感地下重力成像/布里斯托光子芯片量子极限批量制造/Quantum Singapore 2026亚洲量子枢纽(2026-05-30 02:44 CST)*
 
 ---
+---
+### 🆕 新增条目(2026-05-30 03:14 CST - 本次更新)
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:全球量子测量仪器市场整合,SQUID/MPMS产品线纳入同一体系(2026-01)
+- [光子盒QUANTUMCHINA: Quantum Design宣布完成收购牛津仪器纳米科学部门(2026-01-18)](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | Quantum Design Inc./Oxford Instruments NanoScience
+- **交易概况**:2026年1月2日Quantum Design宣布完成对Oxford Instruments(牛津仪器)旗下NanoScience(纳米科学)部门的收购;Quantum Design是全球SQUID/MPMS磁学测量系统的行业标准供应商
+- **产品整合**:SQUID磁力计和MPMS系统将纳入Quantum Design产品体系;两者合计覆盖全球高校、研究机构和工业用户超千家
+- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感最成熟的商用形式;此次收购标志着全球量子测量仪器市场的深度整合;Quantum Design-NanoScience将成为全球量子磁学测量市场的绝对领导者
+
+#### 布里斯托大学光量子传感突破:光子芯片量子极限运行,温室气体检测与癌症诊断新工具(2025→2026持续影响)
+- [Tech Briefs: Quantum Sensing to Engineer Photonic Sensors (2025-02-01)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | 布里斯托大学QET Labs
+- **技术方案**:将光子芯片微环谐振腔(nanofabricated microring resonator)在量子极限下运行;多数量子传感方案依赖纠缠或压缩态——该团队突破此限制,实现可批量制造的集成光子传感
+- **核心成果**:在商业代工厂实现批量制造;首次将集成光子传感器件运行在量子极限;对温室气体监测和癌症检测有直接应用前景
+- **量子传感关联**:集成光子量子传感是量子传感芯片化的重要路线;批量制造能力是量子传感商业化的关键瓶颈;该工作解决了纠缠/压缩态难以产生的限制
+
+#### IOP量子传感地下成像:物理研究所期刊聚焦,量子传感探测地下目标(2026)
+- [Institute of Physics: Quantum Sensing for Underground Imaging](https://www.iop.org/) | IOP Publishing
+- **技术方向**:利用量子重力仪/量子磁力计进行地下目标探测;量子重力梯度仪可探测地下密度异常(矿藏、空洞、管道);量子磁力计可探测地下金属异物
+- **应用场景**:矿产资源勘探;基础设施检测(管道、电缆);考古探测;国防地雷探测
+- **量子传感关联**:地下成像是量子传感从实验室走向工业现场的重要应用方向;量子传感相比传统物探方法有更高灵敏度;量子地下成像是量子传感商业化的新兴增长点
+
+#### IDTechEx量子传感市场报告2024-2044:61亿美元市场预测,17个量子传感技术领域深度分析(2023→2026持续影响)
+- [IDTechEx: Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx市场研究
+- **市场预测**:量子传感市场将从当前规模增长至2044年的61亿美元;CAGR保持两位数增长;国防和医疗是最大需求驱动
+- **覆盖领域**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器等17个量子传感技术领域;基于深度访谈,评估每个技术的商业化就绪度(TRL)
+- **代表公司**:TfR(原子钟)、SBQuantum(量子磁力计)、iMAGING(量子脑成像)等多家公司在列
+- **量子传感关联**:IDTechEx报告是全球量子传感市场最权威的研究报告之一;2044年61亿美元预测显示量子传感产业化进入加速期;报告为量子传感投资和产业化路径提供数据支撑
+
+*本次更新(追加): Quantum Design收购牛津仪器纳米科学部门/布里斯托光子芯片量子极限/IOP量子传感地下成像/IDTechEx量子传感市场61亿美元预测(2026-05-30 03:14 CST)*
