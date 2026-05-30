@@ -1945,3 +1945,46 @@
 ---
 *本次更新(追加): 清华Nature动力学冻结量子传感/国器传感SERF全链条自主可控/薛鹏团队非幺正光量子行走PRL/Empa STM-ESR单自旋传感(2026-05-30午后-15:14)*
 
+### 🆕 新增条目(2026-05-30晚-20:14 - 本次更新)
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:全球顶尖低温设备与量子传感平台整合(2026-01-02)
+- [腾讯新闻, 2026-01-18](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | Quantum Design / Oxford Instruments NanoScience
+- **交易规模**:2026年1月2日正式完成收购;Quantum Design产品线覆盖Physical Instruments、Attocube、Laservisory等多家量子传感相关企业
+- **整合效应**:Quantum Design在中国、日本、韩国三大市场的代理网络全面接管牛津仪器纳米科学部门渠道;量子传感低温测量平台竞争力显著增强
+- **量子传感关联**:牛津仪器NanoScience部门是全球顶级低温磁场探针台、低温STM、稀释制冷机等量子测量设备供应商;整合后Quantum Design在量子传感实验设备市场的主导地位进一步巩固
+
+#### Cerca Magnetics可穿戴量子脑成像扫描仪:临床合作与国防项目双重突破,380万英镑A轮融资(2026-04)
+- [Cerca Magnetics官网](https://www.cerca-magnetics.com/) | [Quantum Insider, 2026-04-21](https://thequantuminsider.com/2026/04/21/cerca-magnetics-secures-38m-series-a-funding-scale-quantum-brain-scanner/) | [腾讯新闻, 2026-04-22](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252)
+- **核心技术**:基于光泵浦原子磁力计(OPM)实现室温脑磁图(MEG),灵敏度与超导量子干涉仪(SQUID)相当,同时具备可穿戴性
+- **临床进展**:与多伦多病童医院(SickKids)合作开展自闭症研究;诺丁汉大学物理与天文学院衍生企业,已有可穿戴扫描仪装机
+- **国防合同**:英国国防部提供280万英镑量子脑成像研发合同;体现量子传感在国防医疗领域的应用潜力
+- **零磁医学**:该技术属于"极弱磁功能信息医学"(零磁医学)范畴;2025年全球首个零磁介入医学实验室已落户上海
+- **量子传感关联**:OPM-MEG是可穿戴量子传感在生物医学领域最成熟的商业化方向之一;相比SQUID无需液氦冷却,大幅降低使用门槛
+
+#### Nature Sensors将于2026年正式创刊:量子传感领域新增高水平专业期刊
+- [腾讯新闻, 2025-10-13](https://so.html5.qq.com/page/real/search_news?docid=70000021_65668ec843f00552) | Springer Nature
+- **创刊背景**:量子传感技术近五年快速发展,亟需高水平专业出版平台;Nature Publishing Group适时推出该期刊
+- **量子传感关联**:Nature Sensors将为量子传感领域提供专业学术交流平台;有望显著提升量子传感论文的学术能见度和引用影响力
+
+#### Nature Physics综述 - 分子量子传感与精密测量:超越冷原子的高灵敏度传感新路线(2024,持续高引)
+- [Nature Physics, 2024](https://link.springer.com/10.1038/s41567-024-02499-9) | 43+引用
+- **技术优势**:分子对对称性破缺力的敏感性高于原子,可探测新的对称性违反力;冷原子系统已广泛用于原子钟和重力传感器,分子则提供更高灵敏度
+- **最新进展**:分子冷却、捕获与控制技术的突破使分子量子传感成为可能;分子内部结构丰富,对外场响应更强
+- **量子传感关联**:分子量子传感是量子精密测量领域的新兴方向;为暗物质探测、基本物理常数测量、分子生物学等领域提供新的探测手段
+
+#### 10自旋NOON态磁场传感:超越标准量子极限的量子纠缠增强磁力计(2026-04)
+- [Scilit/Physical Review, 2026-04](https://www.scilit.net/publications/829015922270515fb44fb9ce867d29ac) | 九氢磷酸三甲酯分子10自旋纠缠
+- **技术原理**:利用高对称性分子trimethyl phosphite(九氢磷酸三甲酯)的10个氢原子自旋纠缠,产生接近10倍的磁场灵敏度增强
+- **核心发现**:量子纠缠的10自旋NOON态使灵敏度超越标准量子限制(SQL),验证了多自旋纠缠增强传感的理论预言
+- **量子传感关联**:NOON态是量子传感中纠缠增强的经典方案;该工作为开发更高灵敏度量子磁力计提供了分子平台新选择
+
+#### Nature Nanotechnology - 扫描隧道显微镜单分子量子传感:原子尺度磁场/电场探测(2024)
+- [Nature Nanotechnology, 2024](https://link.springer.com/10.1038/s41565-024-01724-z) | Fe原子/Ag二聚体单原子传感
+- **技术方案**:在扫描隧道显微镜(STM)金属针尖顶端附着一个Fe原子,构成单分子量子传感器;实现~100 neV能量分辨率
+- **突破指标**:亚Angstrom空间分辨率(单Fe原子和Ag二聚体在Ag(111)表面);测量单原子尺度的磁场和电场偶极子
+- **应用前景**:可用于单分子/单原子尺度的磁场成像、spin-labeled生物分子探测、量子材料自旋结构探测
+- **量子传感关联**:STM-ESR单自旋传感是固态量子传感空间分辨率的极限;该工作进一步提升了原子级成像能力
+
+---
+*本次更新(追加): Quantum Design收购牛津NanoScience/Cerca Magnetics零磁医学临床/Nature Sensors 2026创刊/分子量子传感Nature Physics综述/10自旋NOON态磁传感/STM单分子量子传感Nature Nanotechnology(2026-05-30晚-20:14)*
+
