@@ -59,6 +59,29 @@
 *本次更新(追加): 量子传感最新论文 arXiv quant-ph 2026-05-28~29 / Quantinuum IPO / Quantum Motion融资(2026-05-30早-11:15)*
 
 
+---
+
+### 🆕 新增条目(2026-05-30午-11:44 - 本次更新)
+
+#### 布里斯托尔大学 - 可大规模制造的 photonic chip 量子极限传感:温室气体检测/癌症早筛(2025-02)
+- [Quantum sensing to engineer photonic sensors - Tech Briefs / University of Bristol](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | 研究团队:Joel Tasker等,QET Labs
+- **技术突破**:在商业代工厂大规模制造的微环谐振器光子系统,在量子极限下运行;首次实现质量可量产的光子传感器达到量子噪声极限
+- **应用场景**:温室气体监测、癌症早筛;为量子传感从实验室走向工业规模部署提供新路径
+- **量子传感关联**:光子芯片传感器具有高灵敏度、低功耗、可片上集成优势;是量子光学传感走向消费电子和医疗设备的关键技术
+
+#### Northwestern/Stanford - 全球首个商业 foundry 电子-光子混合量子芯片:量子通信/传感/处理一体化(2025-07)
+- [First electronic-photonic quantum chip manufactured in commercial foundry - Northwestern Now](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) | 首席研究员:Professor Ajay Nair Kumar团队
+- **技术突破**:首次在商业半导体 foundry 将量子光源、控制电子单片集成于硅芯片;填补了"量子光学器件需要特种工艺、无法在标准商业 foundry 制造"的行业空白
+- **量子光源+控制电子**:单片集成量子光源与经典控制电子,代表光量子通信、量子传感和量子处理硬件的重要突破
+- **量子传感关联**:光子量子传感系统的片上集成是降低成本、提高稳定性的核心路径;该成果证明标准CMOS foundry可生产量子光子器件
+
+#### 2026量子科技展/量子通信与量子信息技术博览会 - 西部(成都,7月15-17日) / 上海(11月5-7日)(2026-03)
+- [2026量子科技展(腾讯, 2026-03-25)](https://so.html5.qq.com/page/real/search_news?docid=70000021_67869c34b5802652)
+- **成都展会**:2026年7月15-17日,成都世纪城新国际会展中心
+- **上海展会**:2026年11月5-7日
+
+
+
 ### 🆕 新增条目(2026-05-21下午-13:14 - 本次更新)
 
 #### arXiv:2605.21457 - 相干量子推理的指数级样本复杂度优势:量子纯度放大(QPA)仅需O(1/ε)份拷贝(2026-05-20)
