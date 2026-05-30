@@ -1408,6 +1408,30 @@
 ---
 *本次更新(追加): Q-BIOMED英国量子生物医学传感枢纽/UncutGem全开源NV磁力计V2/Infleqtion量子频谱新品类中性原子(2026-05-30午后-14:14)*
 
+
+### 🆕 新增条目(2026-05-30午后-14:45 - 本次更新)
+
+#### Nature Photonics - 三稳态二维半导体全光学生物电压传感:量子统计机制,无标记双极性检测心肌细胞(2025-03)
+- [Nature Photonics - Trionic all-optical biological voltage sensing via quantum statistics](https://www.nature.com/articles/s41566-025-01637-w) | 2025-03-03
+- **技术方案**:利用单层MoS₂的激子-三子(exciton-to-trion)转换实现无标记(label-free)、双极性(dual-polarity)的全光学生物电压检测;光致发光变化反映生物电活动;通过外部电场操控半导体光学特性
+- **核心发现**:激子-三子转换过程本质上受生物活动诱导的背景电子量子统计(quantum statistics)支配;在 cardiomyocyte(心肌细胞)培养中实现超高时间分辨率的电活动检测
+- **量子传感关联**:单层二维半导体是新型量子传感介质;量子限域效应使生物电活动可通过光学方式直接读取;无标记检测对活体生物传感意义重大
+
+#### 布里斯托大学 - 量子极限可量产光子传感器:微环谐振器商业代工厂制造,可探测温室气体/癌症标志物(2025-02)
+- [Tech Briefs - Quantum sensing to engineer photonic sensors (University of Bristol)](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | QET Labs, University of Bristol
+- **技术突破**:发现如何在商业代工厂可批量制造的光子传感器上实现量子极限(quantum limit)运行;微环谐振器(microring resonator)在商业 foundry 纳米加工实现
+- **应用方向**:监测温室气体(CO₂、甲烷等);癌症检测(生物标志物);环境传感
+- **量子传感关联**:大多数量子传感方案依赖纠缠或压缩态,难以生成和检测;该研究证明"量子极限可量产光子传感器"同样可在标准半导体工艺平台上实现
+
+#### 伯明翰大学量子重力传感:地下管网探测与"看不见的地下"难题,等价原理噪声抑制(2022-2026持续研究)
+- [IOP - Quantum Sensing: A New Window to the Underground](https://www.iop.org/events/quantum-sensing-new-window-underground) | University of Birmingham
+- **核心挑战**:地下基础设施(管道、电缆等)位置不明导致道路反复开挖;现有技术受地面条件限制,只能探测近地表;振动噪声因爱因斯坦等效原理与重力信号无法区分
+- **技术方案**:量子重力传感(quantum gravimetry);利用量子干涉测量引力场微弱变化;可探测地下任意深度目标,不依赖地面条件
+- **量子传感关联**:量子重力仪是量子传感的重要分支;冷原子干涉仪技术路线在地质勘探和地下成像领域快速走向应用
+
+---
+*本次更新(追加): 二维半导体量子电压传感Nature Photonics/布里斯托量子极限光子传感器/伯明翰量子重力传感地下成像(2026-05-30午后-14:45)*
+
 ## 🗞️ 最新资讯(2026年5月19日更新)
 
 ### 量子精密测量产业化深水区:从"单点突破"迈向"规模复制"--第五届量子科仪节纪实(2026-05-15~17)
