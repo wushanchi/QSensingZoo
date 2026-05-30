@@ -23,6 +23,73 @@
 
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
+### 🆕 新增条目(2026-05-30晚-18:14 - 本次更新)
+
+#### Zurich Instruments × NV色心系综磁强计:MFLI锁相放大器+CW-ODMR方案,pT/√Hz灵敏度(2026-05-30)
+- [Zurich Instruments - NV色心系综磁强测量](https://www.zhinst.cn/china/cn/applications/quantum-technologies/magnetometry-ensembles-nv-centers) | Zurich Instruments
+- **技术方案**:连续波(CW)ODMR方案,绿激光非共振激发NV色心产生红色荧光,光电二极管探测;通过弱光和MW驱动场避免功率展宽,散粒噪声极限灵敏度
+- **灵敏度**:系综中N个NV色心使灵敏度提高√N,可达pT/√Hz水平;频率范围直流至几GHz,带宽约100kHz
+- **核心优势**:NV色心四种主轴方向可用于矢量磁场测量;强光信号使普通光电二极管即可探测,无需昂贵雪崩光电二极管;室温操作环境要求低
+- **仪器配套**:MFLI锁相放大器提供低输入噪声、大动态范围、宽频测量范围;内置PID控制器用于MW跃迁锁定
+- **量子传感关联**:NV色心系综是当前最成熟的固态量子传感技术平台;该方案为量子磁力计的商用化提供了完整的理论与仪器链参考
+
+#### Qnami - 全球量子传感领导者,ProteusQ扫描NV显微镜/Quantilever MX+探针/低温ProteusQ-LT(2026-05-29)
+- [Qnami官网](https://qnami.ch/) | Qnami(瑞士)
+- **主营产品**:
+  - **ProteusQ**:金刚石量子传感扫描显微镜,用于室温纳米尺度磁成像;被MPI、Dresden、Tsinghua、UC Berkeley等顶级机构使用
+  - **ProteusQ-LT**:低温版本,工作温度2K-300K,捕获原子级表面磁场;已在多家机构部署
+  - **Quantilever MX+**:NV探针,用于扫描NV显微镜;纳米分辨率,发表级数据采集时间大幅缩短
+- **核心客户评价**:
+  - Prof. Patrick Maletinsky(巴塞尔大学):"ProteusQ outperforms any scanning NV setup I've built or seen"
+  - Prof. Tianxiang Nan(清华大学):"ProteusQ made it possible to image complex magnetic textures in ultra-thin films"
+  - Prof. Elke Neu-Ruffing等(凯泽斯劳滕大学):"ProteusQ will allow us to study domain walls in antiferromagnetic materials"
+- **量子传感关联**:Qnami是全球量子传感商业化最成功的公司之一;其ProteusQ平台是NV扫描磁力计商业化的标杆产品
+
+#### Advanced Crystal Technology - 金刚石量子材料:NV色心/超薄柔性金刚石/光学窗口,量子传感核心基底材料(2026-05-30)
+- [Advanced Crystal Technology (ADVC)](http://en.advcrystal.com/) | ADVC(合肥)
+- **主营产品**:
+  - **量子金刚石**:含NV色心的金刚石,用于量子信息处理、量子计算和量子传感
+  - **超薄柔性金刚石**:单晶超薄金刚石膜
+  - **光学窗口/X射线靶材/ATR晶体**:高功率激光和光学应用
+- **量子传感关联**:金刚石是NV色心量子传感的核心基底材料;高质量量子级金刚石的国产化对量子传感产业自主可控至关重要
+
+#### Infleqtion × 英国皇家海军 - Tiqker量子光学原子钟首次水下实战部署:XLUUV无人潜艇导航不依赖GPS(2025-10-28)
+- [全球首次!量子光学钟成功部署无人潜艇(new.qq.com, 2025-10-30)](https://new.qq.com/rain/a/20251030A05L5E00) | Infleqtion(英国); 英国皇家海军
+- **里程碑**:全球量子科技领域重要里程碑事件——英国皇家海军超大型无人水下航行器(XLUUV)"XV Excalibur"成功搭载并测试Infleqtion研发的量子光学原子钟Tiqker
+- **技术意义**:高精度量子传感器首次在水下作战平台上投入运行;将实验室级精确授时能力带入实战部署环境
+- **深远影响**:对全球定位、导航和授时(PNT)技术体系产生深远影响;水下作战平台不再依赖GPS
+- **量子传感关联**:量子光学原子钟是量子惯性传感的核心组成;该部署验证了量子PNT技术的实用化潜力
+
+#### Nature Communications - 量子自旋工程表面分子铁磁体:NV色心量子传感界面磁性研究(2025)
+- [Nature Communications 16, no.1 (2025)](https://www.zhinst.cn/china/cn/applications/quantum-technologies/magnetometry-ensembles-nv-centers) | Musang Gong等
+- **研究内容**:利用NV色心量子传感研究表面分子铁磁体的量子自旋工程;发表于Nature Communications
+- **量子传感关联**:NV色心是研究纳米尺度磁性界面的重要工具;该研究展示了量子传感在凝聚态物理中的独特应用价值
+
+#### Physical Review Applied - 混合金刚石量子传感器环境条件下亚毫开尔文分辨率(2024)
+- [Phys. Rev. Applied 21, 024053 (2024)](https://www.zhinst.cn/china/cn/applications/quantum-technologies/magnetometry-ensembles-nv-centers) | Stuart M. Graham等
+- **技术突破**:混合金刚石量子传感器在环境条件下实现亚毫开尔文温度分辨率
+- **量子传感关联**:量子温度传感是量子传感的重要方向;该成果对生物传感和材料研究具有重要意义
+
+#### Reviews of Modern Physics - NV金刚石磁力计灵敏度优化综述(2020)
+- [Rev. Mod. Phys. 92, 015004 (2020)](https://www.zhinst.cn/china/cn/applications/quantum-technologies/magnetometry-ensembles-nv-centers) | Barry, J.F.等
+- **核心内容**:NV金刚石磁力计灵敏度优化的系统性综述;是量子传感磁力计领域的经典参考文献
+- **量子传感关联**:为NV色心磁力计的设计和优化提供了全面的理论指导
+
+#### Nature Physics - 单自旋扫描量子传感器铁电域成像:NV显微镜通过Stark偏移测量电场(2023)
+- [Nature Physics (2023)](https://www.nature.com/articles/s41567-022-01921-4) | Barry, J.F.等
+- **技术方案**:扫描NV显微镜利用Stark偏移测量铁电材料(Pb[Zr₀.₂Ti₀.₈]O₃和YMnO₃)电场;使用梯度仪检测方案成像铁电域
+- **创新点**:NV显微镜除磁力测量外,首次实现电场域成像;可测量静场电场和磁场,环境条件下无需低温
+- **量子传感关联**:NV单自旋量子传感器可同时探测电场和磁场,为多物理量量子传感成像奠定基础
+
+#### Quantum Innovation Summit Dubai 2026 - 量子与新兴前沿,2026年9月28-30日,迪拜(2026-05)
+- [Quantum Innovation Summit Dubai](https://quantuminnovationsummit.com/) | 主办法:Quantum Innovation Summit
+- **会议主题**:Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership
+- **会议时间地点**:2026年9月28-30日,Grand Hyatt Dubai, UAE
+- **量子传感关联**:迪拜量子创新峰会是中东地区最重要的量子技术产业论坛;量子传感商业化是重要议题
+
+---
+*本次更新(追加): Infleqtion量子光钟水下部署/Qnami产品线/Zurich NV方案/ADVC金刚石/Nature Communications量子自旋工程(2026-05-30晚-18:14)*
+
 ### 🆕 新增条目(2026-05-30下午-16:44 - 本次更新)
 
 #### arXiv:2605.29929 - 双原子干涉陀螺仪动态镜面补偿恢复速度免疫:21.1cm²面积,1.3×10⁻⁸ rad/s/√Hz旋转灵敏度,惯性导航突破(2026-05-28)
