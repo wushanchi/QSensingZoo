@@ -1383,6 +1383,31 @@
 
 ---
 
+
+### 🆕 新增条目(2026-05-30午后-14:14 - 本次更新)
+
+#### Q-BIOMED - 英国1.6亿英镑量子生物医学传感研究枢纽,早期癌症/阿尔茨海默病诊断(2026)
+- [Q-BIOMED官网](https://www.qbiomed.org/) | 英国国家量子技术计划 £160M五大量子技术研究中心之一
+- **核心目标**:超灵敏血液检测(ultra-sensitive blood tests)、MRI扫描加速、低成本便携仪器,实现癌症/阿尔茨海默病早期诊断
+- **技术方向**:量子生物传感为英国国民医疗体系(NHS)减轻等待压力;量子传感赋能下一代医疗诊断
+- **量子传感关联**:Q-BIOMED是量子传感在生命科学领域最大规模的国家级研究平台;量子磁力计、NV色心等技术在生物医学传感的旗舰应用
+
+#### Quantum Village/UncutGem - 全开源低成本的NV色心金刚石磁力计V2发布,DEF CON 33 2025(2025)
+- [UncutGem README · QuantumVillage](https://github.com/QuantumVillage/UncutGem/blob/main/README.md) | AGPLv3开源协议
+- **项目内容**:首个全栈开源NV色心金刚石磁力计;V1为原型,V2在DEF CON 33(2025)发布
+- **技术特色**:使用市售零件(off-the-shelf parts)构建,相位扩散量子随机数发生器+NV色心读出
+- **影响力**:173 stars, 34 forks, 开源社区驱动;代表量子传感民主化趋势
+- **量子传感关联**:NV色心是量子传感最活跃技术路线;UncutGem提供开源参考设计,降低量子传感研究门槛
+
+#### Infleqtion - Q1财报发布中性原子量子频谱架构,定义"量子频谱"新品类(2026-05-14)
+- [Infleqtion Q1财报(NASDAQ: INFQ, 2026-05-14)](https://www.nasdaq.com/market-activity/stocks/infq) | [Quantum Insider报道, 2026-05-14](https://thequantuminsider.com/2026/04/21/cerca-magnetics-secures-38m-series-a-funding-scale-quantum-brain-scanner/)
+- **Quantum Spectrum新品**:基于中性原子平台(neutral atom)的射频传感架构;公司称其为"数十年来射频传感架构的首次根本性转变"
+- **技术优势**:中性原子量子比特具有高相干性、可大规模阵列化的优势;是量子传感走向高频射频感知的重要方向
+- **量子传感关联**:中性原子量子传感是继NV色心、原子蒸汽室之后第三条成熟的量子传感技术路线;Infleqtion的"量子频谱"定义标志中性原子射频传感进入商用阶段
+
+---
+*本次更新(追加): Q-BIOMED英国量子生物医学传感枢纽/UncutGem全开源NV磁力计V2/Infleqtion量子频谱新品类中性原子(2026-05-30午后-14:14)*
+
 ## 🗞️ 最新资讯(2026年5月19日更新)
 
 ### 量子精密测量产业化深水区:从"单点突破"迈向"规模复制"--第五届量子科仪节纪实(2026-05-15~17)
@@ -1525,4 +1550,4 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-30*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-30 14:14*
