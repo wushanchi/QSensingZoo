@@ -59,7 +59,56 @@
 *本次更新(追加): 量子传感最新论文 arXiv quant-ph 2026-05-28~29 / Quantinuum IPO / Quantum Motion融资(2026-05-30早-11:15)*
 
 
+
+### 🆕 新增条目(2026-05-30午-12:14 - 本次更新)
+
+#### Quantum Sensor Market - 2035年预计达50.7亿美元,CAGR 10.42%,2025-2030年复合增长率最高(2025-2030)
+- [Quantum Sensor Market:Growth, Trends, Forecast 2025-2030](https://www.knowledge-sourcing.com/report/global-quantum-sensor-market) | Knowledge Sourcing Intelligence
+- **市场规模**:2024-2030年量子传感器市场;按类型(磁传感器、原子钟、重力传感器、旋转传感器、温度传感器、成像传感器)、最终用户行业、地区细分
+- **增长预测**:2025-2030年复合增长率最高,2035年预计达50.7亿美元(来源:量感局)
+- **量子传感关联**:量子传感是量子技术中增速最快的细分方向之一;IDTechEx预测2044年市场规模将达71亿美元
+
+#### IDTechEx - 量子传感器市场报告2025-2045:半导体fab厂商成为量子传感规模化制造最大受益者(2025-04)
+- [Quantum sensor market to grow to $2B by 2045](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | IDTechEx
+- **技术路线**:高度可扩展的半导体制造工艺是实现量子传感器大规模量产的最成功路径;蒸汽电池(vapor cells)是核心元器件
+- **核心观点**:将标准半导体工艺整合到量子传感价值链中的fab厂商将获得最大回报
+- **量子传感关联**:量子传感从实验室走向大规模制造,半导体生态系统的参与是关键;CMOS兼容工艺路线是量子传感产业化的必经之路
+
+#### attocube - 低温NV扫描磁学显微镜attoNVM商业量产:1.8K低温/3µT/√Hz/纳米分辨率/首台样机已部署(2026-01)
+- [限额免费测1.8K低温NV色心扫描磁学显微镜(new.qq.com,2026-01-22)](https://new.qq.com/rain/a/20260122A024JB00) | attocube systems AG
+- **核心参数**:工作温度2K-300K,灵敏度3µT/√Hz,纳米级空间分辨率
+- **技术原理**:基于金刚石NV色心量子传感载体,在低温环境下实现纳米尺度杂散磁场测量
+- **商业化进展**:已实现商业化量产,首台样机已在某科研机构完成安装部署;设备在闭循环低温恒温器环境下实现微特斯拉每根号赫兹量级探测灵敏度
+- **量子传感关联**:NV色心是当前最成熟的固态量子传感技术;attoNVM是目前唯一实现商业量产并部署的低温NV扫描磁学显微镜
+
+#### Cerca Magnetics - 380万英镑A轮融资,可穿戴式量子脑成像扫描仪/多伦多病童医院/英国国防部280万英镑(2026-04)
+- [Cerca Magnetics完成380万英镑A轮融资(so.html5.qq.com,2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics(诺丁汉大学物理与天文学院衍生企业)
+- **投后估值**:3000万英镑;领投方为吉尼斯风险投资(Guinness Ventures)
+- **核心技术**:可穿戴式脑成像扫描仪,采用量子传感器(光泵磁力计OPM)实现神经活动的高精度测量;室温下达到与SQUID相当的灵敏度
+- **商业客户**:多伦多病童医院(SickKids)自闭症研究;英国国防部280万英镑项目
+- **量子传感关联**:OPM(光泵磁力计)是量子脑成像的核心技术;量子脑磁图(MEG)是量子传感在医疗健康领域最接近商业化的应用方向
+
+#### Quantum Singapore 2026论坛 - 量子从硬件突破到工业应用,ICV TA&K/FinQ Tech/Informa Markets联合主办(2026-02)
+- [Quantum Singapore 2026论坛在新加坡盛大开幕(new.qq.com,2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | 新加坡滨海湾金沙会展中心
+- **论坛主题**:"量子汇聚:从硬件突破到工业应用"
+- **主办方**:ICV TA&K、FinQ Tech Inc.、Informa Markets;学术支持:IEEE Photonics Society新加坡分会
+- **量子传感关联**:Quantum Singapore是亚太地区最具影响力的量子技术产业论坛;量子传感商业化是重要议题之一
+
+#### 2026量子科技展(成都7月15-17日/上海11月5-7日) - 量子通信与量子信息技术博览会(2026-03)
+- [2026量子科技展(腾讯新闻,2026-03-25)](https://so.html5.qq.com/page/real/search_news?docid=70000021_67869c34b5802652)
+- **成都展会**:2026年7月15-17日,成都世纪城新国际会展中心
+- **上海展会**:2026年11月5-7日
+- **量子传感关联**:量子传感技术展示与产业对接的重要平台
+
+#### Quantum Sensing with NV Centers in 2D Materials - 2D Fe₃GeTe₂临界点附近磁态研究, Communications Physics(2026-03)
+- [Communications Physics - Quantum sensing of 2D magnetism with NV centers in diamond](https://www.nature.com/articles/s42005-023-01472-x/figures/2) | Nature Portfolio
+- **研究内容**:利用NV色心磁力计探测2D Fe₃GeTe₂多层膜在临界点附近的磁态;NV电子自旋驱动微波共振,测量外部磁场下的能级分裂
+- **技术方案**:Fe₃GeTe₂转移至金刚石(100)面,封装在两层hBN之间以避免降解;532nm激光垂直聚焦,微波通过金线施加
+- **量子传感关联**:NV色心+二维材料的组合是当前量子传感研究最活跃方向;二维磁材料的量子传感成像对自旋电子学和量子计算意义重大
+
 ---
+*本次更新(追加): 量子传感市场数据/商用产品/展会/最新研究更新(2026-05-30午-12:14)*
+
 
 ### 🆕 新增条目(2026-05-30午-11:44 - 本次更新)
 
