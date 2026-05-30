@@ -141,6 +141,35 @@
 - **技术方案**:综述金刚石色心作为大规模量子网络节点的候选方案;讨论NV色心以外的SiV、SnV、GeV等新兴色心;异构集成金刚石纳米光子结构与光子集成电路
 - **核心内容**:长自旋相干时间(~ms级NV, ~μs级SiV);室温自旋操作与光读出;城域量子网络演示进展
 - **量子传感关联**:量子网络节点是分布式量子传感的基础设施;色心量子网络同时服务于量子通信、分布式量子计算和量子传感
+### 🆕 新增条目(2026-05-30晚-21:14 - 本次更新)
+
+#### NASA JPL × 首款太空量子重力仪:量子重力梯度仪卫星任务,测量石油储量/全球淡水资源(2025-04)
+- [NASA Aims to Fly First Quantum Sensor for Gravity Measurements - JPL](https://www.jpl.nasa.gov/news/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/) | NASA Jet Propulsion Laboratory; 技术支持:NASA Earth Science Technology Office (ESTO)
+- **技术方案**:研发首款太空量子重力传感器,使用量子重力梯度仪(quantum gravity gradiometer)测量地球引力场;地球引力场随地质过程动态变化,质量越大引力越强;通过量子重力梯度仪可精确绘制地下特征如含水层和矿藏
+- **科学价值**:引力地图对导航、资源管理和国家安全至关重要;可测量石油储量、全球淡水资源;首次将量子传感技术推向太空
+- **量子传感关联**:量子重力梯度仪是量子惯性传感的核心应用;原子干涉仪是实现量子重力传感的关键技术;该任务将为量子重力传感的太空应用开辟新领域
+
+#### 布里斯托尔大学 - 光子芯片量子极限传感:微环谐振器大批量生产,温室气体检测/癌症早筛(2025-02)
+- [Quantum sensing to engineer photonic sensors - Tech Briefs](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | 研究团队:Joel Tasker等,QET Labs; 合作:University of Bristol
+- **技术突破**:在商业代工厂大批量制造的微环谐振器光子系统,在量子极限下运行;首次实现质量可量产的光子传感器达到量子噪声极限
+- **核心优势**:大多数量子传感方案依赖纠缠或压缩态光,难以产生和探测;该方案无需纠缠/压缩态即可在量子极限运行,扫清了产业化的主要障碍
+- **应用场景**:温室气体监测、癌症早筛;为量子传感从实验室走向工业规模部署提供新路径
+- **量子传感关联**:光子芯片传感器具有高灵敏度、低功耗、可片上集成优势;是量子光学传感走向消费电子和医疗设备的关键技术
+
+#### Northwestern/Stanford - 全球首个商业 foundry 电子-光子混合量子芯片:量子通信/传感/处理一体化(2025-07)
+- [First electronic-photonic quantum chip manufactured in commercial foundry - Northwestern Now](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) | 首席研究员:Professor Ajay Nair Kumar团队; Northwestern University + Stanford University
+- **技术突破**:首次在商业半导体 foundry 将量子光源、控制电子单片集成于硅芯片;填补了"量子光学器件需要特种工艺、无法在标准商业 foundry 制造"的行业空白
+- **技术参数**:量子光源+控制电子单片集成;芯片由标准半导体代工厂fabricated;微小的量子光学器件制造需要特定温度控制、微小工艺误差容忍
+- **量子传感关联**:光子量子传感系统的片上集成是降低成本、提高稳定性的核心路径;该成果证明标准CMOS foundry可生产量子光子器件,为量子传感的规模化制造奠定基础
+
+#### Quantum Singapore 2026论坛 - 量子从硬件突破到工业应用,2026年2月4日新加坡开幕(2026-02)
+- [Quantum Singapore 2026论坛在新加坡盛大开幕(new.qq.com, 2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | 联合主办:ICV TA&K、FinQ Tech Inc.、Informa Markets; 学术支持:IEEE Photonics Society新加坡分会
+- **论坛主题**:"量子汇聚:从硬件突破到工业应用"
+- **核心议题**:量子技术在硬件优化、软硬协同及区域化生态构建等维度的最优解
+- **量子传感关联**:Quantum Singapore是亚太地区最具影响力的量子技术产业论坛;量子传感商业化是重要议题之一
+
+---
+*本次更新(追加): NASA JPL太空量子重力仪/布里斯托光子芯片量子极限/西北大学商业foundry量子芯片/Quantum Singapore 2026论坛(2026-05-30晚-21:14)*
 
 ### 🆕 新增条目(2026-05-30晚-18:14 - 本次更新)
 
