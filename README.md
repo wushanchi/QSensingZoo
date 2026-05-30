@@ -2256,3 +2256,38 @@
 
 ---
 *本次更新: arXiv金刚石色心量子网络综述/arXiv高保真CT重建量子优化/arXiv Kochen-Specker全局非定域性/arXiv光子条件压缩态/Impact Quantum Infleqtion RF传感/IOP量子重力地下探测(2026-05-31早-06:44)*
+
+### 🆕 新增条目(2026-05-31早-07:14 - 本次更新)
+
+#### Cerca Magnetics完成380万英镑A轮融资:量子脑成像扫描仪规模化(2026-04)
+- [Cerca Magnetics完成380万英镑A轮融资(腾讯新闻, 2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics(英国诺丁汉大学物理与天文学院衍生企业)
+- **技术产品**:可穿戴式脑成像扫描仪,采用量子传感器实现对神经活动的高精度测量;基于 optically pumped magnetometer (OPM) 技术
+- **融资信息**:380万英镑(约475万美元)A轮,投后估值3000万英镑;吉尼斯风险投资(Guinness Ventures)领投
+- **量子传感关联**:量子脑磁图(MEG)是量子传感在医学成像领域的标杆应用;相比传统脑电EEG可无创测量脑部神经活动
+
+#### Scientific Magnetics出货第20台量子计算用超导磁体(2026-05)
+- [Scientific Magnetics Ships 20th Quantum Computing Magnet (Magnetics Magazine, 2026-05-27)](https://www.magneticsmag.com/) | Scientific Magnetics(英国牛津郡)
+- **里程碑**:已出货第20台量子计算用超导磁体;量子计算系统是超导量子比特和离子阱量子计算机的核心配套
+- **量子传感关联**:超导磁体是原子钟、量子重力仪、量子磁力计的关键基础器件;出货量反映量子计算产业化的加速
+
+#### Foxconn预期2030年量子技术商用化 / MIT获2500万美元量子实验室投资(2026-05)
+- [The Quantum Insider: Foxconn Expects Quantum Commercialization in 2030 (2026-05-29)](https://www.thequantuminsider.com/) | Foxconn; MIT
+- **Foxconn量子路线图**:预计2030年实现量子技术商用化;显示制造业巨头对量子传感、量子计算产业化的明确预期
+- **MIT量子实验室**:马萨诸塞州投资2500万美元建设MIT量子实验室;推动量子传感与量子计算协同发展
+- **量子传感关联**:制造业巨头与顶级研究机构的量子布局,加速量子传感从实验室到工业场景的转化
+
+#### Quantum in Korea - 韩国量子科技国家战略:投资额年增两倍(2026-05)
+- [Quantum in Korea (2026-05-22)](https://quantuminkorea.org/) | 韩国政府
+- **国家战略**:韩国宣布量子科技投资额每年翻两倍增长;涵盖量子传感、量子通信、量子计算全链条
+- **产业生态**:韩国企业组建量子技术产业联盟,探索最佳商业模式;研发投入占GDP 4.8%,全球第二
+- **量子传感关联**:韩国将量子传感作为国家量子战略核心方向之一;国家层面投资推动产业加速
+
+#### IDTechEx量子传感器市场报告2026-2046:自动驾驶/脑成像/惯性导航(持续活跃)
+- [IDTechEx: Quantum Sensors Advancing Timing, Navigation, Mapping & Brain Scans](https://www.idtechex.com/en/research-article/quantum-sensors-advancing-timing-navigation-mapping-and-brain-scans/29679) | IDTechEx
+- **报告覆盖**:17个量子传感技术领域;应用方向包括电动汽车、自动驾驶(GNSS拒止导航)、医疗脑成像
+- **市场趋势**:量子传感器在自动驾驶、惯性导航、脑磁图等领域的商业化路径清晰
+- **量子传感关联**:量子惯性导航(冷原子陀螺仪)是无GPS环境下的核心导航方案;量子脑成像是下一个规模化医疗应用方向
+
+---
+*本次更新: Cerca Magnetics 380万英镑A轮量子脑成像/Scientific Magnetics第20台超导磁体/Foxconn 2030量子商用化/MIT 2500万美元量子实验室/韩国量子国家战略/IDTechEx量子传感器市场报告(2026-05-31早-07:14)*
+
