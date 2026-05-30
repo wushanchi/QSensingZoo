@@ -241,6 +241,22 @@
 
 ### 🆕 新增条目(2026-05-30晚-22:44 - 本次更新)
 
+#### QuantX Labs - 全球量子传感PNT领导者,4条产品线,CRYO超低相噪振荡器/TEMPO空间光学钟/量子重力仪/SENTIO量子磁力计阵列(2026-05)
+- [QuantX Labs官网](https://quantxlabs.com/) | QuantX Labs(澳大利亚阿德莱德); 2026年TEMPOSpace光学原子钟里程碑
+- **4条产品线**:
+  - **CRYO**:超低相噪振荡器(Cryogenic Ultra-Low Phase-Noise Oscillator),为超视距雷达、深空跟踪、高精度计时设计
+  - **TEMPOSpace光学原子钟**:2026年光学频率梳成功搭载SpaceX Transporter-16升轨,全球首个送入轨道的全功能型光学原子钟关键技术里程碑
+  - **量子重力仪**:用于地下目标探测、惯性导航
+  - **SENTIO量子磁力计阵列**:用于地下隐蔽目标探测,澳大利亚国防军已验证
+- **技术路线**:原子量子态精密传感+光子精密时频传递;核心团队包括创始人Andre Luiten(阿德莱德大学光子学研究所前所长)
+- **商业化进展**:2025年澳大利亚国防部合同(AUD$2.7M); Defence Trailblazer项目(AUD$13.8M); 2025 AFR高等教育研究商业化奖
+- **量子传感关联**:QuantX Labs是量子PNT(定位导航授时)领域的标杆企业;TEMPOSpace光学原子钟升空是量子传感空间化的重大里程碑
+
+#### Quantum Flagship启动QOMPASS计划 - 欧洲量子传感与量子时钟能力增强计划,2026年5月19日启动(2026-05)
+- [Quantum Flagship QOMPASS新闻(2026-05-19)](https://qt.eu/) | Quantum Flagship
+- **计划目标**:加强欧洲量子传感与量子时钟技术能力;整合欧洲量子传感研究资源与产业力量
+- **量子传感关联**:QOMPASS是欧洲量子传感产业化的重要推手;欧盟量子传感战略进入系统性推进阶段
+
 #### Qnami - 全球量子传感领导者,ProteusQ/Quantilever/量子传感教程(2026-05)
 - [Qnami官网](https://qnami.ch/) | Qnami(瑞士巴塞尔)
 - **公司定位**:全球量子传感领域商业化最成功的公司之一;专注金刚石量子传感器的研发与生产
