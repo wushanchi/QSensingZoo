@@ -56,6 +56,24 @@
 - **创新点**:传统雷达需发射强射频信号才能探测回波,容易被探测和干扰;量子雷达利用原子量子态放大微弱返回信号,可探测隐蔽目标;单个紧凑玻璃气室(约1厘米)可覆盖多个频段,无需改变物理设置
 - **量子传感关联**:量子雷达本质是量子传感技术的军事延伸;Rydberg原子射频传感与NV色心磁力计共享量子相干增强原理;室温原子传感无需低温制冷,是商用量子雷达的重要方向
 
+---
+*本次更新(追加): QuiX Quantum光子误差阈值突破/Georgetown量子传感专业证书(2026-05-30下午-16:14)*
+
+### 🆕 新增条目(2026-05-30下午-16:14 - 本次更新)
+
+#### QuiX Quantum - 光子量子计算机突破误差阈值下方:光子蒸馏技术实现2.2倍误差降低,容错计算进入新纪元(2026-04-02)
+- [QuiX Quantum光子量子误差突破(智量研究所, so.html5.qq.com, 2026-04-03)](https://so.html5.qq.com/page/real/search_news?docid=70000021_67369cfa2c255852) | QuiX Quantum(荷兰恩斯赫德)
+- **技术方案**:光子蒸馏(photonic distillation)技术——在物理层面利用多个不完美的物理光子进行特定量子干涉,经多模式光学傅里叶变换矩阵"筛选"与"重塑",在计算开始前完成底层性能提升
+- **核心数据**:在20模式可编程光子处理器上实测,光子的不可区分性误差降低2.2倍;扣除协议附带损耗后,净误差缩减1.2倍;首次跨越误差缓解两大生死线
+- **行业评价**:Jülich研究中心David DiVincenzo称"光子不可区分性是光子计算中最顽固的障碍,QuiX演示了优雅且具备生产就绪性的方法"
+- **量子传感关联**:光子量子计算与量子传感共享核心光-物质相互作用原理;容错量子计算为高灵敏度量子传感系统的规模化提供了技术基础;光子平台也是量子传感(如Rydberg原子射频传感)的底层技术路线
+
+#### Georgetown University - 量子传感专业证书课程:数学/量子力学/量子传感 foundations(2026持续)
+- [Foundations of Quantum Sensing Professional Certificate(edX, 2026)](https://www.edx.org/certificates/professional-certificate/georgetownx-foundations-of-quantum-sensing) | Georgetown University, 9个月, 2课程
+- **课程内容**:Mathematical and Computational Methods + Quantum Mechanics Foundations of Quantum Sensing
+- **费用**:原价$618美元,折扣价$556.20
+- **量子传感关联**:量子传感教育资源的普及反映了产业对量子传感人才的旺盛需求;系统化课程体系是量子传感从前沿研究走向大规模应用的必要支撑
+
 #### arXiv:2605.30224 - 宏观量子态的预言式超快产生:亮压缩真空光+单次正交测量,Dirac态到猫态的 strobe 转变(2026-05-28)
 - [arXiv:2605.30224](https://arxiv.org/abs/2605.30224) | 作者:Shohei Imai等; 21页,5图; quant-ph/cond-mat.mes-hall/physics.optics
 - **技术方案**:亮压缩真空光+单次正交测量,实现物质中宏观量子态的超快制备;弱耦合区多光子量子光使物质状态保持经典混合物;基于正交测量的预言式准备制备高斯加权量子叠加态
@@ -1635,7 +1653,7 @@
 
 ---
 
-*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-30 14:14*
+*QSensingZoo 维护中 | GitHub: wushanchi/QSensingZoo | 最后更新: 2026-05-30 16:14*
 ---
 
 ### 🆕 新增条目(2026-05-30午后-15:14 - 本次更新)
