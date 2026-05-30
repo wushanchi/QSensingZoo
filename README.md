@@ -239,6 +239,45 @@
 ---
 *本次更新(追加): NASA JPL太空量子重力仪/布里斯托光子芯片量子极限/西北大学商业foundry量子芯片/Quantum Singapore 2026论坛(2026-05-30晚-21:14)*
 
+### 🆕 新增条目(2026-05-30晚-22:44 - 本次更新)
+
+#### Qnami - 全球量子传感领导者,ProteusQ/Quantilever/量子传感教程(2026-05)
+- [Qnami官网](https://qnami.ch/) | Qnami(瑞士巴塞尔)
+- **公司定位**:全球量子传感领域商业化最成功的公司之一;专注金刚石量子传感器的研发与生产
+- **主营产品**:
+  - **ProteusQ**:金刚石量子传感扫描显微镜,用于室温纳米尺度磁成像;被MPI Dresden、Tsinghua、UC Berkeley等顶级机构使用;低温版本ProteusQ-LT(2K-300K)可捕获原子级表面磁场
+  - **Quantilever MX+**:NV探针,用于扫描NV显微镜;纳米分辨率,发表级数据采集时间大幅缩短
+  - **量子传感教程**:提供系统化的量子传感理论与实操教程
+- **核心客户评价**:Prof. Patrick Maletinsky(巴塞尔大学):"ProteusQ outperforms any scanning NV setup I've built or seen"; Prof. Tianxiang Nan(清华大学):"ProteusQ made it possible to image complex magnetic textures in ultra-thin films"
+- **量子传感关联**:Qnami的ProteusQ平台是NV扫描磁力计商业化的标杆产品;其产品线覆盖从科研仪器到工业检测的完整链条
+
+#### IDTechEx量子传感器市场报告2024-2044:17类量子传感技术,原子钟/量子陀螺仪/量子磁力计/量子重力仪
+- [IDTechEx: Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx
+- **技术覆盖**:17类量子传感技术,包括:原子钟、量子陀螺仪、量子磁力计、量子重力仪、量子成像传感器
+- **应用场景**:电动汽车导航、GPS拒止环境导航、惯性导航、地球物理勘探、油气勘探
+- **市场格局**:量子传感器通过大幅提升灵敏度实现新应用;市场调研覆盖技术全景、产业链玩家、细分市场预测
+- **量子传感关联**:IDTechEx报告是量子传感产业化研究的重要参考文献;覆盖从基础技术到商业应用的完整生态
+
+#### Infleqtion正式定义"量子频谱"新品类 - Rydberg原子射频传感,数十年RF传感架构根本性转变(2026-05-14)
+- [Infleqtion Q1财报(NASDAQ: INFQ, 2026-05-14)](https://www.nasdaq.com/market-activity/stocks/infq) | Infleqtion(NYSE: INFQ)
+- **新品类定义**:量子频谱(Quantum Spectrum)是基于里德堡(Rydberg)原子的射频传感平台;代表数十年来射频传感架构的首次根本性转变
+- **核心产品Sqywire**:超灵敏射频接收器,可在kHz至THz任意范围内运行;高灵敏度、低功耗、超宽带宽;无模拟组件,抗干扰能力强;安装于经典天线使用
+- **市场地位**:2026年2月17日登陆NYSE(市值23.74亿美元),全球首家上市中性原子量子技术公司
+- **量子传感关联**:Rydberg原子是继NV色心、原子蒸汽室之后第三条成熟的量子传感技术路线;中性原子平台在射频传感领域展现独特优势
+
+#### Cleveland State University - AI深度学习优化量子传感电路设计:HCQA混合经典-量子智能体(2026-04)
+- [Quantum Zeitgeist:AI深度学习优化量子传感电路](https://quantumzeitgeist.com/quantum-deep-learning-circuits-optimal-maximise-fisher-information/) | Ahmad Alomari, Sathiah A. P. Kumar等,Cleveland State University
+- **技术方案**:混合经典-量子智能体(HCQA)方法结合深度学习与量子力学原理;自动生成针对特定传感任务的最优量子传感器电路;最大化量子Fisher信息以提升传感灵敏度,最小化电路复杂度
+- **量子传感关联**:AI辅助量子传感设计是量子传感工程化的重要方向;自动优化电路可加速量子传感器的实用化进程
+
+#### 2026年量子技术监测报告 - 量子传感在国防与工业检测领域已步入应用阶段(2026-05)
+- [搜狐:2026年量子技术监测报告(2026-05-28)](https://www.sohu.com/a/1019974556_121878932) | 综合监测报告
+- **三大领域格局**:量子计算(QC)占投资90%以上领跑;量子通信(QComm)稳步推进;量子传感(QS)在国防和工业检测领域已步入应用阶段,市场规模较小但增长态势明确
+- **量子传感关联**:量子传感相比量子计算的资本热度较低,但产业化成熟度最高;国防和工业检测是当前最明确的商用方向
+
+---
+*本次更新: Qnami量子传感领导者/IDTechEx量子传感市场报告2024-2044/Infleqtion量子频谱/AI优化量子传感电路/2026量子技术监测报告(2026-05-30晚-22:44)*
+
 ### 🆕 新增条目(2026-05-30晚-18:14 - 本次更新)
 
 #### Zurich Instruments × NV色心系综磁强计:MFLI锁相放大器+CW-ODMR方案,pT/√Hz灵敏度(2026-05-30)
