@@ -2123,5 +2123,40 @@
 - **核心内容**:单自旋量子传感对瞬态电磁信号的响应特性;时变场量子传感的灵敏度极限分析
 - **量子传感关联**:时间依赖场传感是量子传感的前沿方向;对NV色心单自旋探针的动态响应研究有重要价值
 
+### 🆕 新增条目(2026-05-30晚-22:14 - 本次更新)
+
+#### Infleqtion正式定义"量子频谱"新品类 - Rydberg原子射频传感:数十年RF传感架构根本性转变,Nyse:INFQ上市(2026-05-14)
+- [Infleqtion Q1财报(NASDAQ: INFQ, 2026-05-14)](https://www.nasdaq.com/market-activity/stocks/infq) | Infleqtion(NYSE: INFQ)
+- **新品类定义**:量子频谱(Quantum Spectrum)是基于里德堡(Rydberg)原子的射频传感平台,代表数十年来射频(RF)传感架构的首次根本性转变
+- **核心产品Sqywire**:超灵敏射频(RF)接收器,可在kHz至THz任意范围内运行;高灵敏度、低功耗、超宽带宽;无模拟组件,抗干扰能力强
+- **市场地位**:2026年2月17日登陆NYSE(市值23.74亿美元),全球首家上市中性原子量子技术公司
+- **量子传感关联**:Rydberg原子是继NV色心、原子蒸汽室之后第三条成熟的量子传感技术路线;中性原子平台在射频传感领域展现独特优势
+
+#### 布里斯托尔大学 - 可大规模制造的微环光子传感器量子极限运行:温室气体检测/癌症早筛(2025-02)
+- [Quantum sensing to engineer photonic sensors - Tech Briefs](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | Joel Tasker等,QET Labs; University of Bristol
+- **技术突破**:在商业代工厂大批量制造的微环谐振器光子系统,在量子极限下运行;首次实现质量可量产的光子传感器达到量子噪声极限
+- **核心优势**:大多数量子传感方案依赖纠缠或压缩态光,难以产生和探测;该方案无需纠缠/压缩态即可在量子极限运行,扫清了产业化的主要障碍
+- **应用场景**:温室气体监测、癌症早筛;为量子传感从实验室走向工业规模部署提供新路径
+- **量子传感关联**:光子芯片传感器具有高灵敏度、低功耗、可片上集成优势;是量子光学传感走向消费电子和医疗设备的关键技术
+
+#### Cleveland State University - AI深度学习优化量子传感电路设计:HCQA混合经典-量子智能体(2026-04)
+- [Quantum Zeitgeist:AI深度学习优化量子传感电路](https://quantumzeitgeist.com/quantum-deep-learning-circuits-optimal-maximise-fisher-information/) | Ahmad Alomari等,Cleveland State University
+- **技术方案**:混合经典-量子智能体(HCQA)方法结合深度学习与量子力学原理;自动生成针对特定传感任务的最优量子传感器电路;最大化量子Fisher信息以提升传感灵敏度,最小化电路复杂度
+- **量子传感关联**:AI辅助量子传感设计是量子传感工程化的重要方向;自动优化电路可加速量子传感器的实用化进程
+
+#### Quantum Innovation Summit Dubai 2026 - 量子与新兴前沿,2026年9月28-30日迪拜(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办法:Quantum for Good Curator;战略合作伙伴:阿联酋政府
+- **会议主题**:**"Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership"**
+- **核心议题**:量子传感商业化路径、量子AI融合、量子传感从实验室到工业采纳的转型
+- **量子传感关联**:迪拜量子创新峰会是中东地区最重要的量子技术产业论坛;量子传感商业化是大会核心议题
+
+#### AQIS 2026 - 第26届亚洲量子信息科学会议,2026年8月24-28日韩国KAIST(2026-05)
+- [AQIS 2026](http://aqis-conf.org/) | 主办:KAIST量子科学与技术研究生院
+- **会议主题**:量子信息与量子传感前沿;聚焦量子传感与量子信息科学的交叉融合
+- **量子传感关联**:AQIS是亚洲量子信息领域最高规格学术会议;量子传感是重要分论方向
+
+---
+*本次更新: Infleqtion量子频谱新品类/布里斯托微环光子传感器量子极限/Cleveland AI优化量子传感电路/Dubai Quantum Innovation Summit 2026/AQIS 2026(2026-05-30晚-22:14)*
+
 ---
 *本次更新(追加): 中科大城际核自旋量子传感网络Nature论文/清华大学动力学冻结Nature量子传感/ SBQuantum ESA 200pT钻石磁力计/Muquans量子惯性传感/arXiv时变场量子传感(2026-05-30晚-20:44)*
