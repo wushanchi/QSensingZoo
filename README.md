@@ -23,6 +23,41 @@
 
 本仓库持续更新,欢迎 Star ⭐ 和 Fork！
 
+
+### 🆕 新增条目(2026-05-30晚-18:44 - 本次更新)
+
+#### Quantum Innovation Summit Dubai 2026 - 量子与新兴前沿,2026年9月28-30日迪拜,中东量子产业从展示向交付转型(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办法:Quantum for Good Curator;战略合作伙伴:阿联酋政府
+- **会议主题**:"Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership"
+- **核心议题**:量子传感商业化路径、量子AI融合、量子传感从实验室到工业采纳的转型;量子计算与传感协同
+- **量子传感关联**:迪拜量子创新峰会是中东地区最重要的量子技术产业论坛;量子传感商业化是大会核心议题之一
+
+#### Cleveland State University - AI深度学习优化量子传感电路设计:HCQA混合经典-量子智能体自动生成最优量子传感器电路(2026-04)
+- [Quantum Zeittgeist - Researchers Design Optimal Quantum Circuits Using Deep Learning](https://quantumzeitgeist.com/quantum-deep-learning-circuits-optimal-maximise-fisher-information/) | Ahmad Alomari, Sathish A. P. Kumar等,Cleveland State University
+- **技术方案**:提出混合经典-量子智能体(HCQA)方法,结合深度学习与量子力学原理,自动探索设计空间并生成针对特定传感任务的最优量子传感器电路
+- **核心技术**:HCQA利用深度学习代理(agent)自动生成电路,最大化量子Fisher信息以提升传感灵敏度,同时最小化电路复杂度
+- **强化学习设计**:独立研究同时探索强化学习(RL)与量子计算结合,用于量子传感器电路自动设计与优化,有望超越人工设计电路性能
+- **量子传感关联**:AI辅助量子传感设计是量子传感工程化的重要方向;自动优化电路可加速量子传感器的实用化进程
+
+#### Infleqtion - 正式定义"量子频谱"新品类,Rydberg原子射频传感开创数十年RF传感架构根本性转变(2026-05-14)
+- [Infleqtion Q1财报(NASDAQ: INFQ, 2026-05-14)](https://www.nasdaq.com/market-activity/stocks/infq) | Infleqtion(NYSE: INFQ)
+- **技术定义**:量子频谱(Quantum Spectrum)是基于里德堡(Rydberg)原子的射频传感平台,代表数十年来射频(RF)传感架构的首次根本性转变
+- **核心产品Sqywire**:超灵敏射频(RF)接收器,安装于经典天线使用;高灵敏度、低功耗、超宽带宽;可在千赫兹到太赫兹任意范围内运行;无模拟组件,抗干扰能力强
+- **市场地位**:Infleqtion于2026年2月17日登陆纽约证券交易所(NYSE: INFQ),成为全球首家上市的中性原子量子技术公司,市值23.74亿美元
+- **量子传感关联**:Rydberg原子是继NV色心、原子蒸汽室之后第三条成熟的量子传感技术路线;中性原子平台在射频传感领域展现独特优势
+
+#### arXiv:2605.29929 - 双原子干涉陀螺仪动态镜面补偿恢复速度免疫:21.1cm²面积,1.3×10⁻⁸ rad/s/√Hz旋转灵敏度,惯性导航突破(2026-05-28)
+- [arXiv:2605.29929](https://arxiv.org/abs/2605.29929) | 作者:Xinyu Chen等; 10页,5图; quant-ph/physics.atom-ph
+- **技术方案**:提出并演示动态镜面补偿方案,恢复大面积双原子干涉陀螺仪的速度免疫;通过在脉冲序列期间主动旋转拉曼镜以抵消时间相关角偏移来克服地球自转科里奥利效应
+- **核心数据**:双原子干涉陀螺仪干涉面积21.1 cm²;补偿后相位对原子速度的依赖降低40倍;速度对标度因子稳定性的贡献评估为0.13 ppm;旋转灵敏度1.3×10⁻⁸ rad/s/√Hz;4500s积分时稳定性1.9×10⁻¹⁰ rad/s;共模噪声抑制比高达459
+- **量子传感关联**:原子干涉陀螺仪是量子惯性传感器的核心技术;该方案为惯性导航和地球物理学应用铺平道路;量子惯性导航是不依赖GPS的自主导航技术
+
+#### arXiv:2605.30005 - 金刚石色心量子网络:原理、进展与展望,大规模量子网络综述(2026-05-28)
+- [arXiv:2605.30005](https://arxiv.org/abs/2605.30005) | 作者:David D. L. Qiao等; 39页,7图; quant-ph
+- **技术方案**:综述金刚石色心作为大规模量子网络节点的候选方案;讨论NV色心以外的SiV、SnV、GeV等新兴色心;异构集成金刚石纳米光子结构与光子集成电路
+- **核心内容**:长自旋相干时间(~ms级NV, ~μs级SiV);室温自旋操作与光读出;城域量子网络演示进展
+- **量子传感关联**:量子网络节点是分布式量子传感的基础设施;色心量子网络同时服务于量子通信、分布式量子计算和量子传感
+
 ### 🆕 新增条目(2026-05-30晚-18:14 - 本次更新)
 
 #### Zurich Instruments × NV色心系综磁强计:MFLI锁相放大器+CW-ODMR方案,pT/√Hz灵敏度(2026-05-30)
