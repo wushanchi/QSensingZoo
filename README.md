@@ -12,9 +12,72 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
-### 🆕 新增条目(2026-05-31上午-11:14 - 本次更新)
+### 🆕 新增条目(2026-05-31中午-12:44 - 本次更新)
 
-#### Bosch Quantum Sensing - 博世量子传感公司成立,芯片级金刚石量子传感器,室温磁力计(2025-04)
+#### Nature Communications(2026):全球城市间量子传感器网络约束暗物质轴子,分布式光学磁力计阵列(2026-01)
+- [Nature: Constraints on axion dark matter by distributed intercity quantum sensors](https://www.nature.com/articles/s41586-025-10034-w) | 全球核自旋传感器网络
+- **技术方案**:利用全球分布式光学磁力计网络(核自旋传感器)探索拓扑缺陷暗物质(TDM);超越天体物理约束的参数空间
+- **核心发现**:通过城市间光学磁力计网络对轴子TDM参数空间给出新约束;核自旋传感器是量子传感用于基础物理探索的重要方向
+- **量子传感关联**:量子磁力计在暗物质探测中的应用代表量子传感与基础物理的深度交叉;分布式传感网络是量子传感规模化的重要路径
+
+#### Nature Communications(2025):纠缠增强量子锁定检测实现Heisenberg极限,GHZ态囚禁⁴⁰Ca⁺离子(2025-12)
+- [Nature Communications: Entanglement-enhanced quantum lock-in detection](https://www.nature.com/articles/s41467-025-66828-z) | GHZ态囚禁离子; Heisenberg scaling
+- **技术方案**:使用Greenberger-Horne-Zeilinger(GHZ)态结合周期性多脉冲序列实现QLID;通过Mølmer-Sørensen门制备GHZ态
+- **核心发现**:测量精度逼近Heisenberg极限(Δω∝N⁻¹),超越标准量子极限(SQL,Δω∝N⁻¹/²);QLID实现优于传统逆线性标度的逆二次时间标度(Δω∝T⁻²)
+- **量子传感关联**:纠缠态是量子传感超越经典极限的核心资源;GHZ态为多离子阵列量子传感器的相位估计提供了范式
+
+#### Nature Photonics(2025):三子辅助全光学生物电压传感,单层MoS₂实现无标记生物电活动探测(2025-03)
+- [Nature Photonics: Trionic all-optical biological voltage sensing](https://www.nature.com/articles/s41566-025-01637-w) | 单层MoS₂; exciton-to-trion转换
+- **技术方案**:单层MoS₂中激子-三子转换过程由生物活动诱导的电子背景量子统计调控;利用该机制实现完全无偏置、无系绳的生物电压传感
+- **核心优势**:无标签、无需外部电压偏置;皮秒级时间分辨率;高时空分辨率监测生物电活动
+- **量子传感关联**:二维半导体材料是量子光学传感的新兴平台;生物电活动的量子级无标记检测为神经科学和医学诊断提供新工具
+
+#### Microsystems & Nanoengineering(2024):超灵敏SERF原子磁力计微型混合蒸汽室,差分检测抑制光学噪声(2024-08)
+- [Microsystems & Nanoengineering: Ultrasensitive SERF atomic magnetometer](https://link.springer.com/10.1038/s41378-024-00758-6) | 单束混合光泵SERF磁力计; Cs-Rb混合蒸汽室
+- **技术方案**:微型化单束混合光泵SERF原子磁力计,基于微制造原子蒸汽室;Cs原子光极化,密集Rb原子决定实验结果
+- **核心参数**:使用差分检测方案有效抑制光学噪声,信噪比提升约5倍;细胞温度对灵敏度有显著影响
+- **量子传感关联**:SERF磁力计是量子磁传感在生物医学领域最成熟的技术路线;片上集成是量子传感医疗设备小型化的核心方向
+
+#### npj Quantum Information(2024):分子自旋系综混合量子电路AC磁场传感,无光学振动回波检测(2024-04)
+- [npj Quantum Information: Quantum sensing of magnetic fields with molecular spins](https://link.springer.com/10.1038/s41534-024-00838-5) | 分子自旋传感; 混合量子电路
+- **技术方案**:将分子自旋系综嵌入混合量子电路,使用回波检测在微波频率下无需光学振动实现AC磁场传感
+- **核心进展**:分子自旋是原子尺度磁场天然候选;可与超导量子比特集成;混合系统是量子传感与量子计算的融合方向
+- **量子传感关联**:分子自旋传感器可探测纳米乃至原子尺度磁场;与NV色心形成互补;为量子传感与量子计算混合系统开辟新路径
+
+#### Nature Nanotechnology(2016):低温NV色心实现纳米级超导涡旋成像(经典文献)
+- [Nature Nanotechnology 2016](https://link.springer.com/article/10.1038/nnano.2016.63) | 低温NV扫描量子磁力计; 4-300K, 0.1-7T
+- **技术方案**:在4-300K温度范围、0.1-7T磁场下操作单NV色心扫描量子磁力计;首次实现低温环境超导涡旋定量成像
+- **核心发现**:与Pearl解析模型完美吻合;非侵入性测定穿透深度λ和伦敦穿透深度;为高温超导研究提供新工具
+- **量子传感关联**:NV色心是唯一可在低温强磁场下工作的纳米磁力计;超导量子干涉仪(SQUID)是低温量子传感的另一代表;两者互补覆盖不同工作温区和灵敏度需求
+
+#### arXiv:2605.30224 - Bright Squeezed Vacuum光实现Dicke态超快生成:从量子混合态到猫态的相干操控(Imai等,2026-05-28)
+- [arXiv:2605.30224](https://arxiv.org/abs/2605.30224) | 21页,5图; quant-ph/cond-mat.mes-hall/physics.optics
+- **技术方案**:bright squeezed vacuum光结合单次正交测量,在弱耦合区实现宏观量子态超快制备;通过高斯滤波选择性将物质制备到零本征值Dicke态;counter-rotating terms驱动从Dicke态到猫态的量子态转换
+- **核心发现**:光-物质纠缠原本使物质态保持经典混合;基于正交预示机制使物质态塌缩到量子叠加;更亮的squeezed vacuum光可加速Dicke态制备
+- **量子传感关联**:多原子/多自旋集合若实现Dicke态或猫态将显著提升灵敏度;该工作为量子传感中的非经典态工程提供新路径
+
+#### arXiv:2605.30301 - Lindbladian模拟样本复杂度改进:WML算法从O(d²)到O(d)维度依赖(Siheon Park等,2026-05-28)
+- [arXiv:2605.30301](https://arxiv.org/abs/2605.30301) | 31页; 量子物理/量子信息
+- **技术方案**:基于波矩阵Lindblad化(WML)算法建立样本复杂度界限;对维度d和维数d的跳跃算子L,推导显式非渐近样本复杂度:n_d^*(t,ε) ≤ ((2d+3)/8)‖L‖_∞² (t²/ε),优于此前最优O(d²t²/ε)
+- **核心发现**:维度开销可完全避免当‖L‖_∞²=O(1/d);最坏情况下WML需要Ω(dt²/ε)样本;典型vs对抗样本复杂度存在尖锐二分
+- **量子传感关联**:开放量子系统是NV色心、金刚石传感器、电子自旋器件的核心;Lindbladian模拟样本复杂度改进对量子传感系统退相干建模与控制具有直接意义
+
+#### arXiv:2605.29883 - 非球形粒子旋转激发动力Casimir光子:单颗粒自由空间发射的严格定量上限(Impens等,2026-05-28)
+- [arXiv:2605.29883](https://arxiv.org/abs/2605.29883) | 8页,3图; quant-ph
+- **技术方案**:研究非球形中性粒子在自由空间自旋时与量子真空电磁场的相互作用;旋转轴垂直于对称轴时,散射场产生频率边带,引发动力Casimir光子对发射
+- **核心发现**:在最大尖端速度结构约束下,接近球形几何时发射率最大;靠近极化激元共振时进一步增强;即使最优参数下单颗粒自由空间旋转Casimir发射仍极微弱
+- **量子传感关联**:动力Casimir效应是量子真空涨落探测的一种方式;该研究确立了量子传感背景下Casimir效应可探测性的严格量化上限
+
+#### Nature Communications(2022):扫描NV梯度计实现静态磁场梯度高灵敏度成像(2022)
+- [Nature Communications 2022](https://link.springer.com/article/10.1038/s41467-022-31454-6) | 意大利CNR-NANOTEC等; 扫描钻石探针
+- **技术方案**:在扫描钻石探针尖端机械振荡单个NV色心;将空间梯度上转换为交流磁场,使用敏感交流量子协议测量
+- **核心优势**:比静态场成像更高灵敏度;可用于弱磁系统成像(如超导涡旋、手性磁结构)
+- **量子传感关联**:NV色心扫描磁力计是纳米尺度量子传感的标杆技术;可成像二维材料磁结构;对量子材料研究意义重大
+
+---
+*本次更新: 全球量子传感器网络暗物质轴子约束/GHZ离子Heisenberg极限QLID/单层MoS₂生物电压传感/SERF原子磁力计微型化/分子自旋混合量子电路/低温NV超导涡旋成像/Dicke态超快生成/Lindbladian样本复杂度/动力Casimir单纳米颗粒/扫描NV梯度计(2026-05-31中午-12:44)*
+
+
 - [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | Bosch(德国路德维希堡)+Element Six合资; 30名员工
 - **公司定位**:博世将量子传感初创公司分拆,与合成金刚石制造商Element Six成立合资企业;总部位于德国路德维希堡
 - **技术路线**:基于氮-空位(NV)色心金刚石的量子磁力计;紧凑、坚固、用户友好,实现前所未有的测量精度
