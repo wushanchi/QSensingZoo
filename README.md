@@ -12,6 +12,32 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
+### 🆕 新增条目(2026-05-31下午-14:14 - 本次更新)
+
+#### NIST/RTX里德伯原子量子雷达:铯原子云探测掩埋物体,4.7cm定位精度,厘米级量子接收器(2025-08)
+- [MIT Technology Review: This quantum radar could image buried objects(2025-08-11)](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | NIST + RTX(国防承包商); Matthew Simons团队
+- **技术方案**:基于里德伯(Rydberg)原子的量子雷达;玻璃气室充满铯原子,激光将原子激发至膨胀状态(约10,000倍);返回的无线电波通过检测原子发射光颜色变化实现接收
+- **核心参数**:物体定位精度4.7cm; Rydberg原子对宽频段无线电无需改变物理结构即可探测;量子接收器仅约1厘米大小
+- **应用场景**:地下公用设施成像、天然气钻探、考古发掘;相比传统雷达结构更紧凑
+- **量子传感关联**:Rydberg原子是量子射频传感的核心技术;量子雷达是量子传感在国防和安全领域的新兴方向;里德伯原子传感器已进入商业化前期阶段
+
+#### Bosch Quantum Sensing与Element Six成立合资公司:合成金刚石量子磁力计,医疗/导航/资源勘探,中期市场潜力数十亿欧元(2025-07)
+- [Bosch Quantum Sensing官网(2025-07-04)](https://www.bosch-quantumsensing.com/insights-and-updates/bosch-establishes-company-with-the-synthetic-diamond-solutions-provider-element-six/) | Bosch(路德维希堡)+Element Six(德比尔斯集团); 博世主导运营,Element Six持股25%
+- **公司定位**:基于氮-空位(NV)色心金刚石的量子磁力计;紧凑、坚固、用户友好,实现前所未有的测量精度;目前30名员工
+- **技术路线**:合成金刚石是Bosch量子传感器的关键组件; Element Six提供医疗级合成金刚石;双方联合实现工业规模量产
+- **目标市场**:全球医疗和移动应用市场中期潜力达数十亿欧元/年;应用方向包括:医疗技术、消费产品、导航、资源勘探、过程优化
+- **量子传感关联**:Bosch是全球首个大型工业集团正式进军量子传感商业化;芯片级金刚石量子传感器是量子传感消费电子化的关键里程碑;博世+Element Six的合资模式代表量子传感产业链深度整合趋势
+
+#### Quantum Singapore 2026论坛:量子从硬件突破到工业应用,2026年2月4日新加坡滨海湾金沙开幕(2026-02)
+- [腾讯新闻:Quantum Singapore 2026论坛开幕(2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K/FinQ Tech/Informa Markets联合主办; IEEE Photonics Society新加坡分会学术支持
+- **论坛主题**:`Quantum Convergence: From Hardware Breakthrough to Industrial Adoption`
+- **首日核心议题**:硬件-软件错位挑战; NQFF国家量子联合代工厂;经典机器学习优化量子电路(NISQ设备);量子电路设计与逻辑综合;量子互联网资源管理与纠缠分发优化
+- **圆桌讨论**:打破量子硬软件兼容性壁垒;东南亚量子生态的全球定位;行业标准或开放接口降低准入门槛
+- **量子传感关联**:Quantum Singapore 2026是亚太地区最具影响力的量子技术产业论坛;量子传感商业化路径是大会核心议题;东南亚跨边境协作文化为量子传感产业国际化提供新视角
+
+---
+*本次更新: NIST/RTX Rydberg量子雷达掩埋物体成像/Bosch Quantum Sensing与Element Six合资公司/Quantum Singapore 2026论坛会议内容(2026-05-31下午-14:14)*
+
 ### 🆕 新增条目(2026-05-31下午-13:14 - 本次更新)
 
 #### Attocube attoNVM商业量产:1.8K低温NV扫描磁学显微镜,3µT/√Hz灵敏度,纳米分辨率,首台已部署(2026-01)
