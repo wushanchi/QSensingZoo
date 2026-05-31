@@ -1,1 +1,4 @@
-QSensingZoo: 2026-05-31 06:55:48 UTC
+wushanchi/QSensingZoo
+SHA: 18474cbaa5715e2aadc2e2d8e01ef4438f744329
+Timestamp: Sat May 31 07:44:00 UTC 2026
+Commit message: Update 2026-05-31 15:44: add Dubai Quantum Innovation Summit/QTF/EU Flagship June events/RIKEN/ NV quantum sensing MRAM & quantum repeater
