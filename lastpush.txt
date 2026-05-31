@@ -1,1 +1,1 @@
-c8ed230c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6 2026-05-31 21:45 UTC - 新增4条:Quantum Design收购牛津仪器纳米科学部门/NASA首个太空量子重力传感器QUAKE任务/iCV TA&K量子传感市场预测/iCV TA&K量子传感市场预测
+fda4bd2 2026-05-31 15:44 CST - 本次更新: 清华大学动力学冻结Nature论文/可编程耗散部分量子纠错/Qnami 800万瑞士法郎A轮融资/非阿贝尔Mixer QAOA
