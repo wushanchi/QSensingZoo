@@ -13,6 +13,29 @@
 
 
 
+### 🆕 新增条目(2026-06-01凌晨-03:44 - 本次更新)
+
+#### NASA量子重力仪:首台太空量子重力传感器/地球重力场观测/地下水与石油储量监测/2026年研发推进中(2026)
+- [NASA JPL:NASA Aims to Fly First Quantum Sensor for Gravity Measurements](https://www.jpl.nasa.gov/news/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/) | NASA喷气推进实验室(JPL); Earth Science Technology Office(ESTO)支持
+- **技术目标**:NASA正在研发首台太空量子重力传感器,用于测量地球重力场变化;填补传统重力测量卫星的精度空白
+- **核心应用**:石油储量监测、全球淡水资源观测、地质过程研究;地球重力场每天随地质过程重新分布
+- **技术优势**:量子重力仪灵敏度远超经典设备;可探测传统卫星无法观测的微小重力变化;为地球科学研究提供全新数据源
+- **量子传感关联**:量子重力仪是量子传感最具变革性的应用之一;太空部署代表量子传感从地面向轨道迁移的战略里程碑;NASA的量子重力计划是量子传感国家战略的标志性项目
+
+#### Quantum Innovation Summit Dubai 2026 - 量子创新峰会/2026年9月28-30日迪拜/量子传感与新兴前沿技术/IEEE Photonics Society主办(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办:IEEE Photonics Society等; Grand Hyatt Dubai
+- **会议主题**:量子与新兴前沿技术,推进全球创新与技术领导力;量子传感是六大方向之一
+- **量子传感关联**:量子传感是量子技术产业化的重要方向;该峰会是量子传感技术展示和行业交流的重要平台;迪拜作为全球量子技术新兴枢纽,辐射中东与亚太市场
+
+#### Fraunhofer IAF 宽场NV磁力计 - 快速磁成像/纳米分辨率/室温工作/QUASAR硅自旋量子比特/LASER World of QUANTUM 2026展示(May 2026)
+- **宽场NV磁力计**:基于4×4mm² IIa型金刚石衬底的快速磁成像;纳米分辨率;室温工作;已在纳米电子学、材料科学、生物医学领域应用;将在2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **金刚石量子传感产业链**:Fraunhofer IAF已建立稳定欧洲产业规模fabrication链;从量子材料到器件完整覆盖;为NV量子传感产业化提供制造基础
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;其宽场NV磁力计代表量子成像传感的重要进展;芯片级量子传感器是量子传感实用化的关键节点
+
+---
+*本次更新: NASA量子重力仪太空计划/迪拜量子创新峰会2026/Fraunhofer IAF宽场NV磁力计&QUASAR项目(2026-06-01凌晨-03:44)*
+
 ### 🆕 新增条目(2026-06-01凌晨-02:14 - 本次更新)
 
 #### arXiv:2605.30637 - 量子网络金刚石色心:原理、进展与展望/大规模量子网络新路径(Majumder等,2026-05-28)
