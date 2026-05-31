@@ -13,28 +13,51 @@
 
 
 
-### 🆕 新增条目(2026-06-01凌晨-03:44 - 本次更新)
+### 🆕 新增条目(2026-06-01凌晨-04:14 - 本次更新)
 
-#### NASA量子重力仪:首台太空量子重力传感器/地球重力场观测/地下水与石油储量监测/2026年研发推进中(2026)
-- [NASA JPL:NASA Aims to Fly First Quantum Sensor for Gravity Measurements](https://www.jpl.nasa.gov/news/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/) | NASA喷气推进实验室(JPL); Earth Science Technology Office(ESTO)支持
-- **技术目标**:NASA正在研发首台太空量子重力传感器,用于测量地球重力场变化;填补传统重力测量卫星的精度空白
-- **核心应用**:石油储量监测、全球淡水资源观测、地质过程研究;地球重力场每天随地质过程重新分布
-- **技术优势**:量子重力仪灵敏度远超经典设备;可探测传统卫星无法观测的微小重力变化;为地球科学研究提供全新数据源
-- **量子传感关联**:量子重力仪是量子传感最具变革性的应用之一;太空部署代表量子传感从地面向轨道迁移的战略里程碑;NASA的量子重力计划是量子传感国家战略的标志性项目
+#### Muquans → iXblue → HexaQuan / Quantinuum Hexar集团整合 - 量子重力仪/原子钟产品线/工业级量子传感(2026)
+- [Muquans官网](https://www.muquans.com/) | [iXblue Quantum Sensing](https://www.ixblue.com/quantum-sensing/) | Muquans→iXblue→HexaQuan; Hexar Group整合量子传感业务
+- **品牌演变**:Muquans(法国波尔多初创)→2019年被iXblue收购→2024年Hexar Group将iXblue量子传感业务与Quantinuum量子传感部门整合为HexaQuan;产品线保持
+- **核心产品**:
+  - **量子重力仪**:基于原子干涉测量技术,用于地质勘探、惯性导航;工业级量子重力仪量产化代表
+  - **原子钟**:高性能频率标准,用于授时、电信、国防;原子钟是量子传感最成熟商业化方向
+  - **量子加速度计**:原子干涉加速度计,用于精密导航
+- **量子传感关联**:Muquans是欧洲量子重力仪商业化先驱;品牌整合反映量子传感产业正在经历规模化整合;Hexar Group打造量子传感全产品线平台
 
-#### Quantum Innovation Summit Dubai 2026 - 量子创新峰会/2026年9月28-30日迪拜/量子传感与新兴前沿技术/IEEE Photonics Society主办(2026-05)
-- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办:IEEE Photonics Society等; Grand Hyatt Dubai
-- **会议主题**:量子与新兴前沿技术,推进全球创新与技术领导力;量子传感是六大方向之一
-- **量子传感关联**:量子传感是量子技术产业化的重要方向;该峰会是量子传感技术展示和行业交流的重要平台;迪拜作为全球量子技术新兴枢纽,辐射中东与亚太市场
+#### Infleqtion × Safran TITANIUM量子授时项目 - 量子增强精密授时,关键基础设施弹性PNT(2026-04)
+- [Safran Electronics & Defense](https://www.safran-electronics-defense.com/) | Infleqtion与赛峰电子与防务公司合作; TITANIUM项目
+- **项目内容**:Infleqtion推出首款具备量子增强能力的精密授时解决方案,是TITANIUM项目核心部分;面向全球国防、电信及关键基础设施领域客户
+- **技术方案**:基于中性原子量子传感技术,提供超越传统原子钟的授时精度和稳定性;在GPS拒止环境下仍能保持高精度时间基准
+- **量子传感关联**:量子授时是量子PNT(定位、导航、授时)的核心组成;量子增强授时是量子传感在关键基础设施弹性化的战略应用;赛峰是全球顶级国防防务供应商,其认可标志着量子传感国防市场成熟
 
-#### Fraunhofer IAF 宽场NV磁力计 - 快速磁成像/纳米分辨率/室温工作/QUASAR硅自旋量子比特/LASER World of QUANTUM 2026展示(May 2026)
-- **宽场NV磁力计**:基于4×4mm² IIa型金刚石衬底的快速磁成像;纳米分辨率;室温工作;已在纳米电子学、材料科学、生物医学领域应用;将在2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+#### Bosch Quantum Sensing × Element Six - NV色心金刚石量子磁力计,芯片级消费产品/医疗/导航/过程优化(2026)
+- [Bosch Quantum Sensing](https://www.bosch-quantumsensing.com/) | Bosch与Element Six(戴比尔斯人造金刚石)合资; 总部德国路德维希堡; 约30名员工
+- **技术路线**:基于氮-空位(NV)色心金刚石的量子磁力计;紧凑、坚固、用户友好,实现前所未有的测量精度
+- **应用领域**:医疗技术、消费产品、导航、资源勘探、过程优化
+- **核心优势**:超过10年基础研究积累;Element Six提供量子级金刚石材料(DNV™系列);博世提供系统集成与工业制造能力;全球网络和市场准入
+- **量子传感关联**:博世是全球工业巨头;其正式布局NV量子传感商业化标志着量子传感从初创公司向大型工业集团扩散;芯片级金刚石量子传感器是量子传感消费电子化的关键里程碑
+
+#### Fraunhofer IAF QUASAR项目 + 宽场NV磁力计 - 欧洲量子技术硅自旋qubit平台/金刚石量子传感产业链/2026年6月慕尼黑LASER展会展示(May 2026)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF(德国弗劳恩霍夫应用固体物理研究所)
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;已在纳米电子学、材料科学、生物医学领域应用;将在2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
 - **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
 - **金刚石量子传感产业链**:Fraunhofer IAF已建立稳定欧洲产业规模fabrication链;从量子材料到器件完整覆盖;为NV量子传感产业化提供制造基础
 - **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;其宽场NV磁力计代表量子成像传感的重要进展;芯片级量子传感器是量子传感实用化的关键节点
 
+#### arXiv:2605.30637 - 量子网络金刚石色心:原理、进展与展望/大规模量子网络新路径(Majumder等,2026-05-28)
+- [arXiv:2605.30637](https://arxiv.org/abs/2605.30637) | Ayan Majumder, Cem Güney Torun, Tim Schröder, Gregor Pieplolk, Prem Kumar, Kasturi Saha; quant-ph; 2026-05-28
+- **技术内容**:全面综述基于金刚石色心的大规模量子网络原理、进展与未来路线图;涵盖NV、SiV、GeV等多种色心平台的量子接口、纠缠分发、量子存储技术
+- **核心主题**:Large-scale quantum networks will enable entirely new applications; 色心是量子网络中光子-物质纠缠界面的核心
+- **量子传感关联**:金刚石色心既是量子传感平台又是量子网络节点;量子传感网络化是分布式量子感知的基础;SiV/GeV等新色心在相干时间和波长方面各有优势
+
+#### UNSW量子传感硅芯片:世界首个硅量子比特/量子记忆时间纪录/硅纳米电子器件量子传感器集成(2026-05)
+- [UNSW Defence Research Institute:Quantum technologies](https://www.unsw.edu.au/research/dri/capabilities-defence-research-institute/quantum-technologies) | UNSW Sydney; 澳大利亚
+- **技术突破**:世界首个在硅中演示单量子比特(单原子自旋);量子记忆时间保持世界纪录(直接转化为对电磁扰动场的灵敏度优势)
+- **集成进展**:将世界领先的硅量子计算技术延伸,在硅纳米电子器件内集成量子传感器;实现量子传感器与硅纳米电子的片上协同
+- **量子传感关联**:硅量子平台兼具量子计算与量子传感双重功能;硅CMOS兼容工艺是量子传感器芯片化最具可扩展性的路线;UNSW的硅量子传感代表量子传感从金刚石向硅CMOS迁移的新趋势
+
 ---
-*本次更新: NASA量子重力仪太空计划/迪拜量子创新峰会2026/Fraunhofer IAF宽场NV磁力计&QUASAR项目(2026-06-01凌晨-03:44)*
+*本次更新: Muquans→iXblue→HexaQuan品牌整合/Infleqtion×赛峰TITANIUM量子授时/Bosch×Element Six NV量子磁力计/Fraunhofer IAF QUASAR+宽场NV/arXiv量子网络金刚石色心综述/UNSW硅量子传感(2026-06-01凌晨-04:14)*
 
 ### 🆕 新增条目(2026-06-01凌晨-02:14 - 本次更新)
 
@@ -617,62 +640,6 @@
 
 ---
 *本次更新: arXiv结构光湍流大气传播解析模型/arXiv量子退同步极限环/arXiv宏观量子态压缩真空光场制备/IDTechEx芯片级量子传感器市场更新(2026-06-01凌晨-02:44)*
-
----
-### 🆕 新增条目(2026-06-01凌晨-03:14 - 本次更新)
-
-#### Cerca Magnetics完成380万英镑A轮融资 - 可穿戴量子脑成像扫描仪/诺丁汉大学衍生企业/吉尼斯Ventures领投(2026-04)
-- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资(2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics(英国); 吉尼斯风险投资(Guinness Ventures)领投; 投后估值3000万英镑
-- **融资规模**:380万英镑(约475万美元)A轮; 资金用于拓展临床医疗市场布局
-- **技术平台**:可穿戴式脑成像扫描仪,采用量子传感器实现对神经活动的高精度测量;基于诺丁汉大学物理与天文学院衍生技术
-- **商业化进展**:从科研向临床医疗市场布局;量子脑成像是量子传感在医学领域的核心应用方向之一
-- **量子传感关联**:量子脑磁图(MEG)是量子传感最具临床价值的应用之一;可穿戴化是量子传感医疗设备普及的关键;Cercas Magnetics融资标志着量子传感医疗商业化进入新阶段
-
-#### NASA量子重力仪 - 首台太空量子重力传感器/地球重力场观测/地下水/石油储量监测(2025-04)
-- [NASA JPL:NASA Aims to Fly First Quantum Sensor for Gravity Measurements](https://www.jpl.nasa.gov/news/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/) | NASA喷气推进实验室(JPL); Earth Science Technology Office(ESTO)支持
-- **技术目标**:NASA正在研发首台太空量子重力传感器,用于测量地球重力场变化;填补传统重力测量卫星的精度空白
-- **核心应用**:石油储量监测、全球淡水资源观测、地质过程研究;地球重力场每天随地质过程重新分布
-- **技术优势**:量子重力仪灵敏度远超经典设备;可探测传统卫星无法观测的微小重力变化;为地球科学研究提供全新数据源
-- **量子传感关联**:量子重力仪是量子传感最具变革性的应用之一;太空部署代表量子传感从地面向轨道迁移;NASA的量子重力计划是量子传感国家战略的标志性项目
-
-#### arXiv:2605.30637 - 量子网络金刚石色心:大规模量子网络原理/进展/路线图/多色心平台量子接口(Majumder等,2026-05-28)
-- [arXiv:2605.30637](https://arxiv.org/abs/2605.30637) | Ayan Majumder, Cem Güney Torun, Tim Schröder, Gregor Pieplolk, Prem Kumar, Kasturi Saha; quant-ph; 2026-05-28提交
-- **技术内容**:全面综述基于金刚石色心的大规模量子网络原理、进展与未来路线图;涵盖NV、SiV、GeV等多种色心平台的量子接口、纠缠分发、量子存储技术
-- **核心主题**:Large-scale quantum networks will enable entirely new applications; 色心是量子网络中光子-物质纠缠界面的核心
-- **量子传感关联**:金刚石色心既是量子传感平台又是量子网络节点;量子传感网络化是分布式量子感知的基础;SiV/GeV等新色心在相干时间和波长方面各有优势
-
-#### arXiv:2605.30608 - 混合量子-经典精化CT重建:有限量子资源高保真图像/量子优化计算断层扫描(2026-05-28)
-- [arXiv:2605.30608](https://arxiv.org/abs/2605.30608) | 量子-经典混合算法; 量子优化; 计算断层扫描重建
-- **技术方案**:在计算断层扫描(CT)重建中利用量子优化处理有限量子资源下的图像重建;混合量子-经典精化框架减少所需二进制变量数
-- **量子传感关联**:量子优化算法在医学成像领域的应用代表量子传感信号处理的新方向;量子增强图像重建为量子X射线/量子显微镜提供后端算法支撑
-
-#### Quantum Singapore 2026论坛 - 新加坡滨海湾/ICV TA&K/FinQ Tech/Informa Markets/IEEE Photonics Society学术支持(2026-02)
-- [腾讯新闻:Quantum Singapore 2026论坛开幕(2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办; IEEE Photonics Society新加坡分会学术支持
-- **核心主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
-- **内容覆盖**:量子传感硬件优化、软硬协同、区域化生态构建;全球顶尖量子科学家、行业领袖及技术专家参与
-- **量子传感关联**:Quantum Singapore是亚太量子技术产业化的重要平台;论坛汇聚量子传感从基础研究到工业应用的全链条专家;区域量子创新生态建设对量子传感商业化至关重要
-
-#### Quantum Sensor Market:2025年30亿美元→2045年20亿美元,SWaP-C挑战与半导体路线(2025-04)
-- [App Developer Magazine:Quantum sensor market to grow to $2B by 2045](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | 市场分析报告; 2025-04
-- **市场规模**:量子传感器市场预计到2045年增长至20亿美元;量子传感器承诺在多个行业提供卓越精度
-- **核心挑战**:SWaP-C(尺寸、重量、功耗、成本)是量子传感器大规模采用的关键;半导体化是解决SWaP-C挑战的核心路径
-- **技术路线**:半导体工艺推动量子传感器芯片化;量子传感器正通过半导体技术实现小型化、低功耗化
-- **量子传感关联**:量子传感市场进入快速成长期;半导体化是量子传感规模化的必由之路;国防、交通、石化是量子传感商用的重点方向
-
-#### IOP Commercialising Quantum Global 2025 - 国际量子技术产业会议/联合国量子之年/真实用例与可衡量ROI(2025-05)
-- [IOP:4th annual Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics(IOP); 英国; 2025年5月
-- **会议定位**:以案例研究为核心的量子技术产业会议;聚焦真实世界量子应用和可衡量投资回报
-- **2025主题**:联合国量子之年(UN International Year of Quantum)特别版;扩大为完整两天议程
-- **量子传感关联**:量子传感是会议核心议题之一;从实验室到工业应用的案例分享推动量子传感商业化共识;产业会议是量子传感生态系统建设的关键环节
-
-#### 4th IOP Commercialising Quantum Global 2025 - 联合国量子之年特别版/两天完整议程/真实用例(2025-05)
-- [IOP Events:Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics; 2025年5月; 英国
-- **核心亮点**:联合国宣布2025年为国际量子之年(International Year of Quantum);会议规模扩大为完整两天;以真实终端用户案例为特色的议程设计
-- **议题覆盖**:量子计算、量子通信、量子传感的产业化路径;投资回报与量子就绪评估;量子技术从探索走向规模化
-- **量子传感关联**:IOP是量子传感学术与产业结合的重要平台;会议案例反映了量子传感在国防、工业检测、医疗等领域的真实部署进展
-
----
-*本次更新: Cerca Magnetics 380万英镑A轮融资/量子脑扫描仪商业化/NASA量子重力仪太空计划/arXiv量子网络色心综述/arXiv量子优化CT重建/Quantum Singapore 2026论坛/量子传感器市场20亿美元预测/IOP量子技术产业会议(2026-06-01凌晨-03:14)*
 
 ---
 *本次更新: Quantum Dubai 2026峰会/Q-BIOMED英国量子生物医学传感hub/QDTI量子生物标志物检测/Quanvia NV疾病诊断/SBQuantum加拿大NV磁力计/IDTechEx 71亿美元/Qubic超导量子微波/Bosch量子传感合资(2026-05-31下午-14:44)*
