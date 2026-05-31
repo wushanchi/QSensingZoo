@@ -3536,5 +3536,6 @@
 - **量子传感关联**:QOMPASS是欧洲量子传感产业化的重要推手
 
 ---
-*本次更新: 清华Nature多体动力学冻结/麦肯锡量子技术监测报告/QuantX Labs量子PNT/Q-CTRL TIME 100/Infleqtion量子频谱/NASA太空量子重力仪/Sandia量子重力仪/Qnami东亚扩张/Bosch量子传感/Cerca Magnetics融资/国仪量子SpinMag-I/QOMPASS(2026-05-31晚-21:14)*
+---
+*本次更新: Quantum Design收购牛津仪器纳米科学部门/NASA首个太空量子重力传感器(QUAKE任务)/iCV TA&K量子传感市场预测2025→2035/麦肯锡量子技术监测报告(2026-05-31晚间-21:44)*
 
