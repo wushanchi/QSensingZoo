@@ -596,4 +596,60 @@
 *本次更新: arXiv结构光湍流大气传播解析模型/arXiv量子退同步极限环/arXiv宏观量子态压缩真空光场制备/IDTechEx芯片级量子传感器市场更新(2026-06-01凌晨-02:44)*
 
 ---
+### 🆕 新增条目(2026-06-01凌晨-03:14 - 本次更新)
+
+#### Cerca Magnetics完成380万英镑A轮融资 - 可穿戴量子脑成像扫描仪/诺丁汉大学衍生企业/吉尼斯Ventures领投(2026-04)
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资(2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics(英国); 吉尼斯风险投资(Guinness Ventures)领投; 投后估值3000万英镑
+- **融资规模**:380万英镑(约475万美元)A轮; 资金用于拓展临床医疗市场布局
+- **技术平台**:可穿戴式脑成像扫描仪,采用量子传感器实现对神经活动的高精度测量;基于诺丁汉大学物理与天文学院衍生技术
+- **商业化进展**:从科研向临床医疗市场布局;量子脑成像是量子传感在医学领域的核心应用方向之一
+- **量子传感关联**:量子脑磁图(MEG)是量子传感最具临床价值的应用之一;可穿戴化是量子传感医疗设备普及的关键;Cercas Magnetics融资标志着量子传感医疗商业化进入新阶段
+
+#### NASA量子重力仪 - 首台太空量子重力传感器/地球重力场观测/地下水/石油储量监测(2025-04)
+- [NASA JPL:NASA Aims to Fly First Quantum Sensor for Gravity Measurements](https://www.jpl.nasa.gov/news/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/) | NASA喷气推进实验室(JPL); Earth Science Technology Office(ESTO)支持
+- **技术目标**:NASA正在研发首台太空量子重力传感器,用于测量地球重力场变化;填补传统重力测量卫星的精度空白
+- **核心应用**:石油储量监测、全球淡水资源观测、地质过程研究;地球重力场每天随地质过程重新分布
+- **技术优势**:量子重力仪灵敏度远超经典设备;可探测传统卫星无法观测的微小重力变化;为地球科学研究提供全新数据源
+- **量子传感关联**:量子重力仪是量子传感最具变革性的应用之一;太空部署代表量子传感从地面向轨道迁移;NASA的量子重力计划是量子传感国家战略的标志性项目
+
+#### arXiv:2605.30637 - 量子网络金刚石色心:大规模量子网络原理/进展/路线图/多色心平台量子接口(Majumder等,2026-05-28)
+- [arXiv:2605.30637](https://arxiv.org/abs/2605.30637) | Ayan Majumder, Cem Güney Torun, Tim Schröder, Gregor Pieplolk, Prem Kumar, Kasturi Saha; quant-ph; 2026-05-28提交
+- **技术内容**:全面综述基于金刚石色心的大规模量子网络原理、进展与未来路线图;涵盖NV、SiV、GeV等多种色心平台的量子接口、纠缠分发、量子存储技术
+- **核心主题**:Large-scale quantum networks will enable entirely new applications; 色心是量子网络中光子-物质纠缠界面的核心
+- **量子传感关联**:金刚石色心既是量子传感平台又是量子网络节点;量子传感网络化是分布式量子感知的基础;SiV/GeV等新色心在相干时间和波长方面各有优势
+
+#### arXiv:2605.30608 - 混合量子-经典精化CT重建:有限量子资源高保真图像/量子优化计算断层扫描(2026-05-28)
+- [arXiv:2605.30608](https://arxiv.org/abs/2605.30608) | 量子-经典混合算法; 量子优化; 计算断层扫描重建
+- **技术方案**:在计算断层扫描(CT)重建中利用量子优化处理有限量子资源下的图像重建;混合量子-经典精化框架减少所需二进制变量数
+- **量子传感关联**:量子优化算法在医学成像领域的应用代表量子传感信号处理的新方向;量子增强图像重建为量子X射线/量子显微镜提供后端算法支撑
+
+#### Quantum Singapore 2026论坛 - 新加坡滨海湾/ICV TA&K/FinQ Tech/Informa Markets/IEEE Photonics Society学术支持(2026-02)
+- [腾讯新闻:Quantum Singapore 2026论坛开幕(2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办; IEEE Photonics Society新加坡分会学术支持
+- **核心主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
+- **内容覆盖**:量子传感硬件优化、软硬协同、区域化生态构建;全球顶尖量子科学家、行业领袖及技术专家参与
+- **量子传感关联**:Quantum Singapore是亚太量子技术产业化的重要平台;论坛汇聚量子传感从基础研究到工业应用的全链条专家;区域量子创新生态建设对量子传感商业化至关重要
+
+#### Quantum Sensor Market:2025年30亿美元→2045年20亿美元,SWaP-C挑战与半导体路线(2025-04)
+- [App Developer Magazine:Quantum sensor market to grow to $2B by 2045](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | 市场分析报告; 2025-04
+- **市场规模**:量子传感器市场预计到2045年增长至20亿美元;量子传感器承诺在多个行业提供卓越精度
+- **核心挑战**:SWaP-C(尺寸、重量、功耗、成本)是量子传感器大规模采用的关键;半导体化是解决SWaP-C挑战的核心路径
+- **技术路线**:半导体工艺推动量子传感器芯片化;量子传感器正通过半导体技术实现小型化、低功耗化
+- **量子传感关联**:量子传感市场进入快速成长期;半导体化是量子传感规模化的必由之路;国防、交通、石化是量子传感商用的重点方向
+
+#### IOP Commercialising Quantum Global 2025 - 国际量子技术产业会议/联合国量子之年/真实用例与可衡量ROI(2025-05)
+- [IOP:4th annual Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics(IOP); 英国; 2025年5月
+- **会议定位**:以案例研究为核心的量子技术产业会议;聚焦真实世界量子应用和可衡量投资回报
+- **2025主题**:联合国量子之年(UN International Year of Quantum)特别版;扩大为完整两天议程
+- **量子传感关联**:量子传感是会议核心议题之一;从实验室到工业应用的案例分享推动量子传感商业化共识;产业会议是量子传感生态系统建设的关键环节
+
+#### 4th IOP Commercialising Quantum Global 2025 - 联合国量子之年特别版/两天完整议程/真实用例(2025-05)
+- [IOP Events:Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics; 2025年5月; 英国
+- **核心亮点**:联合国宣布2025年为国际量子之年(International Year of Quantum);会议规模扩大为完整两天;以真实终端用户案例为特色的议程设计
+- **议题覆盖**:量子计算、量子通信、量子传感的产业化路径;投资回报与量子就绪评估;量子技术从探索走向规模化
+- **量子传感关联**:IOP是量子传感学术与产业结合的重要平台;会议案例反映了量子传感在国防、工业检测、医疗等领域的真实部署进展
+
+---
+*本次更新: Cerca Magnetics 380万英镑A轮融资/量子脑扫描仪商业化/NASA量子重力仪太空计划/arXiv量子网络色心综述/arXiv量子优化CT重建/Quantum Singapore 2026论坛/量子传感器市场20亿美元预测/IOP量子技术产业会议(2026-06-01凌晨-03:14)*
+
+---
 *本次更新: Quantum Dubai 2026峰会/Q-BIOMED英国量子生物医学传感hub/QDTI量子生物标志物检测/Quanvia NV疾病诊断/SBQuantum加拿大NV磁力计/IDTechEx 71亿美元/Qubic超导量子微波/Bosch量子传感合资(2026-05-31下午-14:44)*
