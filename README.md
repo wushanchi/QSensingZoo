@@ -36,7 +36,20 @@
 - **量子传感关联**:Quantum Singapore 2026是亚太地区最具影响力的量子技术产业论坛;量子传感商业化路径是大会核心议题;东南亚跨边境协作文化为量子传感产业国际化提供新视角
 
 ---
-*本次更新: NIST/RTX Rydberg量子雷达掩埋物体成像/Bosch Quantum Sensing与Element Six合资公司/Quantum Singapore 2026论坛会议内容(2026-05-31下午-14:14)*
+---
+*本次更新: Cerca Magnetics 380万英镑A轮融资/Quantum传感器市场2025-2045预测/NIST-RTX Rydberg量子雷达/Bosch Quantum Sensing与Element Six合资公司/Quantum Singapore 2026论坛(2026-05-31下午-14:14)*
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资(2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics(英国诺丁汉大学物理与天文学院衍生企业); 吉尼斯风险投资(Guinness Ventures)领投
+- **产品技术**:可穿戴式脑成像扫描仪,采用量子传感器实现对神经活动的高精度测量;量子脑磁图(MEG)是量子传感医疗健康领域最成熟的应用方向之一
+- **融资用途**:拓展临床医疗市场布局; 投后估值达3000万英镑
+- **量子传感关联**:量子脑成像是量子传感在神经科学和医学诊断领域的标志性应用;可穿戴设计是量子传感设备小型化的重要里程碑;英国在量子生物传感领域的持续投入
+
+#### Quantum传感器市场预测:2025至2045年从1B向2B美元增长,半导体工艺制造是关键规模化路径(2025-2026)
+- [App Developer Magazine:Quantum sensor market to grow to 2B by 2045](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | IDTechEx市场研究
+- **市场预测**:量子传感器市场从2025年至2045年将显著增长;规模化路径依赖半导体制造工艺
+- **核心技术**:玻璃蒸汽室(glass vapor cells)是原子干涉型量子传感器的核心元件;半导体晶圆级微加工可批量制造高一致性蒸汽室;垂直腔面发射激光器(VCSELs)可晶圆级批量制造,支撑芯片级量子传感器
+- **技术路线**:蒸汽室半导体工艺微加工;VCSEL批量制造降低成本;超导隧道结低温放大器
+- **量子传感关联**:半导体制造是量子传感从实验室到消费电子化的关键;芯片级量子传感器是产业终极目标;fab厂商将成为量子传感规模化制造的最大受益者
+
 
 ### 🆕 新增条目(2026-05-31下午-13:14 - 本次更新)
 
@@ -3140,3 +3153,4 @@
 
 ---
 *本次更新: Quantum.Tech World 2026波士顿峰会/arXiv非厄米临界传感/arXiv原子蒸气室磁力计/分子MOT增强捕获/隧穿相图ML框架/arXiv QML鲁棒性验证/Quantum Coast Capital量子传感投资(2026-05-31中午-12:14)*
+
