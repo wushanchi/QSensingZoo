@@ -12,6 +12,46 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
+### 🆕 新增条目(2026-05-31下午-15:44 - 本次更新)
+
+#### Quantum Innovation Summit Dubai 2026 - 量子创新峰会,2026年9月28-30日迪拜,量子传感重要展示平台(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | Grand Hyatt Dubai Conference & Exhibition Centre
+- **会议时间**:2026年9月28-30日
+- **会议定位**:推进全球量子科技领导力的年度盛会;由官方政府战略合作伙伴支持
+- **核心议题**:量子传感是大会重要议题之一;量子计算、量子通信、量子传感的产业化路径与新兴部署策略
+- **量子传感关联**:Quantum Innovation Summit是中东地区最具影响力的量子技术产业平台;量子传感商业化与产业生态建设是核心讨论方向
+
+#### Quantum Technology Finland (QTF) - 芬兰国家量子技术卓越中心,约百名研究者,量子传感基础与应用研究(2026-05)
+- [Quantum Technology Finland](https://qtf.fi/) | 芬兰国家卓越中心;Aalto University/University of Helsinki/VTT联合
+- **研究目标**:利用量子现象开发新型量子器件和混合架构;量子相干性与耗散控制;新型量子电路
+- **研究方向**:超导量子器件、硅基量子器件;量子传感是核心方向之一
+- **量子传感关联**:QTF代表欧洲量子传感基础研究的重要力量;产学研协同模式对量子传感产业化具有参考价值
+
+#### EU Quantum Flagship - 6月全欧量子重力仪研讨会/6月中旬GaAs量子点/6月下旬开放量子系统研讨会(2026-05)
+- [EU Quantum Flagship](https://qt.eu/) | 欧洲量子技术旗舰计划
+- **6月活动**:(1)6月3-5日 EU-wide workshop on quantum gravimetry; (2)6月10-12日 4th International GaAs Quantum Dot Workshop; (3)6月15-17日 European Workshop on Open Quantum Systems 2026
+- **量子传感关联**:量子重力仪研讨会是量子重力传感产业化的重要学术交流平台;GaAs量子点是量子传感器的核心材料体系之一;开放量子系统研究与量子传感噪声建模直接相关
+
+#### Quantum Innovation 2026 - 日本政府主办,RIKEN组织,量子科学技术创新国际研讨会(2026-05)
+- [Quantum Innovation 2026](https://quantum-innovation.riken.jp/) | 日本政府研究机构与产业联合主办
+- **会议主题**:Quantum Science, Technology and Innovation;推进日本及全球量子科技领导力
+- **量子传感关联**:日本是量子传感产业化的重要国家;RIKEN在量子传感基础研究方面有深厚积累;量子传感是日本量子技术战略的核心方向
+
+#### npj Spintronics:量子传感MRAMbit级测量 - 扫描NV磁力计识别tail-bits,器件失效分析(2024-06)
+- [Nature npj Spintronics: A quantum sensing metrology for magnetic memories](https://www.nature.com/articles/s44306-024-00016-5) | Nature Portfolio; 量子传感+自旋电子学
+- **技术方案**:扫描NV磁力计(SNVM)实现MRAM器件的非接触式bit级测量;识别out-of-distribution tail-bits
+- **核心发现**:可识别传统 ensemble averaging方法无法探测到的异常bit;为失效分析提供新工具
+- **量子传感关联**:NV色心量子传感是自旋电子学和存储器研究的核心工具;量子传感与半导体工业的结合是产业化的重要方向
+
+#### npj Quantum Information:量子纠缠态经由NV中心光吸收-发射实现量子中继器节点(2025-12)
+- [Nature npj Quantum Information: Quantum teleportation via absorption and emission for quantum repeater nodes](https://www.nature.com/articles/s41534-025-01169-9) | Nature Portfolio; NV色心+量子纠缠+量子网络
+- **技术方案**:通过电子自旋-轨道纠缠实现量子态从NV中心向发射光子的转移;利用Bell态测量实现量子隐形传态
+- **核心价值**:首个基于吸收-发射机制实现量子中继器节点的方案;对相位和强度涨落具有鲁棒性
+- **量子传感关联**:NV中心量子态操控是量子传感的核心技术;量子中继器是分布式量子传感的网络基础设施
+
+---
+*本次更新: 迪拜量子创新峰会/芬兰QTF国家卓越中心/EU量子旗舰6月系列研讨会/日本RIKEN量子创新2026/NV量子传感MRAM测量/NV量子纠缠态量子中继器(2026-05-31下午-15:44)*
+
 ### 🆕 新增条目(2026-05-31下午-15:14 - 本次更新)
 
 #### MIT Technology Review:量子雷达实现地下物体成像,铯原子云玻璃室射频频谱探测(2025-08)
