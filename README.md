@@ -3467,5 +3467,74 @@
 - **战略定位**:不仅是投资者,更是战略合作伙伴;在量子传感商业化、监管和长期规模扩展方面积极支持创始团队
 - **量子传感关联**:量子传感创业公司获资本市场持续支持;量子传感从实验室到市场的产业化加速
 
+
+### 🆕 新增条目(2026-05-31晚-21:14 - 本次更新)
+
+#### 清华大学段路明院士团队 Nature 论文 - 多体动力学冻结增强磁场测量,突破热化效应限制(2026-05-28)
+- [科学网:清华团队首次观测到这一现象](http://news.sciencenet.cn/htmlnews/2026/5/565577.shtm) | 清华大学交叉信息研究院段路明院士、邓东灵副教授、侯攀宇助理教授研究组
+- **核心突破**:首次在大规模固态自旋体系中观测到多体动力学冻结现象;揭示基于涌现守恒量的新型热化抑制机制;在金刚石近万个NV色心电子自旋平台实验验证
+- **实验数据**:系统磁化量可稳定维持约200个驱动周期,相干时长较以往提升一个数量级;磁场测量灵敏度提升约2.7倍
+- **量子传感关联**:热化效应是量子精密测量实用化的核心瓶颈;该成果破解量子传感领域热化难题
+
+#### 麦肯锡《量子技术监测报告》(2026-05) - 2025年融资暴涨6.3倍,1.3-2.7万亿美元产业价值
+- [C114通信网:麦肯锡量子技术监测报告](https://so.html5.qq.com/page/real/search_news?docid=70000021_8186a17afa421352) | 麦肯锡公司
+- **市场规模**:2025年全球量子计算企业营收突破10亿美元;预计2028年飙升至32-44亿美元,年复合增长率47%
+- **投资数据**:2025年全球量子技术初创企业融资126亿美元,较2024年20亿美元暴涨6.3倍
+- **量子传感关联**:预计2035年量子技术撬动1.3-2.7万亿美元产业价值
+
+#### QuantX Labs - 全球量子PNT领导者,TEMPO空间光学钟/量子重力仪/SENTIO磁力计(2026-05)
+- [QuantX Labs官网](https://quantxlabs.com/) | QuantX Labs(澳大利亚阿德莱德)
+- **产品线**:CRYO超低相噪振荡器、TEMPOSpace光学原子钟(2026年SpaceX升轨,全球首个送入轨道的全功能型光学原子钟)、量子重力仪、SENTIO量子磁力计阵列
+- **商业化进展**:2025年澳大利亚国防部合同(AUD$2.7M); Defence Trailblazer项目(AUD$13.8M)
+- **量子传感关联**:TEMPOSpace光学原子钟升空是量子传感空间化重大里程碑
+
+#### Q-CTRL入选《时代》全球100位行业领袖2026:量子传感国防与量子计算双赛道(2026-05)
+- [Q-CTRL官网: TIME 100 honorees 2026](https://q-ctrl.com/) | Q-CTRL
+- **荣誉**:《时代》杂志"Time 100"首届行业领袖榜单
+- **量子优势预测**:Q-CTRL预测特定高价值国防后勤应用将在2028年实现量子优势
+- **量子传感关联**:量子惯性导航已进入实用化验证阶段
+
+#### Infleqtion正式定义"量子频谱"新品类 - Rydberg原子射频传感(2026-05-14)
+- [Infleqtion Q1财报(NASDAQ: INFQ)](https://www.nasdaq.com/market-activity/stocks/infq) | Infleqtion(NYSE: INFQ)
+- **新品类**:量子频谱(Quantum Spectrum)是基于里德堡原子的射频传感平台;代表数十年来射频传感架构的首次根本性转变
+- **核心产品Sqywire**:超灵敏射频接收器,可在kHz至THz任意范围内运行
+- **量子传感关联**:Rydberg原子是第三条成熟的量子传感技术路线
+
+#### NASA JPL首款太空量子重力仪:量子重力梯度仪卫星任务(2025-04)
+- [NASA JPL](https://www.jpl.nasa.gov/news/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/) | NASA Jet Propulsion Laboratory
+- **技术方案**:首款太空量子重力传感器,使用量子重力梯度仪测量地球引力场
+- **科学价值**:可测量石油储量、全球淡水资源;首次将量子传感技术推向太空
+- **量子传感关联**:量子重力梯度仪是量子惯性传感核心应用
+
+#### Sandia量子重力仪:大动量转移原子干涉仪,突破灵敏度极限(2026-05)
+- [Sandia Quantum Gravimetry](https://www.sandia.gov/quantum/gravimetry/) | Sandia National Laboratories
+- **技术方案**:基于大动量转移(LMT)的原子干涉仪实现超高灵敏度重力场及重力梯度测量
+- **量子传感关联**:Sandia代表美国国防部在量子惯性传感领域最高研究水平
+
+#### Qnami东亚市场扩张 - ProteusQ扫描NV显微镜进入东亚市场(2026-05)
+- [Qnami东亚市场扩张公告](https://qnami.ch/news/) | Qnami(瑞士巴塞尔)
+- **扩张内容**:2026年5月正式签约Quantum Design Japan和Quantum Design Korea为东亚区域代理
+- **量子传感关联**:东亚市场扩张标志着量子传感从欧美向亚太扩散
+
+#### Bosch Quantum Sensing - 博世+Element Six合资,NV色心金刚石量子磁力计(2026-05)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | Bosch+Element Six合资
+- **技术路线**:基于NV色心金刚石的量子磁力计;紧凑、坚固、用户友好
+- **量子传感关联**:芯片级金刚石量子传感器是量子传感消费电子化关键里程碑
+
+#### Cerca Magnetics完成380万英镑A轮融资 - 可穿戴量子脑成像扫描仪(2026-04)
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics; Guinness Ventures领投
+- **核心产品**:可穿戴式脑成像扫描仪,室温下达到与SQUID相当的灵敏度
+- **量子传感关联**:量子脑磁图(MEG)是量子传感在医疗健康领域最接近商业化的应用
+
+#### 国仪量子SpinMag-I - 量子自旋磁力仪,灵敏度提高10万倍(2023)
+- [粉体圈:国仪量子SpinMag-I](https://www.360powder.com/info_details/index/10942.html) | 国仪量子
+- **灵敏度**:<15 fT/√Hz;相较霍尔效应传感器提高10万倍
+- **量子传感关联**:国仪量子SpinMag-I是国内商用量子磁力计的标杆产品
+
+#### Quantum Flagship QOMPASS计划启动 - 欧洲量子传感能力增强计划(2026-05-19)
+- [Quantum Flagship QOMPASS](https://qt.eu/) | Quantum Flagship
+- **量子传感关联**:QOMPASS是欧洲量子传感产业化的重要推手
+
 ---
-*本次更新: Quantum.Tech World 2026波士顿峰会/arXiv非厄米临界传感/arXiv原子蒸气室磁力计/分子MOT增强捕获/隧穿相图ML框架/arXiv QML鲁棒性验证/Quantum Coast Capital量子传感投资(2026-05-31中午-12:14)*
+*本次更新: 清华Nature多体动力学冻结/麦肯锡量子技术监测报告/QuantX Labs量子PNT/Q-CTRL TIME 100/Infleqtion量子频谱/NASA太空量子重力仪/Sandia量子重力仪/Qnami东亚扩张/Bosch量子传感/Cerca Magnetics融资/国仪量子SpinMag-I/QOMPASS(2026-05-31晚-21:14)*
+
