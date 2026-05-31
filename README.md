@@ -13,6 +13,52 @@
 
 
 
+### 🆕 新增条目(2026-06-01凌晨-04:14 - 本次更新)
+
+#### Muquans → iXblue → HexaQuan / Quantinuum Hexar集团整合 - 量子重力仪/原子钟产品线/工业级量子传感(2026)
+- [Muquans官网](https://www.muquans.com/) | [iXblue Quantum Sensing](https://www.ixblue.com/quantum-sensing/) | Muquans→iXblue→HexaQuan; Hexar Group整合量子传感业务
+- **品牌演变**:Muquans(法国波尔多初创)→2019年被iXblue收购→2024年Hexar Group将iXblue量子传感业务与Quantinuum量子传感部门整合为HexaQuan;产品线保持
+- **核心产品**:
+  - **量子重力仪**:基于原子干涉测量技术,用于地质勘探、惯性导航;工业级量子重力仪量产化代表
+  - **原子钟**:高性能频率标准,用于授时、电信、国防;原子钟是量子传感最成熟商业化方向
+  - **量子加速度计**:原子干涉加速度计,用于精密导航
+- **量子传感关联**:Muquans是欧洲量子重力仪商业化先驱;品牌整合反映量子传感产业正在经历规模化整合;Hexar Group打造量子传感全产品线平台
+
+#### Infleqtion × Safran TITANIUM量子授时项目 - 量子增强精密授时,关键基础设施弹性PNT(2026-04)
+- [Safran Electronics & Defense](https://www.safran-electronics-defense.com/) | Infleqtion与赛峰电子与防务公司合作; TITANIUM项目
+- **项目内容**:Infleqtion推出首款具备量子增强能力的精密授时解决方案,是TITANIUM项目核心部分;面向全球国防、电信及关键基础设施领域客户
+- **技术方案**:基于中性原子量子传感技术,提供超越传统原子钟的授时精度和稳定性;在GPS拒止环境下仍能保持高精度时间基准
+- **量子传感关联**:量子授时是量子PNT(定位、导航、授时)的核心组成;量子增强授时是量子传感在关键基础设施弹性化的战略应用;赛峰是全球顶级国防防务供应商,其认可标志着量子传感国防市场成熟
+
+#### Bosch Quantum Sensing × Element Six - NV色心金刚石量子磁力计,芯片级消费产品/医疗/导航/过程优化(2026)
+- [Bosch Quantum Sensing](https://www.bosch-quantumsensing.com/) | Bosch与Element Six(戴比尔斯人造金刚石)合资; 总部德国路德维希堡; 约30名员工
+- **技术路线**:基于氮-空位(NV)色心金刚石的量子磁力计;紧凑、坚固、用户友好,实现前所未有的测量精度
+- **应用领域**:医疗技术、消费产品、导航、资源勘探、过程优化
+- **核心优势**:超过10年基础研究积累;Element Six提供量子级金刚石材料(DNV™系列);博世提供系统集成与工业制造能力;全球网络和市场准入
+- **量子传感关联**:博世是全球工业巨头;其正式布局NV量子传感商业化标志着量子传感从初创公司向大型工业集团扩散;芯片级金刚石量子传感器是量子传感消费电子化的关键里程碑
+
+#### Fraunhofer IAF QUASAR项目 + 宽场NV磁力计 - 欧洲量子技术硅自旋qubit平台/金刚石量子传感产业链/2026年6月慕尼黑LASER展会展示(May 2026)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF(德国弗劳恩霍夫应用固体物理研究所)
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;已在纳米电子学、材料科学、生物医学领域应用;将在2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **金刚石量子传感产业链**:Fraunhofer IAF已建立稳定欧洲产业规模fabrication链;从量子材料到器件完整覆盖;为NV量子传感产业化提供制造基础
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;其宽场NV磁力计代表量子成像传感的重要进展;芯片级量子传感器是量子传感实用化的关键节点
+
+#### arXiv:2605.30637 - 量子网络金刚石色心:原理、进展与展望/大规模量子网络新路径(Majumder等,2026-05-28)
+- [arXiv:2605.30637](https://arxiv.org/abs/2605.30637) | Ayan Majumder, Cem Güney Torun, Tim Schröder, Gregor Pieplolk, Prem Kumar, Kasturi Saha; quant-ph; 2026-05-28
+- **技术内容**:全面综述基于金刚石色心的大规模量子网络原理、进展与未来路线图;涵盖NV、SiV、GeV等多种色心平台的量子接口、纠缠分发、量子存储技术
+- **核心主题**:Large-scale quantum networks will enable entirely new applications; 色心是量子网络中光子-物质纠缠界面的核心
+- **量子传感关联**:金刚石色心既是量子传感平台又是量子网络节点;量子传感网络化是分布式量子感知的基础;SiV/GeV等新色心在相干时间和波长方面各有优势
+
+#### UNSW量子传感硅芯片:世界首个硅量子比特/量子记忆时间纪录/硅纳米电子器件量子传感器集成(2026-05)
+- [UNSW Defence Research Institute:Quantum technologies](https://www.unsw.edu.au/research/dri/capabilities-defence-research-institute/quantum-technologies) | UNSW Sydney; 澳大利亚
+- **技术突破**:世界首个在硅中演示单量子比特(单原子自旋);量子记忆时间保持世界纪录(直接转化为对电磁扰动场的灵敏度优势)
+- **集成进展**:将世界领先的硅量子计算技术延伸,在硅纳米电子器件内集成量子传感器;实现量子传感器与硅纳米电子的片上协同
+- **量子传感关联**:硅量子平台兼具量子计算与量子传感双重功能;硅CMOS兼容工艺是量子传感器芯片化最具可扩展性的路线;UNSW的硅量子传感代表量子传感从金刚石向硅CMOS迁移的新趋势
+
+---
+*本次更新: Muquans→iXblue→HexaQuan品牌整合/Infleqtion×赛峰TITANIUM量子授时/Bosch×Element Six NV量子磁力计/Fraunhofer IAF QUASAR+宽场NV/arXiv量子网络金刚石色心综述/UNSW硅量子传感(2026-06-01凌晨-04:14)*
+
 ### 🆕 新增条目(2026-06-01凌晨-02:14 - 本次更新)
 
 #### arXiv:2605.30637 - 量子网络金刚石色心:原理、进展与展望/大规模量子网络新路径(Majumder等,2026-05-28)
