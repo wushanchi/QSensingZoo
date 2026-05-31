@@ -12,90 +12,45 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
-### 🆕 新增条目(2026-05-31下午-15:44 - 本次更新)
+### 🆕 新增条目(2026-05-31下午-16:14 - 本次更新)
 
-#### Quantum Innovation Summit Dubai 2026 - 量子创新峰会,2026年9月28-30日迪拜,量子传感重要展示平台(2026-05)
-- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | Grand Hyatt Dubai Conference & Exhibition Centre
-- **会议时间**:2026年9月28-30日
-- **会议定位**:推进全球量子科技领导力的年度盛会;由官方政府战略合作伙伴支持
-- **核心议题**:量子传感是大会重要议题之一;量子计算、量子通信、量子传感的产业化路径与新兴部署策略
-- **量子传感关联**:Quantum Innovation Summit是中东地区最具影响力的量子技术产业平台;量子传感商业化与产业生态建设是核心讨论方向
+#### Infleqtion量子频谱定义 - 原子射频传感新类别,数十年来RF传感架构根本性转变(2026-05-14)
+- [腾讯新闻:Infleqtion量子频谱(2026-05-14)](https://so.html5.qq.com/page/real/search_news?docid=70000021_3276a05b3ff13952) | Infleqtion(NYSE:INFQ); 首个基于中性原子的射频传感平台
+- **技术方案**:基于中性原子技术的量子频谱传感平台;代表数十年来射频(RF)传感架构的首次根本性转变;获得美国、英国和澳大利亚的活跃国防合同支持
+- **核心价值**:开创量子传感领域的新类别;提供比传统RF传感更高的灵敏度和可信信号
+- **量子传感关联**:Infleqtion是全球中性原子量子技术领导者;量子频谱的定义为量子RF传感商业化开辟了新赛道;中性原子平台兼具量子计算与量子传感能力
 
-#### Quantum Technology Finland (QTF) - 芬兰国家量子技术卓越中心,约百名研究者,量子传感基础与应用研究(2026-05)
-- [Quantum Technology Finland](https://qtf.fi/) | 芬兰国家卓越中心;Aalto University/University of Helsinki/VTT联合
-- **研究目标**:利用量子现象开发新型量子器件和混合架构;量子相干性与耗散控制;新型量子电路
-- **研究方向**:超导量子器件、硅基量子器件;量子传感是核心方向之一
-- **量子传感关联**:QTF代表欧洲量子传感基础研究的重要力量;产学研协同模式对量子传感产业化具有参考价值
+#### Infleqtion精密授时解决方案(TITANIUM项目) - 与赛峰电子与防务公司合作,关键任务系统量子增强授时(2026-04)
+- [腾讯新闻:Infleqtion精密授时解决方案(2026-04-05)](https://so.html5.qq.com/page/real/search_news?docid=70000021_68069ce675711852) | Infleqtion与赛峰电子与防务公司(Safran Electronics & Defense)合作
+- **合作内容**:Infleqtion推出首款具备量子增强能力的精密授时解决方案,是TITANIUM项目的一部分;面向全球国防、电信及关键基础设施领域客户
+- **量子传感关联**:量子授时是量子PNT(定位导航授时)的核心组成;量子增强授时可在GPS拒止环境下提供高精度时间基准;关键基础设施的弹性授时是量子传感的战略性应用场景
 
-#### EU Quantum Flagship - 6月全欧量子重力仪研讨会/6月中旬GaAs量子点/6月下旬开放量子系统研讨会(2026-05)
-- [EU Quantum Flagship](https://qt.eu/) | 欧洲量子技术旗舰计划
-- **6月活动**:(1)6月3-5日 EU-wide workshop on quantum gravimetry; (2)6月10-12日 4th International GaAs Quantum Dot Workshop; (3)6月15-17日 European Workshop on Open Quantum Systems 2026
-- **量子传感关联**:量子重力仪研讨会是量子重力传感产业化的重要学术交流平台;GaAs量子点是量子传感器的核心材料体系之一;开放量子系统研究与量子传感噪声建模直接相关
+#### Quantum传感器市场报告2025-2030:从3.04亿美元到5.69亿美元,CAGR 13.4%(2026-05)
+- [Knowledge Sourcing: Quantum Sensor Market 2025-2030](https://www.knowledge-sourcing.com/report/global-quantum-sensor-market) | Knowledge Sourcing Intelligence
+- **市场数据**:2025年量子传感器市场规模3.04111亿美元;预计2030年达5.69231亿美元,CAGR 13.4%
+- **技术类型**:量子磁力计、原子钟、量子重力仪、量子陀螺仪、量子成像传感器
+- **应用场景**:石油与天然气、国防、建筑、交通运输
+- **量子传感关联**:量子传感器通过超越经典极限的灵敏度实现新应用;市场高增长印证量子传感从实验室走向产业化的趋势;量子磁力计和原子钟是当前商业化最快的细分市场
 
-#### Quantum Innovation 2026 - 日本政府主办,RIKEN组织,量子科学技术创新国际研讨会(2026-05)
-- [Quantum Innovation 2026](https://quantum-innovation.riken.jp/) | 日本政府研究机构与产业联合主办
-- **会议主题**:Quantum Science, Technology and Innovation;推进日本及全球量子科技领导力
-- **量子传感关联**:日本是量子传感产业化的重要国家;RIKEN在量子传感基础研究方面有深厚积累;量子传感是日本量子技术战略的核心方向
+#### Nature Physics(2026-01):低开销量子纠错码,32量子比特处理器实现距离4双变量自行车码(2026-01)
+- [Nature Physics: Low-overhead quantum error correction](https://www.nature.com/articles/s41566-025-01991-6) | 上海期智研究院/清华大学/浙江大学邓东灵团队
+- **技术方案**:利用32量子比特处理器演示两种低开销量子低密度奇偶校验码:距离4双变量自行车码和距离3截断双变量自行车码;借助重叠长程耦合器连接量子比特
+- **核心数据**:双变量自行车码(4个逻辑量子比特)逻辑错误率(8.91±0.17)%每逻辑量子比特每周期;截断双变量自行车码(6个逻辑量子比特)逻辑错误率(7.77±0.12)%
+- **量子传感关联**:量子纠错是量子传感实用化的基础;低开销纠错使大规模量子传感器成为可能;量子计算与量子传感的协同发展正在加速
 
-#### npj Spintronics:量子传感MRAMbit级测量 - 扫描NV磁力计识别tail-bits,器件失效分析(2024-06)
-- [Nature npj Spintronics: A quantum sensing metrology for magnetic memories](https://www.nature.com/articles/s44306-024-00016-5) | Nature Portfolio; 量子传感+自旋电子学
-- **技术方案**:扫描NV磁力计(SNVM)实现MRAM器件的非接触式bit级测量;识别out-of-distribution tail-bits
-- **核心发现**:可识别传统 ensemble averaging方法无法探测到的异常bit;为失效分析提供新工具
-- **量子传感关联**:NV色心量子传感是自旋电子学和存储器研究的核心工具;量子传感与半导体工业的结合是产业化的重要方向
+#### Infleqtion - 全球首家中性原子量子计算上市公司,2026年2月17日登陆纽交所(2026-02)
+- [腾讯新闻:Infleqtion上市(2026-02-26)](https://new.qq.com/rain/a/20260226A032F200) | Infleqtion; 代码INFQ; 通过SPAC合并Churchill Capital Corp X上市
+- **融资规模**:筹集超过5.5亿美元资金;1.25亿美元PIPE+SPAC信托现金
+- **技术平台**:基于中性原子技术;量子计算+量子传感双赛道;量子精密传感、量子时钟、量子重力仪产品已在国防领域部署
+- **量子传感关联**:Infleqtion是量子传感产业化的标杆企业;中性原子平台在量子传感(原子RF传感)和量子计算双方向同时推进;上市为量子传感商业化提供资本支持
 
-#### npj Quantum Information:量子纠缠态经由NV中心光吸收-发射实现量子中继器节点(2025-12)
-- [Nature npj Quantum Information: Quantum teleportation via absorption and emission for quantum repeater nodes](https://www.nature.com/articles/s41534-025-01169-9) | Nature Portfolio; NV色心+量子纠缠+量子网络
-- **技术方案**:通过电子自旋-轨道纠缠实现量子态从NV中心向发射光子的转移;利用Bell态测量实现量子隐形传态
-- **核心价值**:首个基于吸收-发射机制实现量子中继器节点的方案;对相位和强度涨落具有鲁棒性
-- **量子传感关联**:NV中心量子态操控是量子传感的核心技术;量子中继器是分布式量子传感的网络基础设施
-
----
-*本次更新: 迪拜量子创新峰会/芬兰QTF国家卓越中心/EU量子旗舰6月系列研讨会/日本RIKEN量子创新2026/NV量子传感MRAM测量/NV量子纠缠态量子中继器(2026-05-31下午-15:44)*
-
-### 🆕 新增条目(2026-05-31下午-15:14 - 本次更新)
-
-#### MIT Technology Review:量子雷达实现地下物体成像,铯原子云玻璃室射频频谱探测(2025-08)
-- [MIT Technology Review: This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | MIT Technology Review
-- **技术方案**:使用玻璃室内铯原子云(常温)配合激光器,探测反射射频信号;利用量子态特性区分信号与噪声;NIST+RTX联合开发
-- **核心突破**:量子雷达能探测隐藏物体;当前仍为原型,体积较大(光学表组件);未来可小型化
-- **量子传感关联**:量子雷达是量子传感在国防安防领域的变革性应用;该工作代表量子射频传感从理论走向实物验证的重要节点
-
-#### QuantX Labs - TEMPOSpace光学原子钟关键技术里程碑:光学频率梳成功升轨(2026-04)
-- [腾讯新闻:QuantX Labs光学频率梳发射入轨](https://so.html5.qq.com/page/real/search_news?docid=70000021_77669ccfb1a48052) | QuantX Labs(澳大利亚阿德莱德)
-- **升轨信息**:光学频率梳由Exotrail spacevan轨道转移飞行器携带,通过SpaceX火箭发射;KAIROS任务
-- **技术意义**:作为TEMPOSpace光学原子钟核心子系统,此次升空标志着全球首台全功能型光学原子钟空间部署的关键一步
-- **量子传感关联**:光学原子钟是量子传感精度巅峰;量子传感从实验室进入太空是产业化重要里程碑
-
-#### 低温NV色心扫描磁学显微镜商业化:1.8K低温/3µT/√Hz灵敏度/纳米尺度定量磁场成像(2026-01)
-- [腾讯新闻:1.8K低温NV扫描磁学显微镜](https://so.html5.qq.com/page/real/search_news?docid=70000021_54769717fc807152)
-- **技术参数**:1.8K低温环境;3µT/√Hz灵敏度;纳米级空间分辨率;定量磁场成像能力
-- **核心价值**:理解量子层面磁性现象、研发新型存储设备或量子计算机用材料的关键工具
-- **技术路线**:金刚石NV中心是唯一可在低温强磁场下工作的纳米磁力计;是量子材料研究的标杆工具
-- **量子传感关联**:低温NV扫描磁力计是纳米尺度量子传感的最高水平代表;其商业化表明量子传感已具备支撑先进材料研究的能力
-
-#### Quantum Singapore 2026论坛:从硬件突破到工业应用,2026年2月4日新加坡滨海湾金沙开幕(2026-02)
-- [Quantum Singapore 2026(new.qq.com)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K/FinQ Tech/Informa Markets; IEEE Photonics Society新加坡分会学术支持
-- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications"
-- **核心议题**:量子技术硬件优化、软硬协同、区域化生态构建;量子传感商业化是重要议题之一
-- **量子传感关联**:Quantum Singapore是亚太地区最具影响力的量子技术产业论坛;量子传感从实验室走向工业应用是核心热点
-
-#### Research and Markets量子技术市场报告2025-2035:量子传感到2035年将达$99.34亿美元(2025-08)
-- [Research and Markets: Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Research and Markets
-- **市场总规模**:2025-2035年量子技术市场预计达$99.34亿美元;量子传感是六大方向之一
-- **量子传感关联**:量子传感在量子技术市场中占比显著;IDTechEx预测2044年市场规模71亿美元;Research and Markets数据交叉验证量子传感产业化加速趋势
-
-#### Quantum Week 2026/IEEE量子周:全球量子技术领袖年度盛会,年度学术交流标杆(2025)
-- [Quantum Week 2026](https://www.computer.org/press-room/2022-news/quantum-week-2022-participation-opportunities) | IEEE
-- **会议定位**:IEEE量子计算与工程国际会议;全球量子科技领域最具影响力的年度学术盛会之一
-- **量子传感关联**:量子传感是Quantum Week重要议题;量子技术从基础研究到工程实践的年度检阅
-
-#### Commercialising Quantum Global 2025:亚太首个量子技术商业化大会,IOP主办,联合国量子国际年特别版(2025-05)
-- [IOP: Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics
-- **会议特色**:联合国量子国际年特别版;扩展为两天完整议程;聚集全球量子技术企业领袖
-- **量子传感关联**:量子传感商业化是大会核心议题;是全球量子传感产业生态的重要交流平台
+#### Quantum Innovation Summit Dubai 2026 - 量子创新峰会,2026年9月28-30日迪拜,量子传感与新兴前沿技术(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 主办:IEEE Photonics Society等; Grand Hyatt Dubai
+- **会议主题**:量子与新兴前沿技术,推进全球创新与技术领导力;量子传感是六大方向之一
+- **量子传感关联**:量子传感是量子技术产业化的重要方向;该峰会是量子传感技术展示和行业交流的重要平台
 
 ---
-*本次更新: MIT量子雷达地下成像/QuantX光学原子钟升轨/低温NV扫描磁学显微镜商业化/Quantum Singapore 2026论坛/Research and Markets量子传感市场99亿美元/Quantum Week/IOP量子商业化大会(2026-05-31下午-15:14)*
+*本次更新: Infleqtion量子频谱新类别/Infleqtion精密授时赛峰合作/量子传感器市场3.04亿→5.69亿/Nature Physics低开销量子纠错/Infleqtion纽交所上市/迪拜量子创新峰会(2026-05-31下午-16:14)*
 
 ### 🆕 新增条目(2026-05-31下午-14:44 - 本次更新)
 
