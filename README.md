@@ -2720,3 +2720,65 @@
 ---
 *本次更新: 量子传感进入实用化阶段报告/arXiv量子通信与量子交叉最新论文/量子TDA与拓扑编码/硅量子比特资源估算/Quantum Prospecting SQUID油气勘探/Quantum Motion融资/清华大学Nature论文/Infleqtion上市(2026-05-30晚-23:44)*
 
+
+### 🆕 新增条目(2026-05-31上午-10:44 - 本次更新)
+
+#### Quantum Flagship 5月动态:QOMPASS计划启动/EuroQCI公众咨询/量子重力测量工作坊(2026-05)
+- [Quantum Flagship官网](https://qt.eu/) | 欧洲量子旗舰计划
+- **QOMPASS计划启动(5月19日)**:欧洲量子传感与量子时钟能力增强计划;整合欧洲量子传感研究资源与产业力量,是欧盟量子传感战略系统化推进的重要标志
+- **EuroQCI公众咨询(5月28日)**:下一代量子通信基础设施EuroQCI公众意见征集;量子传感与量子通信基础设施协同发展
+- **量子重力测量工作坊(6月3-5日)**:欧盟范围内量子重力测量技术研讨会;目标推进量子重力仪从实验室走向实际应用
+- **新增项目**:C-QuENS(量子纠缠NV中心传感)、PROMISE(欧洲磁成像系统原型)、QUANTIFY(量子增强光子集成传感器)、PoQus(神经外科便携量子传感器)等量子传感相关项目
+- **量子传感关联**:Quantum Flagship是欧洲量子传感产业化的核心推手;2026年5月密集发布量子传感相关公告,标志欧洲量子传感进入加速期
+
+#### arXiv quant-ph 2026-05-29:103篇新提交论文,量子传感相关工作一览(2026-05-29)
+- [arXiv quant-ph New Submissions](https://arxiv.org/list/quant-ph/recent) | 103篇新提交; Fri 29 May 2026
+- **量子传感相关重点论文**:
+  - **arXiv:2605.30547** - Modular non-Hermitian topology and critical sensing applications; 非厄米拓扑临界传感,拓扑边界态增强灵敏度
+  - **arXiv:2605.30518** - Lattice-trapped atom interferometer with BEC; 晶格捕获原子干涉仪与Bose-Einstein凝聚体,原子干涉重力传感新范式
+  - **arXiv:2605.30611** - Mechanical squeezed Fock state gravimeter; 机械压缩Fock态重力仪,悬浮机械系统量子重力传感
+  - **arXiv:2605.30143** - End-to-end molecular dynamics on quantum circuits; Koopman-von Neumann波函数分子动力学,量子-经典混合传感材料设计
+  - **arXiv:2605.30142** - Green-Kubo transport coefficients via QPE; 量子相位估计读取分子动力学输运系数,噪声耦合与耗散过程分析
+  - **arXiv:2605.29929** - Dual atom interferometer gyroscope; 双原子干涉陀螺仪动态镜面补偿,21.1cm²面积,1.3×10⁻⁸ rad/s/√Hz旋转灵敏度
+  - **arXiv:2605.29917** - Bright squeezed vacuum macro quantum states; 亮压缩真空宏观量子态,从Dicke态到猫态的相干操控
+  - **arXiv:2605.29825** - Photon indistinguishability in trapped ⁴⁰Ca⁺; 囚禁40Ca+离子的脉冲激发光子不可区分性,Hong-Ou-Mandel干涉优化
+- **量子传感关联**:arXiv每日新提交反映量子传感研究最新动态;本周聚焦非厄米临界传感、原子干涉惯性传感、悬浮机械量子重力仪三大方向
+
+#### Quantum Flagship新增量子传感项目一览:C-QuENS/PROMISE/QUANTIFY/PoQus/SuperMeQ(2026-05)
+- [Quantum Flagship项目列表](https://qt.eu/) | 欧洲量子旗舰
+- **C-QuENS**:Capacitation of Quantum-Entangled NV-Center Sensing;量子纠缠NV中心传感能力建设项目
+- **PROMISE**:Prototypes of Magnetic Imaging Systems for Europe;欧洲磁成像系统原型,瞄准脑成像和材料科学
+- **QUANTIFY**:QUantum enhANced phoTonic Integrated sensors For metrologY;量子增强光子集成传感器计量应用
+- **PoQus**:Portable Quantum Sensors for Neurosurgery;神经外科便携量子传感器,手术室内即时量子传感
+- **SuperMeQ**:Exploring nonclassical states of center-of-mass mechanical motion with superconducting magneto- and levitomechanics;超导磁悬浮机械运动非经典态探索
+- **量子传感关联**:Quantum Flagship量子传感项目覆盖NV色心、磁成像、光子传感、神经外科应用、悬浮机械五大方向,体系化推进欧洲量子传感产业化
+
+#### EU量子重力测量工作坊:6月3-5日,推进量子重力仪从实验室到实际应用(2026-05)
+- [Quantum Flagship量子重力测量工作坊](https://qt.eu/) | 欧盟范围内社区活动
+- **会议目标**:获取反馈意见,推进量子重力测量技术从实验室走向实际应用
+- **核心议题**:量子重力仪技术成熟度评估、地下勘探应用、国防导航应用、从实验室到工业的技术转移路径
+- **量子传感关联**:量子重力仪是量子惯性传感的核心组成;工作坊标志着量子重力传感从研究向应用转化的系统性努力
+
+#### Quantum Singapore 2026论坛回顾:从硬件突破到工业应用,量子传感商业化路径全面梳理(2026-02)
+- [Quantum Singapore 2026报道(腾讯,2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K / FinQ Tech / Informa Markets
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications"
+- **量子传感核心议题**:量子传感器件与系统商业化路径;OPM脑磁图、NV色心磁力计、量子重力仪商用化进展;光子技术在量子传感中的应用;量子传感与量子计算协同
+- **产业信号**:Quantum Singapore是亚太量子传感产业化的重要风向标;论坛显示量子传感已从"展示"阶段进入"交付"阶段
+- **量子传感关联**:亚太地区量子传感市场增长迅速;新加坡作为亚太量子技术枢纽,Quantum Singapore论坛为量子传感商业化提供重要参考
+
+#### 中国量子传感产业动态:国仪量子量子科仪节/南方电网量子电流传感器落地/量子十大用例征集(2026-01~05)
+- [第五届量子科仪节(C114,2026-05-16)](https://so.html5.qq.com/page/real/search_news?docid=70000021_8546a09838c07552) | 国仪量子
+- **产品发布**:钻石单自旋传感器、量子磁力仪、微波场强仪等量子传感器产品;自主研制,完整知识产权
+- **特高压落地**:2026年1月南方电网±800kV特高压直流量子电流传感器成功落地;误差<0.2%,量子传感在电力系统率先实现工业级应用
+- **量子科仪节**:量子精密测量制造业创新中心;贺羽董事长表示"量子精密测量正处于从实验示范走向规模化的关键拐点"
+- **量子传感关联**:中国量子传感在电力系统率先商用;国仪量子是国产量子传感器领军企业;量子传感在能源基础设施中的应用具有重要示范意义
+
+#### Quantum Innovation Summit Dubai 2026预览:9月28-30日迪拜,量子传感商业化与规模化交付(2026-09)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 阿联酋政府战略合作
+- **会议主题**:"Quantum & Emerging Frontiers - Advancing Global Innovation and Technological Leadership"
+- **核心议题**:量子传感商业化路径、量子AI融合、量子与先进计算协同、量子传感从实验室到工业采纳的转型
+- **2026年侧重**:从"展示"向"规模化交付"转型;量子传感产品化、工程化、标准化进程
+- **量子传感关联**:迪拜峰会代表中东地区量子技术战略;量子传感商业化是大会核心议题;该峰会将成为2026年下半年量子传感产业重要风向标
+
+---
+*本次更新: Quantum Flagship QOMPASS启动/EuroQCI/量子重力工作坊/arXiv quant-ph 2026-05-29论文/新增量子传感项目/C-QuENS-PROMISE-QUANTIFY-PoQus/Dubai 2026预览/Quantum Singapore 2026回顾/中国量子传感产业动态(2026-05-31上午-10:44)*
