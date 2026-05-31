@@ -529,6 +529,48 @@
 - **量子传感关联**:量子脑成像是量子传感最具临床价值的应用方向之一;Cerca Magnetics是量子生物医学传感产业化的代表;高增长验证了量子传感医疗市场的潜力
 
 ---
+
+### 🆕 新增条目(2026-06-01凌晨-00:44 - 本次更新)
+
+#### Nature:Constraints on axion dark matter by distributed intercity quantum sensors - 全球光学磁力计网络约束轴子暗物质(2026-01-28)
+- [Nature:s41586-025-10034-w](https://www.nature.com/articles/s41586-025-10034-w) | Nature; 1月28日发表
+- **技术方案**:基于分布式城市间量子传感器网络;利用核自旋传感器阵列探测超轻轴子粒子暗物质;通过拓扑缺陷暗物质(TDM)相互作用约束参数空间
+- **核心发现**:在全球多个城市的光学磁力计网络中搜索轴子TDM信号;给出了超越天河二号超算的约束边界;首次实现城际量子传感网络的暗物质探测
+- **量子传感关联**:量子传感器网络是量子传感规模化应用的重要方向;光学磁力计(OPM)阵列构成城域传感骨干;该工作验证了量子传感网络在天文学和基础物理探测中的独特价值
+
+#### MIT Technology Review:Quantum radar could image buried objects - NIST原子射频雷达,RTX合作,地下目标成像(2025-08-11)
+- [MIT Tech Review:This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | NIST; Matthew S. Simon (NIST), Michela (待补充)
+- **技术方案**:使用充满铯原子蒸气的玻璃池作为量子探测器;激光读取原子能级变化以检测反射射频波;替代传统天线实现更小型化的雷达
+- **核心进展**:NIST与国防承包商RTX合作开发量子雷达;当前原型仍连接光学元件,但可扩展至更小尺寸;有望替代战场埋地雷检测等场景的传统雷达
+- **量子传感关联**:量子雷达是量子传感国防应用的核心方向;原子蒸气室量子传感器是量子RF传感的重要平台;基于量子纠缠的雷达理论上可实现超越经典极限的灵敏度
+
+#### 中科院力学所:太极计划首款全功能干涉仪光学平台研制成功 - 引力波探测,300万公里距离原子尺度形变测量(2026-05-09)
+- [腾讯新闻:中科院力学所太极计划全功能干涉仪光学平台(2026-05-17)](https://so.html5.qq.com/page/real/search_news?docid=70000021_2096a093e8634952) | 中科院力学研究所
+- **技术突破**:首款全功能干涉仪光学平台完成地面严苛测试;关键指标全面达标;300万公里距离测量原子尺度形变
+- **核心意义**:太极计划核心测量系统从原理探索正式迈入工程研制;为空间引力波探测提供"聆听宇宙涟漪"的能力
+- **量子传感关联**:激光干涉仪是量子传感精密测量的经典形式;太极计划借鉴量子传感噪声抑制技术;引力波探测本质是多自由度量子力学精密测量
+
+#### Quantum Singapore 2026论坛 - "量子汇聚:从硬件突破到工业应用"(2026-02-04)
+- [腾讯新闻:Quantum Singapore 2026论坛开幕(2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K, FinQ Tech Inc., Informa Markets主办;IEEE Photonics Society学术支持
+- **核心主题**:量子汇聚:从硬件突破到工业应用;硬件优化/软硬协同/区域化生态构建
+- **量子传感关联**:Quantum Singapore是亚太量子传感产业化的重要峰会;量子新加坡2026汇聚全球顶尖量子传感科学家和产业领袖;量子传感从实验室走向工业应用是核心议题
+
+#### IDTechEx:Quantum Sensors Market 2024-2044 - 量子传感市场预测,2035年71亿美元,17个技术方向(2023)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx
+- **市场预测**:原子钟/量子陀螺仪/量子磁场计/量子重力仪/量子图像传感器等17个方向;IDTechEx报告覆盖技术全景、市场玩家、 granular forecasts; interview-based company profiles
+- **应用场景**:电动汽车GPS拒止导航;量子传感在EV电池检测、地质勘探、医疗成像等领域商业化路径
+- **量子传感关联**:量子传感是量子技术市场中 sensing 分支的核心;IDTechEx给出量化市场规模预测路线图;是产业投资和战略规划的重要参考
+
+#### Research and Markets:Quantum Technology Market 2025-2035 - 量子技术综合市场,2035年近1000亿美元(2025)
+- [Research and Markets:Quantum Technology Market](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Mind Commerce, 416页, 2025年8月
+- **市场预测**:量子技术综合市场2035年达994亿美元;量子传感与成像是四大细分市场之一(Computing/Communications/Imaging/Sensing)
+- **量子传感关联**:量子传感在量子技术市场中占比显著;量子成像(Quantum Imaging)是新兴高增长方向;量子传感产业处于从科研向商业化转折的关键窗口期
+
+---
+*本次更新: Nature暗物质约束/ MIT量子雷达/NIST原子射频雷达/中科院太极计划引力波光学平台/Quantum Singapore 2026/IDTechEx量子传感市场71亿2035/量子技术市场994亿2035(2026-06-01凌晨-00:44)*
+
+*本次更新: 清华大学×Nature动力学冻结增强量子传感/arXiv量子传感新论文群/Fraunhofer IAF宽场NV磁力计&QUASAR项目/Cerca Magnetics量子脑成像380万英镑A轮(2026-05-31晚间-23:14)*
+
 *本次更新: arXiv量子极限环退同步2605.30302/arXiv量子传感新论文群/Fraunhofer IAF宽场NV磁力计&QUASAR项目/Cerca Magnetics量子脑成像380万英镑A轮(2026-05-31晚间-23:14)*
 
 *本次更新: Quantum Dubai 2026峰会/Q-BIOMED英国量子生物医学传感hub/QDTI量子生物标志物检测/Quanvia NV疾病诊断/SBQuantum加拿大NV磁力计/IDTechEx 71亿美元/Qubic超导量子微波/Bosch量子传感合资(2026-05-31下午-14:44)*
