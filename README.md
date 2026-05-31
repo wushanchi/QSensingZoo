@@ -12,6 +12,51 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
+### 🆕 新增条目(2026-05-31下午-15:14 - 本次更新)
+
+#### MIT Technology Review:量子雷达实现地下物体成像,铯原子云玻璃室射频频谱探测(2025-08)
+- [MIT Technology Review: This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | MIT Technology Review
+- **技术方案**:使用玻璃室内铯原子云(常温)配合激光器,探测反射射频信号;利用量子态特性区分信号与噪声;NIST+RTX联合开发
+- **核心突破**:量子雷达能探测隐藏物体;当前仍为原型,体积较大(光学表组件);未来可小型化
+- **量子传感关联**:量子雷达是量子传感在国防安防领域的变革性应用;该工作代表量子射频传感从理论走向实物验证的重要节点
+
+#### QuantX Labs - TEMPOSpace光学原子钟关键技术里程碑:光学频率梳成功升轨(2026-04)
+- [腾讯新闻:QuantX Labs光学频率梳发射入轨](https://so.html5.qq.com/page/real/search_news?docid=70000021_77669ccfb1a48052) | QuantX Labs(澳大利亚阿德莱德)
+- **升轨信息**:光学频率梳由Exotrail spacevan轨道转移飞行器携带,通过SpaceX火箭发射;KAIROS任务
+- **技术意义**:作为TEMPOSpace光学原子钟核心子系统,此次升空标志着全球首台全功能型光学原子钟空间部署的关键一步
+- **量子传感关联**:光学原子钟是量子传感精度巅峰;量子传感从实验室进入太空是产业化重要里程碑
+
+#### 低温NV色心扫描磁学显微镜商业化:1.8K低温/3µT/√Hz灵敏度/纳米尺度定量磁场成像(2026-01)
+- [腾讯新闻:1.8K低温NV扫描磁学显微镜](https://so.html5.qq.com/page/real/search_news?docid=70000021_54769717fc807152)
+- **技术参数**:1.8K低温环境;3µT/√Hz灵敏度;纳米级空间分辨率;定量磁场成像能力
+- **核心价值**:理解量子层面磁性现象、研发新型存储设备或量子计算机用材料的关键工具
+- **技术路线**:金刚石NV中心是唯一可在低温强磁场下工作的纳米磁力计;是量子材料研究的标杆工具
+- **量子传感关联**:低温NV扫描磁力计是纳米尺度量子传感的最高水平代表;其商业化表明量子传感已具备支撑先进材料研究的能力
+
+#### Quantum Singapore 2026论坛:从硬件突破到工业应用,2026年2月4日新加坡滨海湾金沙开幕(2026-02)
+- [Quantum Singapore 2026(new.qq.com)](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K/FinQ Tech/Informa Markets; IEEE Photonics Society新加坡分会学术支持
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Applications"
+- **核心议题**:量子技术硬件优化、软硬协同、区域化生态构建;量子传感商业化是重要议题之一
+- **量子传感关联**:Quantum Singapore是亚太地区最具影响力的量子技术产业论坛;量子传感从实验室走向工业应用是核心热点
+
+#### Research and Markets量子技术市场报告2025-2035:量子传感到2035年将达$99.34亿美元(2025-08)
+- [Research and Markets: Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Research and Markets
+- **市场总规模**:2025-2035年量子技术市场预计达$99.34亿美元;量子传感是六大方向之一
+- **量子传感关联**:量子传感在量子技术市场中占比显著;IDTechEx预测2044年市场规模71亿美元;Research and Markets数据交叉验证量子传感产业化加速趋势
+
+#### Quantum Week 2026/IEEE量子周:全球量子技术领袖年度盛会,年度学术交流标杆(2025)
+- [Quantum Week 2026](https://www.computer.org/press-room/2022-news/quantum-week-2022-participation-opportunities) | IEEE
+- **会议定位**:IEEE量子计算与工程国际会议;全球量子科技领域最具影响力的年度学术盛会之一
+- **量子传感关联**:量子传感是Quantum Week重要议题;量子技术从基础研究到工程实践的年度检阅
+
+#### Commercialising Quantum Global 2025:亚太首个量子技术商业化大会,IOP主办,联合国量子国际年特别版(2025-05)
+- [IOP: Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics
+- **会议特色**:联合国量子国际年特别版;扩展为两天完整议程;聚集全球量子技术企业领袖
+- **量子传感关联**:量子传感商业化是大会核心议题;是全球量子传感产业生态的重要交流平台
+
+---
+*本次更新: MIT量子雷达地下成像/QuantX光学原子钟升轨/低温NV扫描磁学显微镜商业化/Quantum Singapore 2026论坛/Research and Markets量子传感市场99亿美元/Quantum Week/IOP量子商业化大会(2026-05-31下午-15:14)*
+
 ### 🆕 新增条目(2026-05-31下午-14:44 - 本次更新)
 
 #### Quantum Innovation Summit Dubai 2026 - 量子创新峰会,2026年9月28-30日迪拜,量子传感与新兴前沿技术(2026-05)
