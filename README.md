@@ -12,6 +12,36 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
+### 🆕 新增条目(2026-05-31上午-09:14 - 本次更新)
+
+#### Q-CTRL入选《时代》全球100位行业领袖2026:量子传感国防与量子计算双赛道布局,2028年量子优势预测(2026-05-31)
+- [Q-CTRL官网: TIME 100 honorees 2026](https://q-ctrl.com/) | Q-CTRL
+- **荣誉**:《时代》杂志"Time 100"首届行业领袖榜单,认可Q-CTRL向国防和企业客户提供变革性量子技术解决方案的全球领导力
+- **双赛道布局**:量子计算+量子传感(量子惯性导航);全球唯一实现量子优势(量子GPS-free导航)
+- **量子优势预测**:Q-CTRL预测特定高价值国防后勤应用将在2028年实现量子优势;量子传感导航是其核心产品
+- **量子传感关联**:Q-CTRL是量子传感商业化标杆企业;量子惯性导航已进入实用化验证阶段
+
+#### Cisco Research - 量子传感最新研究:通用量子开关/光量子安全通信/优化GKP态玻色信道传感(2026-05)
+- [Cisco Research Quantum](https://research.cisco.com/) | Cisco
+- **The Universal Quantum Switch**:Jiapeng Zhao等; 2026年4月发布; 量子网络基础构件
+- **Secure optical communication enabled by wavelength-division-multiplexed quantum alarm**:Amir Minoofar等; 2026年2月; ACM; 量子安全光通信
+- **Optimized GKP State for Bosonic Channel Sensing**:Thinh Le, Jianqing Liu, Jiapeng Zhao, Eneet Kaur; 2025年12月; IEEE; GKP态玻色信道传感优化
+- **量子传感关联**:Cisco布局量子网络与量子传感;GKP态是量子光学传感的重要资源态;通用量子开关是分布式量子传感的网络基础设施
+
+#### 西北大学 - 电子-光子混合量子芯片商业 foundry 量产:量子通信/传感/处理单片集成(2025-07)
+- [Northwestern Now: First electronic-photonic quantum chip manufactured in commercial foundry](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) | Northwestern + Stanford; Ajay Nair Kumar团队
+- **技术突破**:首次在商业半导体 foundry 将量子光源、控制电子单片集成于硅芯片;填补"量子光学器件需要特种工艺、无法在标准商业 foundry 制造"的行业空白
+- **量子传感关联**:光子量子传感系统的片上集成是降低成本、提高稳定性的核心路径;标准CMOS foundry可生产量子光子器件,为量子传感规模化制造奠定基础
+
+#### Cerca Magnetics完成380万英镑A轮融资 - 可穿戴量子脑成像扫描仪,3000万英镑估值(2026-04)
+- [腾讯新闻:Cerca Magnetics A轮融资(2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | 诺丁汉大学衍生; Guinness Ventures领投
+- **核心产品**:可穿戴式脑成像扫描仪,采用量子传感器实现神经活动高精度测量;室温达到与SQUID相当的灵敏度
+- **商业客户**:多伦多病童医院(SickKids)自闭症研究;英国国防部280万英镑项目
+- **量子传感关联**:OPM(光泵磁力计)是量子脑成像的核心技术;量子脑磁图(MEG)是量子传感在医疗健康领域最接近商业化的应用方向
+
+---
+*本次更新: Q-CTRL TIME 100荣誉/Cisco量子传感研究/西北大学商业foundry量子芯片/Cerca Magnetics融资(2026-05-31上午-09:14)*
+
 ### 🆕 新增条目(2026-05-31上午-08:14 - 本次更新)
 
 #### arXiv:2605.30271 - 量子Fock态同步化:Fock态极限环的非经典相位锁定,Arnold tongue regime的同步态(Steven Kim等,2026-05-28)
