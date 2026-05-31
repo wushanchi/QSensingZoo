@@ -37,6 +37,37 @@
 - **量子传感关联**:量子传感市场进入快速成长期;量子纠缠增强是性能提升的核心技术路线;国防和交通是量子传感商用的重点方向
 
 ### 🆕 新增条目(2026-05-31晚间-18:44 - 本次更新)
+#### npj Quantum Information:NV金刚石集合体闭环最优控制 - 门集评估指标/QOC/量子传感参数优化(2024)
+- [npj Quantum Information:Gate-set evaluation metrics for closed-loop optimal control on nitrogen-vacancy center ensembles in diamond](https://www.nature.com/articles/s41534-024-00893-y) | 2024年10月
+- **研究背景**:量子传感中精确控制是实现高精度测量的前提;量子最优控制(QOC)可针对不同误差机制优化控制脉冲
+- **研究内容**:对比QPT/LGST/RLGST/ORBIT等方法在NV中心集合体上的闭环优化性能;提出衡量门集性能的Figure of Merit(FoM)指标
+- **实验结果**:几乎所有优化场景中门集性能均显著提升,超越猜测脉冲和常规矩形脉冲
+- **量子传感关联**:闭环最优控制是提升量子传感器稳定性和精度的关键技术;对NV量子传感的实用化部署意义重大
+
+#### HKU/Advanced Science:纳米金刚石量子级精确打印技术 - 亚纳米定位精度/单缺陷水平/自由图案化/量子器件制造(2022-2024)
+- [HKU:Direct printing of nanodiamonds at the quantum level](https://www.hku.hk/press/news_detail_24403.html) | 香港大学Dr. Ji Tae Kim & Dr. Zhiqin Chu团队; Advanced Science
+- **技术突破**:开发出纳米精度打印NV中心方法;首次实现亚波长定位精度、单缺陷水平数量控制、自由图案化能力
+- **技术方案**:电放电纳米金刚石液体滴,亚阿升(<10⁻¹⁸升)体积精确放置NV中心到任意衬底
+- **核心优势**:比pick-and-place方法精度更高、吞吐量更大、工艺更简单;成本低且可扩展
+- **专利**:已获美国专利,量子信息处理/量子计算/生物传感器件制造新途径
+- **量子传感关联**:量子器件微纳制造是量子传感产业化的关键技术瓶颈;该技术为量子传感器批量生产提供新工艺路线
+
+#### IDTechEx:量子传感市场2024-2044 - 2034年71亿美元/CAGR 18%/原子钟到量子成像17类传感器(2023-2024)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | 市场研究报告
+- **市场规模**:量子传感市场预计2034年达71亿美元,2024-2044年CAGR 18%
+- **17类传感器**:台式碱原子钟/台式光学原子钟/碱CSAC/光学CSAC/其他CSAC/SQUID/光泵磁力计/N-V磁力计/TMR/原子陀螺仪/N-V陀螺仪/其他新型陀螺仪/便携式重力仪/便携重力仪/芯片级重力仪/超导光子探测器/其他量子光子探测器
+- **核心应用**:自动驾驶车辆的大脑扫描仪/量子计算机读出/地下测绘/卫星/消费电子
+- **量子传感关联**:量子传感市场从新兴向成长阶段过渡;芯片级量子传感器是最终目标;量子-经典混合方案率先商业化
+
+#### Quantum Singapore 2026论坛 - 量子汇聚:从硬件突破到工业应用/新加坡滨海湾/2026年2月(2026-02)
+- [腾讯新闻:Quantum Singapore 2026论坛开幕](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办; IEEE Photonics Society学术支持
+- **核心主题**:Quantum Convergence: From Hardware Breakthrough to Industrial Adoption
+- **关注焦点**:量子硬件-软件兼容性壁垒;东南亚量子生态构建;近待定标量子(NISQ)设备上的噪声抑制
+- **NQFF**:新加坡国家量子代工厂为本地量子研究生态提供支持,建立战略性工业合作伙伴关系
+- **量子传感关联**:量子传感产业化是论坛重点议题之一;亚太地区量子传感生态正在形成
+
+
+
 
 #### Quantum Motion完成1.6亿美元C轮融资/全球首台硅基CMOS量子计算机交付英国国家量子计算中心(2026-05)
 - [腾讯新闻:Quantum Motion融资1.6亿美元(2026-05-13)](https://so.html5.qq.com/page/real/search_news?docid=70000021_2916a044ed903252) | Quantum Motion(英国伦敦); DCVC和Kembara领投
