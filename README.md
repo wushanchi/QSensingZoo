@@ -12,6 +12,30 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
+### 🆕 新增条目(2026-05-31晚间-19:14 - 本次更新)
+
+#### Nature Electronics:Fraunhofer IAF实现CMOS量子光子系统芯片-45nm工艺光电量子源片上反馈控制(2025-2026)
+- [Nature Electronics:Scalable feedback stabilization of quantum light sources on a CMOS chip](https://www.nature.com/articles/s41928-025-01410-5) | Fraunhofer IAF; Nature Electronics (2025)
+- **技术方案**:电子-光子量子系统芯片;光子对源集成片上反馈控制电路;采用商用45nm CMOS微电子代工厂工艺制造
+- **核心创新**:在可调微环腔光子对源中采用非侵入式光电流传感;解决硅量子光子集成电路对工艺和温度变化高度敏感的难题
+- **技术路线**:硅光子学结合CMOS制造工艺;为大规模量子信息处理提供了量产化路径;光电协同设计是片上量子系统的关键
+- **量子传感关联**:CMOS兼容量子光子芯片是量子传感芯片化(SOC)的核心支撑技术;光子对源是量子光源、量子成像的核心器件;该工作将量子传感与传统半导体代工完全接轨
+
+#### Fraunhofer IAF QUASAR项目 - 欧洲量子技术硅自旋 qubit平台/金刚石量子传感产业链/芯片光子对源(2026-05)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF(德国弗劳恩霍夫应用固体物理研究所)
+- **QUASAR项目**:EU Quantum Flagship联盟下的硅自旋量子比特平台项目;目标是建立大规模固态量子计算机的欧洲产业链
+- **量子传感布局**:Fraunhofer IAF在金刚石量子技术领域建立了稳定欧洲产业规模的 fabrication value chain;涵盖从量子材料到器件的完整链条
+- **核心方向**:compact on-chip photon pair sources for quantum technologies;硅自旋量子比特;金刚石量子传感
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;其金刚石量子传感 fabrication chain 对NV量子传感产业化意义重大;QUASAR代表了量子传感的IDM(Integrated Device Manufacturer)路线
+
+#### Global Quantum Sensor Market:2025年3.04亿美元→2030年5.69亿美元,CAGR 13.3%(量子纠缠增强传感性能)(2026-05)
+- [Knowledge Sourcing:Quantum Sensor Market Growth Trends Forecast 2025-2030](https://www.knowledge-sourcing.com/report/global-quantum-sensor-market) | 市场研究报告
+- **市场规模**:2025年3.04111亿美元;预计2030年达5.69231亿美元;年复合增长率(CAGR)13.3%
+- **增长驱动**:量子纠缠等技术使量子传感器性能超越经典极限;量子传感器可用于改进原子钟、更灵敏的磁力计
+- **核心传感器类型**:磁传感器、原子钟、重力传感器、旋转传感器、温度传感器、成像传感器
+- **终端行业**:石油天然气、国防、交通等
+- **量子传感关联**:量子传感市场进入快速成长期;量子纠缠增强是性能提升的核心技术路线;国防和交通是量子传感商用的重点方向
+
 ### 🆕 新增条目(2026-05-31晚间-18:44 - 本次更新)
 
 #### Quantum Motion完成1.6亿美元C轮融资/全球首台硅基CMOS量子计算机交付英国国家量子计算中心(2026-05)
