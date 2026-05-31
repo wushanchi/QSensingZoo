@@ -12,6 +12,51 @@
 | [03-Products](./03-Products/) | 产业与产品:公司介绍、商用产品、核心技术参数 |
 
 
+
+### 🆕 新增条目(2026-05-31晚间-21:14 - 本次更新)
+
+#### QuantX Labs — 量子PNT定位导航授时,CRYO超低相噪振荡器,精确授时产品线(2026-05)
+- [QuantX Labs官网](https://quantxlabs.com/) | 量子传感与精确授时; 澳大利亚; 专注PNT(定位、导航、授时)
+- **核心产品**:
+  - **CRYO**: 超低相噪振荡器(Cryogenic Ultra-Low Phase-Noise Oscillator),用于超视距雷达、深空跟踪、高精度授时
+  - **精确PNT产品线**:量子传感与精确授时产品,可在GNSS拒止环境下保持精度;目标:国防、空间、关键基础设施
+- **技术路线**:量子传感技术解决传统PNT基础设施脆弱性问题;不依赖GNSS信号,在对抗环境中仍能保持精确导航和授时
+- **量子传感关联**:PNT是量子传感的核心应用方向之一;量子振荡器的相噪性能直接决定导航精度;量子PNT是GPS拒止环境的首选解决方案
+
+#### Microsystems & Nanoengineering:SERF微型原子磁力计 - 20 fT/√Hz灵敏度/单光束/心磁图/脑磁图(2024)
+- [Nature:Ultrasensitive SERF atomic magnetometer with a miniaturized hybrid vapor cell](https://link.springer.com/10.1038/s41378-024-00758-6) | 微系统与纳米工程; 2024年
+- **核心指标**:最优磁灵敏度20 fT/√Hz;单光束微型化设计;微型化碱金属蒸汽气室
+- **技术方案**:芯片级光学泵浦自旋交换弛豫自由(SERF)原子磁力计;单光束差分检测方案有效抑制光噪声;Cs原子(铯)介原子蒸汽
+- **技术特点**:采用差分检测抑制光学噪声;在保持高灵敏度的同时实现微型化;工作在心磁图(MCG)和脑磁图(MEG)应用所需的fT量级灵敏度
+- **量子传感关联**:SERF磁力计是生物磁场成像的核心技术;芯片级SERF是量子传感走向可穿戴设备的关键一步;心磁图/脑磁图是量子传感最具临床价值的应用方向
+
+#### Quantinuum IPO上市申请:127亿美元估值,计划募资10.5亿美元,离子阱量子计算+量子时钟传感双赛道(2026-04)
+- [腾讯新闻:Quantinuum考虑扩大IPO规模(2026-05-30)](https://so.html5.qq.com/page/real/search_news?docid=70000021_68069ce675711852) | Quantinuum(霍尼韦尔子公司); 考虑上调发行价约10%
+- **上市进展**:2026年4月22日秘密提交IPO文件;招股书显示计划发行约2100万股,发行价区间45-50美元/股;若上调10%,募资将增加数亿美元;最新估值127亿美元
+- **技术平台**:离子阱量子计算路线;量子时钟(基于囚禁离子)是高精度量子传感器的核心;与微软合作;量子体积(QV)领先
+- **量子传感关联**:离子囚禁是量子传感(原子钟、量子陀螺仪、量子磁力计)的核心技术平台;Quantinuum的离子阱技术在量子精密测量领域代表最高水平;其上市将加速量子传感产业化的资本化进程
+
+#### Cisco量子传感研究:Optimized GKP State for Bosonic Channel Sensing / The Universal Quantum Switch(2025-2026)
+- [Cisco Research:Publications](https://research.cisco.com/) | Cisco量子研究团队; 2025-2026年发表
+- **Optimized GKP State for Bosonic Channel Sensing**: Thinh Le, Jianqing Liu, Jiapeng Zhao, Eneet Kaur; December 2025 | IEEE; 优化GKP态用于玻色子信道传感
+- **The Universal Quantum Switch**: Jiapeng Zhao, Stéphane Vinet, Michael Kilzer, Vijoy Pandey, Ramana Kompella, Reza Nejabati; April 2026 | ACM; 安全光通信波长分复用量子报警器
+- **量子传感关联**:Cisco布局量子网络与量子传感融合;GKP态是量子传感中用于误差抑制的非经典态;量子开关是量子网络和分布式量子传感的基础设施
+
+#### arXiv:2605.29964 - 中性原子量子编译器:Hub陷阱辅肋搬运,编译质量提升3个数量级(2026-05-28)
+- [arXiv:2605.29964](https://arxiv.org/abs/2605.29964) | Takahiko Satoh等; quant-ph; 12页,9图
+- **技术方案**:针对单区中性原子设备的量子编译器,处理有限相互作用范围和最小量子比特间距约束;提出Hub陷阱(动态放置的空陷阱作为中转路点),结合每门规则在SWAP路由和Hub介导搬运之间选择
+- **核心数据**:Hub陷阱使原本无法编译的电路在秒到分钟级别完成编译,完全消除SWAP门;路由主导电路的保真度代理提升最高3个数量级;该方法适用于量子传感中中性原子阵列传感器(如中性原子磁力计)的寻址控制
+- **量子传感关联**:中性原子阵列是量子RF传感(Infleqtion量子频谱)和量子计算的前沿平台;量子编译器是量子传感器阵列实用化的基础设施软件;该工作直接推动中性原子量子传感器的大规模集成
+
+#### Quantum Design完成收购牛津仪器纳米科学部 - Qnami × Quantum Design全球经销体系形成(2026-05)
+- [Quantum Design官网:Quantum Design完成收购牛津仪器纳米科学部](https://www.qd-es.com/) | Quantum Design International; 2026年5月完成
+- **收购内容**:Quantum Design International正式完成对牛津仪器纳米科学部(Oxford Instruments NanoScience)的收购;该部门专注于为量子技术领域提供低温设备和相关支持
+- **量子传感协同**:Quantum Design Japan/Korea此前已代理Qnami的ProteusQ量子传感产品线;此次收购强化了其在量子技术生态中的系统集成地位;为Nv量子传感等低温技术提供端到端解决方案
+- **市场整合**:此次收购体现了量子技术领域从单一仪器向平台化、系统化服务整合的趋势;Quantum Design从产品代理向全面解决方案提供商转型
+
+---
+*本次更新: QuantX Labs量子PNT/芯片级SERF原子磁力计20fT/Quantinuum IPO 127亿估值/Cisco量子传感论文/中性原子量子编译器/Quantum Design收购牛津纳米科学部(2026-05-31晚间-21:14)*
+
 ### 🆕 新增条目(2026-05-31晚间-19:14 - 本次更新)
 
 #### Nature Electronics:Fraunhofer IAF实现CMOS量子光子系统芯片-45nm工艺光电量子源片上反馈控制(2025-2026)
