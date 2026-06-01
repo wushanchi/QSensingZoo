@@ -1,3 +1,1 @@
-8158ef5 2026-06-01 10:17 CST - 本次更新: arXiv:2605.31442指数维度量子计量学Heisenberg极限/arXiv:2605.31262自旋噪声DDI效应/Quantum Design收购牛津仪器NanoScience
-8158ef6 2026-06-01 10:44 CST - 本次更新: arXiv:2605.31516量子通信复杂度指数优势/arXiv:2605.31409离子SDK保真度/arXiv:2605.31248量子PDE谱模型/arXiv:2605.31493量子网络PSM纠缠分发/arXiv:2605.31544小角Clifford+T编译
-6299ddc 2026-06-01 12:44 CST - 本次更新: 量子传感器实用化综述/arXiv:2605.31525 DI量子密码无种子提取器/arXiv:2605.31472可穿越量子相变/arXiv:2605.31449汉明量子核/arXiv:2605.31441量子码内禀维度/arXiv:2605.31347纠缠分发协议/arXiv:2605.31319量子电池QPC测量
+98ec64a 2026-06-01 13:44 CST - 本次更新: IDTechEx量子传感市场17.8%CAGR/Commercialising Quantum Global 2025伦敦会议/Quantum Singapore 2026论坛/Qnami东亚经销网络/Bosch×Element Six NV量子磁力计/Fraunhofer IAF QUASAR+宽场NV/Muquans→HexaQuan品牌整合/Infleqtion×赛峰TITANIUM量子授时/GEM Systems量子磁力计/QuantX Labs TEMPO太空光学频率梳/Cerca Magnetics脑成像
