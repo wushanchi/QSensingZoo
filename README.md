@@ -13,35 +13,69 @@
 
 
 
-### 🆕 新增条目(2026-06-01上午-09:44 - 本次更新)
+### 🆕 新增条目(2026-06-01上午-09:14 - 本次更新)
 
-#### QuantX Labs太空光学原子钟TEMPO随Exotrail's Spacevan002升空:世界首个进入轨道的商用光学频率梳/SpaceX Transporter-16任务(2026)
-- [QuantX Labs官网](https://quantxlabs.com/) | QuantX Labs(澳大利亚阿德莱德); 2026年; 澳大利亚太空局/AUD$3.7M; 国防 Trailblazer/AUD$13.8M
-- **核心里程碑**:TEMPO(Time and Extended Master Oscillator in Photonics for Optical clock)光学频率梳随Exotrail's Spacevan002通过SpaceX Transporter-16发射升空;这是世界首个进入轨道的商用光学频率梳;CRYO超低相噪振荡器已实现地面应用,TEMPO拓展至空间应用
-- **技术平台**:光子学(超稳定激光+光学腔+频率梳)→将原子跃迁转为可访问的精密授时和传感信号;原子学(量子能量级)→超稳定光学钟提供弹性、GNSS独立的授时信号
-- **应用场景**:对地观测、深空跟踪、卫星星座同步、电信网络;面向 contested airspace、congested orbits、over-the-horizon radar等严苛环境
-- **量子传感关联**:光学频率梳是量子精密测量的核心工具;空间光学钟是量子传感PNT(定位导航授时)天地一体化的关键;量子PNT从地面延伸到太空是2026年量子传感产业化的重要里程碑
+#### Qnami - 全球量子传感领导者/PtegusQ-LT低温扫描NV显微镜/ProteusQ常温量子波平台/Earlybird领投800万瑞士法郎A轮(2026-05)
+- [Qnami官网](https://www.qnami.com/) | Qnami(瑞士巴塞尔); Earlybird Venture Capital领投
+- **核心产品**:
+  - **ProteusQ-LT**:低温扫描NV显微镜,工作温度2K至300K,灵敏度3µT/√Hz @ 1.8K,亚纳米空间分辨率;斯图加特大学Wrachtrup团队在1.8K低温下以<50nm分辨率清晰分辨NbSe₂单个磁通涡旋(PRL)
+  - **ProteusQ**:常温量子波传感平台,面向基础研究与工业应用
+- **商业化进展**:已与Quantum Design Japan/Korea建立东亚经销网络;低温/常温双路线并行
+- **量子传感关联**:Qnami是全球金刚石NV量子传感商业化先驱;800万瑞士法郎A轮是2026年量子传感领域重要融资事件;量子传感仪器商业化正在加速
 
-#### arXiv:2605.29436 - 混合自旋态的反相干度量:方向无关量子计量学与量子参考帧对齐/各向同性低阶自旋矩(2026-05-28)
-- [arXiv:2605.29436](https://arxiv.org/abs/2605.29436) | Jérôme Denis等; quant-ph; 19页,3图,1表; 2026-05-28
-- **技术方案**:研究混合自旋态的反相干(anticoherent)特性;各向同性低阶自旋矩与方向无关计量学和量子参考帧对齐相关;区分由量子关联引起的各向同性和经典统计混合引起的各向同性
-- **核心发现**:提出基于对称量子比特嵌入的混合态t-反相干公理框架;在纯态上与总度量重合,差值为经典贡献;构造了基于约化态纯度、Hilbert-Schmidt距离和累积多极的总体度量
-- **量子传感关联**:反相干态是量子计量学的重要资源;方向无关计量学对量子陀螺仪和量子磁场计有直接应用;该工作为混合态量子传感器的性能评估提供理论基础
+#### Cerca Magnetics完成380万英镑A轮融资 - 可穿戴式量子脑成像扫描仪/诺丁汉大学衍生企业/吉尼斯风投领投(2026-04)
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资(2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics; 诺丁汉大学物理与天文学院衍生企业; 吉尼斯风险投资(Guinness Ventures)领投
+- **融资规模**:380万英镑(约475万美元); 投后估值3000万英镑; 资金用于拓展临床医疗市场布局
+- **核心产品**:可穿戴式脑成像扫描仪,采用量子传感器(光学泵浦磁力计)实现对神经活动的高精度测量
+- **技术优势**:无需大型设备,实现穿戴式脑磁场成像;填补传统脑成像技术在便携性和成本上的空白
+- **量子传感关联**:脑磁图(MEG)是量子传感最具临床价值的应用方向之一;量子脑成像是生物量子传感的代表性应用;其可穿戴化是量子传感走进临床的关键里程碑
 
-#### arXiv:2605.29472 - 有限量子资源高保真ROI CT重建:混合经典-量子优化框架/量子断层扫描局部精化(2026-05-28)
-- [arXiv:2605.29472](https://arxiv.org/abs/2605.29472) | Kyungtaek Jun等; quant-ph; 9页,5图; 2026-05-28
-- **技术方案**:混合感兴趣区域(ROI)精化框架——先用经典/量子方法重建粗全局图像,再用量子优化只对ROI进行精化;残差投影-图像 formulation减少QUBO规模同时保持目标区域高保真度
-- **核心数据**:QTR/QCSTR+QTR/QCSTR和SART+QTR/QCSTR均实现准确ROI重建;SART+QTR/QCSTR达到最低平均ROI RMSE和MAE;实用优势在于量子优化用于局部精化,经典重建稳定全局背景
-- **量子传感关联**:量子断层扫描(QT)是量子传感在医学成像的核心应用;量子CT重建为量子X射线显微镜和量子显微镜提供后端算法支撑;量子-经典混合方法是量子传感实用化的现实路径
+#### HKU工程团队量子传感突破 - 宽场量子传感监测活体生物系统动态过程/神经形态视觉传感器/帧事件混合架构(2024-02→2026参考)
+- [HKU Press:HKU Engineering team's quantum sensing breakthrough](https://www.hku.hk/press/press-releases/detail/27099.html) | 香港大学; Ngai Wong/Can Li/Zhiqin Chu/Zhiyuan Du团队
+- **技术方案**:宽场量子传感架构;结合帧基(F rame-based)和事件基(event-based)传感器;神经形态视觉传感器将荧光变化转换为稀疏脉冲;实现生物系统动态过程实时监测
+- **核心发现**:事件基传感器在相同光功率下信噪比更高;可实现更宽动态范围的同时保持低功耗
+- **量子传感关联**:宽场量子传感是NV量子显微镜的重要发展方向;该技术使活体细胞内量子级磁测量成为可能;神经形态传感器与量子传感的结合是量子生物成像的新范式
 
-#### arXiv:2605.29609 - 相干散射悬浮光机械学中的反冲加热工程:微腔Purcell效应抑制退相干/量子传感新平台(2026-05-28)
-- [arXiv:2605.29609](https://arxiv.org/abs/2605.29609) | Carlos Gonzalez-Ballestero等; quant-ph/physics.optics; 7+2页,4图; 2026-05-28
-- **技术方案**:光学捕获中光子散射引起的反冲加热是制备非经典运动态的主要退相干源;在相干散射配置微腔中,预测电磁环境可通过Purcell效应显著抑制反冲加热率;建立基于宏观量子电动力学的理论框架
-- **核心发现**:在状态级微腔中,反冲加热率可被显著抑制(针对质心运动和旋转运动);方法适用于任意电磁结构包围的粒子,提供通过光子结构设计工程化运动退相干的路径
-- **量子传感关联**:悬浮纳米/微粒光机械系统是新兴量子传感平台;反冲加热抑制是实现量子传感极限灵敏度的关键;该工作为芯片级量子传感器和量子力传感器提供新方案
+#### Bristol-led团队:Nature Photonics光子芯片量子极限传感 - 批量可制造光子传感器/温室气体监测/癌症检测/无纠缠简化(2025-02)
+- [Tech Briefs:Bristol quantum photonic sensors at quantum limit](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | 布里斯托大学; QET Labs; Joel Tasker团队
+- **技术突破**:操作批量可制造光子传感器达到量子极限;采用微环谐振器光电器件;无需纠缠或压缩态即可实现量子增强传感
+- **应用场景**:温室气体监测;癌症检测;工业过程优化
+- **技术意义**:传统量子传感方案依赖难以生成的纠缠或压缩态;该突破使量子传感的大规模工业部署成为可能
+- **量子传感关联**:批量可制造(Batch-manufacturable)是量子传感器商业化的关键;量子-经典混合方案是当前实用化的最佳路径;光子传感器是量子成像芯片化的核心器件
+
+#### Quantum Innovation Summit Dubai 2026 - 量子与新兴前沿/2026年9月28-30日迪拜君悦酒店(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026-09-28至30日; 迪拜君悦酒店; 迪拜
+- **会议主题**:Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership
+- **核心议程**:量子传感从硬件突破到工业采用;量子传感在国防、安全、医疗领域的应用;中东量子技术hub建设
+- **量子传感关联**:迪拜作为中东量子技术枢纽的角色正在形成;量子传感全球产业化的地域多元化趋势;Quantum Singapore和迪拜峰会代表亚太/中东量子传感生态加速
+
+#### arXiv:2605.21457 - 相干量子推理的指数级采样复杂度优势/量子推理超越经典的信息论优势/纠缠辅助量子推断(Zhaoyi Li等,2026-05-21)
+- [arXiv:2605.21457](https://arxiv.org/abs/2605.21457) | Zhaoyi Li, Elias Theil, Aram W. Harrow, Isaac Chuang; quant-ph; 2026-05-21
+- **技术方案**:研究替代性量子推理设置——量子数据直接映射为经典输出的标准范式;证明相干量子推理具有指数级采样复杂度优势
+- **核心发现**:相干量子推理相比经典推理在采样复杂度上具有指数优势;该优势来源于量子态叠加原理而非纠缠
+- **量子传感关联**:量子推理是量子传感数据处理的新方向;指数级采样优势意味着量子传感器数据的后端处理可获得量子加速;量子-经典混合传感协议是量子传感实用化的重要研究方向
+
+#### IDTechEx量子传感市场报告2024-2044 - 2034年71亿美元/CAGR 18%/17类量子传感器/芯片级重力仪/SQUID/光泵磁力计(2023-2024)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | 市场研究报告
+- **市场规模**:预计2034年达71亿美元,2024-2044年CAGR 18%
+- **17类传感器覆盖**:台式碱原子钟/台式光学原子钟/碱CSAC/光学CSAC/其他CSAC/SQUID/光泵磁力计/N-V磁力计/TMR磁传感器/原子陀螺仪/N-V陀螺仪/其他新型陀螺仪/便携式重力仪/便携重力仪/芯片级重力仪/超导光子探测器/其他量子光子探测器
+- **终端行业**:自动驾驶车辆大脑扫描仪/量子计算机读出/地下测绘/卫星导航/消费电子/国防
+- **量子传感关联**:量子传感市场进入快速成长期;芯片级量子传感器是最终目标;量子-经典混合方案率先商业化是当前阶段特征
+
+#### EPJ Quantum Technology影响因子5.600分 - Q1区/Atomic and Molecular Physics and Optics/量子传感量子模拟量子生物(2025-2026)
+- [EPJ Quantum Technology官网](https://www.springer.com/journal/42473) | Springer; JCR Q1; 2024-2025 IF 5.600
+- **期刊范围**:量子传感/量子模拟/量子生物学/混合量子系统/Casimir力/量子计算/量子通信
+- **量子传感关联**:量子传感是EPJ Quantum Technology的核心方向之一;高影响因子反映量子传感学术产出的活跃度;该期刊是量子传感基础研究的重要发表平台
+
+#### Quantum Science and Technology影响因子5.000分 - Q1区/多学科/量子技术理论与实验/物理与天文/电子电气工程/Atomic and Molecular Physics(2025-2026)
+- [Quantum Science and Technology官网](https://iopscience.iop.org/journal/2058-9565) | IOP; JCR Q1; 实时IF 4.76(2026-05)
+- **期刊范围**:量子计算/量子通信/量子传感/量子模拟/量子密码学/量子光学/材料科学
+- **CiteScore排名**:10.90 (Q1 top 94%); 物理与天文Q1 top 94%; 电子电气工程Q1 top 90%
+- **量子传感关联**:量子传感是该期刊的核心板块;高CiteScore和IF反映量子传感研究的学术重要性持续提升
 
 ---
-*本次更新: QuantX Labs TEMPO太空光学频率梳升空/arXiv:2605.29436混合自旋态反相干度量/arXiv:2605.29472量子CT重建ROI/arXiv:2605.29609悬浮光机械学Purcell效应(2026-06-01上午-09:44)*
+*本次更新: Qnami全球领导者800万CHF A轮/Cerca Magnetics 380万英镑A轮脑成像/HKU宽场量子传感监测活体动态/Bristol批量光子量子极限传感/Quantum Innovation Summit Dubai 2026/arXiv指数级量子推理采样优势/IDTechEx量子传感71亿美元市场/EPJ QT IF5.6/Quantum Sci Tech IF5.0(2026-06-01上午-09:14)*
+
 
 ### 🆕 新增条目(2026-06-01上午-08:44 - 本次更新)
 
