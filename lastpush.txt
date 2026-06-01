@@ -1,1 +1,1 @@
-3b6fcdc 2026-06-01 21:14 CST - 本次更新: 布里斯托光子量子传感芯片/USC Takahashi量子传感/量子新加坡2026论坛/中国量子创新用例征集/SMG MEMS重力传感
+2ca1f96 2026-06-02 00:14 CST - 本次更新: 非线性自旋噪声arXiv:2605.31262/Hamming量子核arXiv:2605.31449/耗散自旋压缩arXiv:2605.30815/Optica Quantum 2.0 Conference格拉斯哥6月
