@@ -16,7 +16,38 @@
 
 ---
 
+------
+
+### 🆕 新增条目(2026-06-02上午-07:14 - 本次更新)
+
+#### Cisco Research量子传感最新成果:Optimized GKP State for Bosonic Channel Sensing/The Universal Quantum Switch(2025-12/2026-04)
+- [Cisco Research:Publications](https://research.cisco.com/) | Cisco量子研究团队; 2025年12月和2026年4月发表
+- **Optimized GKP State for Bosonic Channel Sensing**: Thinh Le, Jianqing Liu, Jiapeng Zhao, Eneet Kaur; December 2025 | IEEE; 优化GKP态用于玻色子信道传感
+- **The Universal Quantum Switch**: Jiapeng Zhao, Stéphane Vinet, Michael Kilzer, Vijoy Pandey, Ramana Kompella, Reza Nejabati; April 2026 | ACM; 安全光通信波长分复用量子报警器
+- **量子传感关联**:Cisco布局量子网络与量子传感融合;GKP态是量子传感中用于误差抑制的非经典态;量子开关是量子网络和分布式量子传感的基础设施
+
+#### Nature Reviews Physics:量子传感器生物医学应用综述 - 量子传感从实验室走向真实世界/初创企业/原子长度尺度(2023)
+- [Nature Reviews Physics:Quantum sensors for biomedical applications](https://www.nature.com/articles/s42254-023-00558-3) | Nature Reviews Physics; 2023年2月发表
+- **核心观点**:量子传感器正从实验室走向真实世界,初创企业是该领域的重要推动力量;原子长度尺度的量子传感器可探测体内极微弱信号
+- **技术路线**:量子传感器测量生物体内的量子态变化——制备已知量子态→待测参数改变量子态→测量变化;量子态一致性与均匀性优于传统设计部件传感器
+- **量子传感关联**:量子生物传感是量子传感最具临床价值的应用方向;心磁图/脑磁图/量子成像代表量子传感医疗化的成熟路径;该综述是量子传感医学应用的权威参考文献
+
+#### Research and Markets量子技术市场报告2025-2035:$99.34 billion/量子传感与成像2025年3.04亿→2030年5.69亿CAGR13.4%(2025-08)
+- [Research and Markets:Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Research and Markets; 2025年8月发布; 416页报告
+- **整体市场**:量子技术整体市场预计2035年达$99.34 billion;量子传感与成量子领域2025年3.04亿美元→2030年5.69亿美元,CAGR 13.4%
+- **细分方向**:量子计算/量子密码学与通信/量子传感与成像/量子点粒子/量子级联激光器/量子建模与模拟
+- **量子传感关联**:量子传感市场增速在量子技术各领域中位居前三;IDTechEx预测2045年20亿美元;量子传感商业化拐点明确
+
+#### Quantum Design完成收购牛津仪器纳米科学部 - 全球最大量子传感产品线/Qnami东亚经销网络(中日韩印)(2026-01)
+- [腾讯新闻:Quantum Design完成收购牛津仪器纳米科学部门](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | Quantum Design; 2026年1月2日宣布完成
+- **收购规模**:Quantum Design International正式完成对Oxford Instruments NanoScience部门的收购;后者是全球顶级低温/强磁场科研设备供应商
+- **产品线整合**:牛津仪器NanoScience产品线(含SQUID磁力计、低温恒温器等)并入Quantum Design全球分销网络;Quantum Design China/Korea/Japan/India将承担亚洲市场独家经销
+- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感商业化最成熟的技术之一;该收购强化了Quantum Design在量子传感仪器分销的垄断地位;低温SQUID技术对量子传感研究至关重要
+
 ---
+*本次更新: Cisco Research量子传感论文(GKP信道传感/量子开关)/Nature Reviews量子传感器生物医学应用/Research and Markets量子技术市场99.34亿美元/Quantum Design收购牛津纳米科学部(2026-06-02上午-07:14)*
+
+
 
 ### 🆕 新增条目(2026-06-02上午-06:44 - 本次更新)
 
