@@ -14,6 +14,60 @@
 
 
 
+### 🆕 新增条目(2026-06-01晚-20:44 - 本次更新)
+
+#### 量子传感市场展望:2025年3.04亿美元→2030年5.69亿美元/复合增长率13.4%/IDTechEx预测2045年20亿美元(2025-2030)
+- [Knowledge Sourcing International:Quantum Sensor Market](https://www.knowledge-sourcing.com/report/global-quantum-sensor-market) | 市场研究; 2025-2030年预测; 磁性传感器/原子钟/重力传感器/旋转传感器/温度传感器/成像传感器
+- **市场规模**:2025年3.04111亿美元→2030年5.69231亿美元(CAGR 13.4%); 量子传感器利用量子纠缠等量子关联超越经典系统极限
+- **技术分类**:磁传感器(OPM/SQUID/NV色心)/原子钟/重力传感器(原子干涉)/旋转传感器(量子陀螺仪)/温度传感器/成像传感器
+- **量子传感关联**:市场高速增长验证量子传感商业化成熟度;半导体制造工艺(如MEMS原子气室)是降低成本、推动量产的核心路径
+
+#### 英国政府4500万英镑量子技术投资:脑扫描仪/导航系统/量子计算(2024-2026)
+- [UK Gov:£45 million quantum investment](https://www.gov.uk/government/news/unlocking-the-potential-of-quantum-45-million-investment-to-drive-breakthroughs-in-brain-scanners-navigation-systems-and-quantum-computing) | 英国政府; 国家量子技术计划
+- **投资方向**:£3000万用于开发和交付世界领先原型量子计算机;量子传感器改进癫痫和痴呆症诊断;智能量子导航系统用于铁路隧道
+- **量子传感关联**:英国在量子传感医疗和交通应用方面领先; Cerca Magnetics等公司是量子脑成像先驱;量子导航是量子PNT重要组成
+
+#### 量子导航技术在英国铁路取得重大突破:GPS拒止环境下自主定位/隧道内高稳定性/固定定位设施替代方案(2026-03)
+- [腾讯新闻:量子导航技术在英国铁路取得重大突破](https://so.html5.qq.com/page/real/search_news?docid=70000021_53669c4a73c75752) | 2026年3月26日
+- **技术方案**:量子惯性导航采用超高灵敏度传感器,捕捉运动与旋转中的极细微变化,不依赖外部信号,在隧道/密集建筑区仍可高精度定位
+- **应用价值**:现有轨道旁固定定位设施安装维护成本高且易受环境影响;量子导航有望成为替代方案,实现更低成本/更可靠/更抗干扰的定位系统
+- **量子传感关联**:量子惯性传感是量子PNT的核心组成;该突破表明量子导航正从实验室走向实际基础设施部署
+
+#### Institute of Physics量子传感地下成像讲座:量子重力传感揭示地下世界/振动噪声抑制/Einstein等价原理(2022)
+- [IOP:Quantum Sensing - A New Window to the Underground](https://www.iop.org/events/quantum-sensing-new-window-underground) | Catherine Siddle & Professor Michael Holynski, University of Birmingham
+- **技术挑战**:地球重力存在于任意两质量之间,但振动噪声会掩盖重力信号(爱因斯坦等价原理:振动与重力噪声无法区分)
+- **解决路径**:量子重力传感器利用叠加态和纠缠提高灵敏度;量子涨落抑制技术突破振动噪声限制
+- **量子传感关联**:地下成像(地下含水层/考古/基础设施检测)是量子重力传感最直接的应用场景;伯明翰大学是该领域全球领先团队
+
+#### arXiv:2502.14683 - 机器学习辅助量子金刚石磁力计追踪磁性目标:无需物理模型的实时定位/地面交通监测/地下基础设施测绘(2025-02)
+- [arXiv:2502.14683:ML assisted tracking of magnetic objects using quantum diamond magnetometry](https://arxiv.org/abs/2502.14683) | Fernando Meneses等6位作者; 2025-02-20提交
+- **技术方案**:ML方法完全基于实验数据训练,无需物理模型即可实时预测磁性目标位置;目标可为任何信号高于噪声 floor的磁性物体
+- **技术优势**:传统磁性传感需要复杂物理模型和详细系统知识;ML替代方案降低使用门槛,推动量子磁力计实用化
+- **量子传感关联**:量子磁力计与机器学习结合是量子传感器智能化方向;该工作为量子传感在自动驾驶/地下探测中的应用提供新路径
+
+#### Nature Physics:量子增强自旋-向列压缩实现15.6dB超越标准量子极限/87Sr光腔/非线性干涉仪/原子Bose-Einstein凝聚体(2023)
+- [Nature Physics:Quantum-enhanced sensing by echoing spin-nematic squeezing](https://link.springer.com/article/10.1038/s41567-023-02168-3) | 2023年8月发表
+- **技术方案**:在自旋原子Bose-Einstein凝聚体中利用自旋混合动力学(光学四波混合的原子类似物)产生自旋-向列压缩态;spin-echo技术将压缩态refocus回经典初始态附近
+- **核心数据**:26400个原子实现15.6±0.5 dB超越标准量子极限的小角度Rabi旋转探测灵敏度;16.6±1.1 dB相位探测灵敏度
+- **量子传感关联**:自旋压缩是提升量子传感器灵敏度超越标准量子极限的核心技术;该工作为下一代超高灵敏度原子磁力计提供实验验证
+
+#### Imperial College量子传感器皇家海军舰船测试:无GPS导航原型/量子惯性传感/量子PNT关键验证(2023)
+- [Imperial College London:Quantum sensor for future navigation tested aboard Royal Navy ship](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) | Imperial College London; 2023年5月测试
+- **测试背景**:Imperial研制的量子传感器原型,合作方为英国皇家海军,是量子导航从实验室走向实际作战系统的关键验证
+- **技术意义**:量子惯性导航不依赖卫星信号,是GPS拒止环境下的自主导航解决方案;海军舰船是量子导航的天然应用场景
+- **量子传感关联**:Imperial College是量子PNT研究全球领先机构;该测试是量子惯性导航实用化的重要里程碑
+
+#### 香港大学金刚石量子传感显微镜细胞力成像:宽场量子金刚石显微镜/牵引力测量/T1映射/细胞力量化(2024)
+- [HKU:Cellular force imaging using diamond-based quantum sensing microscope](https://hku.hk/press/press-releases/detail/27235.html) | 香港大学工程院; 2024年4月
+- **技术方案**:宽场量子金刚石显微镜(QDMTM)利用NV色心测量细胞施加的牵引力;通过T1映射量化细胞力量
+- **实验验证**:测量不同类型细胞(充分展开/较少展开/细胞-细胞接触)的牵引力;提取细胞力的模拟辅助方法
+- **量子传感关联**:NV色心是量子生物传感的核心平台;细胞力成像是量子传感在生命科学中的创新应用;香港大学代表中国在NV量子生物传感的领先地位
+
+---
+*本次更新: 量子传感市场3.04亿→5.69亿2025-2030 CAGR13.4%/英国政府4500万英镑量子技术投资/英国铁路量子导航突破/IOP地下量子成像讲座/机器学习+量子金刚石磁力计arXiv2502/Nature Physics自旋-向列压缩15.6dB/Imperial量子传感器皇家海军测试/港大金刚石量子显微镜细胞力成像(2026-06-01晚-20:44)*
+
+
+
 ### 🆕 新增条目(2026-06-01晚-20:14 - 本次更新)
 
 #### Sandia原子干涉仪量子惯性传感:无GPS导航/芯片级原子干涉仪/量子重力仪/4K低温集成/紧凑坚固(2026)
