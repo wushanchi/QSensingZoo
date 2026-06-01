@@ -1,1 +1,1 @@
-659241a 2026-06-01 07:44 CST - 本次更新: Quantum Motion 1.6亿美元融资首台硅基CMOS量子机/IEEE Spectrum Q-Cat金刚石量子传感/全球量子传感市场3.04亿→5.69亿/Sandia LMT量子重力仪/QuantX Labs量子PNT四产品线/QOMPASS欧洲计划
+49225d4 2026-06-01 08:44 CST - 本次更新: arXiv:2605.30224亮压缩真空超快量子态制备/arXiv:2605.30271 Fock态量子同步/国仪量子A股IPO辅导
