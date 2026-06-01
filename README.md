@@ -1270,6 +1270,42 @@
 
 ---
 
+### 🆕 新增条目(2026-06-01下午-15:14 - 本次更新)
+
+#### Optica Quantum 2.0 Conference and Exhibition 2026:量子传感2.0时代,6月15-18日格拉斯哥,IEEE Photonics Society联合主办(2026-06)
+- [Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | 2026年6月15-18日; 英国格拉斯哥; 与Optica 2026 Quantum Industry Summit同期举办
+- **会议主题**:Quantum 2.0利用叠加和纠缠实现大规模系统——超越量子计算机、网络和传感器的单系统能力;涵盖量子计算、通信、传感和计量;关注生态系统、商业化和社会影响
+- **量子传感关联**:量子传感是Quantum 2.0的核心组成;会议将展示量子传感从实验室到工业应用的最新进展;Optica(OSA)与IEEE Photonics Society联合举办显示量子传感学术与产业深度融合
+
+#### Nature Physics 5月亮点:固态中守恒角动量/量子拓扑新进展/量子传感基础研究(2026-05)
+- [Nature Physics](https://www.nature.com/physics/highlights/200503.html) | 2026年5月
+- **守恒旋转固体**:看似静止的晶体内部存在同步原子运动;角动量在各晶格振动模之间相干流动;揭示晶体内部旋转特征的隐藏传播;作者C.S. Davies, A. Kirilyuk
+- **量子拓扑新进展**:近场纳米光子学平台结合自旋-轨道耦合实现单光子skyrmions;稳健拓扑结构用于高维量子信息处理;作者Zhenyu Guo, Yijie Shen; 发表在Light: Science & Applications
+- **量子传感关联**:角动量在晶格中的相干传递是新型量子传感机制的物理基础;量子拓扑结构为高维量子传感提供新平台
+
+#### Boeing Q4S量子卫星2026年发射:在轨量子纠缠交换/全球量子互联网关键一步(2026)
+- [腾讯新闻:Boeing进军量子通信](https://www.163.com/dy/article/JC0QAOCP05119RIN.html) | 波音公司; 计划2026年发射Q4S小型卫星; 紧凑型设计已在实验室验证
+- **技术目标**:在轨展示量子纠缠交换能力;构建连接量子传感器和量子计算机的全球量子互联网
+- **核心价值**:使传感器能够进行更精确测量;将数据直接传输到更强大的量子计算机;量子纠缠交换是量子网络扩展的关键技术
+- **量子传感关联**:量子传感器的网络化是量子传感天地一体化的核心;Q4S将验证空间量子传感网络的可行性;量子互联网为分布式量子传感提供基础设施
+
+#### 英国政府4500万英镑量子投资:脑扫描仪/导航系统/量子计算(2024)
+- [UK Gov](https://www.gov.uk/government/news/unlocking-the-potential-of-quantum-45-million-investment-to-drive-breakthroughs-in-brain-scanners-navigation-systems-and-quantum-computing) | 英国政府; £45 million投资; 国家量子技术计划支持
+- **投资方向**:
+  - £30M:开发和交付世界领先原型量子计算机
+  - 脑扫描仪:量子传感器改进癫痫和痴呆症诊断
+  - 智能导航系统:用于火车,量子传感器在隧道中节省成本并提高安全性
+- **量子传感关联**:英国在量子传感医疗和交通应用方面领先;Cerca Magnetics等公司是量子脑成像的先驱;量子导航是量子PNT的重要组成部分
+
+#### Sandia国家实验室量子传感:芯片级量子传感器/原子钟/量子惯性传感(2026)
+- [Sandia Quantum](https://www.sandia.gov/quantum/) | Sandia National Laboratories; 美国能源部/国防部
+- **研究方向**:小型化量子传感器和原子钟;新型作战概念和可操作性;量子信息处理超越经典极限
+- **核心能力**:原子干涉仪/光学原子钟;NV色心磁力计;芯片级集成量子传感系统
+- **量子传感关联**:Sandia代表美国量子传感研究的最高水平;芯片级量子传感器是量子传感实用化的核心目标;量子惯性传感是量子导航的基础
+
+---
+*本次更新: Optica Quantum 2.0 Conference格拉斯哥/Nature Physics 5月亮点/Boeing Q4S量子卫星2026发射/英国4500万英镑量子投资/Sandia量子传感芯片级研究(2026-06-01下午-15:14)*
+
 ### 🆕 新增条目(2026-06-01上午-11:14 - 本次更新)
 
 #### arXiv:2605.31519 - 量子纠缠在信道辨识中的悖论:最大纠缠态可能成为最差输入/纠缠过度降低信道可区分性(Kristin Sundal Lien等,2026-05-29)
