@@ -14,6 +14,29 @@
 
 
 
+### 🆕 新增条目(2026-06-01晚-23:14 - 本次更新)
+
+#### Bosch Quantum Sensing合资公司:博世+Element Six/金刚石NV色心/4K晶圆探针/量子传感工业化(2025)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/insights-and-updates/bosch-establishes-company-with-the-synthetic-diamond-solutions-provider-element-six/) | Bosch + Element Six; 2025年7月成立; 德国
+- **合作背景**:博世在量子传感领域研究超过10年;Element Six是全球领先人工金刚石材料供应商;双方从2023年研发合作升级为合资公司
+- **技术平台**:基于金刚石NV色心的量子传感技术;4K低温操作环境下的晶圆级探针;与博世MEMS产线兼容
+- **量子传感关联**:Bosch是工业巨头量子传感产业化的代表;金刚石NV是室温量子传感最具商业化的技术路线;此次合资标志工业巨头正式入场NV量子传感
+
+#### Fraunhofer IAF QUASAR项目2026年进展:硅自旋qubit平台/4K晶圆探针/6月慕尼黑LASER展出(2026)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; 2026年6月展出; 德国慕尼黑LASER展会
+- **技术进展**:QUASAR项目推进硅自旋qubit平台;建立欧洲金刚石量子传感供应链;4K晶圆探针是量子传感芯片化的关键使能技术
+- **6月展出**:2026年6月21-24日德国慕尼黑LASER展会展出;展示基于金刚石的混合量子处理器"made in Germany"
+- **量子传感关联**:Fraunhofer IAF代表欧洲量子传感工业化方向;QUASAR项目是量子传感从实验室走向晶圆级制造的关键节点
+
+#### Quantum Tech 2026量子传感市场数据:2025年3.04亿→2030年5.69亿美元/复合增长率13.4%(2025)
+- [Research and Markets:Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Research and Markets; 2025年8月发布; 416页报告
+- **市场数据**:量子传感与成像2025年全球市场3.04亿美元→2030年5.69亿美元;复合增长率(CAGR)13.4%
+- **细分领域**:量子磁力计/量子陀螺仪/量子重力仪/量子磁成像;NV色心是商业化最成熟方向
+- **量子传感关联**:量子传感市场增速在量子技术各领域中位居前三;IDTechEx预测2045年20亿美元;量子传感商业化拐点临近
+
+---
+*本次更新: IEEE Quantum Week 2026多伦多9月/双场量子计量学arXiv:2605.31542/量子信道辨识arXiv:2605.31601/Quantum Motion 1.6亿美元融资+硅基CMOS量子计算机/国仪量子SpinMag-I/Q-Cat NV商业化/Bosch Quantum Sensing合资公司+NV商用/Fraunhofer QUASAR 6月展出/量子传感市场数据(2026-06-01晚-23:14)*
+
 ### 🆕 新增条目(2026-06-01晚-22:47 - 本次更新)
 
 #### IEEE Quantum Week 2026:量子传感与量子计算融合/9月13-18日多伦多/1750+参会者/生成式AI×分布式量子系统(2026)
