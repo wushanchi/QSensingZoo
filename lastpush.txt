@@ -1,1 +1,1 @@
-b048ad2 2026-06-01 09:44 CST - 本次更新: QuantX Labs TEMPO太空光学频率梳/arXiv:2605.29436混合自旋态反相干度量/arXiv:2605.29472量子CT重建ROI/arXiv:2605.29609悬浮光机械学Purcell效应
+8158ef5 2026-06-01 10:17 CST - 本次更新: arXiv:2605.31442指数维度量子计量学Heisenberg极限/arXiv:2605.31262自旋噪声DDI效应/Quantum Design收购牛津仪器NanoScience
