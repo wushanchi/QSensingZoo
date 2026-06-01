@@ -1,1 +1,1 @@
-9f3c1a2 2026-06-01 17:44 CST - 本次更新: CMOS集成NV量子传感器(Nature Electronics)/分子自旋AC磁场传感(npj Quantum Information)/CES 2026太赫兹300米传感器/Quantinuum IPO/Monarch×Oratomic中性原子合作/华测导航自动驾驶/ Nature 2026新兴技术榜单/Metrolab PT2026核磁共振高斯计
+3b6fcdc 2026-06-01 18:14 CST - 本次更新: 太极计划300万公里空间引力波探测干涉仪/PTB量子纠缠增强光学原子钟纠缠钙离子2倍测量速率
