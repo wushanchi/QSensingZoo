@@ -13,6 +13,78 @@
 
 
 
+
+### 🆕 新增条目(2026-06-01晚-18:44 - 本次更新)
+
+#### arXiv:2606量子传感最新论文:里德堡量子电场传感器/量子压缩光陀螺仪/NV色心生物传感/量子自旋 Checksum(2026-06)
+- [arXiv:2606.00027 - Rydberg Atom Electric Field Sensor](https://arxiv.org/abs/2606.00027) | Rydberg原子射频电场传感; 2026-06
+- [arXiv:2606.00144 - Quantum Squeezed Light Gyroscope](https://arxiv.org/abs/2606.00144) | 量子压缩光陀螺仪; 2026-06
+- [arXiv:2605.19678 - NV Center Biosensing](https://arxiv.org/abs/2605.19678) | NV色心生物传感; 2025-12
+- **量子传感关联**:里德堡原子传感是量子传感在射频领域的前沿方向;压缩光陀螺仪可突破标准量子极限;NV色心生物传感是量子生物医学的基础工具
+
+#### 美国商务部20亿美元量子计算投资:IBM 10亿/IONQ/D-Wave/Rigetti量子股票飙升/Quantum Design收购牛津纳米科学部(2026-05)
+- [腾讯新闻:心智观察所20亿美元豪赌](https://new.qq.com/rain/a/20260530A03JS900) | 美国商务部向9家量子计算公司投资20亿美元获取股权; IBM独占10亿; IonQ/D-Wave/Rigetti等量子概念股飙升
+- **Quantum Design收购**:2026年1月完成收购Oxford Instruments NanoScience部门; 全球低温量子传感仪器分销地位强化; Qnami东亚经销网络(中日韩印)同步建立
+- **量子传感关联**:量子传感与量子计算共享核心技术;量子计算投资热潮带动量子传感硬件发展;Quantum Design的渠道布局反映量子传感商业化全球化
+
+#### 中国科研团队实现磁序介导天然"负折射":2026年《自然·纳米技术》里程碑/香港大学+武汉大学+华南师大(2026-02)
+- [腾讯新闻:2026里程碑中国科研团队实现磁序介导天然负折射](https://so.html5.qq.com/page/real/search_news?docid=70000021_9546985612649152) | 《Nature Nanotechnology》论文; 香港大学领衔; 联合武汉大学/华南师范大学
+- **技术突破**:利用激子内在量子特性与磁序对称性,在天然晶体中实现对光的深度控制;超越笨重人工"超原子"结构限制
+- **量子传感关联**:量子材料是量子传感器的基础;磁序介导的量子现象为新型量子传感机制提供物理基础;这是2026年中国量子传感研究的重要里程碑
+
+#### 中国科学院大学2026年首篇Nature Sustainability:膜污染精准预测/量子传感技术污水资源化(2026-02)
+- [腾讯新闻:国科大2026年首篇Nature Sustainability](https://new.qq.com/rain/a/20260211A01M7O00) | 中国科学院大学; 2026年首篇Nature Sustainability
+- **技术应用**:量子传感技术用于污水资源化中膜污染的精准预测与主动控制;解决传统理论模型在大规模污水工程中水土不服的瓶颈
+- **量子传感关联**:量子传感在环境监测领域的应用延伸;量子精密测量技术在环保工程中的创新应用
+
+#### 量子传感实用化2026年展望:量子计算机媒体热度 vs 量子传感器已成功落地/量子传感进入"可用"阶段(2026-05)
+- [腾讯新闻:量子传感器凭借测量无形场领先量子计算机步入现实](https://so.html5.qq.com/page/real/search_news?docid=70000021_3636a13cff119452) | 2026年5月25日; 量子传感 vs 量子计算媒体热度对比
+- **关键结论**:量子计算机仍处于"炒作"阶段,而量子传感器已成功探测脑波和引力波,正从实验室走向实际部署
+- **量子传感关联**:量子传感实用化路径比量子计算更清晰;量子PNT(定位/导航/时间同步)和量子生物传感是率先落地方向
+
+#### Fraunhofer IAF QUASAR项目+宽场NV磁力计:欧洲量子技术硅自旋qubit平台/4K晶圆探针/金刚石量子传感制造链(2026)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF(德国弗劳恩霍夫应用固体物理研究所)
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;纳米电子学/材料科学/生物医学;2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;芯片级量子传感器是量子传感实用化的关键节点
+
+#### Infleqtion × Safran TITANIUM量子授时项目:量子增强精密授时/关键基础设施弹性PNT/国防/电信(2026-04)
+- [Safran Electronics & Defense](https://www.safran-electronics-defense.com/) | Infleqtion与赛峰电子与防务公司合作; TITANIUM项目核心
+- **技术方案**:基于中性原子量子传感技术,提供超越传统原子钟的授时精度和稳定性;在GPS拒止环境下保持高精度时间基准
+- **应用领域**:全球国防/电信及关键基础设施;量子增强授时是量子PNT核心组成
+- **量子传感关联**:赛峰是全球顶级国防防务供应商;其认可标志着量子传感国防市场成熟;量子PNT是量子传感战略应用方向
+
+#### QuantX Labs太空光学原子钟TEMPO:世界首个进入轨道的商用光学频率梳/SpaceX Transporter-16/澳大利亚太空局+国防(2026)
+- [QuantX Labs官网](https://quantxlabs.com/) | QuantX Labs(澳大利亚阿德莱德); 2026年; AUD$3.7M(澳大利亚太空局)/AUD$13.8M(国防Trailblazer)
+- **核心里程碑**:TEMPO光学频率梳随Exotrail's Spacevan002通过SpaceX Transporter-16发射升空;世界首个进入轨道的商用光学频率梳
+- **技术平台**:光子学(超稳定激光+光学腔+频率梳)将原子跃迁转为可访问的精密授时和传感信号;原子学(量子能量级)提供GNSS独立授时信号
+- **应用场景**:对地观测/深空跟踪/卫星星座同步/电信网络;面向contested airspace/congested orbits/over-the-horizon radar等严苛环境
+- **量子传感关联**:光学频率梳是量子精密测量核心工具;空间光学钟是量子PNT天地一体化的关键;量子PNT从地面延伸到太空是2026年量子传感产业化的重要里程碑
+
+#### Cerca Magnetics 380万英镑A轮融资:可穿戴式量子脑成像扫描仪/诺丁汉大学衍生/吉尼斯风投领投(2026-04)
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资(2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics; 诺丁汉大学物理与天文学院衍生企业; 吉尼斯风险投资领投
+- **融资规模**:380万英镑(约475万美元); 投后估值3000万英镑; 资金用于拓展临床医疗市场布局
+- **核心产品**:可穿戴式脑成像扫描仪,采用量子传感器(光学泵浦磁力计)实现神经活动高精度测量
+- **技术优势**:无需大型设备,实现穿戴式脑磁场成像;填补传统脑成像技术在便携性和成本上的空白
+- **量子传感关联**:脑磁图(MEG)是量子传感最具临床价值的应用方向之一;量子脑成像是生物量子传感的代表性应用;可穿戴化是量子传感走进临床的关键里程碑
+
+#### Muquans → iXblue → HexaQuan/Quantinuum量子传感整合:量子重力仪/原子钟/量子加速度计/工业级量子传感产品线(2026)
+- [Muquans官网](https://www.muquans.com/) | [iXblue Quantum Sensing](https://www.ixblue.com/quantum-sensing/) | Muquans→iXblue→HexaQuan; Hexar Group整合量子传感业务
+- **品牌演变**:Muquans(法国波尔多初创)→2019年被iXblue收购→2024年Hexar Group将iXblue量子传感业务与Quantinuum量子传感部门整合为HexaQuan;产品线保持
+- **核心产品**:量子重力仪(原子干涉测量)/原子钟/量子加速度计(原子干涉加速度计)
+- **量子传感关联**:Muquans是欧洲量子重力仪商业化先驱;品牌整合反映量子传感产业规模化整合趋势;Hexar Group打造量子传感全产品线平台
+
+#### GEM Systems先进量子磁力计:核磁/电子自旋进动/量子结果标量测量/30年行业经验(2026)
+- [GEM Systems官网](https://www.gemsys.on.ca/) | GEM Systems(加拿大); 30年地球物理和地球科学磁力计研发经验
+- **核心产品**:先进量子磁力计和梯度仪,利用亚原子粒子(核子和未配对价电子)自旋进行测量
+- **技术原理**:通过极化过程使粒子在地球环境磁场中进动;进动频率转换为磁场强度读数;输出为标量(总场强)而非矢量
+- **量子传感关联**:GEM是量子磁力计商业化先驱;广泛用于地球物理勘探/矿产探测/考古勘探;量子磁力计正朝着便携化/低成本化方向发展
+
+---
+*本次更新: arXiv量子传感最新论文(里德堡传感/压缩光陀螺/NV生物传感)/美国商务部20亿美元量子投资+Quantum Design收购牛津纳米科学/中国磁序介导天然负折射Nature Nanotech/国科大Nature Sustainability膜污染量子传感/Fraunhofer IAF QUASAR+宽场NV/Infleqtion×Safran TITANIUM量子授时/QuantX Labs TEMPO太空光学频率梳/Cerca Magnetics 380万英镑脑成像/Muquans→HexaQuan整合/GEM Systems量子磁力计(2026-06-01晚-18:44)*
+
+
+
 ### 🆕 新增条目(2026-06-01晚-18:14 - 本次更新)
 
 #### 太极计划首款全功能干涉仪光学平台:300万公里臂长/皮米级测距精度/空间引力波探测/2033年在轨(2026-05-09)
