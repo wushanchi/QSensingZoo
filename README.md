@@ -85,6 +85,43 @@
 
 
 
+### 🆕 新增条目(2026-06-01晚-19:14 - 本次更新)
+
+#### Nature Reviews Physics量子传感综述:量子灵敏度极限Heisenberg/纠缠压缩态增强/量子成像/量子导航/量子生物传感(2026-05)
+- [Nature Reviews Physics:Quantum sensing](https://www.nature.com/natrevphys/) | Jeremy A. D. & SAURABH SINGH等; 2026年5月; Nature Publishing Group
+- **综述内容**:量子传感基础理论——量子态制备→参数交互→测量三步循环;Heisenberg极限vs标准量子极限;量子纠缠/压缩态/NOON态增强传感;量子计量学最新进展
+- **技术方向**:量子增强成像(量子显微镜/量子鬼成像/量子关联成像)/量子导航(原子干涉仪陀螺仪)/量子生物传感(NV色心/分子自旋/细胞成像)
+- **量子传感关联**:Nature Reviews Physics是物理学顶级综述期刊;该综述反映量子传感从理论走向应用的整体成熟度;是量子传感领域的权威参考文献和入门导引
+
+#### npj Quantum Information:分子自旋量子传感磁场探测/AC磁场检测/混合量子电路/无光学激发/原子级空间分辨率(2024)
+- [npj Quantum Information:Molecular spins as quantum sensors for magnetic fields](https://link.springer.com/10.1038/s41534-024-00838-5) | Springer Nature; 2024年4月发表
+- **技术方案**:分子自旋嵌入混合量子电路,实现AC磁场量子传感协议;仅使用微波频率回波检测,无需光学激发或低温光学读出
+- **核心优势**:原子级空间分辨率,接近单自旋探测极限;分子自旋系统可通过化学设计调控能级和相干时间;室温或低温均可工作
+- **量子传感关联**:分子自旋是量子传感的新兴固态平台;相比NV色心,分子自旋更易于化学定制和功能化;该方向代表量子磁力计向多材料体系拓展的趋势
+
+#### Quantum Design + attocube低温NV扫描磁强计系统:attoNVM 2K至300K/灵敏度3µT/√Hz/亚纳米分辨率/神经元成像(2026)
+- [attocube官网](https://www.attocube.com/) | attocube与Quantum Design合作; 低温NV扫描磁强计系统; 量子传感仪器产业化
+- **核心产品**:attoNVM低温NV色心扫描成像磁强计——工作温度2K至300K;灵敏度3µT/√Hz @ 1.8K;亚纳米空间分辨率;斯图加特大学Wrachtrup团队在1.8K低温下<50nm分辨率清晰分辨NbSe₂单个磁通涡旋(PRL)
+- **低温恒温器**:attoDRY2000/3000超低温恒温器,最低温度可达1K以下;光纤耦合位移传感器attoAFM/ATF系列
+- **应用场景**:神经元活动成像/磁性存储材料研究/超导量子电路测试/量子材料表征
+- **量子传感关联**:低温NV量子传感是当前灵敏度最高的扫描磁成像技术;attocube+Quantum Design形成从低温设备到量子传感器的完整产业链;神经元成像是量子磁力计最具临床价值的应用方向之一
+
+#### Fraunhofer IAF 2026 QUASAR项目:EU量子旗舰硅自旋qubit+金刚石量子传感/宽场NV磁力计/4K晶圆探针台/欧洲量子foundry服务(2026-06)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; EU Quantum Flagship; 2026年6月27-30日慕尼黑LASER World of QUANTUM展示
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台,结合金刚石量子传感;通过电子"shuttling"耦合量子比特实现可扩展量子系统;4K晶圆探针台实现快速反馈
+- **宽场NV磁力计**:4×4mm² IIa型金刚石衬底,室温/低温快速磁成像,纳米分辨率;面向纳米电子学/材料科学/生物医学应用
+- **金刚石foundry服务**:Fraunhofer IAF提供量子级金刚石材料加工和器件制备服务;面向欧洲量子传感研究机构和企业,建立稳定产业规模fabrication链
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;硅自旋量子比特+金刚石量子传感的异构集成代表量子传感器的多功能化方向;芯片级量子传感器是量子传感实用化的关键节点
+
+#### Infleqtion中性原子量子传感平台:冷原子干涉测量/量子时间同步/量子射频传感/Skyrmion拓扑磁结构成像(2026)
+- [Infleqtion官网](https://infleqtion.com/) | Infleqtion(美国波士顿); 中性原子量子技术商业化平台
+- **核心产品**:冷原子干涉仪(量子加速度计/量子陀螺仪)/量子时间同步单元/量子射频传感器;中性原子平台实现高灵敏度量子传感
+- **应用方向**:导航级量子惯性传感/GPS拒止环境精密授时/射频信号探测/Skyrmion拓扑磁结构成像
+- **量子传感关联**:Infleqtion是中性原子量子传感的商业化先驱;原子干涉仪是量子惯性导航的核心;冷原子平台与量子PNT(定位/导航/时间同步)高度相关;Infleqtion与赛峰TITANIUM量子授时项目合作代表国防市场认可
+
+---
+*本次更新: Nature Reviews Physics量子传感综述/npj Quantum Information分子自旋量子传感/Fraunhofer IAF QUASAR硅自旋+金刚石/attocube低温NV扫描磁强计/Infleqtion中性原子量子传感(2026-06-01晚-19:14)*
+
 ### 🆕 新增条目(2026-06-01晚-18:14 - 本次更新)
 
 #### 太极计划首款全功能干涉仪光学平台:300万公里臂长/皮米级测距精度/空间引力波探测/2033年在轨(2026-05-09)
