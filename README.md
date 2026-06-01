@@ -14,6 +14,46 @@
 
 
 
+### 🆕 新增条目(2026-06-01晚-22:14 - 本次更新)
+
+#### Quantum Design完成收购牛津仪器纳米科学部:低温量子传感仪器分销/全球最大量子传感产品线/Qnami东亚经销网络(2026-01)
+- [腾讯新闻:Quantum Design宣布完成收购牛津仪器纳米科学部门](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | 2026年1月2日宣布完成; Quantum Design(美国)收购Oxford Instruments NanoScience
+- **技术整合**:整合双方极低温与高磁场环境领域前沿技术;为全球科研团队提供更全面的低温物理、材料科学及显微技术服务
+- **分销网络强化**:Quantum Design全球低温量子传感仪器分销地位强化;Qnami东亚(中日韩印)经销网络同步建立
+- **量子传感关联**:量子传感仪器商业化全球化渠道整合;低温技术是超灵敏量子传感器的核心使能;Quantum Design的收购反映量子传感产业规模化和整合趋势
+
+#### Cerca Magnetics 380万英镑A轮融资:可穿戴式量子脑成像扫描仪/诺丁汉大学衍生/吉尼斯风投领投/3000万英镑估值(2026-04)
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | 2026年4月22日; Cerca Magnetics; 诺丁汉大学物理与天文学院衍生企业; 吉尼斯风险投资领投
+- **融资规模**:380万英镑(约475万美元); 投后估值3000万英镑; 资金用于拓展临床医疗市场布局
+- **核心产品**:可穿戴式脑成像扫描仪,采用量子传感器(光学泵浦磁力计)实现神经活动高精度测量
+- **量子传感关联**:脑磁图(MEG)是量子传感最具临床价值的应用方向之一;可穿戴化是量子传感走进临床的关键里程碑;量子脑成像正从实验室走向商业化部署
+
+#### Quantum Singapore 2026论坛:量子汇聚从硬件突破到工业应用/ICV TA&K/FinQ Tech/IEEE光子学会新加坡分会(2026-02)
+- [腾讯新闻:Quantum Singapore 2026论坛在新加坡盛大开幕](https://new.qq.com/rain/a/20260207A067DT00) | 2026年2月4日; 新加坡滨海湾金沙会展中心
+- **论坛主题**:\"量子汇聚:从硬件突破到工业应用\"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
+- **主办方**:ICV TA&K、FinQ Tech Inc.、Informa Markets; 学术支持:IEEE Photonics Society新加坡分会
+- **核心议题**:硬件优化/软硬协同/区域化生态构建
+- **量子传感关联**:量子传感是论坛重要议题之一;新加坡正在成为亚太地区量子产业化的重要枢纽;Quantum Singapore代表亚太量子传感生态加速
+
+#### Fraunhofer IAF QUASAR项目+宽场NV磁力计:欧洲量子技术硅自旋qubit平台/4K晶圆探针/2026年6月慕尼黑LASER展出(2026)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF(德国弗劳恩霍夫应用固体物理研究所)
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;纳米电子学/材料科学/生物医学;2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;芯片级量子传感器是量子传感实用化的关键节点;宽场NV磁力计代表室温量子成像的商业化方向
+
+#### 中国科学院金属研究所2026年首篇Nature:压力调控NH₄SCN水溶液极端压致卡洛里效应(2026-01)
+- [腾讯新闻:中科院金属研究所2026年首篇Nature](https://so.html5.qq.com/page/real/search_news?docid=70000021_4116972c24d13252) | 2026年1月21日发表
+- **技术内容**:压力调控溶解-沉淀过程所驱动的NH₄SCN水溶液中的极端压致卡洛里效应(barocaloric effect)
+- **量子传感关联**:压致卡洛里效应涉及量子材料对压力变化的极端响应;量子传感器的核心是精密测量物理量的极端变化;该研究为新型量子传感材料的开发提供物理基础
+
+#### Quantum Innovation Summit Dubai 2026:量子与新兴前沿/2026年9月28-30日迪拜/推动全球创新与技术领导力(2026-09)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026-09-28至30日; 迪拜君悦酒店; IEEE Photonics Society等主办
+- **核心议程**:量子传感从硬件突破到工业采用的产业化路径;量子传感在国防、安全、医疗领域的应用;中东量子技术hub建设
+- **量子传感关联**:迪拜作为中东量子技术枢纽的角色正在形成;量子传感全球产业化的地域多元化趋势;Quantum Singapore和迪拜峰会代表亚太/中东量子传感生态加速
+
+---
+*本次更新: Quantum Design收购牛津纳米科学部/Qnami东亚经销/Cerca Magnetics 380万英镑脑成像融资/Quantum Singapore 2026论坛/Fraunhofer IAF QUASAR+宽场NV/中科院金属所Nature/Quantum Innovation Summit Dubai 2026(2026-06-01晚-22:14)*
+
 ### 🆕 新增条目(2026-06-01晚-21:14 - 本次更新)
 
 #### 布里斯托大学光子量子传感芯片:CMOS兼容微环谐振器/量子极限传感/温室气体监测/癌症检测/芯片级量产(2025)
