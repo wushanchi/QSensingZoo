@@ -13,6 +13,84 @@
 
 
 
+### 🆕 新增条目(2026-06-01下午-13:44 - 本次更新)
+
+#### IDTechEx量子传感市场报告2025-2035:2035年预计复合增长率17.8%/原子钟/NV磁力计/量子重力仪/芯片级传感器(2026-01)
+- [ResearchAndMarkets:Quantum Technology Market by Computing, Communications, Imaging, Security, Sensing, Modeling and Simulation 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | 市场研究报告; 416页; 2025年8月发布
+- **市场规模**:量子传感市场预计持续增长,IDTechEx预测2034年达71亿美元,CAGR 18%;ResearchAndMarkets数据2025-2035 CAGR 17.8%
+- **17类量子传感器**:原子钟(台式碱原子钟/台式光学原子钟/碱CSAC/光学CSAC)/SQUID/光泵磁力计/NV磁力计/TMR磁传感器/原子陀螺仪/NV陀螺仪/便携重力仪/芯片级重力仪/超导光子探测器
+- **应用场景**:自动驾驶大脑扫描仪/量子计算机读出/地下测绘/卫星导航/消费电子/国防
+- **量子传感关联**:量子传感产业化正在加速;消费电子和自动驾驶是最终目标市场;芯片级量子传感器是商用化的核心方向
+
+#### Qnami + Quantum Design日本/韩国:东亚量子传感仪器经销网络建立/ProteusQ-LT低温NV显微镜/ProteusQ常温平台(2026-05)
+- [Qnami官网](https://qnami.com/) | Qnami与Quantum Design Japan/Korea建立东亚经销网络; 2026年5月
+- **核心产品**:
+  - **ProteusQ-LT**:低温扫描NV显微镜,工作温度2K至300K,灵敏度3µT/√Hz @ 1.8K,亚纳米空间分辨率;斯图加特大学Wrachtrup团队在1.8K低温下以<50nm分辨率清晰分辨NbSe₂单个磁通涡旋(PRL)
+  - **ProteusQ**:常温量子波传感平台,面向基础研究与工业应用
+- **经销网络**:Quantum Design China/Korea/Japan/India承担亚洲市场独家经销;Quantum Design完成收购Oxford Instruments NanoScience部门后在全球量子传感仪器分销地位强化
+- **量子传感关联**:量子传感商业化正在全球扩张;东亚市场的渠道布局反映量子传感产业化的地域扩散趋势
+
+#### Commercialising Quantum Global 2025:第四届量子技术商业化年度会议/IOP主办/联合国量子国际年/2025年5月伦敦(2025-05)
+- [IOP:4th annual Commercialising Quantum Global 2025](https://www.iop.org/events/4th-annual-commercialising-quantum-global-2025) | Institute of Physics主办; 2025年5月; 伦敦
+- **会议主题**:真实案例研究/量子技术准备与实施/量子承诺、风险、应用、局限、炒作与现实/可投资回报率
+- **2025特别意义**:联合国量子国际年(International Year of Quantum);会议升级为全天议程
+- **量子传感关联**:量子传感商业化是会议核心议题;产学研医多方参与是量子传感产业化的关键;英国/欧洲在量子传感国防和关键基础设施应用布局领先
+
+#### Quantum Singapore 2026论坛:2026年2月4日新加坡滨海湾金沙会展中心/ICV TA&K + FinQ Tech + Informa Markets/IEEE Photonics Society学术支持(2026-02)
+- [腾讯新闻:Quantum Singapore 2026论坛盛大开幕(2026-02-07)](https://new.qq.com/rain/a/20260207A067DT00) | 新加坡滨海湾金沙会展中心; 2026年2月4日开幕
+- **会议主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Applications)
+- **主办方**:ICV TA&K + FinQ Tech Inc. + Informa Markets;IEEE Photonics Society新加坡分会学术支持
+- **量子传感关联**:新加坡成为亚太量子技术枢纽;量子传感从实验室向工业应用转化是会议焦点;亚太量子传感产业生态正在形成
+
+#### Bosch Quantum Sensing × Element Six:NV色心金刚石量子磁力计/消费级芯片/医疗/导航/过程优化/超10年基础研究(2026-01)
+- [Bosch Quantum Sensing](https://www.bosch-quantumsensing.com/) | Bosch与Element Six(戴比尔斯人造金刚石)合资; 总部德国路德维希堡; 约30名员工
+- **技术路线**:基于氮-空位(NV)色心金刚石的量子磁力计;紧凑、坚固、用户友好,实现前所未有的测量精度
+- **应用领域**:医疗技术/消费产品/导航/资源勘探/过程优化
+- **核心优势**:超过10年基础研究积累;Element Six提供量子级金刚石材料(DNV™系列);博世提供系统集成与工业制造能力
+- **量子传感关联**:博世是全球工业巨头;其正式布局NV量子传感商业化标志着量子传感从初创向大型工业集团扩散;芯片级金刚石量子传感器是量子传感消费电子化的关键里程碑
+
+#### Fraunhofer IAF QUASAR项目 + 宽场NV磁力计:欧洲量子技术硅自旋qubit平台/金刚石量子传感产业链/2026年6月慕尼黑LASER展会展示(May 2026)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF(德国弗劳恩霍夫应用固体物理研究所)
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;纳米电子学/材料科学/生物医学应用;2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **金刚石量子传感产业链**:Fraunhofer IAF已建立稳定欧洲产业规模fabrication链;从量子材料到器件完整覆盖
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;芯片级量子传感器是量子传感实用化的关键节点
+
+#### Muquans → iXblue → HexaQuan / Quantinuum Hexar集团整合:量子重力仪/原子钟/量子加速度计/工业级量子传感产品线(2026)
+- [Muquans官网](https://www.muquans.com/) | [iXblue Quantum Sensing](https://www.ixblue.com/quantum-sensing/) | Muquans→iXblue→HexaQuan; Hexar Group整合量子传感业务
+- **品牌演变**:Muquans(法国波尔多初创)→2019年被iXblue收购→2024年Hexar Group将iXblue量子传感业务与Quantinuum量子传感部门整合为HexaQuan;产品线保持
+- **核心产品**:量子重力仪(原子干涉测量)/原子钟/量子加速度计(原子干涉加速度计)
+- **量子传感关联**:Muquans是欧洲量子重力仪商业化先驱;品牌整合反映量子传感产业规模化整合趋势;Hexar Group打造量子传感全产品线平台
+
+#### Infleqtion × Safran TITANIUM量子授时项目:量子增强精密授时/关键基础设施弹性PNT/国防/电信(2026-04)
+- [Safran Electronics & Defense](https://www.safran-electronics-defense.com/) | Infleqtion与赛峰电子与防务公司合作; TITANIUM项目核心
+- **技术方案**:基于中性原子量子传感技术,提供超越传统原子钟的授时精度和稳定性;在GPS拒止环境下保持高精度时间基准
+- **应用领域**:全球国防/电信及关键基础设施;量子增强授时是量子PNT核心组成
+- **量子传感关联**:赛峰是全球顶级国防防务供应商;其认可标志着量子传感国防市场成熟;量子PNT是量子传感战略应用方向
+
+#### GEM Systems先进量子磁力计:核磁/电子自旋进动/量子结果标量测量/30年行业经验(2026)
+- [GEM Systems官网](https://www.gemsys.on.ca/) | GEM Systems(加拿大); 30年地球物理和地球科学磁力计研发经验
+- **核心产品**:先进量子磁力计和梯度仪,利用亚原子粒子(核子和未配对价电子)自旋进行测量
+- **技术原理**:通过极化过程使粒子在地球环境磁场中进动;进动频率转换为磁场强度读数;输出为标量(总场强)而非矢量
+- **量子传感关联**:GEM是量子磁力计商业化先驱;广泛用于地球物理勘探/矿产探测/考古勘探;量子磁力计正朝着便携化/低成本化方向发展
+
+#### QuantX Labs太空光学原子钟TEMPO:世界首个进入轨道的商用光学频率梳/SpaceX Transporter-16/澳大利亚太空局+国防Trailblazer(2026)
+- [QuantX Labs官网](https://quantxlabs.com/) | QuantX Labs(澳大利亚阿德莱德); 2026年; AUD$3.7M(澳大利亚太空局)/AUD$13.8M(国防Trailblazer)
+- **核心里程碑**:TEMPO光学频率梳随Exotrail's Spacevan002通过SpaceX Transporter-16发射升空;世界首个进入轨道的商用光学频率梳
+- **技术平台**:光子学(超稳定激光+光学腔+频率梳)将原子跃迁转为可访问的精密授时和传感信号;原子学(量子能量级)提供GNSS独立授时信号
+- **应用场景**:对地观测/深空跟踪/卫星星座同步/电信网络;面向contested airspace/congested orbits/over-the-horizon radar等严苛环境
+- **量子传感关联**:光学频率梳是量子精密测量核心工具;空间光学钟是量子PNT天地一体化的关键;量子PNT从地面延伸到太空是2026年量子传感产业化的重要里程碑
+
+#### Cerca Magnetics 380万英镑A轮融资:可穿戴式量子脑成像扫描仪/诺丁汉大学衍生/吉尼斯风投领投/公共安全(2026-04)
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资(2026-04-22)](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics; 诺丁汉大学物理与天文学院衍生企业; 吉尼斯风险投资领投
+- **融资规模**:380万英镑(约475万美元); 投后估值3000万英镑; 资金用于拓展临床医疗市场布局
+- **核心产品**:可穿戴式脑成像扫描仪,采用量子传感器(光学泵浦磁力计)实现神经活动高精度测量
+- **技术优势**:无需大型设备,实现穿戴式脑磁场成像;填补传统脑成像技术在便携性和成本上的空白
+- **量子传感关联**:脑磁图(MEG)是量子传感最具临床价值的应用方向之一;量子脑成像是生物量子传感的代表性应用;可穿戴化是量子传感走进临床的关键里程碑
+
+---
+*本次更新: IDTechEx量子传感市场17.8%CAGR/Commercialising Quantum Global 2025伦敦会议/Quantum Singapore 2026论坛/Qnami东亚经销网络建立/Bosch×Element Six NV量子磁力计/Fraunhofer IAF QUASAR+宽场NV/Muquans→HexaQuan品牌整合/Infleqtion×赛峰TITANIUM量子授时/GEM Systems量子磁力计/QuantX Labs TEMPO太空光学频率梳/Cerca Magnetics 380万英镑脑成像(2026-06-01下午-13:44)*
+
 ### 🆕 新增条目(2026-06-01下午-12:44 - 本次更新)
 
 #### 量子传感器实用化临近:测量无形场领先量子计算机走入现实/NIST原子磁力计/胎儿心磁成像/原子干涉仪导航(2026-05-25)
