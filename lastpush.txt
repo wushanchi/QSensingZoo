@@ -1,1 +1,1 @@
-36d56e2 2026-06-01 15:14 CST - 本次更新: Optica Quantum 2.0 Conference格拉斯哥/Nature Physics 5月亮点/Boeing Q4S量子卫星2026发射/英国4500万英镑量子投资/Sandia量子传感芯片级研究
+4a9b5d8 2026-06-01 15:49 CST - 本次更新: NASA ESTO量子传感投资/Q-BIOMED英国量子生物医学传感Hub/IDTechEx 17类传感器市场路线图/量子传感实用化室温原子磁力计/arXiv DI量子密码无种子提取器
