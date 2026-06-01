@@ -1,1 +1,1 @@
-xxxxxxxx 2026-06-01 14:44 CST - 本次更新: MIT+NIST+RTX量子雷达原型/2025量子科技国际年世界量子日/量子点传感器(IDTechEx)
+36d56e2 2026-06-01 15:14 CST - 本次更新: Optica Quantum 2.0 Conference格拉斯哥/Nature Physics 5月亮点/Boeing Q4S量子卫星2026发射/英国4500万英镑量子投资/Sandia量子传感芯片级研究
