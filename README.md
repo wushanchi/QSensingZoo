@@ -16,72 +16,56 @@
 
 ---
 
-------
+---
 
-### 🆕 新增条目(2026-06-02上午-07:14 - 本次更新)
+### 🆕 新增条目(2026-06-02早上-07:44 - 本次更新)
 
-#### Cisco Research量子传感最新成果:Optimized GKP State for Bosonic Channel Sensing/The Universal Quantum Switch(2025-12/2026-04)
-- [Cisco Research:Publications](https://research.cisco.com/) | Cisco量子研究团队; 2025年12月和2026年4月发表
-- **Optimized GKP State for Bosonic Channel Sensing**: Thinh Le, Jianqing Liu, Jiapeng Zhao, Eneet Kaur; December 2025 | IEEE; 优化GKP态用于玻色子信道传感
-- **The Universal Quantum Switch**: Jiapeng Zhao, Stéphane Vinet, Michael Kilzer, Vijoy Pandey, Ramana Kompella, Reza Nejabati; April 2026 | ACM; 安全光通信波长分复用量子报警器
-- **量子传感关联**:Cisco布局量子网络与量子传感融合;GKP态是量子传感中用于误差抑制的非经典态;量子开关是量子网络和分布式量子传感的基础设施
+#### scirate Top arXiv论文:量子推断指数级样本复杂度优势/2605.21457/连续变量纠缠网络/2026-05-21(2026-05)
+- [scirate.com:Top arXiv papers](https://scirate.com/) | arXiv:2605.21457v1; Zhaoyi Li, Elias Theil, Aram W. Harrow, Isaac Chuang; 2026年5月21日提交
+- **技术内容**:"An Exponential Sample-Complexity Advantage for Coherent Quantum Inference"——研究相干量子推断中的指数级样本复杂度优势
+- **核心发现**:传统量子推断将量子数据转换为经典输出;该工作证明"相干量子推断"可实现指数级样本复杂度优势
+- **arXiv:2605.20346**:LDPC量子码及其操作/Theodore J. Yoder/Isaac Chuang
+- **arXiv:2605.21346**:量子机器学习中的弱周期驱动/Jan A. Krzywda等
+- **量子传感关联**:量子推断是量子传感器数据处理的核心环节;样本复杂度直接影响量子传感器的测量效率;该工作为量子传感器信号处理提供计算优势证明
 
-#### Nature Reviews Physics:量子传感器生物医学应用综述 - 量子传感从实验室走向真实世界/初创企业/原子长度尺度(2023)
-- [Nature Reviews Physics:Quantum sensors for biomedical applications](https://www.nature.com/articles/s42254-023-00558-3) | Nature Reviews Physics; 2023年2月发表
-- **核心观点**:量子传感器正从实验室走向真实世界,初创企业是该领域的重要推动力量;原子长度尺度的量子传感器可探测体内极微弱信号
-- **技术路线**:量子传感器测量生物体内的量子态变化——制备已知量子态→待测参数改变量子态→测量变化;量子态一致性与均匀性优于传统设计部件传感器
-- **量子传感关联**:量子生物传感是量子传感最具临床价值的应用方向;心磁图/脑磁图/量子成像代表量子传感医疗化的成熟路径;该综述是量子传感医学应用的权威参考文献
+#### USC Takahashi量子传感实验室:物理化学/量子信息/凝聚态物理/纳米金刚石生物传感/2026持续活跃(2026)
+- [USC Takahashi Lab官网](https://www.uscqsensing.org/) | University of Southern California; 2026年5月22日更新
+- **研究领域**:物理化学(Phys Chem)、量子信息科学(QIS)、凝聚态物理(CMP)的交叉;量子传感与量子动力学
+- **核心问题**:如何控制/操纵量子现象?量子技术如何揭示分子和材料性质?量子辅助测量能否超越经典测量?
+- **研究进展**:静水压力(Hydrostatic Pressure)效应的最新研究;纳米金刚石量子传感在生物传感中的应用探索
+- **量子传感关联**:纳米金刚石生物传感是量子传感在生命科学领域的最前沿方向之一;Takahashi实验室代表美国量子生物传感研究的重要力量;该实验室持续产出说明量子传感从基础研究向应用落地加速
 
-#### Research and Markets量子技术市场报告2025-2035:$99.34 billion/量子传感与成像2025年3.04亿→2030年5.69亿CAGR13.4%(2025-08)
-- [Research and Markets:Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Research and Markets; 2025年8月发布; 416页报告
-- **整体市场**:量子技术整体市场预计2035年达$99.34 billion;量子传感与成量子领域2025年3.04亿美元→2030年5.69亿美元,CAGR 13.4%
-- **细分方向**:量子计算/量子密码学与通信/量子传感与成像/量子点粒子/量子级联激光器/量子建模与模拟
-- **量子传感关联**:量子传感市场增速在量子技术各领域中位居前三;IDTechEx预测2045年20亿美元;量子传感商业化拐点明确
+#### IDTechEx量子传感器市场报告2024-2044:2045年20亿美元/17个技术方向/17家公司/原子钟/量子磁力计/量子重力仪(2024-2025)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2024年发布
+- **市场规模**:原子钟/量子陀螺仪/量子磁场传感器/量子重力仪/量子图像传感器;2045年预测达20亿美元
+- **技术方向**:报告涵盖17个量子传感技术方向;基于访谈的market forecast;量子重力仪是商业化最成熟方向
+- **量子传感关联**:IDTechEx报告是全球量子传感商业化的权威追踪;报告覆盖全技术栈;量子重力仪和量子磁力计是商业化最快赛道
 
-#### Quantum Design完成收购牛津仪器纳米科学部 - 全球最大量子传感产品线/Qnami东亚经销网络(中日韩印)(2026-01)
-- [腾讯新闻:Quantum Design完成收购牛津仪器纳米科学部门](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | Quantum Design; 2026年1月2日宣布完成
-- **收购规模**:Quantum Design International正式完成对Oxford Instruments NanoScience部门的收购;后者是全球顶级低温/强磁场科研设备供应商
-- **产品线整合**:牛津仪器NanoScience产品线(含SQUID磁力计、低温恒温器等)并入Quantum Design全球分销网络;Quantum Design China/Korea/Japan/India将承担亚洲市场独家经销
-- **量子传感关联**:SQUID(超导量子干涉仪)是量子传感商业化最成熟的技术之一;该收购强化了Quantum Design在量子传感仪器分销的垄断地位;低温SQUID技术对量子传感研究至关重要
+#### IDTechEx量子点材料市场报告2024-2034:量子点显示/图像传感器/光伏/农业薄膜/边缘光学(2023-2024)
+- [IDTechEx:Quantum Dot Materials and Technologies 2024-2034](http://www.idtechex.com/QD) | IDTechEx; 2023年发布
+- **应用方向**:显示(边缘光学/增强膜/色彩滤光片LCD OLED μLED)/QLED/照明/图像传感器/光伏/农业薄膜
+- **量子传感关联**:量子点是量子图像传感器的核心材料;量子点图像传感器是量子传感在消费电子领域的重要载体;该市场报告反映量子材料产业化的成熟度
+
+#### Research and Markets量子技术市场报告2025-2035:量子传感与成像2025年3.04亿→2030年5.69亿美元/13.4%复合增长(2025)
+- [Research and Markets:Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Research and Markets; 2025年8月发布; 416页
+- **市场数据**:量子传感与成像2025年全球市场3.04亿美元→2030年5.69亿美元;复合增长率(CAGR)13.4%
+- **细分领域**:量子磁力计/量子陀螺仪/量子重力仪/量子磁成像;NV色心商业化最成熟
+- **量子传感关联**:量子传感市场增速在量子技术各领域中位居前三;IDTechEx预测2045年20亿美元;两条数据相互印证市场确定性扩容趋势
+
+#### QCNC 2026国际量子会议:量子传感Track/2026年4月6日日本神户/分布式量子传感/量子网络化感测(2026-04)
+- [会议官网:QCNC 2026](https://www.myhuiban.com/conference/4810) | Kobe, Japan; 2026年4月6日
+- **会议范围**:量子通信、网络、计算和传感;设立"量子计算与传感"Track (Track 2)
+- **量子传感议题**:分布式量子传感/连续变量纠缠网络/量子传感网络拓扑/量子云/量子模拟与测试平台
+- **量子传感关联**:量子传感网络化是量子传感从单点测量向分布式网络演进的重要方向;日本是亚洲量子传感研究的重要节点;QCNC是量子传感学术交流的核心平台
+
+#### arXiv:2209.13870v1 - 低频量子传感: Ramsey序列直流场/Hahn-echo交流场/1kHz以上受限/拟合适定算法填补低频空白(2022)
+- [arXiv:2209.13870v1](https://arxiv.org/abs/2209.13870v1) | quant-ph; E. D. Herbschleb等7位作者; 2022年9月提交
+- **技术问题**:量子传感器的Ramsey序列适合直流场测量;Hahn-echo序列适合高频交流场(>约1kHz);低频段(<1kHz)由有限相干时间限制,被迫使用灵敏度较低的非相干方法
+- **技术方案**:拟合适定算法(Bootstrapping)填补低频段空白;结合量子传感器的相干测量能力与拟合适定算法优势
+- **量子传感关联**:低频磁场测量对地质勘探、生物医学传感意义重大;该工作是量子传感器宽频带覆盖的重要理论贡献;填补了量子传感器低频段实用化的理论空白
 
 ---
-*本次更新: Cisco Research量子传感论文(GKP信道传感/量子开关)/Nature Reviews量子传感器生物医学应用/Research and Markets量子技术市场99.34亿美元/Quantum Design收购牛津纳米科学部(2026-06-02上午-07:14)*
-
-
-
-### 🆕 新增条目(2026-06-02上午-06:44 - 本次更新)
-
-#### arXiv:2606.02993 - 金刚石NV色心量子网络:彩色缺陷/进展与展望/量子通信(2026-06-01)
-- [arXiv:2606.02993](https://arxiv.org/abs/2606.02993) | quant-ph; 2026-06-01提交; 量子传感与量子网络交叉论文
-- **技术方案**:金刚石中彩色缺陷(NV、SiV等)用于量子网络;NV色心作为量子存储和传感节点
-- **核心内容**:全面综述金刚石量子缺陷研究进展;量子网络构建路线图;量子传感与通信融合应用
-- **量子传感关联**:NV色心是量子传感和量子网络的共同平台;该综述反映量子传感从独立系统向网络化发展的趋势
-
-#### arXiv:2606.02842 - 悬浮机械振子量子重力仪:中尺度颗粒/量子重力传感/直接重力耦合(2026-06-01)
-- [arXiv:2606.02842](https://arxiv.org/abs/2606.02842) | quant-ph; 2026-06-01提交; 量子重力传感论文
-- **技术方案**:悬浮机械系统(微米颗粒)与重力直接耦合;利用大质量中尺度粒子的量子态实现重力传感
-- **核心优势**:重力直接耦合到粒子中心质量,无需原子干涉仪的光学读出;量子悬浮消除摩擦提供超长相干时间
-- **量子传感关联**:悬浮机械重力仪是量子重力传感的新范式;相比原子干涉仪具有不同噪声源和潜在优势
-
-#### QuantX Labs量子PNT产品:CRYO超低相位噪声振荡器/Over-the-horizon雷达/深空追踪/精密授时(2026)
-- [QuantX Labs官网](https://quantxlabs.com/) | QuantX Labs(澳大利亚); 量子PNT产品商业化; 2026年持续推进
-- **产品线**:CRYO超低相位噪声振荡器——为超地平线雷达、深空追踪和高精度授时设计
-- **技术路线**:量子传感+精密授时产品化;PNT(定位、导航、授时)基础设施韧性与量子技术结合
-- **量子传感关联**:QuantX代表量子PNT从研究向商业化产品转型的澳洲力量;关键基础设施韧性是量子传感的国防核心价值
-
-#### Infleqtion量子频谱定义:中性原子射频传感新类别/美国英国澳大利亚国防合同/信号情报(2026-05)
-- [Infleqtion官网](https://infleqtion.com/) | Infleqtion; 2026年5月正式定义"量子频谱"类别
-- **技术核心**:基于中性原子平台创建射频传感新类别;量子频谱代表数十年来射频传感架构的根本性转变
-- **市场支撑**:美国、英国、澳大利亚活跃国防合同支持;量子频谱用于信号情报、频谱分析
-- **量子传感关联**:Infleqtion是量子传感国防化的重要推手;量子频谱定义的背后是原子射频传感从实验室到作战系统的成熟
-
-#### Q-CTRL入选TIME 2025年最佳发明:Ironstone Opal量子导航软件/46%定位误差降低/软件定义量子传感(2025-10)
-- [Q-CTRL官网:TIME Best Inventions](https://q-ctrl.com/) | Q-CTRL; 2025年10月获TIME评选; 全球量子传感商业化里程碑
-- **技术方案**:Ironstone Opal量子导航系统;专有量子磁力仪+去噪+地图匹配软件堆栈;磁异常导航(MagNav)
-- **核心数据**:定位误差降低最高46%;在机载和地面现场试验中始终优于战略级惯性导航系统
-- **量子传感关联**:Q-CTRL是软件定义量子传感的先驱;量子导航入选TIME标志量子传感从技术突破到社会认可的临界点
-
----
+*本次更新: scirate Top arXiv量子推断指数级优势2605.21457/USC Takahashi量子传感实验室纳米金刚石/IDTechEx量子传感器市场2045年20亿/量子点材料市场/Research and Markets量子传感CAGR13.4%/QCNC 2026神户分布式量子传感/低频量子传感arXiv2209.13870v1(2026-06-02早上-07:44)*
 
 ### 🆕 新增条目(2026-06-02早上-06:14 - 本次更新)
 
