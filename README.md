@@ -1,3 +1,33 @@
+### 🆕 新增条目(2026-06-02下午-14:44 - 本次更新)
+
+#### Optica Quantum 2.0 Conference 2026确认6月15-18日格拉斯哥举行:PicoQuant参会 Booth 302/HydraHarp 500量子传感仪器/全球量子2.0盛会(2026-06)
+- [Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | Optica; 2026年6月15-18日; 英国格拉斯哥; 与Optica 2026 Quantum Industry Summit同期
+- **会议状态**:大会将于格拉斯哥如期举行;已确认 Distinguished Invited Speakers 名单;酒店优惠价预订中
+- **PicoQuant参展**:Booth 302展示量子传感仪器;HydraHarp 500时间相关单光子计数器;PMA Hybrid光子计数模块
+- **量子传感关联**:Quantum 2.0是量子传感学术与产业交流的核心平台;Optica与IEEE Photonics Society联合举办代表量子传感学术与产业深度融合;PicoQuant参会说明量子传感仪器商业生态成熟
+
+#### QuantumDiamonds商用金刚石量子传感芯片检测:室温工作/3×3mm视场/100×分辨率提升/先进封装失效分析/ESA空间传感器(2026-06)
+- [QuantumDiamonds官网](https://www.quantumdiamonds.de/) | QD-ST; 德国慕尼黑; 2022年成立; EIC/Munich Quantum Valley/SPRIN-D/ESA多项资助
+- **核心产品**:商用金刚石NV量子传感芯片检测工具——In-Lab(商用)/In-Line(在研);室温工作,稳定运行从低温至700°C
+- **技术指标**:磁电流成像——检测短路/漏电/开路;比传统检测细节小100×,噪声低100-1000×,灵敏度提升3-10×;宽场模式——最大3×3mm视场,可拼接至5×5cm;分钟级出结果
+- **应用场景**:先进封装芯片R&D/失效分析/晶圆级良率监测;室温量子传感是量子传感器走出实验室的关键里程碑
+- **量子传感关联**:QuantumDiamonds是全球首个商用金刚石量子传感半导体检测系统;室温工作意味着量子传感在工业现场的即插即用;ESA空间传感器项目代表量子传感向太空拓展
+
+#### Qnami完成约800万瑞士法郎A轮融资:量子NV传感技术商业化/Earlybird领投/ProteusQ-LT低温扫描显微镜/E东亚经销网络(2026-05)
+- [Qnami官网](https://qnami.ch/news/) | Qnami(瑞士巴塞尔); Earlybird领投; ventureLAB跟投
+- **核心产品**:ProteusQ-LT低温扫描NV显微镜(2K至300K,灵敏度3µT/√Hz @ 1.8K,亚纳米分辨率);ProteusQ常温量子波平台
+- **商业化进展**:已与Quantum Design Japan/Korea建立东亚经销网络;低温/常温双路线并行
+- **量子传感关联**:Qnami是全球金刚石NV量子传感商业化先驱;800万瑞士法郎A轮是2026年量子传感领域重要融资;量子传感仪器商业化正在加速
+
+#### EU Quantum Flagship量子重力测量社区研讨会:2026年6月3-5日/欧洲量子传感基础设施/标准化推进(2026-05)
+- [Quantum Flagship:EU wide community workshop on quantum gravimetry](https://qt.eu/) | EU Quantum Flagship; 2026年6月3-5日; 欧洲范围内社区研讨会
+- **会议目标**:获取欧洲量子重力测量技术反馈;推进EU量子传感基础设施建设和标准化
+- **EuroQCI**:欧洲量子通信基础设施(EuroQCI)同步推进,加强量子传感与量子通信协同
+- **量子传感关联**:量子重力仪是商业化最成熟的量子传感方向;EU研讨会反映欧洲量子传感产业化的系统性推进
+
+---
+*本次更新: Optica Quantum 2.0确认格拉斯哥6月15-18日/PicoQuant booth 302/QuantumDiamonds商用室温量子传感In-Lab检测/Qnami 800万瑞士法郎A轮/EU Quantum Flagship量子重力测量研讨会6月3-5日(2026-06-02下午-14:44)*
+
 ### 🆕 新增条目(2026-06-02下午-13:14 - 本次更新)
 ### 🆕 新增条目(2026-06-02下午-14:44 - 本次更新)
 
