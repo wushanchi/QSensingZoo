@@ -3054,3 +3054,34 @@
 ---
 *本次更新: Bits&Chips法美量子投资竞赛/Frostbyte €1.3M量子控制芯片/Imec高NA EUV硅量子比特/EU Quantum Flagship量子重力研讨会6月3-5日/QuantumDiamonds商用室温量子传感In-Lab检测/Qnami 800万瑞士法郎A轮(2026-06-02下午-16:14)*
 
+### 🆕 新增条目(2026-06-02下午-17:44 - 本次更新)
+
+#### arXiv:2606.02399 - 金刚石NV色心光学稳定性与高压物理:120GPa高压实验/零声子线演化/辐射寿命/光致电离阈值/量子传感极端条件适用性(2026-06-01)
+- [arXiv:2606.02399](https://arxiv.org/abs/2606.02399) | quant-ph/cond-mat/app-ph; 2026-06-01提交; Kin On Ho等
+- **技术方案**:NV色心高压光学性质实验与理论研究;系统研究零声子线(ZPL)位置、辐射寿命、光谱线型和光致电离阈值随压力(至120 GPa静水压)的变化
+- **核心发现**:NV中心在极端静水压下仍保持稳健的量子传感能力;特别是磁特性表征方面;为高压实验中的光学实验提供光谱指导
+- **量子传感关联**:高压物理是量子传感的新兴应用场景;NV色心在极端条件下的稳定性验证拓展了其作为量子传感器的适用范围;高压下的NV量子传感可探索新型材料与物理现象
+
+#### 国盛量子(Chinaprosp Quantum)国产金刚石量子传感产品:矢量磁力仪QDMag-100/单轴磁力仪QDMag-100S/量子探针扫描仪/工业检测(2026持续)
+- [国盛量子官网](https://www.gshqt.com/) | 安徽省国盛量子科技有限公司; 2019年成立; 专注量子工业检测领域
+- **核心产品**:常温固态金刚石NV量子传感器——QDMag-100矢量磁力仪(QDMag-100基于NV色心塞曼效应+ODMR技术实现高灵敏度矢量磁场测量)/QDMag-100S单轴磁力仪(大量程/高采样率/小体积)/金刚石量子探针扫描仪(微米级光纤探针+近场扫描,用于微波器件表征/岩石磁学/无损探伤/温度成像)
+- **技术指标**:矢量磁场测量/高灵敏度/高集成度/高稳定性;QDMag-100S可用于电流测量/电机监测/管线故障检测
+- **应用场景**:工业无损检测/微波器件表征/材料科学研究/电力设备监测
+- **量子传感关联**:国盛量子是国产金刚石量子传感商业化的代表;常温工作意味着国产量子传感器已具备工业现场部署能力;量子传感与国产半导体/电力行业结合是重要产业化方向
+
+#### Qnami商业化进展:欧洲领先量子传感公司/VerticalCompute合作/ProteusQ用户扩散/BFO自旋电子学Nature Communications(2026持续)
+- [Qnami官网](https://qnami.ch/) | Qnami(瑞士巴塞尔); 商业化量子NV传感技术公司
+- **商业合作进展**:与VerticalCompute合作——量子计量学解决方案支持下一代高性能能效芯片chiplet研发;量子传感在半导体先进封装检测中发挥作用
+- **ProteusQ用户网络**:德国TU Kaiserslautern(RPTU, DFG仪器启动资金)/德国HZDR德累斯顿/德国MPI化学物理固体研究所;说明ProteusQ已获欧洲主流研究机构认可
+- **学术进展**:与波士顿学院等合作在Nature Communications发表BFO(BiFeO₃)超高效自旋电子学论文——使用ProteusQ揭示BFO全部潜力;在量子传感仪器上发表的学术论文反映设备成熟度
+- **量子传感关联**:Qnami从技术领先向产业生态建设延伸;ProteusQ在欧洲研究机构的普及说明低温NV扫描显微镜成为标准实验工具;量子传感与半导体产业的直接合作正在落地
+
+#### Optica Quantum 2.0 Conference 2026确认6月15-18日格拉斯哥举行:PicoQuant参会/HydraHarp 500量子传感仪器/全球量子2.0盛会(2026-06)
+- [Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | Optica; 2026年6月15-18日; 英国格拉斯哥; 与Optica 2026 Quantum Industry Summit同期
+- **会议状态**:大会将于格拉斯哥如期举行;已确认Distinguished Invited Speakers名单;酒店优惠价预订中
+- **PicoQuant参展**:Booth 302展示量子传感仪器;HydraHarp 500时间相关单光子计数器;PMA Hybrid光子计数模块
+- **量子传感关联**:Quantum 2.0是量子传感学术与产业交流的核心平台;Optica与IEEE Photonics Society联合举办代表量子传感学术与产业深度融合;PicoQuant参会说明量子传感仪器商业生态成熟
+
+---
+*本次更新: arXiv:2606.02399 NV金刚石高压量子传感/国盛量子国产商用NV量子磁力计系列/Qnami商业化Vertic计算合作+ProteusQ欧洲机构扩散+Nature Communications BFO自旋电子学/Optica Quantum 2.0 Conference 2026 6月15-18日格拉斯哥(2026-06-02下午-17:44)*
+
