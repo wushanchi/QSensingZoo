@@ -1,4 +1,39 @@
 ### 🆕 新增条目(2026-06-02下午-13:14 - 本次更新)
+### 🆕 新增条目(2026-06-02下午-14:44 - 本次更新)
+
+#### [2606.02399] 金刚石NV中心高压光学稳定性研究(2026-06-02/arXiv)
+- [arXiv:2606.02399](https://arxiv.org/abs/2606.02399) | Authors: Kin On Ho et al.
+- **研究内容**:系统研究NV中心在高达120 GPa静水压下的光学性质演变——包括零声子线(ZPL)位置、辐射寿命、光谱线形和光致变色阈值
+- **核心发现**:NV中心在极端压力下仍保持良好的量子传感能力，高压下光学特性稳定，适合作为高压磁特性表征的量子探针
+- **量子传感关联**:高压NV磁力计可用于地球物理、深海资源勘探等极端环境传感
+
+#### [2606.01673] 量子引力仪相关量子传感:经典极限下的关联检测(2026-06-01/arXiv)
+- [arXiv:2606.01673](https://arxiv.org/abs/2606.01673) | Authors: Sreenath Kizhakkumpurath Manikandan et al.
+- **研究内容**:在"看似经典的大量子数极限"下，检测弱相互作用辐射场的不可分割量子；提出基于高性能共振探测器的关联计数、同调检测和异调检测策略，初始状态为热态
+- **量子传感关联**:为量子引力仪桌面试实验提供理论基础——利用两个或三个几乎功能完善的共振质量探测器，提出简单统计测试揭示重力子的量子噪声特征
+- **应用前景**:量子引力探测、量子计量学基础研究
+
+#### Quantum Singapore 2026量子传感论坛(2026-02-04/新加坡)
+- [Quantum Singapore 2026论坛报道](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办;IEEE Photonics Society新加坡分会学术支持
+- **论坛主题**:"Quantum聚会:从硬件突破到工业应用"
+- **量子传感分论坛**:会议专设量子传感分论坛，涵盖NV钻石磁力计、原子干涉仪、量子重力仪等商用化进展
+- **量子传感关联**:新加坡将量子传感作为国家战略技术重点发展方向，论坛推动亚洲量子传感产业化协作
+
+#### Quantum Innovation Summit Dubai 2026量子传感产业活动(2026-09-28至30日/迪拜)
+- [Quantum Innovation Summit Dubai](https://quantuminnovationsummit.com/) | 2026年9月28-30日;迪拜
+- **会议定位**:量子传感产业化的重要产业活动，汇聚全球量子传感技术商业化团队
+- **量子传感关联**:量子传感从实验室到工业应用的转化平台，推动量子传感器在油气、地质、医疗、安防等领域的商业落地
+
+#### SMG MEMS新一代高精度惯性传感器与量子传感技术(2026-05)
+- [SMG MEMS官网](http://silicong.com/) | SMG;2026年5月更新
+- **技术方向**:Next-Generation MEMS Inertial & Gravity Sensing(下一代MEMS惯性测量与重力传感)
+- **量子传感关联**:量子传感与MEMS集成是前沿方向——MEMS惯性传感器与量子重力仪混合架构可提升导航精度
+
+#### IEEE qCCL 2025量子传感分论坛(2025-06-25至28日/香港)
+- [IEEE qCCL 2025官网](https://qccl2025.org/) | 香港理工大学主办;2025年6月25-28日
+- **会议主题**:Quantum Computing, Communications and Learning
+- **量子传感关联**:量子传感与量子计算的结合(如量子传感器辅助的量子计算校准)成为新兴方向
+
 
 #### EU量子重力测量社区研讨会:2026年6月3-5日/欧盟量子传感基础设施/EU Quantum Flagship推进(2026-05)
 - [Quantum Flagship:EU wide community workshop on quantum gravimetry](https://qt.eu/) | EU Quantum Flagship; 2026年6月3-5日; 欧洲范围内社区研讨会
@@ -2774,4 +2809,4 @@
 - **量子传感关联**:muon g-2实验依赖超高灵敏度探测器(类量子传感技术);muon g-2结果与标准模型预测存在差异,可能揭示新物理
 
 ---
-*本次更新: EU量子重力测量社区研讨会6月3-5日/SBQuantum量子钻石磁力计5月更新/QuiX Quantum光子误差阈值突破4月/μ子反常磁矩2025 Science十大突破(2026-06-02下午-13:44)*
+*本次更新: [2606.02399]NV高压光学/[2606.01673]量子引力仪关联/Quantum Singapore 2026论坛/Quantum Innovation Summit Dubai 2026/SMG MEMS量子传感/IEEE qCCL 2025香港(2026-06-02下午-14:44)*
