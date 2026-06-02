@@ -2840,3 +2840,45 @@
 
 ---
 *本次更新: [2606.02399]NV高压光学/[2606.01673]量子引力仪关联/Quantum Singapore 2026论坛/Quantum Innovation Summit Dubai 2026/SMG MEMS量子传感/IEEE qCCL 2025香港(2026-06-02下午-14:44)*
+
+
+### 🆕 新增条目(2026-06-02下午-15:14 - 本次更新)
+
+#### 量子传感市场预测:IDTechEx 2024-2044/$7.1亿→$20亿+/CAGR 11%/量子磁力计原子钟量子重力仪市场预测(2025)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 416页; 2023年7月发布
+- **市场预测**:量子传感器市场将从2025年约$7.1亿增长至2044年超$20亿;CAGR约11%
+- **技术方向**:原子钟/量子陀螺仪/量子磁力计/量子重力仪/量子图像传感器五大方向
+- **应用场景**:电动汽车/GNSS拒止导航/医疗成像/量子计算;量子传感解锁新应用
+- **量子传感关联**:IDTechEx数据与Research and Markets数据(量子传感与成像$3.04亿→$5.69亿)相互印证;量子传感是量子技术领域增长最快的细分方向之一
+
+#### attocube低温NV色心扫描成像磁强计attoNVM:2K至300K/3µT/√Hz灵敏度/纳米级定量磁场成像/金刚石NV量子传感(2026-01)
+- [腾讯新闻:attocube attoNVM](https://new.qq.com/rain/a/20260122A024JB00) | attocube; 2026年1月发布
+- **技术方案**:金刚石氮空位(NV)中心作为量子传感载体;attoNVM系统能在2K至300K温度区间内工作
+- **核心指标**:灵敏度3 µT/√Hz(@ 1.8K);纳米级定量磁场成像;2K至300K宽温度范围
+- **应用场景**:纳米技术/材料科学/凝聚态物理/量子材料研究
+- **量子传感关联**:attocube是全球顶级精密测量仪器商;NV色心扫描成像是量子传感从室温向低温延展的重要方向;低温条件下相干时间更长,灵敏度更高
+
+#### Nature Electronics:CMOS集成NV量子传感器/集成电路非侵入式检测/量子传感芯片化里程碑(2019-2026持续)
+- [Nature Electronics:CMOS-integrated quantum sensor based on NV centres](https://www.nature.com/articles/s41928-019-0275-5) | Nature Electronics; 2019年发表
+- **技术方案**:将NV色心量子传感器集成到CMOS芯片上;实现磁力计/电动计/温度计/化学传感的片上集成
+- **核心突破**:CMOS集成解决了量子传感器小型化、低功耗、低成本的核心瓶颈
+- **量子传感关联**:CMOS集成是量子传感芯片化/规模化的技术基础;该工作是量子传感从分立仪器向芯片级解决方案演进的关键里程碑
+
+#### Magnet2026意大利磁学大会:量子传感专题/2026年2月3-6日莱切/量子磁性材料/量子传感与磁学融合(2026-02)
+- [Magnet2026官网](https://magnet.aimagn.org/) | 意大利磁学协会; 2026年2月3-6日; 意大利莱切
+- **会议主题**:磁学基础研究与产业应用;涵盖磁性材料和量子传感
+- **量子传感关联**:量子传感与磁学深度交叉;量子磁力计(NV色心/OPM)是连接量子传感与磁学的核心技术;该会议反映欧洲量子传感与磁学研究的融合
+
+#### AOSense量子重力仪:NASA合作/原子干涉仪/卫星重力测量/下一代大地测量和水文学(2018→2026持续)
+- [NASA:AOSense quantum sensor for satellite gravimetry](https://www.nasa.gov/earth-and-climate/nasa-industry-team-creates-and-demonstrates-first-quantum-sensor-for-satellite-gravimetry/) | NASA + AOSense; 2018年首次演示; 2026年持续推进
+- **技术方案**:原子干涉仪量子重力传感器;由前能源部长Steven Chu等人于1980年代发明;AOSense于2018年完成太空级原型
+- **应用场景**:太空重力测量/大地测量/水文学/气候监测;量子重力仪太空化是全球导航卫星系统(GNSS)之后最高精度导航技术
+- **量子传感关联**:AOSense是量子重力仪商业化的先驱;原子干涉仪是量子传感最成熟的技术路线之一;NASA合同验证量子重力仪的太空应用可行性
+
+#### Nature 2026年5月量子传感基础研究专辑:悬浮振子量子重力仪/量子关联传感/光学原子钟/量子传感赋能AI(2026-05)
+- [Nature系列综述](https://paper.sciencenet.cn/htmlnews/2026/5/565694.shtm) | Nature; 2026年5月出版
+- **研究趋势**:专辑涵盖悬浮振子量子重力仪、量子关联传感、光学原子钟、量子传感与AI结合等多个前沿方向
+- **量子传感关联**:Nature等顶级期刊持续关注量子传感基础研究;2026年Nature专辑反映量子传感作为独立学科的成熟度提升
+
+---
+*本次更新: IDTechEx量子传感市场$7.1亿→$20亿+ CAGR11%/attocube attoNVM低温NV扫描/CMOS集成NV Nature Electronics/Magnet2026意大利磁学大会量子传感专题/AOSense NASA量子重力仪卫星应用/Nature 2026年5月量子传感专辑(2026-06-02下午-15:14)*
