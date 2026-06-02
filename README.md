@@ -1,6 +1,65 @@
 ---
 ---
 
+### 🆕 新增条目(2026-06-02下午-17:14 - 本次更新)
+
+#### Bosch Quantum Sensing:#CreateBeyondPossible/便携式量子磁传感器/10年基础研究/医疗/消费/导航/资源勘探/工业优化(2026-01)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | Bosch; 德国; 2026年1月更新
+- **公司定位**:\"Quantum technology will be a game changer in many areas – truly an 'Invented for Life' technology\"——Dr. Stefan Hartung, Bosch董事长
+- **核心优势**:10年以上基础研究积累+初创企业敏捷性+博世全球网络和市场准入;便携式量子磁传感器——紧凑、稳健、用户友好
+- **应用领域**:医疗技术(Medical technology)/消费电子(Consumer goods)/导航(Navigation)/资源勘探(Resource exploration)/过程优化(Process optimization)
+- **量子传感关联**:Bosch是全球工业巨头系统性布局量子传感的标杆;其量子磁传感器代表量子传感从实验室向工业消费产品迁移的趋势;博世的参与标志着量子传感已进入主流工业视野
+
+#### Quantum Innovation Summit Dubai 2026:2026年9月28-30日迪拜/赞助商完整阵容/Quantinuum钻石赞助/Q-CTRL创新支持/TII量子催化剂(2026-06)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日; 迪拜 Grand Hyatt
+- **完整赞助商阵容**:Pioneer Sponsor: Quantinuum(钻石赞助商); Vanguard Sponsor: TII(量子催化剂赞助商); Innovation Ally: Q-CTRL(创新支持)+Quantum Basel+Blue Titan+Norma
+- **支持机构**:ITU(国际电信联盟)量子向善策展人; NYU Abu Dhabi学术合作; ednexautomation/Intelligen AI创新合作
+- **会议主题**:\"Charting the Course for a Secure Future\"——量子与AI/先进材料/下一代计算/安全通信融合重塑全球创新版图
+- **量子传感关联**:量子传感是峰会核心议题;Quantinuum参与反映量子传感与量子计算协同;中东成为量子科技投资新兴力量
+
+#### 北京大学量子光学磁力计研究组(CREAM Group):光泵浦原子磁力计/氦气和碱金属原子/生物医学/地球物理/空间探索/军事应用(2026-05)
+- [北京大学量子光学磁力计研究组](https://iqe.pku.edu.cn/english/dht_en/quantum_optics_and_quantum/research/quantum_optical_magnetometry/index.htm) | 北京大学; 2026年5月持续活跃
+- **技术路线**:光泵浦原子磁力计(Optically Pumped Atomic Magnetometers)——量子光学磁力计(QOM)中最成熟、应用最广的技术路线
+- **研究方向**:基于氦气和碱金属原子的光泵浦原子磁力计;涵盖理论和实验研究(光-物质相互作用)
+- **应用领域**:生物医学(BIOMEDICINE)/地球物理(GEOPHYSICS)/空间探索(SPACE EXPLORATION)/军事应用(MILITARY AFFAIRS)
+- **量子传感关联**:北京大学是中国量子光学磁力计研究重镇;光泵浦磁力计是量子磁力计商业化最成熟方向之一;CREAM Group代表中国在OPM领域的前沿力量
+
+#### 量子传感产业综述(续):法美数十亿英镑量子竞赛/Frostbyte €1.3M量子控制芯片/Imec高NA EUV硅量子比特/量子传感芯片化供应链形成(2026-05)
+- [Bits&Chips量子科技要闻](https://www.bits-chips.nl/) | 荷兰媒体; 2026年5月26日发布; 持续追踪欧洲量子科技产业
+- **法美量子投资**:France and US funnel billions in quantum race——反映欧洲和美国的量子技术国家战略竞争加剧;量子传感作为量子技术\"先遣部队\"正加速商业化
+- **Frostbyte可扩展量子控制芯片**:€130万欧元融资;2026年5月12日发布;代表欧洲量子传感硬件创业生态正在成长
+- **Imec高NA EUV光刻硅量子比特**:Imec使用高NA EUV光刻图案化硅量子比特器件;2026年5月19日发布;半导体行业进入量子领域是量子传感芯片化的重要信号
+- **量子传感关联**:量子控制芯片是量子传感器读出和控制核心硬件;国家层面量子投资竞赛将加速量子传感产业化;半导体行业进入量子领域意味着量子传感芯片级集成的供应链正在形成
+
+#### EU Quantum Flagship量子重力测量社区研讨会:2026年6月3-5日/欧洲量子传感基础设施/标准化推进/EuroQCI量子通信协同(2026-05)
+- [Quantum Flagship EU wide community workshop on quantum gravimetry](https://qt.eu/) | EU Quantum Flagship; 2026年6月3-5日; 欧洲范围内社区研讨会
+- **会议目标**:获取欧洲量子重力测量技术反馈;推进EU量子传感基础设施建设和标准化
+- **EuroQCI**:欧洲量子通信基础设施(EuroQCI)同步推进;加强量子传感与量子通信协同
+- **量子传感关联**:量子重力仪是商业化最成熟的量子传感方向;EU研讨会反映欧洲量子传感产业化的系统性推进;标准化是量子传感大规模部署的前提条件
+
+#### Quantum Singapore 2026论坛回顾:滨海湾/2026年2月/\"量子汇聚:从硬件突破到工业应用\"/NV钻石磁力计/原子干涉仪/量子重力仪商用化进展(2026-02)
+- [Quantum Singapore 2026报道](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K + FinQ Tech + Informa Markets联合主办;IEEE Photonics Society学术支持
+- **会议主题**:\"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption\"; 2026年2月; 新加坡滨海湾
+- **量子传感分论坛**:NV钻石磁力计、原子干涉仪、量子重力仪等商用化进展
+- **量子传感关联**:新加坡将量子传感作为国家战略技术重点发展方向;论坛推动亚洲量子传感产业化协作
+
+#### Optica Quantum 2.0 Conference 2026:2026年6月15-18日格拉斯哥/Optica 2026 Quantum Industry Summit同期/全球量子2.0盛会(2026-06)
+- [Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | Optica; 2026年6月15-18日; 英国格拉斯哥; 与Optica 2026 Quantum Industry Summit同期
+- **会议状态**:大会将于格拉斯哥如期举行;已确认Distinguished Invited Speakers名单;酒店优惠价预订中
+- **PicoQuant参展**:Booth 302展示量子传感仪器;HydraHarp 500时间相关单光子计数器;PMA Hybrid光子计数模块
+- **量子传感关联**:Quantum 2.0是量子传感学术与产业交流的核心平台;Optica与IEEE Photonics Society联合举办代表量子传感学术与产业深度融合;PicoQuant参会说明量子传感仪器商业生态成熟
+
+#### Imperial量子罗盘皇家海军实地测试:XV Patrick Blackett研究船/QinetiQ NavyPOD/GNSS拒止量子惯性导航/2023→2026持续推进(2026)
+- [Imperial College London量子传感导航测试](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) | Imperial College London + Royal Navy; 2023年首次测试,2026年持续推进
+- **技术背景**:当前导航依赖GNSS,但信号易受高楼遮挡、干扰或欺骗;单日卫星服务中断将造成英国约10亿英镑损失
+- **量子方案**:量子传感器消除漂移,可在无卫星环境下长期保持精度;2026年集成至QinetiQ NavyPOD快速原型平台
+- **量子传感关联**:量子惯性导航是量子传感在国防安全领域最成熟的应用方向;Imperial+皇家海军测试代表量子传感从实验室走向军事应用的里程碑
+
+---
+*本次更新: Bosch Quantum Sensing量子磁传感器10年研究/Quantum Innovation Summit Dubai 2026完整赞助商阵容/北京大学CREAM Group光泵浦原子磁力计/法美量子竞赛+Frostbyte量子控制芯片/Imec高NA EUV硅量子比特/EU Quantum Flagship量子重力研讨会6月3-5日/Quantum Singapore 2026论坛回顾/Optica Quantum 2.0格拉斯哥6月15-18日/Imperial量子罗盘皇家海军测试(2026-06-02下午-17:14)*
+
+---
+
 ### 🆕 新增条目(2026-06-02下午-16:44 - 本次更新)
 
 #### 量子传感产业综述:工业感知的下一次跨越/2025年联合国国际量子科学与技术年/先遣部队率先跨越"死亡之谷"/18.8亿→50.7亿美元市场规模(2026-03)
