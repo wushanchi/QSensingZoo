@@ -1,3 +1,39 @@
+### 🆕 新增条目(2026-06-02中午-12:44 - 本次更新)
+
+#### Bristol-led量子光子传感器达量子极限:可批量制造/温室气体监测/癌症检测/Microring谐振器(2025-02)
+- [Tech Briefs:Bristol-led breakthrough in quantum photonic sensors](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | University of Bristol; 2025年2月发布
+- **技术方案**:光子芯片上微环谐振器(microring resonator)纳米制造;在量子极限运行可批量生产的光子传感器;无需纠缠或压缩态
+- **核心突破**:大多数量子传感方案依赖难以生成和检测的纠缠态或压缩态光;该团队找到在量子极限运行批量制造型传感器的方法
+- **应用场景**:温室气体监测(甲烷等)、癌症早期检测;量子传感从实验室向工业现场迁移
+- **量子传感关联**:量子极限传感是量子传感追求的最高精度目标;批量制造可行性是产业化的关键门槛;Bristol代表英国量子传感研究的前沿力量
+
+#### Quantum Innovation Summit Dubai 2026:量子传感专题/2026年9月28-30日迪拜/Quantinuum钻石赞助/TII量子催化剂/Q-CTRL创新支持(2026-05)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日; 迪拜 Grand Hyatt
+- **会议主题**:"Quantum Frontiers: Innovating for a Secure Future";量子传感在国防安全、关键基础设施韧性中的角色
+- **赞助商**:Quantinuum(钻石赞助商)、Q-CTRL(创新支持赞助商)、TII(量子催化剂赞助商)
+- **量子传感关联**:量子传感是此次峰会核心议题之一;中东地区正在成为量子科技投资新兴力量;该会议是2026年下半年量子传感产业最重要活动
+
+#### QCNC 2026日本神户:量子传感Track 2/2026年4月6日/分布式量子传感/量子传感网络拓扑(2026-04)
+- [会议官网:QCNC 2026](https://www.myhuiban.com/conference/4810) | Kobe, Japan; 2026年4月6日
+- **会议范围**:量子通信、网络、计算和传感;设立"量子计算与传感"Track (Track 2)
+- **量子传感议题**:分布式量子传感/连续变量纠缠网络/量子传感网络拓扑/量子云/量子模拟与测试平台
+- **量子传感关联**:量子传感网络化是量子传感从单点测量向分布式网络演进的重要方向;日本是亚洲量子传感研究的重要节点
+
+#### Imperial量子罗盘皇家海军实地测试:XV Patrick Blackett研究船/QinetiQ NavyPOD/GNSS拒止量子惯性导航(2023→2026持续)
+- [Imperial College London:Quantum sensor for future navigation tested aboard Royal Navy ship](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) | Imperial College London + Royal Navy; 2023年首次测试,2026年持续推进
+- **技术背景**:当前导航依赖GNSS,但信号易受高楼遮挡、干扰或欺骗;单日卫星服务中断将造成英国约10亿英镑损失
+- **量子方案**:量子传感器消除漂移,可在无卫星环境下长期保持精度;2026年集成至QinetiQ NavyPOD快速原型平台
+- **量子传感关联**:量子惯性导航是量子传感在国防安全领域最成熟的应用方向;Imperial+皇家海军测试代表量子传感从实验室走向军事应用的里程碑
+
+#### Quantum Diamond Magnetometry for GNSS-Denied Navigation:Springer/量子钻石磁力计/外部位置修正/地球物理异常(2023)
+- [Springer:Quantum Diamond Magnetometry for Navigation in GNSS Denied Environments](https://link.springer.com/chapter/10.1007/1345_2023_218) | Springer Nature; 2023年9月
+- **技术方案**:量子钻石磁力计作为外部位置修正源,在GNSS拒止环境中实现导航定位;利用地球物理异常实现定位
+- **技术指标**:金刚石磁力计高灵敏度+低测量噪声;模拟验证外部位置修正可行性
+- **量子传感关联**:量子磁力计是量子传感定位导航应用的核心技术;GNSS拒止环境是量子传感的战略价值场景;该工作为量子导航提供理论支撑
+
+---
+*本次更新: Bristol量子光子传感器达量子极限Microring/Quantum Innovation Summit Dubai 2026迪拜九月/QCNC 2026神户分布式量子传感/Imperial量子罗盘皇家海军测试/量子钻石磁力计GNSS拒止导航Springer(2026-06-02中午-12:44)*
+
 # QSensingZoo 🧪
 ### 🆕 新增条目(2026-06-02早上-09:44 - 本次更新)
 
