@@ -1,1 +1,1 @@
-957b2d9 2026-06-02 17:44 CST - 本次更新: arXiv:2606.02399 NV高压传感/国盛量子国产NV磁力计/Qnami商业化进展/Optica Quantum 2.0 2026(2026-06-02下午-17:44)
+ca8a7b7 2026-06-02 21:44 CST - 🆕 arXiv量子传感更新: 集成压缩光源实用化限制npj Nanophotonics/混合态几何缺陷全息Uhlmann纤维丛/Rydberg原子Dicke流形量子最优控制GRAPE/一维量子行走纠缠测量/SW-SSB Annual Review综述(2026-06-02晚-21:44)
