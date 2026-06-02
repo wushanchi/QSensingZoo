@@ -55,6 +55,76 @@
 - **量子方案**:量子传感器消除漂移,可在无卫星环境下长期保持精度;2026年集成至QinetiQ NavyPOD快速原型平台
 - **量子传感关联**:量子惯性导航是量子传感在国防安全领域最成熟的应用方向;Imperial+皇家海军测试代表量子传感从实验室走向军事应用的里程碑
 
+### 🆕 新增条目(2026-06-02晚-19:14 - 本次更新)
+
+#### SBQuantum量子钻石磁力计:量子定位与导航/NV色心室温工作/ESA+CSA太空合同/无漂变磁场探测/加拿大魁北克(2026-05)
+- [SBQuantum官网](https://sbquantum.com/) | SBQuantum(加拿大魁北克舍布鲁克); 量子传感商业化先驱; 2026年5月30日持续活跃
+- **技术方案**:基于金刚石氮空位(NV)色心的量子钻石磁力计;绿光激光激发+红光收集的ODMR检测;提供磁场矢量信息
+- **核心优势**:室温工作、矢量探测能力、无漂移磁场读数;可在GNSS拒止环境中实现外部定位修正;利用地球物理异常实现定位
+- **市场进展**:与欧洲航天局(ESA)和加拿大航天局(CSA)签订合同,测试量子钻石磁力计在卫星上的太空应用
+- **应用场景**:量子定位导航/武器探测(非侵入式 standoff 威胁检测与分类)/高精度磁场测绘
+- **量子传感关联**:量子钻石磁力计是量子传感在定位导航领域最接近实用的技术之一;SBQuantum代表NV色心从实验室向太空和国防应用拓展的商业力量
+
+#### SBQuantum量子钻石磁力计磁场测绘解决方案:高分辨率磁图绘制/国防+公共安全+商业导航/端到端量子传感平台(2026-05)
+- [SBQuantum官网](https://sbquantum.com/) | SBQuantum; 2026年5月持续活跃
+- **核心产品**:量子钻石磁传感器+可定制化磁场可视化平台;检测磁共振线变化→理解磁场变化→可视化输出
+- **技术路线**:端到端合作伙伴模式——从检测到理解到可视化全流程服务
+- **量子传感关联**:量子磁力计是量子传感定位导航应用的核心技术;磁场测绘是量子传感在国防安全和地下资源勘探中的核心应用
+
+#### Quantum Innovation Summit Dubai 2026完整赞助商阵容:Quantinuum钻石赞助/Q-CTRL创新支持/TII量子催化剂/2026年9月28-30日迪拜(2026-06)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日; 迪拜 Grand Hyatt; IEEE Photonics Society等主办
+- **完整赞助商阵容**:Pioneer Sponsor: Quantinuum(钻石赞助商); Vanguard Sponsor: TII(量子催化剂赞助商); Innovation Ally: Q-CTRL(创新支持)、Quantum Basel、Blue Titan、Norma等
+- **支持机构**:ITU(国际电信联盟)量子向善策展人; NYU Abu Dhabi学术合作; ednexautomation/Intelligen AI创新合作
+- **会议主题**:"Charting the Course for a Secure Future"——量子与AI/先进材料/下一代计算/安全通信融合重塑全球创新版图
+- **量子传感关联**:量子传感是峰会核心议题;Quantinuum参与反映量子传感与量子计算协同;中东成为量子科技投资新兴力量
+
+#### EU Quantum Flagship量子重力测量社区研讨会:2026年6月3-5日/欧洲量子传感基础设施/标准化推进/EuroQCI量子通信协同(2026-05)
+- [Quantum Flagship EU wide community workshop on quantum gravimetry](https://qt.eu/) | EU Quantum Flagship; 2026年6月3-5日; 欧洲范围内社区研讨会
+- **会议目标**:获取欧洲量子重力测量技术反馈;推进EU量子传感基础设施建设和标准化
+- **EuroQCI**:欧洲量子通信基础设施(EuroQCI)同步推进;加强量子传感与量子通信协同
+- **量子传感关联**:量子重力仪是商业化最成熟的量子传感方向;EU研讨会反映欧洲量子传感产业化的系统性推进;标准化是量子传感大规模部署的前提条件
+
+#### Quantum Singapore 2026论坛回顾:滨海湾/2026年2月/"量子汇聚:从硬件突破到工业应用"/NV钻石磁力计/原子干涉仪/量子重力仪商用化进展(2026-02)
+- [Quantum Singapore 2026报道](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K + FinQ Tech + Informa Markets联合主办;IEEE Photonics Society学术支持
+- **会议主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"; 2026年2月; 新加坡滨海湾
+- **量子传感分论坛**:NV钻石磁力计、原子干涉仪、量子重力仪等商用化进展
+- **量子传感关联**:新加坡将量子传感作为国家战略技术重点发展方向;论坛推动亚洲量子传感产业化协作
+
+#### Optica Quantum 2.0 Conference 2026确认6月15-18日格拉斯哥举行:PicoQuant参会Booth 302/HydraHarp 500时间相关单光子计数器/全球量子2.0盛会(2026-06)
+- [Optica Quantum 2.0 Conference](https://www.osa.org/en-us/meetings/topical_meetings/quantum/) | Optica; 2026年6月15-18日; 英国格拉斯哥; 与Optica 2026 Quantum Industry Summit同期
+- **会议状态**:大会将于格拉斯哥如期举行;已确认Distinguished Invited Speakers名单;酒店优惠价预订中
+- **PicoQuant参展**:Booth 302展示量子传感仪器;HydraHarp 500时间相关单光子计数器;PMA Hybrid光子计数模块
+- **量子传感关联**:Quantum 2.0是量子传感学术与产业交流的核心平台;Optica与IEEE Photonics Society联合举办代表量子传感学术与产业深度融合
+
+#### Imperial量子罗盘皇家海军实地测试:XV Patrick Blackett研究船/QinetiQ NavyPOD/GNSS拒止量子惯性导航/2023→2026持续推进(2026)
+- [Imperial College London量子传感导航测试](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) | Imperial College London + Royal Navy; 2023年首次测试,2026年持续推进
+- **技术背景**:当前导航依赖GNSS,但信号易受高楼遮挡、干扰或欺骗;单日卫星服务中断将造成英国约10亿英镑损失
+- **量子方案**:量子传感器消除漂移,可在无卫星环境下长期保持精度;2026年集成至QinetiQ NavyPOD快速原型平台
+- **量子传感关联**:量子惯性导航是量子传感在国防安全领域最成熟的应用方向;Imperial+皇家海军测试代表量子传感从实验室走向军事应用的里程碑
+
+#### Qnami完成约800万瑞士法郎A轮融资:量子NV传感技术商业化/Earlybird领投/ProteusQ-LT低温扫描显微镜/东亚经销网络(2026-05)
+- [Qnami官网](https://qnami.ch/news/) | Qnami(瑞士巴塞尔); Earlybird领投; ventureLAB跟投
+- **核心产品**:ProteusQ-LT低温扫描NV显微镜(2K至300K,灵敏度3µT/√Hz @ 1.8K,亚纳米分辨率);ProteusQ常温量子波平台
+- **商业化进展**:已与Quantum Design Japan/Korea建立东亚经销网络;低温/常温双路线并行
+- **量子传感关联**:Qnami是全球金刚石NV量子传感商业化先驱;800万瑞士法郎A轮是2026年量子传感领域重要融资
+
+#### QuantumDiamonds商用金刚石量子传感芯片检测:室温工作/3×3mm视场/100×分辨率提升/先进封装失效分析/ESA空间传感器(2026-06)
+- [QuantumDiamonds官网](https://www.quantumdiamonds.de/) | QD-ST; 德国慕尼黑; 2022年成立; EIC/Munich Quantum Valley/SPRIN-D/ESA多项资助
+- **核心产品**:商用金刚石NV量子传感芯片检测工具——In-Lab(商用)/In-Line(在研);室温工作,稳定运行从低温至700°C
+- **技术指标**:磁电流成像——检测短路/漏电/开路;比传统检测细节小100×,噪声低100-1000×,灵敏度提升3-10×;宽场模式——最大3×3mm视场,可拼接至5×5cm;分钟级出结果
+- **应用场景**:先进封装芯片R&D/失效分析/晶圆级良率监测
+- **量子传感关联**:QuantumDiamonds是全球首个商用金刚石量子传感半导体检测系统;室温工作意味着量子传感在工业现场的即插即用
+
+#### Bosch Quantum Sensing量子磁传感器10年研究:NV金刚石色心/医疗/消费/导航/资源勘探/工业优化/与Element Six合资(2026-01)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | Bosch + Element Six(戴比尔斯人造金刚石); 德国路德维希堡; 约30名员工; 2026年1月更新
+- **公司定位**:"Quantum technology will be a game changer in many areas – truly an 'Invented for Life' technology"——Dr. Stefan Hartung, Bosch董事长
+- **技术路线**:基于氮-空位(NV)色心金刚石的量子磁力计;紧凑、坚固、用户友好,实现前所未有的测量精度
+- **应用领域**:医疗技术(Medical technology)/消费电子(Consumer goods)/导航(Navigation)/资源勘探(Resource exploration)/过程优化(Process optimization)
+- **核心优势**:超过10年基础研究积累;Element Six提供量子级金刚石材料(DNV™系列);博世提供系统集成与工业制造能力
+- **量子传感关联**:Bosch是全球工业巨头系统性布局量子传感的标杆;NV色心技术路线成本最低、最接近大规模商用
+
+---
+*本次更新: SBQuantum量子钻石磁力计磁导航+太空合同+磁场测绘/Quantum Innovation Summit Dubai 2026完整赞助商阵容/EU Quantum Flagship量子重力研讨会6月3-5日/Quantum Singapore 2026论坛回顾/Optica Quantum 2.0格拉斯哥6月15-18日/Imperial量子罗盘皇家海军/Qnami 800万瑞士法郎A轮/QuantumDiamonds商用室温量子传感/Bosch×Element Six NV量子磁力计10年研究(2026-06-02晚-19:14)*
 ---
 *本次更新: Bosch Quantum Sensing量子磁传感器10年研究/Quantum Innovation Summit Dubai 2026完整赞助商阵容/北京大学CREAM Group光泵浦原子磁力计/法美量子竞赛+Frostbyte量子控制芯片/Imec高NA EUV硅量子比特/EU Quantum Flagship量子重力研讨会6月3-5日/Quantum Singapore 2026论坛回顾/Optica Quantum 2.0格拉斯哥6月15-18日/Imperial量子罗盘皇家海军测试(2026-06-02下午-17:14)*
 
