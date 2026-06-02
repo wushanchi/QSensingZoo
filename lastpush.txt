@@ -1,2 +1,2 @@
-3a7eff2 2026-06-02 05:14 CST - 本次更新: arXiv:2606.00027里德堡原子RF传感/HKU宽场量子钻石显微镜/Qnami×Quantum Design东亚扩张/Sandia原子干涉仪量子惯性/Bosshensor博感科技/Nature Physics自旋-向列压缩15.6dB/Quantum Design收购牛津纳米科学(2026-06-02凌晨-05:14)
+fcfef61 2026-06-02 09:14 CST - 本次更新: SBQuantum量子钻石磁力计/Cerca Magnetics量子脑成像/Optica Quantum 2.0 2026/Quantum Innovation Summit Dubai/Qnami量子传感/Muquans量子惯性导航/Nature 2026量子传感综述(2026-06-02上午-09:14)
 推送成功
