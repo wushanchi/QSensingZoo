@@ -2922,3 +2922,34 @@
 
 ---
 *本次更新: IDTechEx量子传感市场$7.1亿→$20亿+ CAGR11%/attocube attoNVM低温NV扫描/CMOS集成NV Nature Electronics/Magnet2026意大利磁学大会量子传感专题/AOSense NASA量子重力仪卫星应用/Nature 2026年5月量子传感专辑(2026-06-02下午-15:14)*
+
+### 🆕 新增条目(2026-06-02下午-16:14 - 本次更新)
+
+#### Bits&Chips量子科技要闻(2026年5月26日/荷兰):法国和美国投入数十亿英镑量子竞赛/可扩展量子控制芯片Frostbyte获130万欧元(2026-05)
+- [Bits&Chips:Headlines](https://www.bits-chips.nl/) | 荷兰半导体与量子科技媒体; 2026年5月26日发布
+- **法美量子投资**:France and US funnel billions in quantum race——法国和美国在量子竞赛中投入数十亿美元;反映欧洲和美国的量子技术国家战略竞争加剧
+- **Frostbyte量子控制芯片**:€1.3M可扩展量子控制芯片融资;2026年5月12日发布;代表欧洲量子传感硬件创业生态正在成长
+- **Imec硅量子比特**:Imec使用高NA EUV光刻图案化硅量子比特器件;2026年5月19日发布;半导体行业进入量子领域是量子传感芯片化的重要信号
+- **量子传感关联**:量子控制芯片是量子传感器读出和控制的核心硬件;国家层面量子投资竞赛将加速量子传感产业化;半导体行业进入量子领域意味着量子传感芯片级集成的供应链正在形成
+
+#### EU Quantum Flagship量子重力测量社区研讨会:2026年6月3-5日/欧洲量子传感基础设施/标准化推进(2026-05)
+- [Quantum Flagship:EU wide community workshop on quantum gravimetry](https://qt.eu/) | EU Quantum Flagship; 2026年6月3-5日; 欧洲范围内社区研讨会
+- **会议目标**:获取欧洲量子重力测量技术反馈;推进EU量子传感基础设施建设和标准化
+- **EuroQCI**:欧洲量子通信基础设施(EuroQCI)同步推进,加强量子传感与量子通信协同
+- **量子传感关联**:量子重力仪是商业化最成熟的量子传感方向;EU研讨会反映欧洲量子传感产业化的系统性推进;标准化是量子传感大规模部署的前提条件
+
+#### QuantumDiamonds商用金刚石量子传感芯片检测:室温工作/3×3mm视场/100×分辨率提升/先进封装失效分析/ESA空间传感器(2026-06)
+- [QuantumDiamonds官网](https://www.quantumdiamonds.de/) | QD-ST; 德国慕尼黑; 2022年成立; EIC/Munich Quantum Valley/SPRIN-D/ESA多项资助
+- **核心产品**:商用金刚石NV量子传感芯片检测工具——In-Lab(商用)/In-Line(在研);室温工作,稳定运行从低温至700°C
+- **技术指标**:磁电流成像——检测短路/漏电/开路;比传统检测细节小100×,噪声低100-1000×,灵敏度提升3-10×;宽场模式——最大3×3mm视场,可拼接至5×5cm;分钟级出结果
+- **应用场景**:先进封装芯片R&D/失效分析/晶圆级良率监测;室温量子传感是量子传感器走出实验室的关键里程碑
+- **量子传感关联**:QuantumDiamonds是全球首个商用金刚石量子传感半导体检测系统;室温工作意味着量子传感在工业现场的即插即用;ESA空间传感器项目代表量子传感向太空拓展
+
+#### Qnami完成约800万瑞士法郎A轮融资:量子NV传感技术商业化/Earlybird领投/ProteusQ-LT低温扫描显微镜/E东亚经销网络(2026-05)
+- [Qnami官网](https://qnami.ch/news/) | Qnami(瑞士巴塞尔); Earlybird领投; ventureLAB跟投
+- **核心产品**:ProteusQ-LT低温扫描NV显微镜(2K至300K,灵敏度3µT/√Hz @ 1.8K,亚纳米分辨率);ProteusQ常温量子波平台
+- **商业化进展**:已与Quantum Design Japan/Korea建立东亚经销网络;低温/常温双路线并行
+- **量子传感关联**:Qnami是全球金刚石NV量子传感商业化先驱;800万瑞士法郎A轮是2026年量子传感领域重要融资;量子传感仪器商业化正在加速
+
+---
+*本次更新: Bits&Chips法美量子投资竞赛/Frostbyte €1.3M量子控制芯片/Imec高NA EUV硅量子比特/EU Quantum Flagship量子重力研讨会6月3-5日/QuantumDiamonds商用室温量子传感In-Lab检测/Qnami 800万瑞士法郎A轮(2026-06-02下午-16:14)*
