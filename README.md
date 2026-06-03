@@ -1,5 +1,62 @@
 ---
 
+---
+### 🆕 新增条目(2026-06-03早-08:14 - 本次更新)
+
+#### EU Quantum Flagship量子传感项目矩阵:C-QuENS NV色心传感/PoQus神经外科便携量子传感器/PROMISE欧洲磁成像/PROMISE原型/QUANTIFY光子集成传感(2026-06)
+- [Quantum Flagship EU](https://qt.eu/) | EU Quantum Flagship; 2026年6月持续更新
+- **C-QuENS项目**:Quantum Entangled NV-Center Sensing——纠缠态NV色心传感;量子纠缠增强NV传感灵敏度
+- **PoQus项目**:Portable Quantum Sensors for Neurosurgery——神经外科便携量子传感器;量子磁力计手术室内应用
+- **PROMISE项目**:Prototypes of Magnetic Imaging Systems for Europe——欧洲磁成像系统原型;推动量子磁传感临床转化
+- **QUANTIFY项目**:Quantum enhANced phoTonic Integrated sensors For metrologY——光子集成量子增强传感;芯片级量子传感metrology方案
+- **QU-TEST**:Open testing and experimentation——开放测试实验平台;量子传感标准化验证基础设施
+- **量子传感关联**:EU Quantum Flagship已形成完整的量子传感项目矩阵;从基础材料(NV色心)到临床应用(神经外科)到工业标准(QUANTIFY)全覆盖;欧洲量子传感产业化路径清晰
+
+#### Quantinuum:全球最大集成全栈量子计算公司/钻石赞助迪拜量子峰会/量子计算+量子传感协同/BMW/Thales/Honeywell生态(2026-06)
+- [Quantinuum官网](https://www.quantinuum.com/) | Quantinuum; 2026年6月; Quantum Innovation Summit Dubai 2026钻石赞助商(Pioneer Sponsor)
+- **公司定位**:全球最大集成全栈量子计算公司;H1/H2量子计算机+企业级软件+开发者工具链无缝集成
+- **量子计算+传感协同**:Quantinuum量子计算技术可应用于量子传感的信号处理和纠错;量子计算与量子传感的协同效应正在成为行业主流
+- **合作伙伴生态**:BMW(材料发现/车辆优化)/Thales(量子弹性网络安全)/Honeywell(量子起源安全产品)
+- **量子传感关联**:Quantinuum作为量子技术生态核心推动者，其对量子传感商业化的影响力不可忽视;钻石赞助商身份体现其对量子传感议题的高度重视
+
+#### Quantum Flagship项目全景:C-QuENS/ACDQ_Q纠缠NV传感/PROMISE欧洲磁成像/PoQus神经外科/QUANTIFY光子传感(2026-06)
+- [Quantum Flagship EU](https://qt.eu/) | EU Quantum Flagship; 2026年6月
+- **C-QuENS**:Quantum Entangled NV-Center Sensing——纠缠态NV色心传感;量子纠缠增强NV量子传感的相干性和灵敏度
+- **ACDQ_Q**:Advanced Circuits for Detection and Control of Diamond Quantum Sensors——金刚石量子传感器检测控制先进电路;NV色心读出电路芯片化
+- **PROMISE**:Prototypes of Magnetic Imaging Systems for Europe——欧洲量子磁成像系统原型;推动量子传感临床医学应用
+- **PoQus**:Portable Quantum Sensors for Neurosurgery——神经外科便携量子传感器;将量子磁力计引入手术室实时导航
+- **QUANTIFY**:Quantum enhANced phoTonic Integrated sensors For metrologY——光子集成量子增强传感;面向计量学的芯片级量子传感方案
+- **量子传感关联**:EU Quantum Flagship量子传感覆盖NV色心、磁成像、神经外科、芯片级集成四大方向;项目矩阵完整，从基础物理到应用转化到商业化路径全覆盖
+
+#### Quantum Innovation Summit Dubai 2026深度解析:9月28-30日迪拜/"量子前沿:创新安全未来"/Quantinuum钻石赞助/Q-CTRL创新支持/完整议程(2026-06)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日; 迪拜 Grand Hyatt
+- **会议主题**:"Quantum Frontiers: Innovating for a Secure Future"——量子前沿:创新安全未来;量子与AI/先进材料/下一代计算/安全通信融合
+- **钻石赞助商**:Quantinuum(Pioneer Sponsor)——全球最大全栈量子计算公司;反映量子计算与量子传感协同趋势
+- **创新支持**:Q-CTRL(Innovation Ally)——量子传感+量子计算双赛道;AI量子基础设施软件;Black Opal传感器性能优化
+- **量子催化剂赞助商**:TII(Quantum Catalyst Sponsor and Prime Exhibitor)——阿布扎比先进技术研究委员会
+- **量子传感关联**:迪拜峰会汇聚全球量子传感产业力量;中东成为量子科技投资新兴力量;量子传感作为峰会核心议题之一推动产业化协作
+
+#### 国器传感SERF原子磁强计完整技术解析:激光泵浦/碱金属原子气室/极弱磁场传感/全链条自主可控(2026-06)
+- [国器传感](https://www.csdn.net/article/2026-04-16/160217909) | 国器传感; 深圳国际传感器与应用技术展览会; 2026年4月14日
+- **核心技术**:SERF(无自旋交换弛豫)原子磁强计——利用碱金属原子气体在特定条件下实现超灵敏磁场探测
+- **四大核心技术自主攻克**:
+  - 激光泵浦技术:实现原子极化
+  - 磁场精准调控:抑制环境噪声
+  - 原子相干性保持:延长相干时间
+  - 精密温控:确保系统稳定
+- **行业共性难题突破**:碱金属原子气室制备工艺/表面惰化处理技术——两项卡脖子技术
+- **全链条自主可控**:从材料工艺→核心部件研发→产品封装的完整国产化链条
+- **量子传感关联**:SERF原子磁强计是量子磁力计商业化最成熟方向之一;国器传感的突破代表中国在极弱磁测量领域的国产化重大进展
+
+#### Quanvia:NV色心生物标志物量子检测/疾病早期诊断/精准医疗/量子生物传感(2026-01)
+- [Quanvia官网](https://www.quanvia.com/) | Quanvia; 2026年1月首次发现; 量子传感商业化新兴力量
+- **技术路线**:利用NV色心量子探针检测生物标志物——利用NV色心对磁场变化的超灵敏响应探测生物分子相互作用
+- **应用方向**:疾病早期诊断和监测;精准医疗;生物标志物筛查
+- **量子传感关联**:NV色心从材料科学和物理研究延伸到生命科学;量子传感与生物医学的交叉是产业新方向;生物标志物量子检测代表量子传感向临床医学拓展的前沿探索
+
+---
+*本次更新: EU Quantum Flagship量子传感项目矩阵(C-QuENS/PoQus/PROMISE/QUANTIFY)/Quantinuum钻石赞助迪拜峰会/Quantum Innovation Summit 2026深度解析/国器传感SERF技术完整解析/Quanvia NV生物标志物量子检测(2026-06-03早-08:14)*
+
 ### 🆕 新增条目(2026-06-03早-06:44 - 本次更新)
 
 #### arXiv:2606.02500——分子自旋压缩态首次观测/量子增强传感/极化分子阵列/3dB计量增益/ CaF分子与双原子分子量子传感(2026-06)
