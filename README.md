@@ -486,7 +486,7 @@
 
 #### Bosch Quantum Sensing:#CreateBeyondPossible/便携式量子磁传感器/10年基础研究/医疗/消费/导航/资源勘探/工业优化(2026-01)
 - [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/) | Bosch; 德国; 2026年1月更新
-- **公司定位**:\"Quantum technology will be a game changer in many areas – truly an 'Invented for Life' technology\"——Dr. Stefan Hartung, Bosch董事长
+- **公司定位**:"Quantum technology will be a game changer in many areas – truly an 'Invented for Life' technology"——Dr. Stefan Hartung, Bosch董事长
 - **核心优势**:10年以上基础研究积累+初创企业敏捷性+博世全球网络和市场准入;便携式量子磁传感器——紧凑、稳健、用户友好
 - **应用领域**:医疗技术(Medical technology)/消费电子(Consumer goods)/导航(Navigation)/资源勘探(Resource exploration)/过程优化(Process optimization)
 - **量子传感关联**:Bosch是全球工业巨头系统性布局量子传感的标杆;其量子磁传感器代表量子传感从实验室向工业消费产品迁移的趋势;博世的参与标志着量子传感已进入主流工业视野
@@ -495,7 +495,7 @@
 - [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日; 迪拜 Grand Hyatt
 - **完整赞助商阵容**:Pioneer Sponsor: Quantinuum(钻石赞助商); Vanguard Sponsor: TII(量子催化剂赞助商); Innovation Ally: Q-CTRL(创新支持)+Quantum Basel+Blue Titan+Norma
 - **支持机构**:ITU(国际电信联盟)量子向善策展人; NYU Abu Dhabi学术合作; ednexautomation/Intelligen AI创新合作
-- **会议主题**:\"Charting the Course for a Secure Future\"——量子与AI/先进材料/下一代计算/安全通信融合重塑全球创新版图
+- **会议主题**:"Charting the Course for a Secure Future"——量子与AI/先进材料/下一代计算/安全通信融合重塑全球创新版图
 - **量子传感关联**:量子传感是峰会核心议题;Quantinuum参与反映量子传感与量子计算协同;中东成为量子科技投资新兴力量
 
 #### 北京大学量子光学磁力计研究组(CREAM Group):光泵浦原子磁力计/氦气和碱金属原子/生物医学/地球物理/空间探索/军事应用(2026-05)
@@ -507,7 +507,7 @@
 
 #### 量子传感产业综述(续):法美数十亿英镑量子竞赛/Frostbyte €1.3M量子控制芯片/Imec高NA EUV硅量子比特/量子传感芯片化供应链形成(2026-05)
 - [Bits&Chips量子科技要闻](https://www.bits-chips.nl/) | 荷兰媒体; 2026年5月26日发布; 持续追踪欧洲量子科技产业
-- **法美量子投资**:France and US funnel billions in quantum race——反映欧洲和美国的量子技术国家战略竞争加剧;量子传感作为量子技术\"先遣部队\"正加速商业化
+- **法美量子投资**:France and US funnel billions in quantum race——反映欧洲和美国的量子技术国家战略竞争加剧;量子传感作为量子技术"先遣部队"正加速商业化
 - **Frostbyte可扩展量子控制芯片**:€130万欧元融资;2026年5月12日发布;代表欧洲量子传感硬件创业生态正在成长
 - **Imec高NA EUV光刻硅量子比特**:Imec使用高NA EUV光刻图案化硅量子比特器件;2026年5月19日发布;半导体行业进入量子领域是量子传感芯片化的重要信号
 - **量子传感关联**:量子控制芯片是量子传感器读出和控制核心硬件;国家层面量子投资竞赛将加速量子传感产业化;半导体行业进入量子领域意味着量子传感芯片级集成的供应链正在形成
@@ -518,9 +518,9 @@
 - **EuroQCI**:欧洲量子通信基础设施(EuroQCI)同步推进;加强量子传感与量子通信协同
 - **量子传感关联**:量子重力仪是商业化最成熟的量子传感方向;EU研讨会反映欧洲量子传感产业化的系统性推进;标准化是量子传感大规模部署的前提条件
 
-#### Quantum Singapore 2026论坛回顾:滨海湾/2026年2月/\"量子汇聚:从硬件突破到工业应用\"/NV钻石磁力计/原子干涉仪/量子重力仪商用化进展(2026-02)
+#### Quantum Singapore 2026论坛回顾:滨海湾/2026年2月/"量子汇聚:从硬件突破到工业应用"/NV钻石磁力计/原子干涉仪/量子重力仪商用化进展(2026-02)
 - [Quantum Singapore 2026报道](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K + FinQ Tech + Informa Markets联合主办;IEEE Photonics Society学术支持
-- **会议主题**:\"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption\"; 2026年2月; 新加坡滨海湾
+- **会议主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"; 2026年2月; 新加坡滨海湾
 - **量子传感分论坛**:NV钻石磁力计、原子干涉仪、量子重力仪等商用化进展
 - **量子传感关联**:新加坡将量子传感作为国家战略技术重点发展方向;论坛推动亚洲量子传感产业化协作
 
@@ -1538,7 +1538,7 @@
 
 #### Quantum Singapore 2026论坛:量子汇聚从硬件突破到工业应用/ICV TA&K/FinQ Tech/IEEE光子学会新加坡分会(2026-02)
 - [腾讯新闻:Quantum Singapore 2026论坛在新加坡盛大开幕](https://new.qq.com/rain/a/20260207A067DT00) | 2026年2月4日; 新加坡滨海湾金沙会展中心
-- **论坛主题**:\"量子汇聚:从硬件突破到工业应用\"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
+- **论坛主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption)
 - **主办方**:ICV TA&K、FinQ Tech Inc.、Informa Markets; 学术支持:IEEE Photonics Society新加坡分会
 - **核心议题**:硬件优化/软硬协同/区域化生态构建
 - **量子传感关联**:量子传感是论坛重要议题之一;新加坡正在成为亚太地区量子产业化的重要枢纽;Quantum Singapore代表亚太量子传感生态加速
@@ -3994,7 +3994,7 @@
 
 #### Quantum Singapore 2026论坛回顾:"量子汇聚:从硬件突破到工业应用"/NV钻石磁力计/原子干涉仪/量子重力仪商用化进展/2026年2月(2026-02)
 - [Quantum Singapore 2026报道](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K + FinQ Tech + Informa Markets联合主办;IEEE Photonics Society学术支持; 2026年2月; 新加坡滨海湾
-- **会议主题**:\"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption\"
+- **会议主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"
 - **量子传感分论坛**:NV钻石磁力计、原子干涉仪、量子重力仪等商用化进展
 - **量子传感关联**:新加坡将量子传感作为国家战略技术重点发展方向;论坛推动亚洲量子传感产业化协作
 
@@ -4053,3 +4053,39 @@
 *本次更新: arXiv:2606.02399 NV金刚石色心120GPa高压光学稳定性/ arXiv:2606.02197量子启示地形立体视觉超瑞利极限/ Quantum Innovation Summit Dubai 2026/ Quantum Coast Capital量子传感投资(2026-06-03凌晨-03:14)*
 
 *本次更新: arXiv:2606.02574 IBM Quantum Nighthawk核子反核子量子模拟QCD2/Infleqtion中性原子量子计算机精密传感双物种原子/ IQT Lab集成量子光子学OPA并行零拍检测/ EU量子重力研讨会6月3-5日/ SMG量子效应MEMS重力传感/Quantum Singapore 2026论坛回顾(2026-06-03凌晨-01:14)*
+
+### 🆕 新增条目(2026-06-03下午-13:44 - 本次更新)
+
+- **量子传感关联**:机载量子导航是量子传感从实验室走向实际平台验证的重要里程碑;Bose-Einstein condensate是实现原子级量子惯性传感的核心技术路线;英国BAe 146飞机测试代表量子传感在空中平台实用化的突破;量子导航与量子重力仪、量子磁力计共同构成量子传感导航三大方向;Infleqtion代表量子传感商业化从地面向空中/海上/太空拓展的技术趋势
+- **技术方案**:利用BEC对加速度的极端敏感性;飞机通过精确累计每一度旋转和加速度来推算位置;在无GPS信号时实现精确导航;量子传感器取代GPS作为主导航参考
+- **应用前景**:自主航海最先落地→自动驾驶矿业→个人自动驾驶载具(地面/空中)
+- [IEEE Spectrum - Quantum Navigational Tech Takes Flight in New Trial](https://spectrum.ieee.org/accelerometer-quantum-bose-einstein) | IEEE Spectrum; 2026年6月持续报道
+
+#### IEEE Spectrum量子导航飞机测试:Infleqtion BEC原子加速度计英国BAe 146飞机首飞/后GPS时代量子传感导航商业化里程碑(2026-06)
+
+- **量子传感关联**:量子传感与量子计算共用底层硬件技术平台;超过100亿美元投资将加速量子传感核心元器件的工程化和量产;量子传感器件(原子钟、量子磁力计、量子重力仪)是量子计算机核心技术的外溢应用方向;量子计算规模化带动量子传感核心组件成本下降和性能提升
+- **投资规模**:超过100亿美元，五年投资计划;覆盖研发/资本支出/制造规模化/生态系统合作/M&A
+- **技术路线**:2029年实现全球首个大规模容错量子计算机;IBM Quantum System Two已部署;340+组织运行真实工作负载
+- **量子传感协同**:量子计算与量子传感的底层技术共享(超导电路/原子系统/光子器件);量子计算投资溢出推动量子传感商业化进程
+- [IBM PR Newswire - IBM Commits More Than $10 Billion to Quantum Computing](https://en.prnasia.com/releases/apac/ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-today-s-leading-systems-to-the-world-s-first-fault-tolerant-quantum-computers-535561.shtml) | IBM; 2026年6月2日发布; 五年投资计划
+
+#### IBM超过100亿美元量子计算投资:量子传感协同/2029年容错量子计算机目标/340+客户网络(2026-06-02)
+
+- **量子传感关联**:量子传感的测量保真度直接受量子通道特性影响;量子通道纠缠特性决定了传感器的信息处理能力上限;该工作为量子传感器的通道工程和保真度优化提供理论工具;对量子传感器噪声模型构建和误差抑制有重要指导意义
+- **核心发现**:引入"矩"(moments)——局域幺正不变的量子通道平均不变量;可用于检测纠缠创建和纠缠保持通道;高阶矩可捕获通道的更多信息特征
+- **技术方案**:Haar积分平均局域幺正不变量;二阶矩可判定非纠缠通道和纠缠破坏通道;高阶矩可区分更多通道类型
+- [arXiv:2606.03722](https://arxiv.org/abs/2606.03722) | quant-ph; 2026年6月2日提交; 量子通道表征与量子传感理论
+
+#### arXiv:2606.03722——量子通道局域幺正不变量表征:纠缠特性检测/非纠缠通道判定/量子传感测量保真度优化(2026-06-02)
+
+- **量子传感关联**:超导量子电路与固体自旋系综的耦合是实现高灵敏度量子传感的关键技术路径;混合架构结合了超导电路的高速读出和固体自旋的长相干时间优势;该工作为高灵敏度量子磁力计和量子存储提供了新的硬件方案;Parametric pump实现的MHz级按需耦合对于量子传感的实时测量至关重要
+- **技术方案**:使用parametric pump实现按需强耦合(MHz级);超导量子电路与稀土自旋系综的混合架构;为量子传感器的读出和记忆功能提供新途径
+- **应用前景**:高相干性量子存储;量子传感器读出;混合量子系统传感
+- [arXiv:2606.03897](https://arxiv.org/abs/2606.03897) | quant-ph; 2026年6月2日提交; 混合量子传感架构
+
+#### arXiv:2606.03897——超导量子电路与固体自旋系综强耦合:parametric pump MHz级按需耦合/混合量子存储/量子传感器读出新方案(2026-06-02)
+
+---
+
+*本次更新: IEEE量子导航飞机测试/IBM $100亿量子计算投资/arXiv:2606.03722量子通道局域幺正不变量/arXiv:2606.03897超导-自旋强耦合(2026-06-03下午-13:44)*
+
