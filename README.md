@@ -3,6 +3,49 @@
 ---
 ---
 ---
+### 🆕 新增条目(2026-06-03下午-14:44 - 本次更新)
+
+#### Qnami:全球量子传感领导者/ProteusQ-LT低温NV扫描磁学显微镜/3µT/Hz灵敏度/纳米尺度定量磁场成像/瑞士(2026)
+- [Qnami官网](https://www.qnami.com/) | Qnami; 瑞士; 全球量子传感领军企业; 2026年6月持续活跃
+- **核心产品ProteusQ-LT**:低温NV(氮空位)扫描磁学显微镜;1.8K低温环境实现纳米尺度定量磁场成像;灵敏度3µT/Hz;基于4×4mm² IIa型金刚石衬底
+- **技术路线**:金刚石量子芯片纳米加工+系统集成+数据分析软件;NV中心室温/低温双模式;扫描探针型磁力计
+- **应用领域**:纳米电子学/材料科学/生命科学/地球科学;表面磁场原子级成像;量子材料表征
+- **量子传感关联**:Qnami代表全球量子传感商业化最成熟的企业之一;低温NV是当前灵敏度最高的固态量子传感方案;ProteusQ-LT 3µT/Hz灵敏度是全球工业级量子磁力计的标杆指标
+
+#### SBQuantum量子金刚石磁传感器:加拿大/国防安全/商用导航/磁场映射解决方案(2026-05)
+- [SBQuantum官网](https://sbquantum.com/) | SBQuantum; 加拿大魁北克舍布鲁克; 量子技术中心; 2026年5月持续活跃
+- **核心产品**:基于氮空位(NV)金刚石量子磁传感器;磁场映射解决方案;Field-proven商用量子磁力计
+- **应用领域**:国防(defense)/国土安全(homeland security)/公共安全(public safety)/商用导航(commercial navigation)
+- **技术架构**:David Roy-Guay(CTO/Founder)+Eric Giroux(CEO)+Vincent Halde(技术总监)+Olivier Bernard(设计总监)
+- **量子传感关联**:SBQuantum代表金刚石NV磁力计在导航领域的商业化路径;量子传感是GPS拒止环境下导航的核心使能技术;磁场地图匹配定位是量子传感的垂直应用方向
+
+#### Quantum Motion $1.6亿C轮融资:硅基量子/"晶体管时刻"/CMOS兼容/可扩展架构(2026-06)
+- [Quantum Motion官网](https://quantummotion.com/) | Quantum Motion; 2026年6月2日发布; $160M Series C
+- **核心技术**:硅基量子计算机——基于与智能手机和计算机相同的硅自旋架构;兼容标准CMOS硅工艺
+- **商业目标**: deliver the "Transistor Moment" for quantum computing——实现类似晶体管对电子学的革命性突破
+- **可扩展性**:单逻辑量子比特需~1000个物理量子比特纠错;只有可扩展架构才能将芯片尺寸控制在邮票级
+- **量子传感关联**:硅基量子平台与量子传感读出电路CMOS集成高度相关;量子传感芯片化或可从其技术平台获益
+
+#### IEQNET伊利诺伊量子网络:Fermilab主导/量子通信+量子传感融合/多节点城域网络/量子时序同步(2026-06)
+- [IEQNET官网](https://ieqnet.fnal.gov/) | IEQNET(Illinois-Express Quantum Network); Fermilab主导; 2026年6月持续活跃
+- **项目架构**:美国能源部国家实验室(Fermilab+Argonne)+学术机构(西北大学+加州理工)+小企业(NuCrypt+HyperLight)+INQNET AT&T/Caltech联盟
+- **关键特性**:多节点、灵活、弹性网络配置;支持多用户;与经典网络共存于同一光纤DWDM系统;分层架构集中控制
+- **量子时序**:量子通信基础设施与量子增强时序同步高度协同;分布式量子传感的基础网络
+- **量子传感关联**:IEQNET是量子传感+量子通信融合基础设施的典型代表;量子时序同步是量子传感在通信领域的关键应用
+
+#### Quantum Innovation Summit Dubai 2026:量子与新兴前沿/9月28-30日/迪拜君悦酒店(2026-06)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日; 迪拜GRAND HYATT; 量子与新兴前沿
+- **会议主题**:Advancing Global Innovation & Technological Leadership;量子技术从理论探索到工业应用落地
+- **量子传感关联**:量子传感商业化是会议核心议题之一;量子传感在导航、成像、检测等领域的应用是展示重点
+
+#### IDTechEx量子传感器市场预测:2024-2044/原子钟/量子陀螺仪/量子磁力计/量子重力仪/电动车/GPS拒止导航(2023)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2023-2024; 量子传感器市场分析报告
+- **覆盖技术**:原子钟(atomic clocks)/量子陀螺仪(quantum gyroscopes)/量子磁力计(quantum magnetic field sensors)/量子重力仪(quantum gravimeters)/量子图像传感器(quantum image sensors)
+- **目标应用**:电动汽车(EVs)/GPS拒止导航(GPS denied navigation)/医学成像(medical imaging)/量子计算(quantum computing)
+- **核心观点**:量子传感器通过半导体制造工艺(vapor cells和lasers)降低SWaP-C成本;量子磁力计在生物医学和导航领域率先商业化;量子重力仪在地质勘探和惯性导航中展现独特价值
+- **量子传感关联**:IDTechEx报告是全球量子传感市场最系统的分析资料;量子传感商业化路径:原子钟→量子磁力计→量子重力仪/陀螺仪;量子传感器从实验室到工业规模化的核心挑战是SWaP-C
+
+---
 ### 🆕 新增条目(2026-06-03下午-13:14 - 本次更新)
 
 #### IEEE GRSS QUEST量子地球科学与技术TC:QS4EO+QC4EO+QUEST Webinars/GRSS-IEEE/量子传感遥感地球科学融合(2026)
