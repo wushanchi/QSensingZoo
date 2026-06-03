@@ -4374,3 +4374,45 @@
 
 ---
 *本次更新: QuantumVillage UncutGem首个全栈开源NV金刚石磁力计DEF CON 33 2025/ MAG4Health可穿戴OPM-MEG量子脑成像临床/ Qnami ProteusQ-LT/ProteusQ NAM量子传感龙头/ muquanta量子重力仪加速度计原子干涉仪/ Nature Reviews Physics量子传感器生物医学综述2023-2025(2026-06-04早-02:14)*
+### 🆕 新增条目(2026-06-04早-04:14 - 本次更新)
+
+#### Nature Physics:宽频电场量子传感/离子里德伯跃迁/800倍频带扩展/3.4dB超越标准量子极限/2025(2026-06)
+- [Nature Physics s41567-024-02753-0](https://www.nature.com/articles/s41567-024-02753-0) | UCLA Eric Hudson团队; Nature Physics; 2025年2月18日发表; volume 21, pages 380–385
+- **核心突破**:利用离子的运动拉曼跃迁(motional Raman transitions)实现精确电场检测——频带宽度扩展至以往方法的800倍以上;首次在宽频带上同时实现频率、相位和振幅的精确传感
+- **技术原理**:离子被囚禁在电磁阱中作为量子谐振子系统;通过运动拉曼跃迁克服传统离子量子传感器窄带限制;实现无线电场的高灵敏度检测
+- **量子增强**:结合压缩光量子放大(quantum amplification via squeezing)和Fock态测量;实现3.4(2.0) dB的超越标准量子极限(SQL)性能——首次在宽频离子传感中同时展示量子增强和亚SQL灵敏度
+- **频率覆盖**:相比传统离子量子传感器受限的窄频带,新方法实现800倍频带扩展——覆盖射频频段更宽
+- **应用方向**:射电通信/宇宙学/暗物质搜索/高精度量子比特控制
+- **量子传感关联**:量子传感从"窄带单频"向"宽频多参数"跨越;量子压缩+离子运动态=首个宽频亚SQL离子传感;超导量子比特-谐振子系统可扩展该方法
+
+#### Nature Sensors正式创刊:Springer Nature 2026年1月新刊/传感技术全领域覆盖/量子传感生物医学数字孪生/2026(2026-06)
+- [CSDN Nature Sensors 2026](https://blog.csdn.net/c9yv2cf9i06k2a9e/article/details/157264118) | Springer Nature; 2026年1月正式上线; Nature Portfolio全新研究型期刊
+- **期刊定位**:Nature Portfolio推出的传感技术全领域期刊——发表传感技术各领域的基础研究、应用研究和工程研究
+- **覆盖领域**:生物/计算/工程/系统等领域——包括生物传感、计算传感、工程传感和系统传感
+- **与量子传感关联**:量子传感是Nature Sensors的核心方向之一;传感技术快速发展期——量子传感从实验室走向实际应用的关键节点;Nature Sensors将记录量子传感商业化进程中的关键里程碑
+- **技术背景**:传感器广泛应用于智能手表、手机、汽车、房屋等——对基础设施和环境进行监测;传感技术对健康监测、数字孪生、自动系统、扩展现实等新兴技术发展至关重要
+
+#### Jayich Lab UCSB量子传感成像:2026年1月Goldwater奖学金提名/自旋-声子耦合/NV色心/石墨烯电流成像/2026(2026-06)
+- [Jayich Lab官网](http://www.10-9lab.com/) | UC Santa Barbara; Jayich Lab; 2026年6月持续活跃; "Quantum Sensing and Imaging Group"
+- **研究方向**:纳米级自旋和电荷量子成像——聚焦固态量子系统中的量子效应;研究方向包括量子接口(Quantum Interfaces)、自旋-声子耦合(Spin-phonon Coupling)、磁力计(Magnetometry)和金刚石生长(Diamond Growth)
+- **近期成果**:2026年1月Isaac Kantor junior获得UCSB Goldwater奖学金提名——代表量子传感本科研究的卓越性;早期工作亮点:石墨烯电流成像(Graphene current flow imaging)被Physics杂志专题报道
+- **技术路线**:混合量子系统——由自旋、声子和光子组成;聚焦纳米尺度成像——用于量子计算和生物学应用
+- **量子传感关联**:NV色心是实验室核心量子传感平台;自旋-声子耦合研究推动NV色心灵敏度提升;量子传感向生物成像拓展的代表性实验室
+
+#### Bosch Quantum Sensing×Element Six:合资公司/合成金刚石NV量子传感/Bosch十年研发/全球市场潜在数十亿美元/2025(2026-06)
+- [Bosch Quantum Sensing合作公告](https://www.bosch-quantumsensing.com/insights-and-updates/bosch-establishes-company-with-the-synthetic-diamond-solutions-provider-element-six/) | Bosch Quantum Sensing + Element Six (戴比尔斯集团旗下); 2025年7月; 博世量子传感官方公告
+- **合作框架**: Bosch与Element Six成立合资公司——Element Six是全球领先的人造金刚石/合成金刚石解决方案提供商; Bosch已有超过十年的量子技术研究基础
+- **核心技术**:合成金刚石是Bosch量子传感器的关键组件——NV色心集成于高纯度人造金刚石中;Element Six提供量子级别人造金刚石衬底
+- **市场规模**:Bosch估计——量子传感在医疗和移动领域的全球市场潜在价值达数十亿美元(mid-single-digit billion range)
+- **应用方向**:紧凑/稳健/用户友好的磁场量子传感器;医疗技术/消费电子/导航/资源勘探/过程优化
+- **量子传感关联**:博世是全球量子传感商业化领先企业之一;Element Six提供量子级别人造金刚石——NV量子传感的核心材料;双方合作将加速量子传感器从实验室到工业规模的转型
+
+#### Nature Nanotechnology:人工设计光学活性可调量子传感器/分子自组装/光致变色/可重构量子传感/2025(2026-06)
+- [Nature Nanotechnology:Artificial optical activity quantum sensor](https://www.nature.com/articles/s41565-024-02651-4) | Nature Nanotechnology; 2025年相关量子传感研究; 分子级量子传感器设计
+- **核心概念**:利用分子自组装技术设计人工光学活性可调的量子传感器——通过分子工程实现量子传感特性的可调节化
+- **技术路线**:光致变色分子开关用于可重构量子传感——分子光学活性可通过外部刺激(光/电/化学)调节;实现量子传感器的动态可编程功能
+- **突破意义**:传统量子传感器功能固定——人工设计可调量子传感器代表量子传感从"单一功能"向"可编程多功能"进化
+- **量子传感关联**:分子级量子传感器的全新设计范式;光致变色+量子传感=可重构量子感知平台;量子传感器多功能化的新路径
+
+---
+*本次更新: Nature Physics宽频离子拉曼跃迁800倍频展3.4dB亚SQL/ Nature Sensors 2026年1月正式创刊/ Jayich Lab UCSB量子传感成像Goldwater提名/ Bosch×Element Six合资量子传感合成金刚石/ Nature Nanotechnology人工可调分子量子传感器(2026-06-04早-04:14)*
