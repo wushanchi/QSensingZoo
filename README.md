@@ -2,6 +2,41 @@
 
 ---
 ---
+---
+### 🆕 新增条目(2026-06-03下午-13:14 - 本次更新)
+
+#### IEEE GRSS QUEST量子地球科学与技术TC:QS4EO+QC4EO+QUEST Webinars/GRSS-IEEE/量子传感遥感地球科学融合(2026)
+- [GRSS-IEEE:Quantum Earth Science and Technology TC](https://www.grss-ieee.org/technical-committees/quantum-earth-science-and-technology-quest/) | IEEE GRSS; 量子地球科学和技术技术委员会
+- **技术委员会**:Chair Gabriele Cavallaro(冰岛大学+Forschungszentrum Jülich); Co-Chair Upendra N. Singh(NASA Langley); 两大工作组——QS4EO(Quantum Sensing for Earth Observation)和QC4EO(Quantum Computing for Earth Observation)
+- **QS4EO工作组**:专注量子传感对地观测应用;量子传感技术(如量子成像、量子光谱、量子磁力计)赋能遥感
+- **QC4EO工作组**:探索量子计算在对地观测数据处理中的应用;量子机器学习辅助遥感数据分析
+- **QUEST Webinars**:量子地球科学Webinar系列;促进量子技术与地球科学交叉融合;跨学科协作平台
+- **量子传感关联**:QUEST TC是量子传感与遥感/地球科学交叉的全球核心协调机构;QS4EO代表量子传感对地观测的应用前沿;量子传感与遥感融合是量子传感商业化的重要垂直赛道
+
+#### Fraunhofer IAF QUASAR项目2026年进展:硅自旋qubit平台/4K晶圆探针/6月慕尼黑LASER展出/EU Quantum Flagship量子重力研讨会6月3-5日(2026-06)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; EU Quantum Flagship; 2026年6月持续推进
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;纳米电子学/材料科学/生物医学;2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈;建立欧洲金刚石量子传感供应链
+- **EU量子重力研讨会**:2026年6月3-5日;EU Quantum Flagship量子重力研讨会;聚焦量子重力仪、量子加速度计在地球科学和导航中的应用
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;QUASAR项目代表量子传感从实验室向晶圆级制造迈进;EU量子重力研讨会反映欧洲对量子重力传感的高度重视
+
+#### Imec高NA EUV硅量子比特:光致发光光谱/自旋相干性/量子传感SoC集成潜力(2026)
+- [Imec:High-NA EUV lithography for quantum devices](https://www.imec.nl) | Imec; 2026; 比利时
+- **技术方案**:利用高数值孔径极紫外(High-NA EUV)光刻技术制备硅量子比特器件;光致发光光谱表征量子阱和量子点结构;评估自旋相干性指标(T2*, T2)
+- **量子传感关联**:硅量子比特平台兼具量子计算与量子传感双重功能;High-NA EUV是量子传感器芯片级SoC集成的使能工艺;Imec的研究代表CMOS兼容量子传感SoC化的最前沿
+
+#### Frostbyte可扩展量子控制芯片:€130万欧元/量子传感硬件/欧洲量子传感创业生态(2026-05)
+- [Frostbyte官网](https://frostbyte.io/) | Frostbyte; 2026年5月获得€130万欧元融资; 2026年5月12日发布
+- **技术方向**:可扩展量子控制芯片——面向量子传感器和量子计算机的低延迟、低功耗控制读出芯片;利用先进半导体工艺实现量子传感器的芯片级集成控制
+- **量子传感关联**:量子控制芯片是量子传感器实用化的关键使能;€130万欧元融资代表欧洲量子传感硬件创业生态正在成长;芯片级控制是量子传感器走出实验室走向工业规模化的核心环节
+
+#### Cisco量子传感研究新进展:Secure optical communication enabled by a wavelength-division-multiplexed quantum alarm(2026-02)
+- [Cisco Research:Publications](https://research.cisco.com/) | Jiapeng Zhao, Stéphane Vinet, Michael Kilzer, Eneet Kaur, Ramana Rao Kompella, Reza Nejabati; February 2026 | ACM
+- **论文标题**:Secure optical communication enabled by a wavelength-division-multiplexed quantum alarm
+- **技术方案**:基于波长分复用(WDM)技术的量子报警系统;利用量子传感原理检测光通信中的窃听行为;量子报警机制可在WDM系统中实现无条件安全通信
+- **量子传感关联**:量子报警是量子传感在网络安全领域的创新应用;WDM量子报警将量子传感原理融入光纤通信基础设施;是量子传感与通信安全融合的前沿探索
+
+---
 ### 🆕 新增条目(2026-06-03中午-12:44 - 本次更新)
 
 #### arXiv:2606.02560——锶原子tweezer阵列中红外平台:亚波长原子阵列/集总发射/超辐射/量子模拟/量子传感(2026-06)
