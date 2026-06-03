@@ -1,1 +1,1 @@
-f8a085d 2026-06-04 04:44 CST - 🆕 新增11条量子传感资讯（Cerca Magnetics A轮融资380万英镑/悬浮NV纳米金刚石量子控制/HKU量子传感显微镜/SBQuantum/muquanta产品线/Quantum Singapore 2026论坛/MPCVD金刚石NV/IDTechEx量子传感器市场报告/Neurable脑波耳机/Quantum Motion C轮/乌尔姆大学NV波导磁力仪）
+68d50a3 2026-06-04 06:44 CST - 🆕 新增3条量子传感资讯（Qnami被Quantum Design收购/VerticalCompute合作/量子传感半导体需求爆发）
