@@ -86,6 +86,41 @@
 - **量子传感关联**:两大会议共同反映量子传感从学术研究向产业化规模化部署的全面加速;量子传感正在成为全球量子产业化的最先突破方向
 
 ---
+---
+### 🆕 新增条目(2026-06-04早-05:44 - 本次更新)
+
+#### Nature Sensors创刊:2026年正式发刊/量子传感/生物传感/新型传感器材料/Nature Portfolio新刊(2026-06)
+- [Nature Sensors官网](https://www.nature.com/natsensors/) | Nature Portfolio; 2026年1月正式创刊; 发表传感技术基础研究、应用研究和工程研究
+- **期刊范围**:涵盖传感技术各领域——生物、计算、工程和系统等广泛领域; 新型传感器材料和装置开发; 传感器系统设计、整合与广泛应用
+- **量子传感关联**:Nature Sensors为量子传感提供新的顶级学术平台; 填补了Nature Portfolio在传感技术综合领域的空白; Nature旗下首个专注传感技术的跨学科期刊
+- **代表文章**:创刊第三篇即为中国青年学者邵泽伟等人的"Robust spectral sensor for standoff biometric detection"——远程生物特征检测; 代表量子传感+生物检测的融合前沿
+
+#### Quantinuum IPO上市:纳斯达克/发行价$53-55/2650万股/股票代码QNT/最高融资$14.6亿/2026年量子产业标志性事件(2026-06)
+- [腾讯新闻:Quantinuum IPO](https://new.qq.com/rain/a/20260601A090WK00) | Quantinuum; 霍尼韦尔旗下; 2026年6月1日SEC文件披露; 纳斯达克上市; 股票代码QNT
+- **发行细节**:2650万股A类普通股; 发行价$53-55/股; 融资规模最高$14.6亿; 按区间上限定价市值约$127亿
+- **量子传感关联**:Quantinuum基于离子阱技术——离子阱同时是高精度量子传感器的核心; 其量子计算机与量子传感在读出电路和控制技术上高度共享; IPO代表量子传感相关量子计算平台进入主流资本市场
+
+#### Cerca Magnetics完成380万英镑A轮融资:可穿戴量子脑成像扫描仪/诺丁汉大学衍生企业/神经活动高精度测量/临床医疗市场/2026(2026-06)
+- [腾讯新闻:Cerca Magnetics 380万英镑A轮](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics; 英国诺丁汉大学物理与天文学院衍生; 2026年4月融资; 吉尼斯风险投资领投; 投后估值3000万英镑
+- **核心产品**:可穿戴式脑成像扫描仪——采用量子传感器对神经活动进行高精度测量; 使用optically pumped magnetometer(光泵浦磁力计)技术
+- **技术路线**:量子传感→脑功能成像→临床诊断; 可穿戴设计使脑成像从实验室走向病床边和日常场景
+- **量子传感关联**:量子磁力计在脑科学领域的商业化先驱; 可穿戴脑成像代表量子传感进入临床医疗市场的重大突破; 继qe感应之后量子传感在生命科学领域的又一重要商业化方向
+
+#### 量子传感市场分析:IDTechEx/17个技术方向/原子钟/量子陀螺仪/量子重力仪/量子图像传感器/2024-2044市场规模预测(2026-06)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 量子传感市场全面分析; 2023年发布持续被引用
+- **覆盖领域**:原子钟(atomic clocks); 量子陀螺仪(quantum gyroscopes); 量子磁场传感器(quantum magnetic field sensors); 量子重力仪(quantum gravimeters); 量子图像传感器(quantum image sensors)
+- **应用方向**:电动汽车(electric vehicles); GPS拒止导航(GPS denied navigation); 地质勘探; 国防安全
+- **量子传感关联**:IDTechEx报告系统梳理量子传感17个技术方向的市场玩家和技术现状; 量子传感正在从实验室向大规模商业应用扩展; 市场规模预测为量子传感产业化提供重要参考
+
+#### EU Quantum Act:2026年正式通过/欧盟量子旗舰计划延伸/120亿欧元投资/量子传感成为欧洲战略重点(2026-06)
+- [European Commission:EU Quantum Act](https://digital-strategy.ec.europa.eu/en/policies/quantum) | European Commission; 2026年正式通过; EU Quantum Act三大核心目标:促进研究与创新/建立弹性量子生态/确保量子主权
+- **投资规模**:欧盟量子旗舰计划及相关项目投资约120亿欧元; 覆盖量子计算/量子通信/量子传感全产业链
+- **量子传感定位**:传感技术是欧盟量子战略的重要组成部分; 量子传感在地球观测/导航/医疗检测方面被列为优先方向
+- **量子传感关联**:EU Quantum Act正式通过标志量子传感成为欧盟战略技术重点; 量子传感从科研项目上升为国家战略和产业政策层面; 欧洲量子传感产业生态将进入快速发展期
+
+---
+*本次更新: Nature Sensors 2026创刊量子传感新平台/ Quantinuum IPO $14.6亿纳斯达克QNT/ Cerca Magnetics £380万A轮可穿戴脑成像/ IDTechEx量子传感市场$7亿+规模预测/ EU Quantum Act 2026正式通过120亿欧元(2026-06-04早-05:44)*
+
 *本次更新: Nature Nanotechnology原子级STM量子传感器亚埃米分辨率/ 国仪量子ciQUS磁成像工业级解决方案/ 量子精密测量学术会议动态Quantum.Tech 2026+Quantum Singapore 2026(2026-06-04早-01:44)*
 
 ---
