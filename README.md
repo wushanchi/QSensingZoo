@@ -2,6 +2,42 @@
 
 ---
 ---
+### 🆕 新增条目(2026-06-03早-11:14 - 本次更新)
+
+#### Q-BIOMED英国量子生物医学传感研究中心:
+1.6亿英镑量子技术研究网络/癌症/阿尔茨海默病早期诊断/超灵敏血液检测/核磁共振扫描加速/便携式仪器/英国国家量子技术计划(2026-06)
+- [Q-BIOMED官网](https://www.qbiomed.org/) | UK Quantum Biomedical Sensing Research Hub; 2026年6月持续活跃; 英国首个量子生物医学研究中心
+- **研究目标**:通过ultra-sensitive blood tests(超灵敏血液检测)、faster MRI scan times(核磁共振扫描加速)、lower costs and portable instruments(更低成本和便携式仪器)实现癌症和阿尔茨海默病的早期诊断
+- **技术路线**:量子增强传感技术→医疗诊断应用;量子传感对生物标志物检测的灵敏度远超传统技术
+- **资金来源**:英国国家量子技术计划£160M量子技术研究网络五大中心之一
+- **量子传感关联**:Q-BIOMED代表量子传感在生物医学领域的最直接应用;早期诊断=生命救助;量子传感可检测传统技术无法探测的生物标志物;是量子传感商业化最意义重大的方向之一
+
+#### QuantuMDx量子激发即时诊断:
+现场快速/精准传染病诊断/性传播感染/抗菌素耐药性/多路复用诊断/消除复杂结果解读/英国纽卡斯尔(2026-06)
+- [QuantuMDx官网](https://www.quantumdx.com/) | QuantuMDx; 2026年6月持续活跃; 英国纽卡斯尔量子诊断公司
+- **核心产品**:Q-POC™平台——point-of-care即时诊断;快速、可靠的传染病检测
+- **技术路线**:量子激发精准诊断;advanced platforms and novel range of assays;Sophisticated software algorithms自动消除复杂结果解读
+- **应用场景**:性传播感染(STIs)快速检测;抗菌素耐药性(AMR)精准诊断;多路复用诊断multiplex diagnostics
+- **量子传感关联**:QuantuMDx代表量子传感在医疗诊断领域的商业化应用;量子激发技术可实现现场即时诊断;降低医疗门槛、提高诊断可及性
+
+#### Quantum Motion $1.6亿C轮融资:
+硅基量子计算/"晶体管时刻"/CMOS兼容/智能手机技术/可扩展量子架构/数据中心集成(2026-06)
+- [Quantum Motion官网](https://quantummotion.com/) | Quantum Motion; 2026年6月2日发布; $160M Series C融资
+- **核心技术**:硅基量子计算机——基于与智能手机和计算机相同的技术(silicon-spin architecture);兼容标准硅工艺CMOS
+- **商业目标**:deliver the "Transistor Moment" for quantum computing——让量子计算实现类似晶体管给电子学带来的革命性突破
+- **可扩展性论证**:单逻辑量子比特可能需要1000个物理量子比特进行纠错;只有可扩展架构才能将芯片尺寸保持在邮票大小而非体育场大小
+- **量子传感关联**:Quantum Motion虽然主业是量子计算，但其硅基量子平台与量子传感读出电路的CMOS集成高度相关;量子传感的芯片化或可从其技术平台获益
+
+#### IEQNET伊利诺伊量子网络:
+量子通信+量子传感融合测试平台/Fermilab主导/多节点城域网络/与经典网络共存/量子时序同步/美国能源部国家实验室(2026-06)
+- [IEQNET官网](https://ieqnet.fnal.gov/) | IEQNET(Illinois-Express Quantum Network); Fermilab主导; 2026年6月持续活跃
+- **项目架构**:美国能源部国家实验室(Fermilab+Argonne)+学术机构(西北大学+加州理工)+小企业(NuCrypt+HyperLight)+INQNET AT&T/Caltech联盟
+- **关键特性**:多节点、灵活、弹性网络配置;支持多用户;与经典网络共存于同一光纤DWDM系统;分层架构集中控制
+- **量子时序**:量子通信基础设施与量子增强时序同步高度协同;分布式量子传感的基础网络
+- **量子传感关联**:IEQNET是量子传感+量子通信融合基础设施的典型代表;量子时序同步是量子传感在通信领域的关键应用;量子通信基础设施同时支撑量子传感网络的部署
+
+---
+
 ### 🆕 新增条目(2026-06-03早-10:44 - 本次更新)
 
 #### Impact Quantum:量子传感商业化快于量子计算/行业领袖关注/第一个大规模商业化胜利来自传感器而非量子计算机/定位导航时序系统率先突破(2026-06)
@@ -3900,6 +3936,8 @@
 - **量子传感关联**:Quantum Coast Capital代表量子传感领域的专业投资力量；量子传感正从实验室走向市场(实验室到市场加速期)；量子传感商业化路径在医学和国防领域率先突破
 
 ---
+*本次更新: Q-BIOMED英国量子生物医学传感研究中心/QuantuMDx量子激发即时诊断/Quantum Motion $1.6亿C轮/IEQNET伊利诺伊量子网络(2026-06-03早-11:14)*
+
 *本次更新: arXiv:2606.02399 NV金刚石色心120GPa高压光学稳定性/ arXiv:2606.02197量子启示地形立体视觉超瑞利极限/ Quantum Innovation Summit Dubai 2026/ Quantum Coast Capital量子传感投资(2026-06-03凌晨-03:14)*
 
 *本次更新: arXiv:2606.02574 IBM Quantum Nighthawk核子反核子量子模拟QCD2/Infleqtion中性原子量子计算机精密传感双物种原子/ IQT Lab集成量子光子学OPA并行零拍检测/ EU量子重力研讨会6月3-5日/ SMG量子效应MEMS重力传感/Quantum Singapore 2026论坛回顾(2026-06-03凌晨-01:14)*
