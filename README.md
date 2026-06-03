@@ -1,3 +1,23 @@
+### 🆕 新增条目(2026-06-04早-05:14 - 本次更新)
+
+#### TIME 100评选Q-CTRL为2026年全球量子产业领导者:Q-CTRL量子传感/量子计算双赛道/AI驱动量子基础设施软件/全球量子导航首次真正量子优势(2026-06)
+- [Q-CTRL官网:TIME 100 Recognition](https://q-ctrl.com/) | TIME将Q-CTRL列入"2026年全球100位产业领袖"首届榜单;表彰其在为国防和企业客户提供变革性量子技术解决方案方面的全球领导力;Q-CTRL持有实现真正量子优势的钥匙;AI驱动的量子基础设施软件连接量子和经典世界;量子传感和量子计算双赛道
+- **双赛道布局**:量子计算(Fire Opal)+量子传感(Ironstone Opal/Boulder Opal);AI-for-Quantum技术路线;McKinsey称量子是2万亿美元市场机会
+- **量子传感核心**:Ironstone Opal量子保证导航系统;首个真实量子优势——GPS拒止环境下量子导航;22米定位精度/46倍精度提升
+- **量子传感关联**:Q-CTRL代表量子传感软件化商业路径;AI+量子传感融合是产业化关键;TIME认可标志量子传感进入主流产业视野
+
+#### Fraunhofer IAF QUASAR项目6月进展:Fraunhofer IAF/QUASAR/宽场NV磁力计/4K晶圆探针台/6月27-30日慕尼黑LASER World of QUANTUM展出/EU Quantum Flagship(2026-06)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; EU Quantum Flagship; 2026年6月持续推进
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;纳米电子学/材料科学/生物医学;2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈;建立欧洲金刚石量子传感供应链
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;QUASAR项目代表量子传感从实验室向晶圆级制造迈进;EU量子重力研讨会反映欧洲对量子重力传感的高度重视
+
+#### Element Six量子传感专用合成金刚石:CVD合成金刚石/NV色心最优衬底/量子传感专用材料/量子信息处理(2026-06)
+- [Element Six官网](https://www.e6.com/) | Element Six; 2026年持续更新; 全球领先的CVD合成金刚石材料供应商
+- **量子传感专用金刚石**:Element Six提供量子传感应用专用金刚石衬底;优化NV色心密度和相干时间;是NV金刚石磁力计的核心材料供应商
+- **技术优势**:CVD(化学气相沉积)方法精准控制金刚石生长;可定制NV浓度/晶相/取向;支撑全球主要量子传感研究机构和商业公司
+- **量子传感关联**:Element Six金刚石材料是NV量子传感器的核心上游;量子传感商业化规模扩大带动CVD金刚石需求增长;Element Six与量子传感产业深度绑定
+
 ### 🆕 新增条目(2026-06-04早-04:44 - 本次更新)
 
 #### Cerca Magnetics完成380万英镑A轮融资:可穿戴式量子脑成像扫描仪/诺丁汉大学衍生/光泵磁力仪OPM/3000万英镑估值/Guinness Ventures领投/婴幼儿脑功能成像/癫痫多发性硬化痴呆研究/英美临床注册审批中(2026-04)
