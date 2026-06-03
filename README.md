@@ -1,3 +1,40 @@
+### 🆕 新增条目(2026-06-04早-04:44 - 本次更新)
+
+#### Cerca Magnetics完成380万英镑A轮融资:可穿戴式量子脑成像扫描仪/诺丁汉大学衍生/光泵磁力仪OPM/3000万英镑估值/Guinness Ventures领投/婴幼儿脑功能成像/癫痫多发性硬化痴呆研究/英美临床注册审批中(2026-04)
+- [腾讯新闻: Cerca Magnetics完成380万英镑A轮融资](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | 诺丁汉大学物理与天文学院衍生企业; 采用轻量化可穿戴式光泵磁力仪替代传统固定式扫描设备; 首次实现婴幼儿脑功能成像; 已应用于癫痫、多发性硬化、痴呆等多种神经系统疾病研究
+
+#### Nature Communications:悬浮纳米金刚石中NV中心量子控制/旋转频率100kHz/转速1.2×10⁹ rpm/首次在高真空实现芯片上悬浮/量子陀螺仪/量子重力/质量波干涉仪/Nature Communications 2024
+- [Nature Communications s41467-024-49175-3](https://www.nature.com/articles/s41467-024-49175-3) | 集成表面离子阱/多稳定电极; 首次在高真空下对悬浮纳米金刚石进行光检测磁共振测量; 内部温度在<10⁻⁵ Torr时保持中等; 驱动纳米金刚石旋转至20 MHz
+
+#### HKU QDMTM量子传感显微镜:香港大学工程团队/基于NV的金刚石量子传感显微镜/细胞牵张力成像/广域量子钻石显微镜/神经形态视觉传感器/可量化细胞受力/Nature子刊2024
+- [HKU press release](https://hku.hk/press/press-releases/detail/27235.html) | 香港大学Ngai Wong/Can Li/Zhiqin Chu团队; 牵张力测量/细胞铺展形态/细胞-细胞接触; T1映射提取细胞力; 框架型与事件型传感器对比
+
+#### muquanta量子精密测量产品线:量子重力仪/量子加速度计/原子干涉仪/芯片化原子惯性传感器/自主可控/2026
+- [muquanta官网](https://www.muquanta.com/) | 量子重力仪/量子加速度计/原子干涉仪等量子精密测量仪器; 持续推进芯片化原子惯性传感器商业化
+
+#### SBQuantum量子金刚石磁力计:加拿大/SBQuantum/field-proven量子钻石磁传感/国防安全/商用导航/磁场映射/2026
+- [SBQuantum官网](https://www.sbquantum.com/) | 量子钻石磁传感技术; 用于定位和导航; field-proven解决方案; 揭示不可见磁场
+
+#### Quantum Singapore 2026论坛:新加坡滨海湾金沙/2026年2月4日/"量子汇聚:从硬件突破到工业应用"/NV钻石磁力计/原子干涉仪/量子重力仪商用化/ICV TA&K+FinQ Tech+Informa Markets/IEEE Photonics Society学术支持(2026-02)
+- [腾讯新闻: Quantum Singapore 2026论坛开幕](https://new.qq.com/rain/a/20260207A067DT00) | 论坛由ICV TA&K、FinQ Tech Inc.及Informa Markets联合主办; 汇聚全球顶尖量子科学家、行业领袖及技术专家; 探寻硬件优化、软硬协同及区域化生态构建最优解
+
+#### Sci China: MPCVD共工程化金刚石NV中心用于集成电路无损量子传感/微波等离子体化学气相沉积/磁传感性能优化/NV浓度与相干时间平衡/2025
+- [Science China](http://engine.scina.com/doi/10.1007/s11433-025-2790-1) | Zhengfeng Zhang/Haoran Zheng等; 高性能NV中心金刚石样品合成; 磁传感应用; 磁灵敏度依赖NV浓度和相干时间
+
+#### IDTechEx量子传感器市场报告2024-2044:17个量子传感技术领域/原子钟/量子陀螺仪/量子磁场传感器/量子重力仪/量子图像传感器/EV/GPS拒绝导航/医学成像/量子计算应用(2023-2025)
+- [IDTechEx Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | 原子钟/量子陀螺仪/量子磁力计/量子重力仪/量子图像传感器; 技术玩家/市场预测; 电驱动车辆/GPS拒止导航/医学成像/量子计算应用
+
+#### Neurable × HyperX CES 2026首款脑波追踪游戏耳机:实时解读神经信号/专注度注意力认知表现/非侵入式神经技术/CES 2026首日发布(2026-01)
+- [腾讯新闻: CES 2026速览](https://so.html5.qq.com/page/real/search_news?docid=70000021_283695ddcb824052) | 波士顿神经技术公司Neurable与惠普HyperX合作; 将脑机接口技术集成到经典游戏耳机形态; 实时感知解读大脑活动
+
+#### Quantum Motion $1.6亿C轮:硅自旋量子比特/CMOS兼容/可扩展架构/100万量子比特/晶体管级制造/2026(2026-06)
+- [Quantum Motion官网](https://www.quantummotion.com/) | 伦敦大学学院衍生; CMOS兼容量子计算平台; 晶体管时刻制造; 可扩展至百万量子比特; 量子传感应用延伸
+
+#### Università di Ulm:NV中心激光写入波导金刚石磁力仪/集成光波导/无需直接光照射/生物系统兼容/室温工作/2025
+- [Universität Ulm - Quantum Sensing](https://www.uni-ulm.de/en/nawi/institute-for-quantum-optics/group-prof-kubanek/experiments/quantum-sensing/) | 光泵磁力仪; 激光写入波导集成NV中心; 无直接光照射; 适用于光敏感生物系统磁测量
+
+---
+
 ---
 
 ---
