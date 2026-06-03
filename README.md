@@ -3,6 +3,35 @@
 ---
 ---
 ---
+### 🆕 新增条目(2026-06-03晚-23:44 - 本次更新)
+
+#### Northwestern/BU/UC Berkeley:首个商用CMOS代工厂制造的电子-光子量子芯片/1mm×1mm/自稳定/集成光电检测/量子通信传感处理/Nature Electronics 2025(2026-06)
+- [Northwestern News:First electronic-photonic quantum chip](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) | Northwestern+BU+UC Berkeley联合团队; 发表于Nature Electronics (s41928-025-01410-5); 2025年
+- **核心突破**:首次将量子光源(光子组件)与经典电子控制电路在同一硅芯片上单片集成;尺寸仅1mm×1mm;集成了微环谐振器(比头发丝细得多)生成纠缠光子对;内置光电传感器监测+微型加热器自动补偿温度漂移——实时自稳定
+- **技术方案**:强激光射入硅微环谐振器生成光子对→光电流传感器检测漂移→微型加热器反馈校正;所有组件集成于标准CMOS工艺代工厂制造
+- **制造意义**:商业半导体 foundry(代工厂)完成制造,证明可规模化大生产;首次实现 monolithic electronic-photonic-quantum 三方单片集成
+- **应用方向**:量子通信/量子传感/量子计算;绕过笨重的外部设备,实现全芯片化量子光子系统
+- **量子传感关联**:量子传感芯片化的重大里程碑;集成光电反馈=量子传感器自校准;1mm²全功能量子光子芯片代表量子传感器从实验室仪器向工业嵌入式传感器的跨越
+
+#### Bristol University:量子增强大规模可制造光子传感器/热光学效应/室温工作/温室气体监测/癌症检测/Nature photonics 2025(2026-06)
+- [Tech Briefs:Bristol Quantum Photonic Sensors](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | Bristol University/Joel Tasker团队; physics; 发表于Nature Photonics; 2025年2月
+- **核心突破**:找到一种在商业foundry批量制造的光子传感器上实现量子增强操作的方法——在量子极限附近工作
+- **技术方案**:光热效应(photothermal effect)作为信号转导机制;利用光子芯片microring resonator纳米制造;传统CMOS制造工艺即可量产
+- **突破意义**:大多数量子传感方案依赖纠缠或压缩光,难以生成和检测——是商业化主要障碍;Bristol方案绕过了这一障碍
+- **应用方向**:监测温室气体浓度变化;癌症早期检测——利用量子增强灵敏度检测极微量生物标志物
+- **量子传感关联**:量子增强光子传感器是量子传感商业化的重要路线;批量制造能力是量子传感器走向大规模工业部署的前提;Bristol工作将量子传感从"需要特种设备"变为"可批量嵌入现有制造体系"
+
+#### QDTI:哈佛衍生量子生物标志物检测/≤5µL样本/<1 pg/mL灵敏度/<1小时/5步操作/量子传感即时诊断/2026(2026-06)
+- [QDTI官网](https://qdti.com/) | QDTI; Harvard University衍生; 2026年6月持续活跃; 量子增强即时诊断
+- **核心产品**:量子传感生物标志物检测平台——ultra-sensitive/simple/fast;基于哈佛大学世界领先量子传感研究
+- **技术指标**:≤5µL样本需求(指尖血级别);<1 pg/mL检测灵敏度;5步操作;<1小时出结果;量子技术驱动的极低检测限
+- **应用场景**:生物医学研究(BIOMEDICAL RESEARCH);药物研发(Drug Discovery & Development);诊断检测(DIAGNOSTIC TESTING)
+- **量子传感关联**:量子传感在生命科学领域的商业化前沿;生物标志物量子检测灵敏度远超ELISA等传统方法;QDTI代表量子传感即时诊断(POC)从概念到可交付产品的跨越
+
+---
+*本次更新: Northwestern/BU/Berkeley首个商用CMOS电子-光子量子芯片Nature Electronics 2025/ Bristol量子增强可制造光子传感器室温量子极限/ QDTI哈佛量子生物标志物检测<1pg/mL(2026-06-03晚-23:44)*
+
+---
 ### 🆕 新增条目(2026-06-03晚-22:14 - 本次更新)
 
 #### QuantX Labs量子PNT定位导航授时:澳大利亚/原子光钟/光子学/CRYO超精密时钟/BAE Systems/2016年创立/2026(2026-06)
