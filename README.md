@@ -1,4 +1,42 @@
+# QSensingZoo 🧪
+量子传感技术学习库 — 理论、应用与产业
+
+> Tutorial of quantum sensing technology, including theory, application and production.
+
+[![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
+[![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
+
+---
+
 ### 🆕 新增条目(2026-06-04早-05:14 - 本次更新)
+### 🆕 新增条目(2026-06-04早-06:44 - 本次更新)
+
+#### Qnami被Quantum Design收购:全球领先量子传感公司/NV金刚石量子传感规模化/Quantum Design全球渠道/2026-06
+- [Qnami官网: Qnami joins Quantum Design](https://qnami.ch/qnami-joins-quantum-design-to-accelerate-the-future-of-quantum-sensing/) | Qnami; 被Quantum Design收购; 2026年6月公告; 全球科学仪器和先进材料表征领域全球领导者
+- **收购详情**:Qnami将并入Quantum Design旗下; CEO Mathieu Munsch表示这是Qnami发展的重大里程碑; Quantum Design CEO Stuart Schoenmann表示将扩展量子传感产品组合
+- **合作目标**:推进Qnami现有扫描探针显微镜系统和量子传感组件能力; 探索学术研究、国家实验室和工业产品开发新机会
+- **技术覆盖**:量子材料/自旋电子学/纳米磁学/半导体/先进器件表征; 加快创新周期; 扩展全球支持和服务范围
+- **量子传感关联**:收购完成标志NV金刚石量子传感从初创公司向规模化商业化阶段; Qnami的ProteusQ系列扫描NV磁力计将借助Quantum Design全球渠道加速推广; 量子传感在先进半导体研发中从"小众"到"必需"的战略转变
+
+#### Qnami联手VerticalCompute:NV量子计量/支撑欧盟NanoIC试点线/下一代高性能能效芯片/半导体量子传感/2026-06
+- [Qnami官网: Qnami Supports VerticalCompute](https://qnami.ch/qnami-supports-verticalcompute-driving-european-semiconductor-innovation/) | Qnami; VerticalCompute; 欧盟NanoIC试点线; 量子计量解决方案; 2026年
+- **VerticalCompute**:欧盟初创公司; 专注重新定义存储技术; 获欧盟支持; 与imec合作推出NanoIC试点线
+- **量子传感作用**:Qnami提供先进量子计量解决方案; 加速VerticalCompute开发下一代高性能能效芯片; NV量子传感用于纳米级材料性质测量
+- **量子传感关联**:量子传感是先进半导体良率提升和材料发现的关键工具; NanoIC试点线代表欧盟半导体量子传感应用的规模化; Qnami+VerticalCompute展示了量子传感在半导体行业的商业路径
+
+#### Qnami市场分析:量子传感在关键行业需求爆发/先进半导体/量子材料/芯片小型化/国家战略资源/2026
+- [Qnami官网: From Niche to Necessity](https://qnami.ch/from-niche-to-necessity-quantum-sensings-growing-demand-in-critical-industries/) | Qnami; 量子传感市场需求分析; 2026年
+- **需求驱动因素**:芯片小型化; 环境担忧; 半导体作为国家战略资源; 效率驱动; AI/IoT/自动驾驶/可再生能源对先进半导体需求
+- **量子传感价值**:量子传感能在纳米级探测材料性质; 支持先进半导体研发; 发现新材料或材料变体提高性能; 减少稀有原材料使用; 限制环境足迹
+- **量子传感关联**:量子传感已从"小众"变为"必需"; 先进半导体制造商依赖量子传感进行研发; 市场增长潜力巨大; 量子传感在半导体行业的商业价值获得验证
+
+---
+
+*本次更新: Qnami被Quantum Design收购NV量子传感规模化/ Qnami+VerticalCompute支撑欧盟NanoIC/ 量子传感在半导体行业从"小众"到"必需"(2026-06-04早-06:44)*
+
+---
+
 
 #### TIME 100评选Q-CTRL为2026年全球量子产业领导者:Q-CTRL量子传感/量子计算双赛道/AI驱动量子基础设施软件/全球量子导航首次真正量子优势(2026-06)
 - [Q-CTRL官网:TIME 100 Recognition](https://q-ctrl.com/) | TIME将Q-CTRL列入"2026年全球100位产业领袖"首届榜单;表彰其在为国防和企业客户提供变革性量子技术解决方案方面的全球领导力;Q-CTRL持有实现真正量子优势的钥匙;AI驱动的量子基础设施软件连接量子和经典世界;量子传感和量子计算双赛道
