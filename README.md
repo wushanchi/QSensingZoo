@@ -1,6 +1,37 @@
 ---
 
 ---
+---
+### 🆕 新增条目(2026-06-03早-09:14 - 本次更新)
+
+#### Deteqt芯片级量子磁力计突破:金刚石晶体+定制半导体芯片/超高灵敏度/芯片级量子传感/Marine Technology News 2026-06-02(2026-06)
+- [Marine Technology News:Deteqt quantum magnetometer](http://www.marinetechnologynews.com/) | Deteqt; 2026年6月2日发布; 芯片级量子传感突破
+- **技术方案**:芯片级量子磁力计——将金刚石晶体与定制半导体芯片结合;实现超高灵敏度磁场探测
+- **核心突破**:芯片级封装意味着量子传感从实验室仪器向嵌入式工业传感器的跨越;量子传感芯片化是商业化的关键里程碑
+- **量子传感关联**:Deteqt代表量子磁力计芯片化的最新突破;芯片级量子磁传感对海洋探测、水下导航、资源勘探有重要意义
+
+#### Infleqtion量子传感产品矩阵:ColdQuanta演变/中性原子量子计算机+精密传感器+政府企业软件/量子光学+原子惯性传感(2026-06)
+- [Infleqtion官网](http://www.coldquanta.com/) | Infleqtion(前身ColdQuanta); 2026年6月持续活跃; "世界级中性原子量子计算机+精密传感器+政府和企业级软件"
+- **公司演变**:ColdQuanta正式更名为Infleqtion——反映量子技术从硬件向软硬件集成方案的扩张
+- **量子传感产品**:光学原子钟(Optical Atomic Clocks)+量子惯性传感器(Quantum Inertial Sensors);中性原子技术平台支撑量子计算和量子传感双赛道
+- **核心客户**:全球各国政府、企业数据中心、HPC提供商;量子传感器硬件供应商
+- **量子传感关联**:Infleqtion代表中性原子量子技术的商业化路径——同一技术平台支撑量子计算(Quahog)和量子传感(传感器);量子光学和原子惯性传感是其量子传感核心方向
+
+#### Quantinuum Helios量子计算机商业化发布:2026年6月发布/Where Limits End and Possibilities Dawn/量子计算商业化里程碑(2026-06)
+- [Quantinuum官网](https://www.quantinuum.com/) | Quantinuum; 2026年6月1日发布; Helios量子计算机商业发布
+- **产品定位**:Helios——"Where Limits End and Possibilities Dawn";Quantinuum新一代商用量子计算机
+- **公司背景**:全球最大集成全栈量子计算公司;H1/H2量子计算机+企业级软件+开发者工具链
+- **量子传感关联**:Helios量子计算平台可支撑量子传感的信号处理和纠错;量子计算与量子传感协同的硬件基础
+
+#### Quantum Innovation Summit Dubai 2026完整议程:9月28-30日/Quantinuum钻石赞助/TII量子催化剂/Q-CTRL创新支持/中东量子投资热潮(2026-06)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | 2026年9月28-30日; 迪拜 Grand Hyatt; ITU量子向善策展
+- **完整赞助商阵容**:Pioneer Sponsor: Quantinuum(钻石赞助商); Vanguard Sponsor: TII+Quantum Gate; Innovation Ally: Q-CTRL+Quantum Basel+Blue Titan+Norma
+- **战略合作伙伴**:e&(阿联酋电信); NYU Abu Dhabi学术合作
+- **量子传感关联**:迪拜峰会量子传感是核心议题;中东成为量子科技投资新兴力量;量子传感商业化推动全球产业协作
+
+---
+*本次更新: Deteqt芯片级量子磁力计芯片突破/Infleqtion(ColdQuanta)量子传感产品矩阵/Quantinuum Helios商业发布/Quantum Innovation Summit Dubai 2026完整议程(2026-06-03早-09:14)*
+
 ### 🆕 新增条目(2026-06-03早-08:14 - 本次更新)
 
 #### EU Quantum Flagship量子传感项目矩阵:C-QuENS NV色心传感/PoQus神经外科便携量子传感器/PROMISE欧洲磁成像/PROMISE原型/QUANTIFY光子集成传感(2026-06)
