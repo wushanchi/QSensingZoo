@@ -4550,3 +4550,45 @@
 
 ---
 *本次更新: Qnami ProteusQ-LT低温NV扫描显微镜+Quantum Design收购牛津仪器纳米科学部+量子通信IDTechEx市场预测(2026-06-04晚-20:44)*
+
+### 🆕 新增条目(2026-06-04晚-21:44 - 本次更新)
+
+#### Deteqt芯片级量子磁力计突破:金刚石晶体+定制半导体芯片/超高灵敏度/芯片级量子传感/Marine Technology News 2026-06-02(2026-06)
+- [Marine Technology News:Deteqt quantum magnetometer](http://www.marinetechnologynews.com/) | Deteqt; 2026年6月2日发布; 芯片级量子传感突破
+- **技术方案**:芯片级量子磁力计——将金刚石晶体与定制半导体芯片结合;实现超高灵敏度磁场探测
+- **核心突破**:芯片级封装意味着量子传感从实验室仪器向嵌入式工业传感器的跨越;量子传感芯片化是商业化的关键里程碑
+- **量子传感关联**:Deteqt代表量子磁力计芯片化的最新突破;芯片级量子磁传感对海洋探测、水下导航、资源勘探有重要意义
+
+#### Infleqtion量子传感产品矩阵:ColdQuanta演变/中性原子量子计算机+精密传感器+政府企业软件/量子光学+原子惯性传感(2026-06)
+- [Infleqtion官网](http://www.coldquanta.com/) | Infleqtion(前身ColdQuanta); 2026年6月持续活跃; "世界级中性原子量子计算机+精密传感器+政府和企业级软件"
+- **公司演变**:ColdQuanta正式更名为Infleqtion——反映量子技术从硬件向软硬件集成方案的扩张
+- **量子传感产品**:光学原子钟(Optical Atomic Clocks)+量子惯性传感器(Quantum Inertial Sensors);中性原子技术平台支撑量子计算和量子传感双赛道
+- **核心客户**:全球各国政府、企业数据中心、HPC提供商;量子传感器硬件供应商
+- **量子传感关联**:Infleqtion代表中性原子量子技术的商业化路径——同一技术平台支撑量子计算(Quahog)和量子传感(传感器);量子光学和原子惯性传感是其量子传感核心方向
+
+#### Fraunhofer IAF QUASAR项目2026年进展:硅自旋qubit平台/4K晶圆探针/6月慕尼黑LASER展出/EU Quantum Flagship量子重力研讨会6月3-5日(2026-06)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; EU Quantum Flagship; 2026年6月持续推进
+- **宽场NV磁力计**:快速磁成像,纳米分辨率,室温工作,基于4×4mm² IIa型金刚石衬底;纳米电子学/材料科学/生物医学;2026年6月27-30日慕尼黑LASER World of QUANTUM展会展出
+- **QUASAR项目**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈;建立欧洲金刚石量子传感供应链
+- **EU量子重力研讨会**:2026年6月3-5日;EU Quantum Flagship量子重力研讨会;聚焦量子重力仪、量子加速度计在地球科学和导航中的应用
+- **量子传感关联**:Fraunhofer IAF是欧洲量子传感产业化的核心机构;QUASAR项目代表量子传感从实验室向晶圆级制造迈进;EU量子重力研讨会反映欧洲对量子重力传感的高度重视
+
+#### Imec高NA EUV硅量子比特:光致发光光谱/自旋相干性/量子传感SoC集成潜力(2026)
+- [Imec:High-NA EUV lithography for quantum devices](https://www.imec.nl) | Imec; 2026; 比利时
+- **技术方案**:利用高数值孔径极紫外(High-NA EUV)光刻技术制备硅量子比特器件;光致发光光谱表征量子阱和量子点结构;评估自旋相干性指标(T2*, T2)
+- **量子传感关联**:硅量子比特平台兼具量子计算与量子传感双重功能;High-NA EUV是量子传感器芯片级SoC集成的使能工艺;Imec的研究代表CMOS兼容量子传感SoC化的最前沿
+
+#### Frostbyte可扩展量子控制芯片:€130万欧元/量子传感硬件/欧洲量子传感创业生态(2026-05)
+- [Frostbyte官网](https://frostbyte.io/) | Frostbyte; 2026年5月获得€130万欧元融资; 2026年5月12日发布
+- **技术方向**:可扩展量子控制芯片——面向量子传感器和量子计算机的低延迟、低功耗控制读出芯片;利用先进半导体工艺实现量子传感器的芯片级集成控制
+- **量子传感关联**:量子控制芯片是量子传感器实用化的关键使能;€130万欧元融资代表欧洲量子传感硬件创业生态正在成长;芯片级控制是量子传感器走出实验室走向工业规模化的核心环节
+
+#### Cisco量子传感研究新进展:Secure optical communication enabled by a wavelength-division-multiplexed quantum alarm(2026-02)
+- [Cisco Research:Publications](https://research.cisco.com/) | Jiapeng Zhao, Stéphane Vinet, Michael Kilzer, Eneet Kaur, Ramana Rao Kompella, Reza Nejabati; February 2026 | ACM
+- **论文标题**:Secure optical communication enabled by a wavelength-division-multiplexed quantum alarm
+- **技术方案**:基于波长分复用(WDM)技术的量子报警系统;利用量子传感原理检测光通信中的窃听行为;量子报警机制可在WDM系统中实现无条件安全通信
+- **量子传感关联**:量子报警是量子传感在网络安全领域的创新应用;WDM量子报警将量子传感原理融入光纤通信基础设施;是量子传感与通信安全融合的前沿探索
+
+---
+*本次更新: Deteqt芯片级量子磁力计/Infleqtion中性原子量子传感/Fraunhofer QUASAR宽场NV磁力计6月展出/Imec高NA EUV量子传感SoC/Frostbyte €130万量子控制芯片/Cisco WDM量子报警(2026-06-04晚-21:44)*
+
