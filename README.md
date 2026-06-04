@@ -4493,3 +4493,72 @@
 - **量子传感关联**:SBQuantum是NV色心量子传感商业化先驱;太空合同验证量子传感技术成熟度;量子磁力计从实验室走向太空实战
 
 *本次更新: arXiv中性原子量子门Hessian优化(2606.05060)/arXiv hBN核自旋任意操纵协议(2606.04497)/Q-Factor 2400万美元种子轮中性原子百万量子比特(2026-06)/SBQuantum 520万美元A轮NV量子磁力计太空合同(2026-06)*
+
+---
+
+### 🆕 新增条目(2026-06-05早-07:45 - 本次更新)
+
+#### IDTechEx量子传感器市场报告:2045年20亿美元/半导体制造工艺量产蒸汽气室/量子传感芯片化核心路径(2025-2026)
+- [App Developer Magazine:Quantum sensor market to grow to 2B by 2045](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | IDTechEx; 2025年4月发布
+- **核心观点**:量子传感器市场到2045年将增长至20亿美元;最成功路径是半导体制造工艺规模化生产组件;使量子传感器关键组件(蒸汽气室等)更高效生产
+- **Vapor cells规模化**:玻璃蒸汽气室是原子干涉型量子传感器的核心;传统玻璃工艺受限于尺寸和散射;晶圆级半导体制造工艺可批量生产高一致性蒸汽气室
+- **量子传感关联**:IDTechEx报告持续追踪量子传感商业化进程;蒸汽气室芯片级量产是量子传感器走出实验室的关键;半导体fab集成到价值链将获得最大回报
+
+#### attocube attoNVM低温NV色心扫描成像磁强计:1.8K至300K/3µT/√Hz灵敏度/纳米级定量磁场成像/德国attocube(2026-01)
+- [腾讯新闻:1.8K低温NV色心扫描磁学显微镜](https://new.qq.com/rain/a/20260122A024JB00) | attocube(德国); Quantum Design中国开放50个免费测样名额; 2026年1月发布
+- **技术方案**:金刚石氮空位(NV)中心作为量子传感载体;attoNVM能在2K至300K温度区间内以纳米级分辨率对样品杂散磁场进行测量;无需在样品表面制备微波传输线
+- **核心指标**:灵敏度3 µT/√Hz; 亚纳米空间分辨率; 支持1.8K低温至常温宽温区工作
+- **实测成果**:斯图加特大学Wrachtrup团队利用attoNVM在1.8K低温下以<50nm分辨率清晰分辨NbSe₂单个磁通涡旋,发表于《Physical Review Letters》;波士顿学院Brian B. Zhou团队利用attoNVM首次可视化CrPS₄反铁磁畴壁,发表于《Nature Materials》
+- **量子传感关联**:NV色心是固态量子传感最成熟平台; attocube代表欧洲量子传感仪器化的商业力量;室温工作+低温高精度双模式是量子传感实用化标杆
+
+#### Deteqt芯片级量子磁力计突破:金刚石晶体+定制半导体芯片/超高灵敏度/芯片级量子传感/Marine Technology News 2026-06-02(2026-06)
+- [Marine Technology News:Deteqt quantum magnetometer](http://www.marinetechnologynews.com/) | Deteqt; 2026年6月2日发布; 芯片级量子传感突破
+- **技术方案**:芯片级量子磁力计——将金刚石晶体与定制半导体芯片结合;实现超高灵敏度磁场探测
+- **核心突破**:芯片级封装意味着量子传感从实验室仪器向嵌入式工业传感器的跨越;量子传感芯片化是商业化的关键里程碑
+- **量子传感关联**:Deteqt代表量子磁力计芯片化的最新突破;芯片级量子磁传感对海洋探测、水下导航、资源勘探有重要意义
+
+#### Quantum Motion $1.6亿C轮融资:硅基量子计算/"晶体管时刻"/CMOS兼容/智能手机技术/可扩展量子架构(2026-06)
+- [Quantum Motion官网](https://quantummotion.com/) | Quantum Motion; 2026年6月2日发布; $160M Series C融资
+- **核心技术**:硅基量子计算机——基于与智能手机和计算机相同的技术(silicon-spin architecture);兼容标准硅工艺CMOS
+- **商业目标**:deliver the "Transistor Moment" for quantum computing——让量子计算实现类似晶体管给电子学带来的革命性突破
+- **可扩展性论证**:单逻辑量子比特可能需要1000个物理量子比特进行纠错;只有可扩展架构才能将芯片尺寸保持在邮票大小而非体育场大小
+- **量子传感关联**:Quantum Motion虽然主业是量子计算，但其硅基量子平台与量子传感读出电路的CMOS集成高度相关;量子传感的芯片化或可从其技术平台获益
+
+#### Quantinuum Helios量子计算机商业化发布:2026年6月发布/Where Limits End and Possibilities Dawn/量子计算商业化里程碑(2026-06)
+- [Quantinuum官网](https://www.quantinuum.com/) | Quantinuum; 2026年6月1日发布; Helios量子计算机商业发布
+- **产品定位**:Helios——"Where Limits End and Possibilities Dawn";Quantinuum新一代商用量子计算机
+- **公司背景**:全球最大集成全栈量子计算公司;H1/H2量子计算机+企业级软件+开发者工具链;2026年6月4日登陆纳斯达克,市值约176亿美元
+- **量子传感关联**:Helios量子计算平台可支撑量子传感的信号处理和纠错;量子计算与量子传感协同的硬件基础
+
+#### Q-BIOMED英国量子生物医学传感研究中心:1.6亿英镑量子技术研究网络/癌症/阿尔茨海默病早期诊断/超灵敏血液检测/英国国家量子技术计划(2026-06)
+- [Q-BIOMED官网](https://www.qbiomed.org/) | UK Quantum Biomedical Sensing Research Hub; 2026年6月持续活跃; 英国首个量子生物医学研究中心
+- **研究目标**:通过ultra-sensitive blood tests(超灵敏血液检测)、faster MRI scan times(核磁共振扫描加速)、lower costs and portable instruments(更低成本和便携式仪器)实现癌症和阿尔茨海默病的早期诊断
+- **资金来源**:英国国家量子技术计划£160M量子技术研究网络五大中心之一
+- **量子传感关联**:Q-BIOMED代表量子传感在生物医学领域的最直接应用;早期诊断=生命救助;量子传感可检测传统技术无法探测的生物标志物
+
+#### Impact Quantum:量子传感商业化快于量子计算/第一个大规模商业化胜利来自传感器而非量子计算机/定位导航时序系统率先突破(2026-06)
+- [Impact Quantum:Quantum Sensing Is Emerging Faster Than Quantum Computing](https://impactquantum.com/quantum-sensing-is-emerging-faster-than-quantum-computing-and-industry-leaders-are-paying-attention/) | Impact Quantum; Candace Gillhoolley; 2026年6月1日发布
+- **核心观点**:第一个大规模商业化胜利来自量子传感器而非通用量子计算机;量子传感比量子计算更接近实用化——量子传感器不需要百万级纠错量子比特
+- **PNT定位导航授时**:GPS脆弱性催生量子PNT需求;冷原子干涉仪量子加速度计可在无GPS环境下独立导航;国防/航空航天领域战略意义重大
+- **量子通信时序**:量子增强原子钟正成为分布式基础设施同步的核心;量子时序精度对金融/数据中心/电信、电网意义重大
+- **量子传感关联**:量子传感是倾听大自然在说什么而非强迫大自然做计算;量子传感比量子计算更早商业化;量子传感+AI+经典计算形成融合技术生态
+
+#### IEQNET伊利诺伊量子网络:量子通信+量子传感融合测试平台/Fermilab主导/多节点城域网络/与经典网络共存/量子时序同步/美国能源部国家实验室(2026-06)
+- [IEQNET官网](https://ieqnet.fnal.gov/) | IEQNET(Illinois-Express Quantum Network); Fermilab主导; 2026年6月持续活跃
+- **项目架构**:美国能源部国家实验室(Fermilab+Argonne)+学术机构(西北大学+加州理工)+小企业(NuCrypt+HyperLight)+INQNET AT&T/Caltech联盟
+- **关键特性**:多节点、灵活、弹性网络配置;支持多用户;与经典网络共存于同一光纤DWDM系统;分层架构集中控制
+- **量子时序**:量子通信基础设施与量子增强时序同步高度协同;分布式量子传感的基础网络
+- **量子传感关联**:IEQNET是量子传感+量子通信融合基础设施的典型代表;量子时序同步是量子传感在通信领域的关键应用;量子通信基础设施同时支撑量子传感网络的部署
+
+#### EU Quantum Flagship量子重力测量社区研讨会:2026年6月3-5日/欧洲量子传感基础设施/标准化/EuroQCI协同(2026-06)
+- [Quantum Flagship EU](https://qt.eu/) | EU Quantum Flagship; 2026年6月3-5日; 欧洲量子传感核心机构参与; 与本次cron执行时间高度吻合
+- **会议目标**:推进EU量子传感基础设施建设和标准化;量子重力仪是商业化最成熟的量子传感方向;EuroQCI欧洲量子通信基础设施同步推进
+- **量子传感关联**:量子重力仪是量子传感在地球物理领域的核心应用;EU研讨会是量子传感标准化的重要里程碑;标准化是量子传感大规模工业部署的前提条件
+
+#### Quantum Singapore 2026论坛在新加坡盛大开幕:2026年2月/"量子汇聚:从硬件突破到工业应用"/ICV TA&K/FinQ Tech/IEEE Photonics Society(2026-02)
+- [腾讯新闻:Quantum Singapore 2026论坛在新加坡盛大开幕](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办;IEEE Photonics Society新加坡分会学术支持
+- **论坛主题**:"量子汇聚:从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption); 2026年2月4日; 新加坡滨海湾金沙会展中心
+- **核心议题**:硬件优化/软硬协同/区域化生态构建; 从理论探索迈向产业化落地
+- **量子传感关联**:新加坡将量子传感作为国家战略技术重点发展方向;论坛推动亚洲量子传感产业化协作
+
+*本次更新: IDTechEx量子传感20亿美元市场报告/attocube attoNVM低温NV扫描磁强计商业化/Deteqt芯片级量子磁力计/Quantum Motion 1.6亿美元C轮/Quantinuum Helios商业发布/Q-BIOMED英国量子生物医学传感中心/Impact Quantum量子传感商业化快于量子计算/IEQNET伊利诺伊量子网络融合平台/EU量子重力研讨会6月3-5日/Quantum Singapore 2026论坛(2026-06-05早-07:45)*
