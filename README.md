@@ -10,6 +10,38 @@
 ---
 
 ---
+### 🆕 新增条目(2026-06-04下午-14:44 - 本次更新)
+
+#### Quantum.Tech World 2026:6月25-26日波士顿/量子传感与计量学核心议题/从实验室到车间产业化/商用量子传感规模化部署(2026-06)
+- [Quantum.Tech World 2026](https://www.clocate.com/qt-quantum-tech/84315/) | Quantum.Tech World; 2026年6月25-26日; 美国波士顿Encore Boston Harbor
+- **核心议题**:Sensing & metrology(量子传感与计量学)为六大核心议题之一;从实验室到车间(From the lab to the shop floor)成为大会核心叙事
+- **量子传感定位**:量子传感与计量学从学术研究向产业化规模化部署;量子传感器正在成为商用产品的关键使能技术
+- **产业生态**:汇聚全球量子传感研发人员、技术创新与挖掘、情报安全、高性能计算、生物信息学等多领域从业者
+- **量子传感关联**:Quantum.Tech World是量子传感商业化应用最重要的年度会议之一;量子传感正在从"可能"走向"可规模化交付"
+
+#### Quantum Design完成2026年第二次收购:Qnami量子传感/全球科学仪器龙头整合NV金刚石量子传感/Quantum Design全球渠道加速商业化(2026-06)
+- [QD UK:Quantum Design Completes Second Acquisition of 2026](https://qd-uki.co.uk/) | Quantum Design; 2026年6月公告; 全球科学仪器和先进材料表征领域全球领导者
+- **收购详情**:Quantum Design于2026年完成对Qnami的收购(2026年第二次收购);此前于1月已完成对牛津仪器纳米科学部门的收购
+- **技术覆盖**:Qnami的ProteusQ系列扫描NV磁力计将借助Quantum Design全球渠道加速推广;量子材料/自旋电子学/纳米磁学/半导体/先进器件表征
+- **战略意义**:Quantum Design通过两次收购整合了量子传感领域两家顶级企业(NanoScience+Qnami);形成从低温设备到NV量子传感的完整产品线
+- **量子传感关联**:两次收购代表量子传感商业化整合加速;NV金刚石量子传感从初创公司向工业级产品规模化跨越;Quantum Design的全球渠道是量子传感商业化的重要推力
+
+#### SRI量子传感突破性技术:军事和战略合作伙伴/量子传感器数千倍于现有灵敏度/无人机/汽车/潜艇/量子传感军用化(2023-2026)
+- [SRI:Quantum Technologies for Ultrasensitive Sensing](https://www.sri.com/atsd/quantum/sri-is-developing-breakthrough-quantum-technologies-for-ultrasensitive-sensing/) | SRI International; 美国; 量子传感军用化; 2023年发布持续推进
+- **核心观点**:SRI量子传感项目负责人Jesse Wodin表示"SRI专门从事量子传感";量子传感器比现有传感器灵敏数千倍;量子传感将像雷达革命一样改变感知方式
+- **应用场景**:无人机(从无人机到地面车辆);汽车(自动驾驶);潜艇(水下);量子传感可感知传统传感器无法探测的目标
+- **量子传感关联**:SRI代表美国国防部量子传感军用化的核心力量;量子传感正在从实验室向军事装备系统集成;量子传感在国防领域的实用化已不再是理论探索
+
+#### IDTechEx量子通信市场预测:2034年超12亿美元/CAGR 28%/量子密钥分发QKD/量子随机数生成器QRNG/量子传感衍生应用(2026-05)
+- [IDTechEx Webinar:Quantum Communication Technology](https://www.idtechex.com/en/webinar/quantum-communication-technology-how-can-physics-protect-our-data-security/568) | IDTechEx; 2026年5月发布; 量子通信市场分析
+- **市场规模**:IDTechEx预测量子通信市场2034年将超过12亿美元;CAGR 28%
+- **技术方向**:量子密钥分发(QKD);量子随机数生成器(QRNG);量子传感与量子通信的融合应用
+- **量子传感关联**:量子传感是量子通信安全基础设施的重要组成部分;量子随机数与量子传感在物理层共享技术基础;量子通信市场增长将带动量子传感相关产业链发展
+
+---
+*本次更新: Quantum.Tech World 2026 量子传感计量学核心议题/ Quantum Design 2026二次收购Qnami全球渠道整合/ SRI量子传感军用化数千倍灵敏度/ IDTechEx量子通信市场12亿美元CAGR28%(2026-06-04下午-14:44)*
+
+---
 ### 🆕 新增条目(2026-06-04早-10:44 - 本次更新)
 
 #### 清华段路明/邓东灵/侯攀宇Nature论文:多体动力学冻结增强量子传感/突破相干时间瓶颈/大规模固态自旋体系/磁场测量新方法/2026-05(2026-06)
