@@ -4167,3 +4167,34 @@
 - [QuantumCT官网](https://quantumct.org/) | 康涅狄格大学、耶鲁大学、康州社区经济发展部; 公私合作
 - **合作框架**:连接州内研究型大学(康涅狄格大学、耶鲁大学)与工业界、创业生态;推动量子技术从实验室走向市场
 - **量子传感关联**:
+---
+### 🆕 新增条目(2026-06-04午-12:14 - 本次更新)
+
+#### SBQuantum量子钻石磁传感器:加拿大NV色心/国防+公共安全+商业导航/定位与导航解决方案(2026-06)
+- [SBQuantum官网](https://www.sbquantum.com/) | SBQuantum; 加拿大舍布鲁克; 量子传感技术hub
+- **核心技术**:基于金刚石NV(Nitrogen-Vacancy)色心的量子磁传感技术;利用量子态解决定位和导航挑战
+- **应用场景**:航天/公共安全/国防/商业导航;磁场成像和磁映射解决方案
+- **量子传感关联**:NV色心是量子传感商业化最成熟的技术路线之一;SBQuantum代表量子磁传感在定位导航领域的后量子时代(PQC)解决方案
+
+#### Optica Quantum 2.0 Conference and Exhibition 2026:量子2.0超越量子1.0/量子传感+计算+通信+计量/格拉斯哥6月(2026-06)
+- [Optica Quantum 2.0 Conference](https://www.optica.org/events/topical_meetings/quantum) | Optica; 2026年6月; 英国格拉斯哥; 量子领域顶级会议
+- **会议定位**:Quantum 2.0利用大规模系统中的叠加和纠缠(量子计算机、网络和传感器)，超越量子1.0单系统能力
+- **覆盖方向**:量子计算/通信/器件/传感/计量;生态系统/商业化/社会影响讨论
+- **程序主席**:Eden Figueroa(Stony Brook), Hugues de Riedmatten(ICFO), Heike Riel(IBM), Christopher Eichler(Friedrich-Alexander), Brian Smith(Oregon)
+- **量子传感关联**:Quantum 2.0是量子传感从基础研究走向产业化的标志性学术舞台;会议展示量子传感与量子计算/通信的融合趋势
+
+#### Near Infrared Quantum Ghost Spectroscopy for Threats Detection:量子幽灵光谱/近红外/威胁检测/arXiv(2025-11)
+- [arXiv: Near Infrared Quantum Ghost Spectroscopy for Threats Detection](https://arxiv.org/search/quant-ph?searchtype=all&query=quantum+ghost+spectroscopy&start=0) | arXiv quant-ph; 2025年11月提交
+- **核心方法**:利用量子纠缠光子的量子幽灵成像技术;近红外波段实现透明图案的量子传感检测
+- **应用场景**:威胁检测;透明图案识别;量子传感在安全领域的应用
+- **量子传感关联**:量子幽灵光谱代表量子传感在安全检测领域的前沿应用;量子光源是量子传感器的核心使能技术
+
+#### Quantum in Korea韩国量子科技进展:政府投资年均翻倍/产学研联盟/量子传感产业生态(2026-06-03)
+- [Quantum in Korea](https://quantuminkorea.org/) | 韩国量子科技协调机构; 2026年6月3日更新
+- **投资策略**:韩国政府宣布量子科技投资策略使年投资额逐年翻倍增长;构建多学科协作研究团队
+- **产业动态**:韩国产业界正在推进联盟合作，探索最佳商业模式;R&D投入占GDP的4.8%，位居全球第二
+- **量子传感关联**:韩国量子产业正在加速追赶全球领先者;量子传感是韩国量子战略的重要组成部分
+
+---
+*本次更新: SBQuantum量子钻石磁传感器/Optica Quantum 2.0 Conference格拉斯哥6月/Near Infrared Quantum Ghost Spectroscopy/arXiv量子幽灵光谱威胁检测/Quantum in Korea韩国量子科技进展(2026-06-04午-12:14)*
+
