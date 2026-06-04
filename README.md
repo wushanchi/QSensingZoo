@@ -4418,3 +4418,52 @@
 
 ---
 *本次更新: Quantum Singapore 2026论坛/ 布里斯托量子极限光子传感器商业代工厂量产/ NASA量子重力梯度仪太空任务/ IDTechEx量子传感器71亿美元CAGR18%市场报告(2026-06-05 02:45)*
+
+
+---
+
+### 🆕 新增条目(2026-06-05早-03:15 - 本次更新)
+
+#### Quantum Technology Market 2025-2035:量子技术市场993亿美元/CAGR 24%/量子传感imaging领域增速最快/量子点particle(2026-06-05)
+- [Research and Markets:Quantum Technology Market 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Mind Commerce; 2025年8月发布; 416页; 量子技术全品类市场报告
+- **市场规模**:量子技术市场2035年预计达993.4亿美元;CAGR 24%;量子革命数据驱动路线图
+- **量子传感定位**:量子传感和成像是独立细分市场;imaging领域增速最快;量子点particle是新兴方向
+- **覆盖领域**:量子计算/量子通信/量子成像/量子安全/量子传感/量子建模与仿真
+- **量子传感关联**:993亿美元量子技术大市场下量子传感是核心增长极;imaging和安全方向被重点覆盖;量子传感商业化进入全面加速期
+
+#### Quantum Sensor Market to 2B by 2045:SWaP-C挑战/半导体工艺突破/量子传感商业化瓶颈与机遇(2025-04)
+- [App Developer Magazine:Quantum sensor market to grow to 2B by 2045](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | 2025年4月; App Developer Magazine; 量子传感器市场分析
+- **市场预测**:量子传感器市场2045年预计达20亿美元(部分细分赛道汇总)
+- **核心挑战**:SWaP-C(尺寸/重量/功耗/成本)是量子传感器大规模普及的关键瓶颈
+- **突破路径**:半导体工艺(semiconductor-based)进展推动量子传感器小型化;是商业化落地的核心方向
+- **量子传感关联**:SWaP-C挑战是量子传感从实验室到产品化的最大障碍;半导体工艺突破是解决路径;20亿美元市场预示量子传感商业化的确定未来
+
+#### Cisco量子网络研究:量子传感用于光通信安全/Universal Quantum Switch/Optimized GKP State for Bosonic Channel Sensing(2026-04)
+- [Cisco Research:Quantum Research](https://research.cisco.com/) | Cisco; 2026年4月持续更新; 量子网络与传感交叉研究
+- **论文1**:The Universal Quantum Switch(Cisco; Jiapeng Zhao等; 2026年4月)——量子交换机的通用协议
+- **论文2**:Secure optical communication enabled by wavelength-division-multiplexed quantum alarm(2026年2月)——波分复用量子报警光通信安全
+- **论文3**:Optimized GKP State for Bosonic Channel Sensing(Thinh Le等; 2025年12月)——GKP态用于玻色子通道传感优化
+- **量子传感关联**:Cisco将量子传感技术用于量子通信安全;量子传感与量子网络深度融合;Bosonic传感(GKP态)是连续变量量子传感的前沿方向
+
+#### 国家数据局:2025数据产品规模超2.3万亿/量子数据成为战略资源/数据要素市场化加速(2026-03)
+- [腾讯新闻:国家数据局数据产品规模](https://so.html5.qq.com/page/real/search_news?docid=70000021_58469c9dc9482852) | 国家数据局局长刘烈宏; 中国发展高层论坛2026年年会; 2026年3月
+- **数据规模**:2024年数据产品相关企业产值超2万亿元;2025年预计增长15%达2.3万亿元
+- **量子关联**:量子传感产生的超高精度数据(重力/磁场/时间)是数据要素的新类别;量子数据的采集、存储、传输构成新型数据资源
+- **量子传感关联**:量子传感的数据输出是物理世界到数字世界的精准映射;量子传感器网络产生的数据规模远超传统传感;量子数据成为数据要素市场的新增长极
+
+#### 中国量子科技2025:国产量子地磁仪100%自主可控/地震监测量子化/量子应用示范变电站/量子安全规模化落地(2026-03)
+- [Quantum10:2025中国量子公司十大创新典范用例](https://so.html5.qq.com/page/real/search_news?docid=70000021_54569a2cb4d85152) | 光子盒/Quantum10年度核心盛事; 2026年3月评选
+- **量子传感进展**:国产量子地磁仪实现100%自主可控;地震监测正式迈入量子时代
+- **量子应用示范**:国内首座量子应用示范变电站在运验证;量子安全在政务/金融/重大活动中规模化落地
+- **量子与经典协同**:量子化学平台加速药物与材料研发;量子与经典算力协同解决工程决策"算不动"问题
+- **量子传感关联**:中国量子传感从"可用"走向"可运营";自主可控是量子传感产业化的国家级目标;量子传感在能源/安全/医疗等领域全面落地
+
+#### 韩国量子科技投资:政府研发投入占GDP 4.8%/量子科技投资每年翻倍/产学研究联盟/量子产业联盟(2026-06)
+- [Quantum in Korea](https://quantuminkorea.org/) | 韩国; 2026年持续更新; 政府主导量子科技国家战略
+- **研发投入**:韩国政府研发投入占GDP 4.8%(全球第二，仅次于以色列);政府将30%总研发预算投向科技
+- **投资策略**:量子科技投资每年翻倍(fold increase annual);2026年加速推进
+- **产学研联动**:聚集多学科人才推进量子科技;产业界组成联盟探索最佳商业模式
+- **量子传感关联**:韩国将量子传感作为国家量子战略的核心组成部分;大规模政府投资推动量子传感研发;产学联盟加速量子传感商业化
+
+---
+*本次更新: Quantum Tech Market 993亿美元CAGR24%/Quantum Sensor 20亿美元市场2045/Cisco量子传感光通信安全/国家数据局量子数据2.3万亿/中国量子传感自主可控/韩国量子传感国家战略(2026-06-05早-03:15)*
