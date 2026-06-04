@@ -4316,5 +4316,71 @@
 - **量子传感关联**:量子重力仪是商业化最成熟的量子传感方向;EU研讨会反映欧洲量子传感产业化的系统性推进;标准化是量子传感大规模部署的前提条件
 
 ---
-*本次更新: Deteqt芯片级量子磁力计/ Fraunhofer IAF QUASAR项目进展/ Infleqtion量子传感产品矩阵/ Quantinuum Helios商业发布/ 南京邮电大学青柚量子NV磁强计13ppm突破/ 分子自旋压缩态首次观测arXiv:2606.02500/ arXiv里德堡原子Dicke流形最优控制/ arXiv NV高压光学稳定性/ arXiv量子重力仪理论/ EU Quantum Flagship量子传感项目矩阵/ Quanvia NV生物标志物量子检测/ QuantumDiamonds量子传感芯片检测/ Q-CTRL TIME 100/ Quantum Motion 1.6亿美元C轮/ IEQNET量子网络/ Bosch Quantum Sensing/ SBQuantum量子金刚石磁力计/ Quantum Innovation Summit Dubai 2026/ Quantum Singapore 2026论坛/ Optica Quantum 2.0 Conference/ Imperial量子罗盘皇家海军测试/ Qnami 800万瑞士法郎A轮/ EU量子重力研讨会(2026-06-05早-05:15)*
+*本次更新: 未磁科技数亿元B轮融资全球量子磁场测量最大单笔融资/EU Quantum Flagship新增MUQUABIS/SPINUS/ONCHIPS/QLASS/EPIQUE/ACDQ_Q等量子传感项目/Quantum Design收购Qnami全球科学仪器龙头整合NV金刚石量子传感(2026-06-05早-05:45)*
+
+---
+
+### 🆕 新增条目(2026-06-05早-05:45 - 本次更新)
+
+#### 未磁科技完成数亿元B轮融资:全球量子磁场测量最大单笔融资/量子生物磁场商业化提速/北京市量子基金+医药健康基金(2026-06)
+- [腾讯新闻:未磁科技完成数亿元B轮融资](https://new.qq.com/rain/a/20260604A07UYM00) | 未磁科技(北京); 2026年6月宣布完成数亿元B轮融资
+- **投资方**:北京市量子基金、北京市医药健康基金、京国管、京国盛、基石创投联合新增投资;老股东中科创星持续加持
+- **融资意义**:全球已披露的量子磁场测量领域单笔最大规模融资;标志资本市场对未磁科技核心技术、产品矩阵与商业化程度的高度认可
+- **核心产品**:心磁图仪和脑磁图仪医疗器械注册证——无液氦、常温、无创的生物磁测量装备;已获批医疗器械注册证
+- **应用场景**:心血管重大疾病检测、脑科学研究;量子技术从实验室走向医疗机构和科研院所
+- **量子传感关联**:未磁科技是全球量子生物磁场测量商业化领跑者;该融资是2026年量子传感领域最重磅商业化事件;量子磁力计临床应用是量子传感商业化的核心方向
+
+#### EU Quantum Flagship量子传感新增项目矩阵:MUQUABIS(量子生物成像)/SPINUS(自旋量子计算)/ONCHIPS(片上量子电子光子集成)/QLASS(量子玻璃光子集成电路)/EPIQUE(欧洲光子量子计算机)/ACDQ_Q(金刚石量子传感器先进电路)(2026)
+- [EU Quantum Flagship项目列表](https://qt.eu/) | EU Quantum Flagship; 2026年6月更新; 18个量子传感相关项目
+- **MUQUABIS**:Multiscale quantum bio-imaging and spectroscopy——多尺度量子生物成像与光谱;量子传感向生命科学延伸
+- **SPINUS**:Spin based quantum computer and simulator——自旋量子计算机与模拟器;固态自旋量子传感与量子计算平台共享
+- **ONCHIPS**:On-chip integration of quantum electronics and photonics——量子电子与光子片上集成;芯片级量子传感器的核心使能技术
+- **QLASS**:Quantum Glass-based Photonic Integrated Circuits——量子玻璃光子集成电路;新型光子集成平台支撑量子传感
+- **EPIQUE**:European Photonic Quantum Computer——欧洲光子量子计算机;光子技术同时支撑量子计算和量子传感读出
+- **ACDQ_Q**:Advanced Circuits for Detection and Control of Diamond Quantum Sensors——金刚石量子传感器检测控制先进电路;NV色心量子传感器的读出和控制芯片化
+- **量子传感关联**:EU Quantum Flagship量子传感项目矩阵持续扩充;MUQUABIS代表量子传感与生物医学的深度融合;ONCHIPS/ACDQ_Q代表量子传感芯片化的核心使能方向
+
+#### Quantum Design完成2026年第二次收购:Qnami量子传感/全球科学仪器龙头整合NV金刚石量子传感/Quantum Design全球渠道加速商业化(2026-06)
+- [量子传感行业动态](https://so.html5.qq.com/page/real/search_news?docid=70000021_448696836eb31352) | Quantum Design; 2026年完成第二次收购; 全球科学仪器行业重大整合
+- **收购详情**:Quantum Design于2026年完成对Qnami的收购(2026年第二次收购);此前于1月已完成对牛津仪器纳米科学部门的收购
+- **战略意义**:Quantum Design通过两次收购整合了量子传感领域两家顶级企业(NanoScience+Qnami);形成从低温设备到NV量子传感的完整产品线;全球科学仪器龙头系统性整合量子传感资源
+- **量子传感关联**:Quantum Design是全球最大低温量子传感仪器分销商;Qnami被收购反映NV量子传感商业化成熟度已达到被龙头整合阶段;量子传感产业正在经历规模化整合
+
+#### arXiv:2606.05125 倒置谐振子(IHO)实验 - BEC原子干涉量子传感/10.6dB压缩真空/时间反演相干验证/宇宙膨胀量子涨落模拟(2026-06)
+- [arXiv:2606.05125](https://arxiv.org/abs/2606.05125) | Sicong Ji等; Bose-Einstein凝聚态(BEC) on AtomChip; quant-ph; 2026年6月3日提交
+- **技术方案**:射频 dressing将横向谐振子转变为倒置谐振子(IHO); IHO沿一个正交方向指数放大,同时压缩另一正交方向,从微观零点涨落产生宏观量子态
+- **核心数据**:通过相空间层析成像追踪演化量子态的完整Wigner函数;观测到10.6(1.3)dB亚真空压缩;通过时间反演IHO演化测试相干可逆性
+- **应用方向**:力传感(带时间反演相干认证)/宇宙膨胀中量子涨落放大模拟/量子精密测量
+- **量子传感关联**:IHO是量子传感临界点增强的重要平台;量子态压缩直接提升测量灵敏度;该实验为量子传感精密测量提供新的可控平台
+
+#### arXiv:2606.05083 Floquet工程压缩声子激光 - 固态色心hBN膜/量子计量应用/相位锁定squeezed phonon lasing(2026-06)
+- [arXiv:2606.05083](https://arxiv.org/abs/2606.05083) | Vitalie Eremeev等; 六方氮化硼(hBN)薄膜色心; quant-ph; 2026年6月3日提交
+- **技术方案**:提出基于Floquet工程的通用声子激光方案;机械振荡器耦合主色心和辅助自旋,同时实现压缩态放大和冷却动力学
+- **核心创新**:从常规激光连续过渡到相位锁定压缩声子激光;Floquet工程实现相位锁定激光同时提供受控正交压缩
+- **量子传感关联**:压缩声子激光是量子计量学的重要资源;该方案为量子机械系统压缩激光生成提供简单有效路径;固态平台更适合量子传感集成
+
+#### Quantinuum IPO 2026-06-04 - 纳斯达克上市/127亿美元目标融资/股票代码QNT/全球最大集成量子计算公司(2026-06)
+- [腾讯新闻:Quantinuum寻求IPO](https://so.html5.qq.com/page/real/search_news?docid=70000021_4556a1d83c894552) | Quantinuum; 纳斯达克; 2026年6月4日; 目标融资不超14.6亿美元
+- **发行详情**:2650万股A类普通股,每股53-55美元;市值约127亿美元;股票代码QNT
+- **公司背景**:由Honeywell量子解决方案与Cambridge Quantum合并而成;全球最大集成量子计算公司;拥有离子阱量子计算核心技术
+- **量子传感关联**:Quantinuum同时布局量子传感;量子计算与量子传感协同发展代表产业趋势;IPO标志量子科技进入主流资本市场
+
+#### DARPA RoQS计划量子传感原型 - 24.4亿美元合同/非太空GPS替代/量子PNT/美国陆军研究实验室(2026-06)
+- [Air & Space Forces Magazine:DARPA RoQS](https://www.airandspaceforces.com/pentagon-gps-alternatives-not-in-space/) | DARPA RoQS计划; 美国陆军研究实验室(ARL); 2026年更新
+- **计划目标**:开发量子传感原型设备,提供本地化、不依赖卫星的GPS替代方案;应对电子战/导航战环境
+- **核心数据**:一个入选公司获得两份合同总计24.4亿美元;DAPRA 2025年宣布RoQS第一阶段启动
+- **技术方向**:Rydberg量子传感器(0-20GHz射频频谱采样)/量子惯性导航/量子磁力计阵列
+- **量子传感关联**:RoQS是量子传感军事化应用的标志性项目;量子PNT是量子传感最具战略价值的应用方向之一
+
+#### 上海交大量子传感与精密测量研究所进展 - 弱值测量/dynamic range/反馈控制/10⁻²⁴秒级时延测量(2026-06)
+- [上海交大QSIP研究所](https://qsip.sjtu.edu.cn/info/1116/1328.htm) | 上海交通大学量子感知与信息处理研究所; 2026年6月更新
+- **核心成果**:弱值测量技术使动态范围有效增加,信噪比提升6dB以上;"弱值衰减"概念使光学相位调制误差降低5倍以上;信号关联新方案使探测效率提升2-3个数量级
+- **实测指标**:10⁻²⁴秒量级时延测量灵敏度;3×10⁻⁶摄氏度相对温度测量精度;7.5×10⁻⁷弧度非线性相移测量精度
+- **量子传感关联**:弱值测量是量子传感精密测量的核心技术;该团队在量子传感方案创新方面持续产出;代表中国量子传感基础研究力量
+
+#### EU Quantum Act量子传感优先方向 - 地球观测/导航/医疗检测/120亿欧元投资框架(2026-06)
+- [European Commission:EU Quantum Act](https://digital-strategy.ec.europa.eu/en/policies/quantum) | European Commission; EU Quantum Act; 2026年正式通过
+- **投资规模**:约120亿欧元覆盖量子计算/量子通信/量子传感全产业链
+- **量子传感优先方向**:地球观测(Quantum Earth Observation)/导航(Quantum Navigation)/医疗检测(Medical Detection);量子传感作为三大优先方向之一
+- **量子传感关联**:EU Quantum Act是欧盟量子技术国家战略的法定框架;量子传感在120亿欧元投资中的战略地位明确;政策层面的强支撑进一步加速欧洲量子传感产业化
 
