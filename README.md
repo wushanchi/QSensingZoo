@@ -10,6 +10,46 @@
 ---
 
 ---
+### 🆕 新增条目(2026-06-05 10:45 - 本次更新)
+
+#### 全光学NV色心宽带交流磁场传感突破/arXiv:2606.05311/2026年6月4日(2026-06-05)
+- [arXiv:2606.05311](https://arxiv.org/abs/2606.05311) | Ryohei Dokai et al.; 2026年6月4日; arXiv
+- **核心突破**:提出基于连续波光检测磁共振(CW-ODMR)的宽带交流磁场传感方案,利用金刚石NV色心在室温下实现高灵敏度磁场探测;解决了传统方案在交流磁场测量中的带宽限制难题
+- **技术细节**:通过优化NV色心激发态能级反交叉区域的自旋动力学,实现全光学自由感应衰减测量
+
+#### 纳米尺度量子磁谱仪/基于量子比特修饰态的石墨烯NV色心传感/arXiv:2606.04914/2026年6月3日(2026-06-05)
+- [arXiv:2606.04914](https://arxiv.org/abs/2606.04914) | Jan Rueschkamp et al. (UChicago, Harvard, MIT); 2026年6月3日; arXiv
+- **核心突破**:开发纳米尺度磁谱分析仪,结合量子比特修饰态(dressed states)技术,在NV色心体系中实现高空间分辨率与宽频带磁测量
+- **应用场景**:可探测纳米材料与器件中的电子自旋动力学、量子多体系统及分子化学反应中的磁场涨落
+
+#### 非厄米量子传感中的灵敏度-噪声权衡优化/异常点欠亏操作/arXiv/2026年6月2日(2026-06-05)
+- [arXiv](https://arxiv.org/search/?searchtype=all&query=quantum+sensing&start=0&order=-announced_date_first) | Shangxuan Li, Bin Guo; 2026年6月2日; arXiv
+- **核心突破**:针对双链Hatano-Nelson模型中单向层间耦合的非厄米传感系统,解决异常点(Exceptional Point)处信号与噪声同步放大的根本矛盾;通过异常点欠亏(Exceptional Deficiency)操作实现灵敏度-噪声的最优平衡
+
+#### 非互易色散耦合量子传感/超越传统方案/arXiv/2026年6月3日(2026-06-05)
+- [arXiv](https://arxiv.org/search/?searchtype=all&query=quantum+sensing&start=0&order=-announced_date_first) | Dong Xie, Chunling Xu; 2026年6月3日; arXiv
+- **核心突破**:构建非互易(nonreciprocal)色散耦合并将其应用于量子传感,突破了传统互易色散耦合方案的性能瓶颈
+
+#### Nature Photonics:范德华尔兹单层MoS₂全光学生物电压传感/量子统计调控/2025年(2026-06-05)
+- [Nature Photonics](https://www.nature.com/articles/s41566-025-01637-w) | Nature Photonics; 2025年3月
+- **核心突破**:利用单层MoS₂中激子-三子(exciton-to-trion)转换过程的量子统计特性,实现完全无偏置、无标记的双极性(all-optical)生物电压检测,适用于心肌细胞培养等生物电活动监测
+- **技术细节**:亚埃厚度半导体在皮秒级发光寿命下实现超高时间分辨率;通过量子限域效应使光致发光特性与外部电场精密关联
+
+#### Quantum Design完成收购牛津仪器纳米科学部门/低温量子技术强强联合/2026年1月(2026-06-05)
+- [腾讯新闻](https://new.qq.com/rain/a/20260115A02IIM00) | Quantum Design / Oxford Instruments NanoScience; 2026年1月2日
+- **里程碑**:Quantum Design于2026年1月2日宣布完成对Oxford Instruments旗下NanoScience部门的收购,实现两家低温技术先驱企业的战略联合
+- **意义**:新实体拥有超百年创新积淀,面向低温物理、材料科学及显微技术服务市场
+
+#### IDTechEx量子传感器市场报告2024-2044/17类细分产品/20年预测/2023年(2026-06-05)
+- [IDTechEx](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2023年
+- **覆盖范围**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器等17个细分产品类别
+- **内容**:技术路线图、市场竞争格局、企业评测、2024-2044年度营收及销量预测
+
+#### Quantum Singapore 2026论坛在新加坡召开/聚焦量子从硬件突破到工业落地/2026年2月(2026-06-05)
+- [腾讯新闻](https://so.html5.qq.com/page/real/search_news?docid=70000021_12669871b9e15152) | ICV TA&K / FinQ Tech Inc. / Informa Markets / IEEE Photonics Society; 2026年2月4日; 新加坡滨海湾金沙会展中心
+- **主题**:Quantum Convergence: From Hardware Breakthrough to Industrial Adoption
+- **参会方**:全球量子科学家、行业领袖及技术专家,探讨硬件优化、软硬协同及区域化生态构建
+
 
 ### 🆕 新增条目(2026-06-05 10:15 - 本次更新)
 
