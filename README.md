@@ -15,6 +15,12 @@
 
 ### 🆕 新增条目(2026-06-05 22:01 - 本次更新)
 
+#### NV金刚石CW-ODMR宽带交流磁场传感:100 MHz检测带宽突破/微波修饰态/室温/arXiv:2606.05928/2026年6月4日(2026-06-05)
+- [arXiv:2606.05928](https://arxiv.org/abs/2606.05928) | Ryohei Dokai et al.; 2026年6月4日提交; arXiv
+- **核心突破**:基于连续波光检测磁共振(CW-ODMR)结合微波驱动修饰态(dressed states)技术,实现室温金刚石NV色心100 MHz量级交流磁场探测——突破传统CW-ODMR方案数MHz的带宽极限
+- **技术路线**:优化NV色心激发态能级反交叉区域的自旋动力学;通过修饰态将检测频率扩展至100 MHz;全光学自由感应衰减测量方案
+- **量子传感关联**:NV色心是量子传感最成熟的固态平台之一;带宽提升显著拓展NV磁力计在工业检测、生物医学等场景的适用性;该工作代表NV量子传感工程化应用的重要进展
+
 #### Qnami加入Quantum Design:瑞士量子传感仪器先驱与低温测量龙头强强联合/2026年6月2日(2026-06-05)
 - [Qnami官网新闻](https://qnami.ch/) | Qnami; Quantum Design; 2026年6月2日
 - **合作内容**:Qnami正式加入Quantum Design，后者于2026年1月完成对Oxford Instruments NanoScience部门的收购；量子传感仪器与低温物理测量形成完整技术闭环
@@ -51,7 +57,7 @@
 
 ---
 
-*本次更新: Qnami加入Quantum Design量子传感仪器强强联合6月2日/NASA量子重力梯度仪Pathfinder面向2040地球观测/CES 2026 Neurable脑波游戏耳机/范德华尔兹单层MoS₂全光学生物电压传感Nature Photonics/量子鬼成像Scientific Reports(2026-06-05 22:01)*
+*本次更新: NV金刚石CW-ODMR 100MHz宽带交流磁场传感arXiv 2606.05928/ Qnami加入Quantum Design量子传感仪器强强联合6月2日/NASA量子重力梯度仪Pathfinder面向2040地球观测/CES 2026 Neurable脑波游戏耳机/范德华尔兹单层MoS₂全光学生物电压传感Nature Photonics/量子鬼成像Scientific Reports(2026-06-05 22:01)*
 
 ### 🆕 新增条目(2026-06-05 11:15 - 本次更新)
 
