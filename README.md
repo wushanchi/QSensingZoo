@@ -8,6 +8,40 @@
 [![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
 
 ---
+
+### 🆕 新增条目(2026-06-06上午-07:01 - 本次更新)
+
+#### arXiv:2506.20862——Rydberg原子FMCW雷达成像:4.7cm分辨率/5m距离/0dBsm目标/军事国防/地下成像/2025年6月25日提交(2026-06-06)
+- [arXiv:2506.20862](https://arxiv.org/abs/2506.20862) | William Watterson等; physics.atom-ph; 2025年6月25日提交; DOI:10.1063/5.0287757
+- **技术方案**:FMCW(调频连续波)雷达成像——使用Rydberg原子作为量子接收器;原子传感器下变频雷达回波信号;消除FMCW关键电气组件;执行二维目标定位
+- **核心指标**:探测距离达5m;距离分辨率4.7cm;雷达横截面(RCS)低至0 dBsm(全向反射);消声室测试验证
+- **应用场景**:地下公用设施成像;天然气钻井;考古挖掘;军事国防
+- **量子传感关联**:MIT Technology Review量子雷达报道的原始arXiv论文;展示了Rydberg原子传感器从实验室到实用雷达成像系统的完整技术路线;量子雷达走向商业化的重要里程碑
+
+#### Nature Reviews Physics:量子传感器生物医学应用综述——OPM磁力计+NV色心/脑成像/单细胞光谱/商业化路径/2023年2月(2026-06-06)
+- [Nature Reviews Physics:Quantum sensors for biomedical applications](https://www.nature.com/articles/s42254-023-00558-3) | Nature Reviews Physics; 2023年2月3日发表; 系统性综述
+- **核心平台**:光泵浦原子磁力计(OPM)和金刚石氮空位(NV)中心是两大最有前景的量子传感平台;涵盖从分子到器官尺度的生物医学应用
+- **四大案例研究**:①脑磁图(MEG)——可穿戴OPM系统实现实时脑成像②单细胞NMR——NV色心实现纳米级化学分辨率③生物磁成像——心磁图/神经活动无创检测④光谱分析——量子增强光学传感
+- **商业化路径**:初创企业数量增加;从实验室向真实世界应用迁移;需要解决灵敏度-工作距离-成本三重挑战
+- **量子传感关联**:量子传感生物医学应用最系统的综述文章之一;QSensingZoo生物医学量子传感板块的核心参考文献;为量子传感从实验室到临床应用提供路线图
+
+#### IDTechEx量子传感器市场2024-2044:17个技术方向/原子钟→量子磁力计→量子重力仪/芯片化降低SWaP-C/2045年20亿美元/2025年4月(2026-06-06)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2025年4月发布; 全球量子传感市场最权威分析报告之一
+- **17个技术方向覆盖**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器等;基于深度访谈的市场玩家和技术路线分析
+- **芯片化路径**:碱原子蒸汽槽(vapor cells)和激光器是量子传感器核心组件;半导体晶圆代工厂成为量子传感价值链关键环节;SWaP-C(优化)是商业化关键
+- **应用领域**:电动汽车、GPS拒止导航、医学成像、量子计算;量子传感器承诺通过显著提升灵敏度解锁新应用
+- **量子传感关联**:IDTechEx报告是量子传感产业投资和技术路线图规划的重要参考;QSensingZoo持续追踪该报告更新作为产业动态参考
+
+#### QuantumComputing(QUBT)获NASA订单:Dirac-3熵量子优化/高级成像与数据处理/股价飙升/2024年12月(2026-06-06)
+- [新浪财经:Quantum Computing获NASA订单](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2024-12-18/doc-inczvwzc7977537.shtml) | Quantum Computing Inc. (Nasdaq: QUBT); 2024年12月宣布; NASA合同
+- **技术产品**:Dirac-3熵量子优化(Entropic Quantum Optimization)计算机;应用于NASA高级成像和数据处理需求
+- **市场反应**:合同宣布后股价连续两日飙升;单日最高涨幅51%;自宣布前一周以来涨幅超150%
+- **量子传感关联**:量子计算+量子优化技术可用于量子传感数据处理和优化问题求解;量子计算与量子传感的协同应用在空间探测和成像领域展现潜力
+
+*本次更新: arXiv Rydberg原子FMCW雷达成像4.7cm分辨率/ Nature Reviews Physics量子传感生物医学综述/ IDTechEx量子传感器市场2024-2044报告/ QuantumComputing获NASA订单(2026-06-06上午-07:01)*
+
+---
+
 ### 🆕 新增条目(2026-06-06上午-06:31 - 本次更新)
 
 #### 2026全球量子传感产业展望:50.7亿美元/CAGR 10.42%/民用化转型/量子导航/软件定义工业化制造(2026-06-06)
