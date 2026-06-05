@@ -11,6 +11,23 @@
 
 ---
 
+### 🆕 新增条目(2026-06-05 10:15 - 本次更新)
+
+#### 混合经典-量子智能体(HCQA)通过增强学习实现最优量子传感电路设计/AI自动化设计量子传感器/2508.21246/2026年4月(2026-06-05)
+- [Quantum Zeitgeist-Researchers Design Optimal Quantum Circuits](https://quantumzeitgeist.com/quantum-deep-learning-circuits-optimal-maximise-fisher-information/) | Cleveland State University研究团队; Ahmad Alomari & Sathish A.P. Kumar; 2026年4月
+- **核心突破**:提出HCQA(Hybrid Classical-Quantum Agent)框架,结合深度学习与量子力学原理,自动生成针对特定传感任务的最优量子传感电路;成功将增强学习应用于量子传感电路自动化设计
+- **技术细节**:使用压缩态( squeezed states)提升传感灵敏度;利用变分量子电路(VQC)构建传感电路;通过Grover算法加速最优电路搜索;最大化量子费舍信息(Quantum Fisher Information)同时最小化门电路复杂度
+- **量子费舍信息**:衡量传感精度的核心指标,越高代表性能越好;HCQA在Ramsey干涉测量优化中展示出优于传统设计的性能
+- **应用价值**:减少人工干预,实现量子传感器电路的自动化发现;证明增强学习可用于自动化QSC设计,为更复杂的量子传感系统奠定基础
+- **论文**:[arXiv:2508.21246](https://arxiv.org/abs/2508.21246)
+
+#### Quantinuum于2026年6月4日登陆纳斯达克/上市代码QNT/量子计算领导者(2026-06-05)
+- [Quantinuum官网](https://www.quantinuum.com/) | Quantinuum; 2026年6月4日
+- **里程碑**:Quantinuum于2026年6月4日正式在纳斯达克上市,股票代码QNT;量子计算领域重要商业化里程碑
+- **量子计算机Helios**:基于平均双量子比特门保真度,Helios是全球最精确的商业化量子计算机;路线图指向Sol、Apollo级别处理器
+- **量子传感关联**:量子传感是量子计算的重要应用方向;Quantinuum在量子硬件与算法领域的领导地位推动量子传感技术的实用化进程
+- **合作客户**:BMW Group、BP、JPMorgan Chase、SoftBank Corp.、Synopsys等全球领先企业
+
 ### 🆕 新增条目(2026-06-05 09:15 - 本次更新)
 
 #### 清华团队破解量子传感热化难题/动力学冻结/金刚石NV色心/磁场灵敏度提升2.7倍/2026年5月28日Nature发表(2026-06-05)
