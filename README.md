@@ -12,6 +12,36 @@
 ---
 
 
+### 🆕 新增条目(2026-06-05 14:45 - 本次更新)
+
+#### MIT Technology Review:量子雷达 Rydberg原子射频探测/地下成像/NIST+RTX合作/定位精度4.7厘米/arXiv:2506.20862/2025年8月(2026-06-05)
+- [MIT Technology Review:This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | Matthew Simons (NIST), Michał Parniak (华沙大学); 2025年8月11日发布
+- **核心原理**:在玻璃腔室中充满铯原子，通过激光将每个铯原子激发至里德堡态(Rydberg atoms)，膨胀至细菌大小；当射频波击中里德堡原子时，扰动原子核外电子分布；通过检测原子发射光颜色变化实现射频接收
+- **技术优势**:相比传统雷达天线，量子雷达使用约1厘米玻璃腔取代大型金属结构，可显著小型化；里德堡原子覆盖宽频射频频段，无需改变硬件即可适配多种频率；量子传感器核心组件具有内在一致性，每个铯原子完全相同，特性可链接至基本常数，无需频繁校准
+- **测试数据**:在消声室(泡沫锥体墙壁)中测试，定位铜板、管道、钢棒等目标，精度达4.7厘米；探测距离达5米
+- **应用场景**:地下管线探测、天然气钻井、考古挖掘中成像埋地物体
+- **量子传感关联**:量子雷达是量子传感在射频探测领域的典型应用；量子-经典混合架构实现紧凑集成；与量子计算共享里德堡原子平台，技术可相互转化
+
+#### Northwestern University首次商业代工厂制造电子-光子量子芯片/单片CMOS集成/1mm×1mm/光子对/量子通信传感计算/2025年7月Nature Electronics(2026-06-05)
+- [Northwestern News:First electronic-photonic quantum chip manufactured in commercial foundry](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) | Northwestern University + Boston University + UC Berkeley; Prem Kumar团队; 2025年7月14日; 《自然-电子学》(Nature Electronics)
+- **核心突破**:首次在标准商业半导体代工厂使用CMOS工艺，将量子光源(光子组件)与经典电子控制电路单片集成在1mm×1mm芯片上；内置光电反馈系统实时稳定量子光，无需大型外部设备
+- **技术细节**:微环谐振器(microring resonators)在强激光照射下产生光子对；光电传感器监测光源漂移并触发微型加热器补偿；片上反馈使芯片在温度波动和工艺偏差下表现可预测——规模化扩展的关键前提
+- **技术路线**:直接利用商业CMOS工厂现有结构，避免依赖非标准工艺；"这是混合电子和光子的重大突破"(Prem Kumar语)
+- **应用方向**:光量子通信、量子传感、量子计算(量子光子系统)；可扩展量子光子系统的重要里程碑
+- **量子传感关联**:量子光子芯片是量子传感核心硬件；商业代工厂生产验证了量产可行性；片上稳定系统为量子传感器集成化奠定基础
+
+#### Quantum Innovation Summit Dubai 2026/2026年9月28-30日/迪拜君悦酒店/Quantum & Emerging Frontiers/量子传感+量子计算+量子通信/2026年5月(2026-06-05)
+- [Quantum Innovation Summit](https://quantuminnovationsummit.com/) | Quantum Innovation Summit & Exhibition 2026; 2026年9月28-30日; 迪拜君悦酒店(G Hyatt Regency Dubai)
+- **核心主题**:Quantum & Emerging Frontiers - Advancing Global Innovation & Technological Leadership
+- **议题方向**:量子传感、量子计算、量子通信;技术突破向工业应用的转化;量子传感在能源/国防/医疗领域的商业化路径
+- **量子传感关联**:量子传感是峰会重要议题;中东作为量子技术新兴区域正在积极布局;量子传感产业国际合作的重要平台
+
+---
+
+*本次更新: MIT Tech Review量子雷达Rydberg原子射频探测NIST+RTX地下成像4.7cm精度/Northwestern首次商业代工厂CMOS电子光子量子芯片1mm×1mm单片集成/Quantum Innovation Summit Dubai 2026 9月28-30日(2026-06-05 14:45)*
+
+---
+
 ### 🆕 新增条目(2026-06-05 14:30 - 本次更新)
 
 #### 费米实验室/加州理工/NASA SMSPD超导微线单光子探测器/时空分辨率双重突破/粒子物理/量子网络/深空通信/2025年4月(2026-06-05)
