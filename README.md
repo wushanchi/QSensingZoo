@@ -9,6 +9,50 @@
 
 ---
 
+### 🆕 新增条目(2026-06-06下午-14:44 - 本次更新)
+
+#### MIT Technology Review:量子雷达——里德堡原子云成像埋地物体/4.7cm分辨率/5m距离/非接触式/NIST+RTX/2025年8月(2026-06-06)
+- [MIT Technology Review:This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | National Institute of Standards and Technology (NIST) + RTX(原雷神防务); 2025年8月发布; MIT Technology Review报道
+- **技术方案**:使用玻璃池中的铯(Caesium)原子云作为量子探测器;激光器将原子激发至里德堡态;反射无线电波与原子云相互作用产生可检测信号;室温下工作
+- **核心指标**:探测距离达5m;距离分辨率4.7cm;雷达横截面(RCS)低至0 dBsm(全向反射);当前原型机仍连接光学平台组件,未来有望小型化
+- **应用场景**:地下公用设施成像;天然气钻井;考古挖掘;军事国防——量子雷达无需传统发射机,有望实现低截获概率(LPI)探测
+- **量子传感关联**:里德堡原子量子传感是量子雷达最成熟的技术路线;量子雷达从实验室概念验证走向实用成像系统的重要里程碑;非接触式传感在隐蔽探测领域具有独特军事价值
+
+#### Quantum Innovation Summit Dubai 2026:量子与新兴前沿/2026年9月28-30日/迪拜君悦酒店/全球量子产业汇聚(2026-06-06)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | ICV TA&K + FinQ Tech Inc. + Informa Markets; IEEE Photonics Society学术支持; 2026年9月28-30日; 迪拜
+- **会议主题**:"Quantum & Emerging Frontiers: Advancing Global Innovation & Technological Leadership"(量子与新兴前沿:推进全球创新与技术领导力)
+- **核心议题**:量子传感硬件突破;量子通信与安全;量子计算产业化;量子技术在能源/医疗/金融等领域的应用;区域化量子生态构建
+- **量子传感关联**:该峰会是量子传感领域最重要的全球产业峰会之一;QSensingZoo持续追踪峰会发布的前沿技术与产业动态
+
+#### Fraunhofer IAF QUASAR项目:宽场NV磁力计快速磁成像/4K晶圆探针/硅自旋量子比特/2026年6月慕尼黑LASER展会展示(2026-06-06)
+- [Fraunhofer IAF:QUASAR project](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; 2026年6月27-30日; 慕尼黑LASER World of QUANTUM展会
+- **核心展示**:QUASAR项目宽场NV磁力计——基于4×4mm² IIa型金刚石衬底,纳米分辨率,室温工作,快速磁成像;面向纳米电子学、材料科学、生物医学应用
+- **技术进展**:EU Quantum Flagship硅自旋量子比特平台;通过电子"shuttling"耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **金刚石产业链**:Fraunhofer IAF已建立稳定的欧洲产业规模fabrication链;从量子材料到器件完整覆盖;金刚石量子传感器是量子传感预产业化的核心方向
+
+#### SBQuantum量子金刚石磁力计CubeSat发射:2026年3月升空/100pT灵敏度/ESA合同/地磁场监测/磁导航/地球观测(2026-06-06)
+- [IEEE Spectrum:Quantum Sensors in Space](https://spectrum.ieee.org/quantum-sensors-space) | SBQuantum; 2026年3月CubeSat发射; ESA合同€80万支持
+- **技术方案**:基于金刚石NV色心的量子磁力计;室温工作;测量磁场矢量信息;无漂移读数;四传感器阵列推导磁场来源
+- **核心指标**:灵敏度达100pT量级;相似体积/重量/功耗(SWaP)约束下比传统技术灵敏度提升约10倍;21个月ESA合同近100万美元
+- **应用目标**:测量地核岩浆流动产生的地磁场变化;监测磁北极快速漂移;深海洋流相关电流信号;电离层电磁事件追踪
+- **量子传感关联**:量子金刚石磁力计进入太空验证阶段;ESA合同标志量子传感获得国家级航天机构认可;100pT级灵敏度是量子磁力计实用化的重要里程碑
+
+#### 博世×元素六量子传感合资:Bosch Quantum Sensing/金刚石量子传感器/博世-元素六/培育钻石/2025年4月成立(2026-06-06)
+- [163网易:博世与元素六合作背后的量子传感革命](https://www.163.com/dy/article/JVHTEK88051980LO.html) | Bosch + Element Six(戴比尔斯集团人造金刚石业务); 2025年4月8日宣布成立; 全球工业巨头联手
+- **合作内容**:博世(Bosch)与元素六(Element Six)成立合资公司"Bosch Quantum Sensing";专注金刚石量子传感器的研发与商业化
+- **技术基础**:金刚石NV色心是量子传感核心平台;元素六是全球培育金刚石顶级供应商;博世是工业传感器全球领导者;三方资源互补
+- **战略意义**:全球工业巨头与顶级金刚石材料商联手;标志着量子传感从实验室向规模化工业应用迈进;培育钻石在量子技术领域的战略价值凸显
+
+#### QuantumSi Platinum系统:单分子蛋白测序/NV色心量子传感/生物标志物检测/量子生物传感商业化里程碑/2026年(2026-06-06)
+- [QuantumSi官网](https://www.quantum-si.com/) | Quantum-Si (Nasdaq: QSI); 2026年持续商业化推进; Platinum蛋白测序系统
+- **核心技术**:利用金刚石NV色心量子传感技术检测单个氨基酸降解——当蛋白质被消化时,逐个释放的氨基酸通过酶切产生可检测信号;NV色心检测荧光标记氨基酸,实现单分子级别的蛋白质测序
+- **商业化进展**:Platinum系统已于2022年12月发布;与Aviva Systems Biology合作开发样本制备试剂盒;第41届J.P. Morgan医疗大会(2026年1月)重申商业化承诺
+- **应用价值**:首次实现真正的单分子蛋白测序;为蛋白质组学研究提供全新工具;加速精准医疗和药物发现
+- **量子传感关联**:Quantum-Si是量子传感在生物检测领域商业化的先驱;NV色心用于生物大分子测序的里程碑应用;量子生物传感正在从实验室走向商业产品
+
+*本次更新: MIT Technology Review量子雷达/ Quantum Innovation Summit Dubai 2026/ Fraunhofer IAF QUASAR慕尼黑展示/ SBQuantum CubeSat ESA合同/ Bosch Quantum Sensing合资/ QuantumSi Platinum商业化进展(2026-06-06下午-14:44)
+
+---
 ### 🆕 新增条目(2026-06-06下午-13:44 - 本次更新)
 
 #### arXiv:2606.05928 - 宽场CW-ODMR NV色心AC磁场传感:连续波光检测磁共振突破传统AC磁场限制/室温工作(Ryohei Dokai等,2026-06-04)
