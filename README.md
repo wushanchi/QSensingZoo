@@ -1548,6 +1548,72 @@
 *本次更新: Nature Nanotechnology原子级STM量子传感器亚埃米分辨率/ 国仪量子ciQUS磁成像工业级解决方案/ 量子精密测量学术会议动态Quantum.Tech 2026+Quantum Singapore 2026(2026-06-04早-01:44)*
 
 ---
+### 🆕 新增条目(2026-06-06晚-19:14 - 本次更新)
+
+#### Q-CTRL "Ironstone Opal"量子导航系统入选《时代》周刊2025年最佳发明榜单:GPS拒止环境/空中陆地海上实地验证/量子导航商业化/2025年10月(2026-06-06)
+- [腾讯新闻:Q-CTRL量子导航系统入选《时代》2025年最佳发明](https://new.qq.com/rain/a/20251010A074PW00) | Q-CTRL; 2025年10月9日公布; TIME Best Inventions 2025
+- **核心事件**:Q-CTRL公司的软件加固型量子导航系统"Ironstone Opal"入选《时代》周刊(TIME)"2025年最佳发明"榜单;是量子传感领域少数入选该榜单的技术之一
+- **技术方案**:基于量子传感器的惯性导航系统;通过软件算法加固提升量子传感器的抗噪声能力;可在GPS拒止环境下实现精确定位
+- **实测验证**:已通过空中、陆地及海上场景的实地验证;有效应对GPS干扰和拒止问题
+- **量子传感关联**:量子导航是量子传感最重要的商业化方向之一;《时代》榜单标志量子导航进入主流科技视野;Q-CTRL是量子传感软件基础设施的全球领导者
+
+#### Fraunhofer IAF QUASAR项目慕尼黑展出:宽场NV磁力计/4K晶圆探针/硅自旋量子比特平台/EU Quantum Flagship/2026年6月(2026-06-06)
+- [Fraunhofer IAF:QUASAR project](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; 2026年6月27-30日; 慕尼黑LASER World of QUANTUM展会
+- **核心展示**:QUASAR项目宽场NV磁力计——基于4×4mm² IIa型金刚石衬底,纳米分辨率,室温工作,快速磁成像;面向纳米电子学、材料科学、生物医学应用
+- **技术进展**:EU Quantum Flagship硅自旋量子比特平台;通过电子"shuttling"耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **量子传感关联**:Fraunhofer IAF已建立稳定的欧洲产业规模金刚石fabrication链;QUASAR代表金刚石量子传感预产业化的重要方向
+
+#### SBQuantum量子金刚石磁力计CubeSat发射:2026年3月升空/100pT灵敏度/ESA合同€80万/地磁场监测/磁导航/地球观测(2026-06-06)
+- [IEEE Spectrum:Quantum Sensors in Space](https://spectrum.ieee.org/quantum-sensors-space) | SBQuantum; 2026年3月CubeSat发射; ESA合同€80万支持
+- **技术方案**:基于金刚石NV色心的量子磁力计;室温工作;测量磁场矢量信息;无漂移读数;四传感器阵列推导磁场来源
+- **核心指标**:灵敏度达100pT量级;相似SWaP约束下比传统技术灵敏度提升约10倍;21个月ESA合同近100万美元
+- **应用目标**:测量地核岩浆流动产生的地磁场变化;监测磁北极快速漂移;深海洋流相关电流信号;电离层电磁事件追踪
+- **量子传感关联**:量子金刚石磁力计进入太空验证阶段;ESA合同标志量子传感获得国家级航天机构认可;100pT级灵敏度是量子磁力计实用化的重要里程碑
+
+#### Cerca Magnetics完成380万英镑A轮融资:可穿戴式量子脑成像扫描仪/诺丁汉大学衍生/Guinness Ventures领投/估值3000万英镑/2026年4月(2026-06-06)
+- [腾讯新闻:Cerca Magnetics完成380万英镑A轮融资](https://so.html5.qq.com/page/real/search_news?docid=70000021_87869e8aa9187252) | Cerca Magnetics; 2026年4月完成A轮; 吉尼斯风险投资(Guinness Ventures)领投; 投后估值3000万英镑
+- **技术方案**:基于量子传感器的可穿戴式脑成像扫描仪;采用量子磁力计测量大脑神经活动产生的微弱磁场;非侵入式高空间分辨率脑成像
+- **公司背景**:诺丁汉大学物理与天文学院衍生企业;英国量子脑成像领域领先创业公司
+- **量子传感关联**:量子脑成像是量子传感在生物医学领域最接近临床应用的方向;可穿戴设计使量子脑成像走出实验室;£3000万估值标志量子生物传感获得资本市场认可
+
+#### QuantumSi Platinum系统:单分子蛋白测序/NV色心量子传感/生物标志物检测/量子生物传感商业化里程碑/2026年(2026-06-06)
+- [QuantumSi官网](https://www.quantum-si.com/) | Quantum-Si (Nasdaq: QSI); 2026年持续商业化推进; Platinum蛋白测序系统
+- **核心技术**:利用金刚石NV色心量子传感技术检测单个氨基酸降解——当蛋白质被消化时,逐个释放的氨基酸通过酶切产生可检测信号;NV色心检测荧光标记氨基酸,实现单分子级别的蛋白质测序
+- **商业化进展**:Platinum系统已于2022年12月发布;与Aviva Systems Biology合作开发样本制备试剂盒;第41届J.P. Morgan医疗大会(2026年1月)重申商业化承诺
+- **量子传感关联**:Quantum-Si是量子传感在生物检测领域商业化的先驱;NV色心用于生物大分子测序的里程碑应用
+
+#### Infleqtion与NASA合作量子重力梯度仪先导任务:2030年发射/中性原子量子传感器/近地轨道/引力场监测/水冰陆地质量追踪(2026-02-10报道)
+- [腾讯新闻:Infleqtion与NASA合作](https://new.qq.com/rain/a/20260214A064QE00) | Infleqtion + NASA喷气推进实验室(JPL); 2026年2月10日宣布; 计划2030年左右发射
+- **技术方案**:中性原子量子传感器测量地球引力场和引力梯度;基于原子干涉原理;量子重力梯度仪可区分引力信号与振动噪声
+- **核心目标**:比现有方法更灵敏地追踪水、冰和陆地的质量变化;首次将独立量子重力传感器发射进入近地轨道
+- **量子传感关联**:量子重力传感进入太空验证阶段;NASA合作标志量子传感在国家级航天任务中获得认可
+
+#### 博世量子传感×元素六(Bosch Quantum Sensing):金刚石量子传感器合资/博世-元素六/培育钻石/2025年4月成立/2026年(2026-06-06)
+- [163网易:博世与元素六合作背后的量子传感革命](https://www.163.com/dy/article/JVHTEK88051980LO.html) | Bosch + Element Six(戴比尔斯集团人造金刚石业务); 2025年4月8日宣布成立; 全球工业巨头联手
+- **合作内容**:博世(Bosch)与元素六(Element Six)成立合资公司"Bosch Quantum Sensing";专注金刚石量子传感器的研发与商业化
+- **技术基础**:金刚石NV色心是量子传感核心平台;元素六是全球培育金刚石顶级供应商;博世是工业传感器全球领导者;三方资源互补
+- **战略意义**:全球工业巨头与顶级金刚石材料商联手;标志着量子传感从实验室向规模化工业应用迈进
+
+#### Quantum Design完成收购牛津仪器纳米科学部门:超低温技术百年积淀/低温物理/材料科学/显微技术服务/2026年1月(2026-06-06)
+- [腾讯新闻:Quantum Design完成收购牛津仪器纳米科学部门](https://new.qq.com/rain/a/20260115A02IIM00) | Quantum Design (QD); 2026年1月2日完成收购; 牛津仪器纳米科学部门(Oxford Instruments NanoScience)
+- **战略意义**:两家低温技术先驱企业的战略联合;拥有超百年创新积淀的低温物理、材料科学及显微技术服务体系的诞生;Quantum Design产品线覆盖从极低温到室温的量子传感实验需求
+- **量子传感关联**:量子传感实验需要极低温环境(稀释制冷机、超导量子干涉仪等);该收购将进一步整合量子传感实验全链条
+
+#### Quantum Innovation Summit Dubai 2026:量子与新兴前沿/2026年9月28-30日/迪拜/全球量子产业汇聚(2026-06-06)
+- [Quantum Innovation Summit Dubai 2026](https://quantuminnovationsummit.com/) | ICV TA&K + FinQ Tech Inc. + Informa Markets; IEEE Photonics Society学术支持; 2026年9月28-30日; 迪拜君悦酒店
+- **会议主题**:"Quantum & Emerging Frontiers: Advancing Global Innovation & Technological Leadership"
+- **核心议题**:量子传感硬件突破;量子通信与安全;量子计算产业化;量子技术在能源/医疗/金融等领域的应用;区域化量子生态构建
+- **量子传感关联**:该峰会是量子传感领域最重要的全球产业峰会之一;QSensingZoo持续追踪峰会发布的前沿技术与产业动态
+
+#### Quantum Motion交付全球首台硅基CMOS量子计算机:2025年9月/英国量子计算初创/量子传感底层技术/2025年(2026-06-06)
+- [腾讯新闻:Quantum Motion交付全球首台硅基CMOS量子计算机](https://so.html5.qq.com/page/real/search_news?docid=70000021_04668cac86c52052) | Quantum Motion; 2025年9月15日; 英国量子计算初创公司
+- **核心事件**:英国量子计算初创公司Quantum Motion宣布交付全球首台硅基CMOS量子计算机;这是量子计算领域的重大里程碑
+- **技术关联**:硅基量子比特技术与半导体量子点量子传感平台共享工艺;量子计算芯片化进展为量子传感器件集成提供参考路径
+- **量子传感关联**:量子计算与量子传感在半导体工艺上高度交叉;硅基量子比特是量子传感新兴平台之一;该交付事件标志量子技术共享半导体工艺生态
+
+*本次更新:Q-CTRL Ironstone Opal入列TIME2025最佳发明/ Fraunhofer IAF QUASAR慕尼黑展出/ SBQuantum CubeSat ESA合同/ Cerca Magnetics £380万A轮/ QuantumSi Platinum商业化/ Infleqtion-NASA量子重力梯度仪/ Bosch Quantum Sensing合资/ Quantum Design收购牛津仪器纳米科学部/ Quantum Innovation Summit Dubai 2026/ Quantum Motion硅基CMOS量子计算机(2026-06-06晚-19:14)
+
+---
 ### 🆕 新增条目(2026-06-04早-00:44 - 本次更新)
 
 #### NIST/RTX量子雷达:里德伯原子传感器/地下目标成像/厘米玻璃腔/MIT Technology Review 2025(2026-06)
