@@ -4324,3 +4324,43 @@
 - **量子传感关联**:量子传感与量子计算、量子通信并列量子科技三大支柱之一;量子传感从"技术展示"到"商业产品"的关键转折;国家战略层面量子传感布局加速;量子传感在国防安全、医疗健康、卫星导航等战略领域全面渗透
 
 *本次更新: CAS中国科学院紧凑型光钟量子干涉增强吸收光谱室温低功率micro-PNT/量子传感器市场未来十年22亿美元CAGR 11.4% TMR传感器大规模商用/2026量子科技大爆发从技术破局到千亿产业前瞻(2026-06-06上午-10:01)*
+
+### 🆕 新增条目(2026-06-06上午-11:01 - 本次更新)
+
+#### Nature 2026-01-28:分布式城际量子传感网络约束轴子拓扑缺陷暗物质:全球光学磁力计网络/拓扑缺陷/灵敏度超越天体物理观测/2026年1月28日(2026-06-06)
+- [Nature:Constraints on axion dark matter by distributed intercity quantum sensors](https://www.nature.com/articles/s41586-025-10034-w) | Nature; 2026年1月28日; 国际合作团队
+- **技术方案**:利用全球分布式光学磁力计网络探测超轻轴子粒子(暗物质候选)形成的拓扑缺陷(TDM);核自旋传感器网络搜索超越天体物理观测极限的参数空间
+- **核心发现**:首次在实验上突破对拓扑缺陷轴子暗物质约束的天体物理观测极限;轴子是超轻暗物质的重要候选
+- **量子传感关联**:分布式城际量子传感网络是量子传感从单点测量向网络化扩展的里程碑;该工作验证了量子传感网络在基础物理探测中的独特价值;中科大合肥-杭州320公里量子传感网络同属此类应用
+
+#### Science China 2025-10-23: MPCVD共工程化金刚石NV色心——集成电路非侵入式量子传感/高浓度NV/长相干时间/2025年10月(2026-06-06)
+- [Science China:Co-engineered diamond NV centers via MPCVD for non-invasive quantum sensing in integrated circuits](http://engine.scichina.com/doi/10.1007/s11433-025-2790-1) | Science China Physics, Mechanics & Astronomy; 2025年10月23日发表
+- **技术方案**:采用微波等离子体化学气相沉积(MPCVD)合成高性能NV色心金刚石样品;系统研究NV浓度与相干时间的关系;实现集成电路非侵入式量子传感
+- **核心指标**:高NV浓度;相干时间T₂*=0.48 μs;微米级金刚石晶体加工
+- **量子传感关联**:NV色心是量子传感最成熟技术平台;MPCVD工艺提升金刚石NV材料质量;非侵入式检测为半导体芯片检测提供新路径
+
+#### Scientific Reports 2025-08-05:透明双折射图案量子幽灵成像——超纠缠光子对/轨道角动量/相位奇点/量子成像/2025年8月5日(2026-06-06)
+- [Scientific Reports:Quantum ghost imaging of transparent birefringent patterns with phase singularities](https://www.nature.com/articles/s41598-025-12582-7) | Scientific Reports; 2025年8月5日发表; Fei Sun, Pieter Kok等
+- **技术方案**:利用含纠缠( Einstein-Podolsky-Rosen +偏振)光子的超纠缠态实现透明双折射图案的量子幽灵成像;图案引入与位置和偏振相关的相位奇点
+- **核心发现**:首次实现对透明双折射图案的量子幽灵成像;超纠缠光子源是实现量子成像的关键;对透明物体成像具有独特优势
+- **量子传感关联**:量子成像是量子传感的重要分支;该工作拓展了量子传感在透明/弱散射目标成像中的应用;量子幽灵成像在医学成像和无损检测领域有应用潜力
+
+#### Quantum Singapore 2026论坛:ICV TA&K×FinQ Tech×Informa Markets/新加坡滨海湾/量子传感×量子计算×量子通信/2026年2月4日(2026-06-06)
+- [腾讯新闻:Quantum Singapore 2026论坛开幕](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech、Informa Markets联合主办; IEEE Photonics Society学术支持; 2026年2月4日开幕
+- **论坛主题**:"Quantum Convergence: From Hardware Breakthrough to Industrial Adoption"; 量子传感×量子计算×量子通信×量子测量四大方向
+- **量子传感议题**:涵盖量子传感硬件突破、量子成像工业化、量子通信与量子传感协同等核心议题;是亚太量子传感产业化的重要交流平台
+- **量子传感关联**:Quantum Singapore是亚洲量子技术产业化的标志性论坛;量子传感商业化是核心议题之一;该论坛反映量子传感正从学术研究向工业采纳转型的全球趋势
+
+#### IEEE Spectrum:量子电池研究突破——RMIT大学量子电池充电速度指数级提升/量子叠加/能量存储新范式/2025年(2026-06-06)
+- [IEEE Spectrum:Quantum Battery](https://spectrum.ieee.org/quantum-battery-rmit-university) | IEEE Spectrum; RMIT大学; 2025年持续报道
+- **技术原理**:利用量子叠加和相干性实现能量的快速存储和释放;量子电池利用量子态叠加实现能量存储状态的叠加
+- **核心突破**:理论上量子电池充电速度相比经典电池可实现指数级提升;量子电池是量子传感与能量存储交叉的新兴方向
+- **量子传感关联**:量子电池与量子传感在原理上共享量子相干性、量子纠缠等核心概念;量子电池研究推动量子传感相关材料(金刚石NV、 trapped ion等)的开发;两者在量子材料层面深度交叉
+
+#### IEEE Spectrum:NIST量子随机数生成器——量子不确定性与后量子密码学/量子熵源/网络安全/2025年(2026-06-06)
+- [IEEE Spectrum:NIST Quantum Random Number Generator](https://spectrum.ieee.org/nist-quantum-random-number-generator) | NIST; IEEE Spectrum; 2025年持续报道
+- **技术方案**:NIST量子随机数生成器(QRNG)利用光子量子不确定性作为熵源;产生不可预测的真随机数;是后量子密码学的基础设施
+- **核心应用**:后量子密码学标准;量子密钥分发(QKD);网络安全基础设施
+- **量子传感关联**:量子随机数是量子传感系统安全通信的关键支撑;量子传感网络的数据安全需要QRNG;NIST QRNG代表量子传感基础设施的核心组件
+
+*本次更新: Nature分布式城际量子传感网络约束轴子暗物质/ Science China MPCVD金刚石NV色心集成电路非侵入式传感/ Scientific Reports量子幽灵成像透明双折射图案/ Quantum Singapore 2026论坛/ IEEE Spectrum量子电池/ NIST量子随机数生成器(2026-06-06上午-11:01)*
