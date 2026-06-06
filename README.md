@@ -7,6 +7,27 @@
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 [![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
 
+### 🆕 新增条目(2026-06-06晚上-23:44 - 本次更新)
+
+#### arXiv:2606.05457——宽带AC磁场传感NV色心CW-ODMR新方案:宽频带/高灵敏度/高动态范围/2026年6月4日提交(2026-06-06)
+- [arXiv:2606.05457](https://arxiv.org/abs/2606.05457) | Ryohei Dokai、Ryusei Okaniwa、Miku Ishizaki、Junko Ishi-Hayase、Yuichiro Matsuzaki; quant-ph; 2026年6月4日提交
+- **技术方案**:连续波光检测磁共振(CW-ODMR)是NV色心磁场传感的常用方法;传统CW-ODMR在AC磁场传感中受限于动态范围;提出宽带AC磁场传感新方案克服该局限
+- **核心突破**:实现宽频带、高灵敏度、高动态范围的AC磁场传感;CW-ODMR方案简单易实现;室温工作条件下性能优异
+- **应用方向**:工业检测/生物医学成像/材料表征;NV色心是固态量子传感的核心平台
+- **量子传感关联**:NV色心CW-ODMR是量子磁力计商业化的核心技术路线;宽带AC传感能力拓展NV色心的实用场景
+
+#### arXiv:2606.05231——纳米级磁谱分析仪基于量子比特装饰态:NV色心/频谱分析/量子传感/2026年6月4日提交(2026-06-06)
+- [arXiv:2606.05231](https://arxiv.org/abs/2606.05231) | Jan Rueschkamp、Shantam Ravan、Daniel Fernandez、Nazar Delegan、F. Joseph Heremans、David D. Awschalom; quant-ph; 2026年6月4日提交
+- **技术方案**:利用量子比特装饰态(dressed states)实现纳米级磁谱分析;NV色心是核心传感媒质;在纳米尺度实现频率分辨磁场测量
+- **核心创新**:将量子比特能级工程与NV传感结合;实现高空间分辨率的频域磁场成像;适用于纳米电子学和量子材料表征
+- **量子传感关联**:纳米级磁谱仪是量子传感在材料科学应用的前沿工具;NV色心+装饰态是量子传感灵敏度提升的新路线;该工作代表量子传感在纳米尺度精密测量方向的最新进展
+
+---
+
+*本次更新: arXiv:2606.05457宽带AC磁场传感NV色心CW-ODMR/ arXiv:2606.05231纳米级磁谱仪量子比特装饰态(2026-06-06晚上-23:44)*
+
+---
+
 ---
 
 ### 🆕 新增条目(2026-06-06晚-23:14 - 本次更新)
