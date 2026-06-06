@@ -9,6 +9,42 @@
 
 ---
 
+### 🆕 新增条目(2026-06-06晚上-19:44 - 本次更新)
+
+#### arXiv:2605.24017——量子计量学与量子传感综述：从基础到应用/Priya Ghosh等/2026年5月25日提交(2026-06-06)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=quantum+metrology+sensing+review&start=0&per_page=5&order=-announced_date_first) | Priya Ghosh、Tanoy Kanti Konar、Debraj Rakshit、Aditi Sen De、Ujjwal Sen; quant-ph; 2026年5月25日提交(v1 2026年5月20日)
+- **综述范围**:从基础到应用的量子计量学与传感系统综述——涵盖频繁论与贝叶斯方法、单参数与多参数估计、幺正与噪声通道估计、量子热测量、量子传感网络的估计等
+- **核心亮点**:考虑频率论与贝叶斯两种参数估计方法;涵盖单参数和多参数估计;讨论幺正通道与噪声通道估计;量子热测量;量子传感网络的估计协议
+- **量子传感关联**:量子计量学是量子传感的理论基础;该综述系统梳理了量子传感从理论到应用的完整框架;对量子传感研究者具有重要的参考价值
+
+#### arXiv:2605.21925——量子网络中的金刚石色心：原理、进展与展望/SiV/NV色心/量子通信与传感融合/2026年5月28日(2026-06-06)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=quantum+networks+color+defects+diamond&start=0&per_page=5&order=-announced_date_first) | Ayan Majumder、Cem Güney Torun、Tim Schröder、Gregor Pieplow、Prem Kumar、Kasturi Saha; quant-ph; 2026年5月28日提交
+- **综述范围**:大规模量子网络将量子传感、量子通信和分布式量子计算融合;金刚石色心(SiV、NV等)在量子网络中的角色
+- **核心内容**:色心量子比特的相干性;光子接口(色心-光子纠缠);量子网络节点设计;金刚石加工技术;实验进展与挑战
+- **量子传感关联**:量子网络是分布式量子传感的基础设施;金刚石色心提供固态量子存储+光子接口的独特组合;该综述为量子传感网络的硬件设计提供路线图
+
+#### Quantinuum完成IPO上市:2026年6月4日登陆纳斯达克/融资16.8亿美元/市值176亿美元/量子传感产品线/Hexar Group(2026-06-06)
+- [腾讯新闻:Quantinuum登陆美股](https://so.html5.qq.com/page/real/search_news?docid=70000021_9966a21fc9059352) | Quantinuum Inc.; 2026年6月4日; 纳斯达克全球市场; 股票代码"QNT"
+- **IPO详情**:发行2800万股股票,定价每股60美元(原区间53-55美元上调);融资16.8亿美元;超额认购逾20倍;开盘价68美元,收盘市值约176亿美元
+- **公司背景**:霍尼韦尔国际支持;2021年由霍尼韦尔量子计算部门与英国剑桥量子公司合并而成;全球最大量子计算公司之一;通过Hexar Group整合量子传感业务
+- **量子传感关联**:Quantinuum通过Hexar Group拥有完整的量子传感产品线(量子重力仪、原子钟、量子加速度计);176亿美元市值反映市场对量子技术商业化前景的认可;量子传感是Quantinuum多元化战略的核心组成
+
+#### Fraunhofer IAF QUASAR项目2026年6月慕尼黑LASER展会:宽场NV磁力计快速磁成像/纳米分辨率/室温工作/金刚石量子传感产业链(2026-06-06)
+- [Fraunhofer IAF:QUASAR](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF; 2026年6月27-30日; 慕尼黑LASER World of QUANTUM展会
+- **展示内容**:宽场NV磁力计——基于4×4mm² IIa型金刚石衬底,快速磁成像,纳米分辨率,室温工作;面向纳米电子学、材料科学、生物医学应用
+- **QUASAR项目进展**:EU Quantum Flagship硅自旋量子比特平台;通过"shuttling"电子耦合量子比特实现可扩展量子系统;4K晶圆探针台快速反馈
+- **金刚石量子传感产业链**:Fraunhofer IAF已建立稳定欧洲产业规模fabrication链;从量子材料到器件完整覆盖;金刚石量子传感器是量子传感预产业化的核心方向
+
+#### Precision limits for time-dependent quantum metrology under Markovian noise:时变参数量子计量学/马尔可夫噪声/量子传感鲁棒性/Luca Previdi等(2026-06-06)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=precision+limits+time-dependent+quantum+metrology+markovian&start=0&per_page=5) | Luca Previdi、Francesco Albarelli; quant-ph; 2026年5月提交; 量子计量学理论
+- **技术方案**:研究时变参数量子计量学在马尔可夫噪声下的精密极限;延展了无噪情况和无敌辅助情况下的理论;推导时变参数估计中噪声对灵敏度的定量影响
+- **核心发现**:为时变量子传感协议在现实噪声环境下的性能提供理论边界;量子传感系统的鲁棒性分析框架
+- **量子传感关联**:实际量子传感系统面临时变信号和噪声;该工作为量子传感器的实际部署提供理论指导
+
+*本次更新: 量子计量学与传感综述(Priya Ghosh等)/金刚石色心量子网络综述/Quantinuum 176亿美元市值IPO/ Fraunhofer IAF QUASAR慕尼黑展会/时变量子计量学精密极限(2026-06-06晚上-19:44)
+
+---
+
 ### 🆕 新增条目(2026-06-06下午-16:14 - 本次更新)
 
 #### arXiv:2606.05947 - 量子点纳米结构与早期容错量子计算机建模/双量子点/半导体自旋量子比特架构/容错计算/Zhu Sun等(2026-06-04)
