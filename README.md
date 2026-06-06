@@ -4781,3 +4781,19 @@
 - **量子传感关联**:未磁科技是中国量子精密测量商业化标杆;量子生物磁场测量是量子传感在医疗领域最成熟的商业化方向之一;全链条自主可控标志量子传感产业化深度
 
 *本次更新: arXiv:2606.04914 超导tRes可调谐谐振器磁力计mK MHz/ 未磁科技B轮融资数亿元312通道无液氦脑磁图仪10fT全球领跑(2026-06-06下午-15:14)*
+---
+### 🆕 新增条目(2026-06-06下午-16:44 - 本次更新)
+
+#### Qnami被Quantum Design收购:2026年6月2日/全球科学仪器龙头/量子传感产业化加速/瑞士×美国×日本三角布局(2026-06-06)
+- [Qnami官网:Qnami Joins Quantum Design to Accelerate the Future of Quantum Sensing](https://qnami.ch/qnami-joins-quantum-design-to-accelerate-the-future-of-quantum-sensing/) | Qnami + Quantum Design; 2026年6月2日宣布; 全球科学仪器龙头收购量子传感先锋
+- **并购详情**:Quantum Design——全球科学仪器与先进材料表征解决方案领导者——正式收购Qnami;Qnami成为Quantum Design量子传感产品组合核心;Quantum Design同时持有Oxford Instruments纳米科学部门
+- **战略意义**:全球科学仪器龙头收购量子传感专业公司;标志量子传感从"实验室技术"升级为"商业化产品线";Quantum Design全球渠道将加速量子传感器的市场渗透
+- **量子传感关联**:Qnami是全球金刚石NV量子传感商业化标杆;ProteusQ系列扫描NV显微镜代表室温量子成像最高水平;被全球龙头收购验证了量子传感商业化路径的可行性;量子传感进入产业整合阶段
+
+#### Qnami×VerticalCompute:量子计量支撑欧洲半导体先进封装/下一代高性能Chiplet/量子精密测量/2026年6月(2026-06-06)
+- [Qnami官网:Qnami supports VerticalCompute driving European semiconductor innovation](https://qnami.ch/qnami-supports-verticalcompute-driving-european-semiconductor-innovation/) | Qnami + VerticalCompute; 2026年6月发布; 量子计量 × 先进封装
+- **合作内容**:Qnami提供量子计量解决方案;助力VerticalCompute开发下一代高性能、高能效Chiplet(芯粒);量子精密测量应用于半导体先进封装检测
+- **技术价值**:量子传感为半导体先进封装提供纳米级精密检测能力;量子计量是量子传感在半导体产业的重要应用方向;量子传感×半导体交叉融合加速
+- **量子传感关联**:量子传感从科研/医疗领域向半导体工业扩展;Chiplet先进封装对量子级精密测量需求迫切;量子传感在半导体检测领域商业化加速
+
+*本次更新: Qnami被Quantum Design收购全球仪器龙头/ Qnami×VerticalCompute量子计量支撑欧洲半导体先进封装(2026-06-06下午-16:44)*
