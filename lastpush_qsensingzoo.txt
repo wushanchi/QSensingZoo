@@ -1,3 +1,3 @@
-2026-06-06 16:18
-QSensingZoo update: arXiv:2606.05947量子点纳米结构容错计算建模/ Vector Atomic量子导航授时商业平台/ Infleqtion-NASA量子重力梯度仪2030太空任务/ Cerca Magnetics £3.8M A轮融资可穿戴脑成像/ Quantum Design收购牛津仪器纳米科学部门
-Commit: f4981a7
+2026-06-06 18:14
+QSensingZoo update: arXiv:2606.05928金刚石NV中心宽带AC磁场传感(100MHz检测)/ arXiv:2606.06101量子限精度大气湍流估计/ Quantinuum IPO 2026-06-05 Nasdaq开盘$68市值176亿美元/ Quantum Design收购牛津仪器纳米科学部门(2026-01-02)
+Commit: ff5a06e
