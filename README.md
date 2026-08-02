@@ -8,6 +8,57 @@
 [![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
 
 
+### 🆕 新增条目(2026-08-03上午-04:03 - 本次更新)
+
+#### MIT Technology Review:量子雷达新型传感方案——里德堡原子射频探测/隐蔽目标成像/量子传感新范式/2025年8月(2026-08-03)
+- [MIT Technology Review:This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | MIT Technology Review; 2025年8月11日发布; 量子传感雷达前沿
+- **技术方案**:利用玻璃腔内原子云(里德堡原子)作为探测器的新型雷达;通过测量反射射频波与原子云的相互作用实现目标探测
+- **核心优势**:利用量子力学特性探测隐蔽目标;可探测埋藏物体;相比传统射频探测器尺寸更小
+- **技术意义**:展示量子传感在雷达领域的实用化潜力;里德堡原子射频探测是量子传感的热门方向;量子雷达从概念验证走向实际成像
+- **量子传感关联**:里德堡原子是量子射频传感(RF sensing)的核心平台;量子雷达利用量子增强提升探测灵敏度;该工作将量子传感与雷达成像结合
+
+#### 布里斯托大学:光子传感器量子极限运行——批量可制造/温室气体监测/癌症检测/量子光子芯片/2025年2月(2026-08-03)
+- [Tech Briefs:Quantum Sensing to Engineer Photonic Sensors](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | 布里斯托大学; 2025年2月发布; 量子光子传感商用化突破
+- **技术方案**:在商业代工厂批量制造光子芯片(微环谐振器纳米制造);实现批量可制造光子传感器在量子极限运行
+- **核心突破**:突破量子传感依赖纠缠或压缩态的局限——利用日常光即可达到量子极限性能;为大规模制造铺平道路
+- **应用前景**:温室气体监测;癌症检测;医疗诊断
+- **量子传感关联**:量子光子传感是量子传感商业化的重要方向;批量化制造是量子传感器走向市场的关键;该工作将量子传感从实验室推向工业应用
+
+#### 西北大学:首款电子-光子量子芯片商业代工厂制造——硅基量子光学/光量子通信传感/2025年7月(2026-08-03)
+- [Northwestern Now:First electronic-photonic quantum chip manufactured in commercial foundry](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) | 西北大学; 2025年7月14日发布; 量子芯片制造里程碑
+- **技术方案**:首次在商业半导体代工厂中制造电子-光子量子芯片;将量子光源、控制电子器件和光子器件高密度集成于硅芯片
+- **核心突破**:商业代工厂首次证明可制造量子光学器件;小温度变化、 imperceptible制造缺陷均可影响量子光学器件性能;该芯片为光量子通信、量子传感和量子计算提供集成平台
+- **量子传感关联**:量子光子芯片是量子传感器的核心硬件;商业代工厂制造意味着可批量生产;为量子传感器芯片化、集成化奠定基础
+
+#### Nature:分布式量子传感器网络约束轴子暗物质——拓扑缺陷暗物质/光学原子磁力计/全球传感网络/2026年1月(2026-08-03)
+- [Nature:Constraints on axion dark matter by distributed intercity quantum sensors](https://www.nature.com/articles/s41586-025-10034-w) | Nature; 2026年1月28日发布; 量子传感基础物理探索
+- **技术方案**:利用分布式城际光学原子磁力计网络约束拓扑缺陷暗物质(TDM);核自旋分布式传感器网络
+- **核心发现**:通过全球量子传感器网络探测超出天体物理观测约束的暗物质参数空间;为利用量子传感探索基础物理提供新途径
+- **技术意义**:量子传感器网络在暗物质探测中的应用;展示量子传感的基础科学价值;分布式量子传感是规模化部署的重要方向
+- **量子传感关联**:量子传感不仅是精密测量工具——也是基础物理研究的探测器;分布式网络化量子传感拓展探测范围;该工作将量子传感与暗物质物理前沿结合
+
+#### Nature Reviews Physics:原子干涉仪量子传感器走出实验室——实用化量子重力传感/工程地球物理导航/2019年综述视角/2025年参考(2026-08-03)
+- [Nature Reviews Physics:Taking atom interferometric quantum sensors from the laboratory to real-world applications](https://link.springer.com/article/10.1038/s42254-019-0117-4) | Nature Reviews Physics; 2019年发布(2025年参考); 量子传感实用化路线图
+- **技术内容**:原子干涉仪走出实验室成为实用化量子传感器;应用领域:计量学、地球物理、空间、民用工程、石油矿产勘探、导航
+- **核心议题**:科学和技术挑战;近期进展;便携化量子传感器的路线图
+- **量子传感关联**:原子干涉仪是量子重力仪的核心技术;该综述为量子重力传感的实用化提供全面参考;重力梯度测量在考古、工程和环境监测中有重要应用
+
+#### Quantum Village:UncutGem开源NV金刚石磁力计——全栈开源/氮空位中心/量子磁传感学习平台/DEF CON 2025发布(2026-08-03)
+- [GitHub:QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | Quantum Village; DEF CON 2025发布; 开源量子磁传感
+- **项目概述**:全球首个全栈开源NV金刚石磁力计;包含3D文件、固件、硬件和构建指南
+- **核心组成**:/science-科学原理解释;/firmware-传感器固件;/hardware-硬件设计;MaxMSP-交互式开发环境
+- **技术愿景**:打造首个从零开始设计为可访问性、面向未来的开源量子传感平台;为量子传感学习者提供完整参考实现
+- **量子传感关联**:NV色心是量子传感最成熟平台之一;开源实现推动量子传感民主化;该平台为量子磁传感教育提供实践基础
+
+#### IDTechEx:量子传感器市场2024-2044——$71亿市场规模/原子钟/量子陀螺仪/量子磁传感/量子重力仪/2023年报告(2026-08-03)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2023年发布; 量子传感器市场分析
+- **市场预测**:量子传感器市场预计2044年达到71亿美元;涵盖17个量子传感技术领域
+- **技术领域**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器
+- **应用方向**:电动汽车、自动驾驶汽车、脑扫描仪、量子计算机、地下测绘设备、卫星、消费电子
+- **量子传感关联**:量子传感器产业化的市场规模预测;量子传感从实验室向商业产品转化;汽车和医疗是量子传感的下一个大规模应用场景
+
+*本次更新:MIT量子雷达里德堡原子射频探测成像/布里斯托批量可制造光子传感器量子极限/西北大学首款商业代工厂电子光子量子芯片/Nature分布式量子传感器网络约束轴子暗物质/Nature Reviews原子干涉仪走出实验室实用化/Quantum Village UncutGem开源NV磁力计/IDTechEx量子传感器市场71亿美元预测(2026-08-03上午-04:03)*
+
 ### 🆕 新增条目(2026-08-03上午-03:33 - 本次更新)
 
 #### 清华大学:148nm连续波超窄线宽激光光源——真空紫外/钍-229核光钟/上游核心器件突破/2026年2月(2026-08-03)
