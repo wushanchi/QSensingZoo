@@ -7,6 +7,137 @@
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 [![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
 
+### 🆕 新增条目(2026-08-02晚-22:10 - 本次更新)
+
+#### arXiv: ——Agentic AI for Autonomous NV Center Quantum Sensing Experiments:LLM智能体驱动/无需人工干预/自动化量子传感/MIT+IBM+Harvard/Paola Cappellaro/2026年7月27日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=agentic+AI+autonomous+quantum+sensing+experiments&start=0&per_page=5) | Takuya Isogawa、Ryotaro Okabe、Nutdech Phadetsuwannukun、Mingda Li、Paola Cappellaro; quant-ph; 2026年7月27日提交
+- **技术方案**:开发基于大语言模型(LLM)智能体的AI工作流,实现氮-空位(NV)金刚石中心的自动化量子传感实验;NV色心是量子传感的成熟平台,多参数测量控制自然适合自动化工作流
+- **核心发现**:LLM智能体可自主设计和执行NV中心量子传感实验;大幅减少人工干预,加速量子传感实验迭代;为AI驱动的科学研究提供新范式
+- **量子传感关联**:AI自动化是量子传感工程化的关键使能技术;量子传感实验的智能化代表未来趋势;该工作为量子传感实验室的自动化提供参考方案
+
+#### arXiv: ——Critical Sensing with Autonomous Devices:NV自激振荡磁力计/超越稳定区FM锁定/自振荡阈值/Joan Toledo Aguilera等/2026年7月24日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=critical+sensing+autonomous+devices+NV+magnetometer&start=0&per_page=5) | Joan Toledo Aguilera、Gonzalo Reina Rivero、Marcel Morillas-Rozas、Javier Cerrillo; quant-ph; 2026年7月24日提交
+- **技术方案**:量子精密传感的标准操作模式是将被测频率锁定到探针频率;本研究故意在稳定区外操作——连续波NV系综磁力计,频率调制(FM)锁定在ODMR曲线边缘
+- **核心发现**:在稳定区外操作可实现临界传感;临界点附近系统响应灵敏度显著提升;为自主量子传感设备提供新操作范式
+- **量子传感关联**:临界传感是提升量子传感器灵敏度的前沿方向;NV色心自激振荡代表该方向的重要进展;对野外和太空量子传感应用有重要价值
+
+#### arXiv:2607.——Non-Hermitian增强型光学干涉仪量子传感:突破传统精密极限/Lei Xiao等/2026年7月27日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=non-hermitian+enhanced+quantum+sensing+optical+interferometer&start=0&per_page=5) | X.J. Huang、Lei Xiao、Bingzi Huo、X.X. Yi、Peng Xue; quant-ph; 2026年7月27日提交
+- **技术方案**:传统量子参数估计精度受限于标准量子极限;非厄米系统提供额外的传感自由度;在光学干涉仪中实现非厄米增强量子传感
+- **核心发现**:非厄米光学干涉仪可突破传统精密测量极限;利用系统非厄米性增强传感响应;为新型量子传感协议提供理论框架
+- **量子传感关联**:非厄米传感是量子计量学的前沿方向;光学干涉仪是量子传感的核心器件;该工作为非厄米量子传感的实用化提供新路径
+
+#### arXiv:2607.——Quantum Sensing Beyond Exceptional Points:隐藏对称性保护/突破EP信噪比困境/王文聪等/2026年7月21日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=quantum+sensing+beyond+exceptional+points+hidden+symmetry&start=0&per_page=5) | Wencong Wang、Yuyang Liang、Peng Han、Xianqiu Wu、Dongmei Liu、Min Gu; quant-ph; 2026年7月21日提交
+- **技术方案**:奇异点(EP)传感因异常响应标度而备受关注;但近期研究表明EP附近增强响应不可避免地伴随噪声放大;引入隐藏对称性保护的真空噪声固定点
+- **核心发现**:隐藏对称性可保护传感信号不受噪声放大影响;突破EP"信号放大=噪声放大"困境;在保持高灵敏度的同时抑制噪声
+- **量子传感关联**:非厄米量子传感是当前热点方向;隐藏对称性为EP传感的实用化提供新思路;该工作对量子传感器的鲁棒性设计有重要指导意义
+
+#### arXiv:2607.——里德堡原子低频电场量子传感:调制辅助场/低频信号检测/Xiayang Fan等/2026年7月21日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=rydberg+atoms+low+frequency+electric+field+sensing&start=0&per_page=5) | Xiayang Fan、Shenchao Jin、Jiatian Liu、Jialiang Zhang、Qichao Qi、Yuan Sun; quant-ph; 2026年7月21日提交
+- **技术方案**:里德堡原子是高灵敏度量子电场传感的通用平台;低频电场信号检测面临挑战;通过调制辅助场实现低频电场量子传感
+- **核心发现**:调制辅助场方案可有效检测低频电场信号;扩展里德堡原子量子传感的频率覆盖范围;对电磁兼容测试和环境监测有应用价值
+- **量子传感关联**:里德堡原子量子传感的频率覆盖持续拓展;低频电场传感是量子传感的重要应用场景;该工作为里德堡量子传感的实用化提供新方案
+
+#### arXiv:2607.——腔辅助发射极线宽压缩突破坏腔极限:强耦合物理/量子计算与传感应用/2026年7月30日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=beating+bad-cavity+limit+auxiliary+emitter+linewidth+squeezing&start=0&per_page=5) | quant-ph; 2026年7月30日提交
+- **技术方案**:裸腔保持弱耦合regime;通过辅助发射极线宽压缩改造坏腔;实现有效平台的强耦合物理
+- **核心发现**:坏腔可转化为强耦合物理的有效平台;对量子计算和量子传感均有潜在应用;腔QED与量子传感的深度融合
+- **量子传感关联**:腔增强是量子传感灵敏度提升的重要手段;坏腔改造方案降低了对硬件的要求;为实用化量子传感系统提供新思路
+
+#### arXiv:2607.——Quantum Magnonics综述:量子态生成与应用/磁子学/量子传感/Xi-Xu Lu等/2026年7月30日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=quantum+magnonics+review+quantum+sensing&start=0&per_page=5) | Zi-Xu Lu、Xuan Zuo、Xin-Lei Hei、Gang Liu、Zeng-Xing Liu、Qi Guo、Peng-Bo Li、Jie Li; quant-ph; 2026年7月30日提交
+- **综述范围**:量子磁子学(Quantum Magnonics)——量子态生成与应用的全面综述;涵盖磁子的量子态制备及其在多个领域的应用
+- **核心主题**:磁子的量子态制备技术;磁子与超导量子比特、NV色心等的耦合;磁子学在量子传感中的应用前景
+- **量子传感关联**:磁子-自旋混合系统是量子传感的新兴平台;量子磁子学综述为该方向研究者提供重要参考;磁子学与固态量子传感的交叉是前沿热点
+
+#### arXiv:2607.——Converting Quantum Sensing Noise into Erasures:噪声转擦除/量子传感优势/量子通信/2026年7月29日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=converting+quantum+sensing+noise+into+erasures&start=0&per_page=5) | Xingyu Liu、Zhaotong Cui、Binke Xia、Yuegang Li、Hongjing Li、Jingzheng Huang、Guihua Zeng; quant-ph; 2026年7月29日提交
+- **技术方案**:擦除(erasure)相比噪声对量子传感更有利;研究将量子传感中的噪声转换为擦除错误的方法;探索这种转换对量子传感性能的影响
+- **核心发现**:擦除比传统噪声更有利于量子传感;噪声-擦除转换为量子传感提供新的优势来源;量子通信中的擦除纠错概念应用于量子传感
+- **量子传感关联**:量子传感噪声处理是系统工程的关键;擦除转换代表量子传感纠错的新思路;对高保真量子传感系统设计有指导意义
+
+#### arXiv:2607.——Counterfactual Quantum Sensing:反事实量子传感/无交互测量/最小侵入传感/Christoph Wildfeuer/2026年7月28日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=counterfactual+quantum+sensing+interaction-free&start=0&per_page=5) | Christoph F. Wildfeuer; quant-ph; 2026年7月28日提交
+- **技术方案**:反事实测量(交互无关测量)从光子的"反事实"意义上推断吸收物体的存在;是实现最小侵入传感的潜在路径
+- **核心发现**:系统分析反事实测量在量子传感中的能力与局限;"无交互"传感在信息获取上存在基本限制;为最小侵入量子传感提供理论边界
+- **量子传感关联**:反事实量子传感是量子传感的独特方向;对生物医学成像等需要最小侵入的场景有重要价值;该综述厘清了反事实传感的能力边界
+
+#### arXiv:2607.——电子穿梭等待时间用于电场传感:量子电子穿梭/等待时间统计/电场测量/2026年7月27日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=electron+shuttle+waiting+times+electric+field+sensing&start=0&per_page=5) | Alberto Mayorgas、Alberto López-García、Enamul Haque、Javier Cerrillo; quant-ph; 2026年7月27日提交
+- **技术方案**:利用量子电子穿梭的等待时间统计实现电场传感;电子在纳米尺度的往复运动提供丰富的传感信号;等待时间分布包含电场信息
+- **核心发现**:等待时间统计可作为量子传感的有效探针;量子电子穿梭器在电场传感中具有独特优势;纳米尺度电场测量的新方法
+- **量子传感关联**:量子电子器件为纳米级电场传感提供新思路;等待时间作为新型传感信号读取方案;量子纳米电子学与量子传感的交叉
+
+#### QT Sense获€4M融资:量子传感活细胞实时追踪/荷兰创业公司/自由基压力生物传感/精准医疗/2026年7月(2026-08-02)
+- [QT Sense官网](https://www.qtsense.com/) | QT Sense; 2026年7月宣布; €400万欧元融资
+- **核心技术**:量子传感精准生物传感——在活细胞内部测量自由基压力;实时、无损的单细胞测量;超越传统荧光染料等标记方法
+- **产品方向**:Precision Biosensing, Unprecedented Resolution——细胞内自由基Stress精准测量;活细胞内自由基的实时观测;无损伤、快速数据采集
+- **应用场景**:精准医疗(氧化应激相关疾病);药物筛选;细胞生物学研究;疾病早期诊断
+- **量子传感关联**:量子传感在生命科学领域商业化的新案例;量子生物传感从实验台走向临床;自由基量子传感代表量子生物学的前沿方向
+
+#### UCLA观察到室温量子热波:量子热管理/量子效应/电子设备热管理/量子计算散热/2026年7月23日(2026-08-02)
+- [UCLA Newsroom](https://newsroom.ucla.edu/) | UCLA; 2026年7月23日发布
+- **技术突破**:在室温下观察到量子热波现象;这一发现可能改善电子设备热管理;为量子计算和下一代计算技术的散热提供新方案
+- **应用场景**:电子设备热管理改善;量子计算散热技术;高性能芯片的热优化
+- **量子传感关联**:量子材料的热性质测量是量子传感的延伸应用;量子热波现象的观测依赖高灵敏度热传感技术;室温量子效应为实用化量子器件提供新思路
+
+#### QuSpin量子磁力计商业产品系列:零场磁力计QZFM Gen-3/标量磁力计QTFM Gen-2/OPM-MEG神经成像/2026年持续商业化(2026-08-02)
+- [QuSpin官网](https://quspin.com/) | QuSpin; 2026年8月持续商业化; 美国量子磁力计商业公司
+- **核心产品**:①QZFM Gen-3零场磁力计——超灵敏光学泵浦磁力计,用于生物磁信号和精密测量;在磁屏蔽室内工作②QTFM Gen-2标量磁力计——紧凑型原子磁力计,用于地球物理勘探和磁场测绘;可在地球磁场野外工作③Neuro-1 OPM-MEG系统——集成QZFM传感器的脑活动成像系统,用于脑磁图(MEG)
+- **技术优势**:真实世界量子磁力计——将高灵敏度原子磁力计应用于实际场景;从生物医学到地球物理的全场景覆盖
+- **量子传感关联**:QuSpin代表量子磁力计商业化最成熟的公司之一;OPM-MEG是量子生物传感的临床方向;量子磁力计正在从实验室走向实际应用
+
+#### QuantumSi Platinum单分子蛋白测序系统:NV色心量子传感/2026年J.P. Morgan医疗大会重申商业承诺/精准医疗/2026年1月(2026-08-02)
+- [QuantumSi官网](https://www.quantum-si.com/) | Quantum-Si (NASDAQ: QSI); Platinum系统; 2026年1月J.P. Morgan医疗大会
+- **核心技术**:利用金刚石NV色心量子传感检测单个氨基酸降解——当蛋白质被消化时,逐个释放的氨基酸通过酶切产生可检测信号;NV色心检测荧光标记氨基酸
+- **商业里程碑**:Platinum系统已于2022年12月发布;与Aviva Systems Biology合作开发样本制备试剂盒;2026年J.P. Morgan医疗大会重申商业化承诺
+- **应用价值**:真正的单分子蛋白测序——为蛋白质组学研究提供全新工具;加速精准医疗和药物发现
+- **量子传感关联**:Quantum-Si是量子传感在生物检测领域商业化的先驱;NV色心用于生物大分子测序的里程碑应用
+
+#### Quantum Village UncutGem V2:全球首个全开源NV金刚石磁力计/DEF CON 33 2025发布/开源量子传感平台/2026年6月(2026-08-02)
+- [GitHub: QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | Quantum Village; V2发布于DEF CON 33 (2025); GitHub活跃更新(2026年6月)
+- **核心特点**:全球首个全栈开源NV中心金刚石磁力计——完整的3D文件、固件、硬件设计、BuildGuide全部开源;任何人可从零开始构建量子磁力计
+- **项目结构**:/science(传感科学原理) /firmware(传感器固件) /hardware(硬件设计) /3D-files(3D打印文件) /jupyter(数据分析) /MaxMSP(实时控制)
+- **战略意义**:量子技术的"Apple II时刻"——让任何好奇的人都能接触量子传感;推动量子传感民主化;开源生态加速创新
+- **量子传感关联**:开源NV磁力计是量子传感普及化的重要里程碑;UncutGem V2展示量子传感可从实验室走进黑客空间;开源量子传感生态正在兴起
+
+#### arXiv:2607.——Foundry CMOS量子材料多功能表征平台:65nm商用CMOS工艺/量子材料多模态表征/量子传感芯片/Englund组/2026年7月20日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=foundry+CMOS+multimodal+quantum+materials+characterization&start=0&per_page=5) | Sharad Kumar Yadav、Luca Nessi、Ondrej Dyck、Jinchen Wang等;Dirk Englund等; quant-ph; 2026年7月20日提交
+- **技术方案**:量子材料实验依赖多种微波、电学、热学、光学、结构探针;传统方案由定制硬件组装,缺乏可重复性和可扩展性;展示商用65nm CMOS工艺可作为被动可制造表征平台
+- **核心发现**:商用CMOS代工厂可用于量子材料多功能表征;降低量子传感芯片的制造门槛;推动量子材料研究的标准化
+- **量子传感关联**:量子传感芯片的CMOS兼容工艺是产业化的关键;商用代工厂降低量子传感芯片的制造成本;该工作为量子传感器的规模化制造提供新路径
+
+#### arXiv:2607.——Metrology of Quantum Imaging Schemes:光子对量子成像/空间关联成像/量子计量学框架/2026年7月24日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=metrology+quantum+imaging+schemes&start=0&per_page=5) | Emma Brambila、Giacomo Sorelli; quant-ph; 2026年7月24日提交
+- **技术方案**:基于空间关联光子对的量子成像方案;将量子成像方案形式化为量子计量学问题;比较不同量子成像方案的性能
+- **核心发现**:建立量子成像方案的统一计量学框架;为量子成像系统的性能评估提供理论基础
+- **量子传感关联**:量子成像是量子传感的重要应用方向;量子计量学框架指导量子成像优化;对量子显微镜和量子鬼成像有重要价值
+
+#### arXiv:2607.——Fast Generation of Metrologically Relevant Fock State Mixtures:囚禁离子Fock态/位移计量学/超越标准量子极限/2026年7月27日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=fast+generation+fock+state+metrologically+relevant&start=0&per_page=5) | Gonzalo Reina Rivero、Marcel Morillas-Rozas、Alberto López-García、Javier Cerrillo; quant-ph; 2026年7月27日提交
+- **技术方案**:快速激光脉冲序列产生囚禁离子运动非热Fock态混合物;针对超越标准量子极限的位移计量学;利用极子框架描述离子-激光相互作用
+- **核心发现**:在特定操作点(零失谐+匹配拉比频率)可快速生成计量相关Fock态;超越标准量子极限的位移测量
+- **量子传感关联**:Fock态工程是量子计量学的核心资源;离子阱是量子传感的精密平台;该工作为量子重力仪和加速度计提供新方案
+
+#### arXiv:2607.——量子计量学中非Clifford容错限制:超越标准量子极限的量子计量学路线被排除/2026年7月29日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=non-clifford+fault+tolerance+quantum+metrology+SQL&start=0&per_page=5) | Constantin Cedillo Vayson de Pradenne、Ishaan Kannan、Harald Putterman、Jordan Cotler; quant-ph; 2026年7月29日提交
+- **技术方案**:量子计量学承诺相对经典的标准量子极限的二次加速;研究非Clifford容错方案对量子计量学的限制;排除某些超越SQL的量子计量学路线
+- **核心发现**:为量子计量学的实际可行方案提供理论边界;厘清哪些量子计量学路线在容错框架下可行
+- **量子传感关联**:量子计量学理论指导量子传感器设计;容错量子传感是实用化的必经之路;该工作为量子传感协议的可行性评估提供理论依据
+
+#### arXiv:2607.——Rydberg自旋波多路存储与交互:梯度回波存储协议/量子信息处理/Parniak团队/2026年7月24日提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=multiplexed+storage+rydberg+spinwaves+gradient+echo&start=0&per_page=5) | Bartosz Niewelt、Stanisław Kurzyna、Bartosz Kasza、Wojciech Wasilewski、Michał Parniak; quant-ph; 2026年7月24日提交
+- **技术方案**:集体Rydberg激发提供强可控相互作用用于量子信息处理;通过梯度回波存储(GEM)协议实现Rydberg自旋波的多路存储与交互
+- **核心发现**:Rydberg原子体系可实现多路量子存储;量子存储与量子传感的融合
+- **量子传感关联**:里德堡原子是量子射频传感的核心平台;多路存储增强里德堡量子传感的功能;Parniak团队代表里德堡量子传感的国际前沿
+
+*本次更新: Agentic AI自主NV量子传感/ NV临界传感自激振荡/ 非厄米光学干涉仪传感/ 隐藏对称性EP量子传感/ 里德堡原子低频电场传感/ 坏腔突破方案/ Quantum Magnonics综述/ 噪声转擦除/ 反事实量子传感/ 电子穿梭电场传感/ QT Sense €4M融资/ UCLA室温量子热波/ QuSpin商业产品/ QuantumSi Platinum/ UncutGem V2开源/ CMOS量子材料平台/ 量子成像计量学/ 离子Fock态计量学/ 非Clifford量子计量学/ Rydberg自旋波多路存储(2026-08-02晚-22:10)*
+
+---
+
+---
+
 ### 🆕 新增条目(2026-06-06晚上-23:44 - 本次更新)
 
 #### arXiv:2606.05457——宽带AC磁场传感NV色心CW-ODMR新方案:宽频带/高灵敏度/高动态范围/2026年6月4日提交(2026-06-06)
