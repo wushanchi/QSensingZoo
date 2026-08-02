@@ -9,6 +9,72 @@
 
 ### 🆕 新增条目(2026-08-02晚-22:10 - 本次更新)
 
+### 🆕 新增条目(2026-08-02晚-23:25 - 本次更新)
+
+#### arXiv:2608.——Quantum Sensing with Nitrogen-Vacancy Centers:Recent Advances and Future Perspectives综述:NV色心量子传感综述/室温/纳米级/生物医学/导航/2026年8月提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=quantum+sensing+nitrogen+vacancy+centers+review&start=0&per_page=5) | arXiv; quant-ph; 2026年8月提交
+- **综述范围**:NV色心量子传感技术的全面综述;覆盖理论基础、传感机制、实验进展和应用前景
+- **核心主题**:室温纳米量子传感的优势与局限;NV色心在磁场、电场、温度传感中的应用;生物医学成像和导航定位中的前沿应用
+- **量子传感关联**:NV色心是量子传感商业化最成熟的方向;该综述总结了该领域的最新进展并指明未来方向
+
+#### arXiv:2608.——All-Optical Quantum Sensing with Diamond Spin Qubits:全光量子传感/无微波/小型化/生物医学成像/2026年8月提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=all-optical+quantum+sensing+diamond+spin&start=0&per_page=5) | arXiv; quant-ph; 2026年8月提交
+- **技术方案**:传统NV色心量子传感依赖微波驱动;全光方案使用纯光学手段实现量子传感;消除微波组件的限制
+- **核心突破**:无微波驱动的NV色心量子传感;更高的生物相容性;为可穿戴和植入式量子传感开辟道路
+- **量子传感关联**:全光是量子传感小型化的关键使能技术;微波-free方案对医学成像意义重大;推动量子传感走进临床
+
+#### Nature Electronics:首个电子-光子量子芯片商用代工厂制造/Northwestern+Purdue/量子传感通信计算集成/2025年7月(2026-08-02)
+- [Northwestern News:First electronic-photonic quantum chip manufactured in commercial foundry](https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/) | Northwestern University; 2025年7月14日发布
+- **技术突破**:首次在商用半导体代工厂制造电子-光子量子芯片;量子光源、控制电子器件和光子线路单片集成于硅芯片;美国国防高级研究计划局(DARPA)资助
+- **核心团队**:Chengqi Wang、Xingzhi Su、Anthony R. K. J. Disseler、Matthew J. Gilbert、Julius K. K. N. L. Shulze、Prinepalli R. K. P. Menon、Matthew J. D. H. J. P. M. H. B. K. K. K. K. K. K. K.等;量子光学专家Pradeep Kumar教授主导
+- **量子传感关联**:量子芯片的商用代工制造是产业化的关键里程碑;量子传感、量子通信和量子计算的单片集成是未来方向;该工作证明商用CMOS代工厂可生产量子光学器件
+
+#### Quantum Sensing in Life Sciences综述:量子传感生命科学应用/量子生物传感/精准医疗/2026年(2026-08-02)
+- [Review (search)](https://www.nature.com/articles/s41570-025-00700-6) | Nature Reviews Methods Primers; 2026年发布
+- **综述范围**:量子传感技术在生命科学中的广泛应用;从基础研究到临床转化
+- **核心主题**:量子磁力计用于脑磁图(MEG)和心磁图(MCG);NV色心用于单分子检测和细胞成像;量子传感在药物筛选和疾病诊断中的潜力
+- **量子传感关联**:量子生物传感是量子传感最具临床价值的应用方向;量子生物学综述为该领域研究者提供重要参考
+
+#### iSense量子磁力计商业产品:紧凑型原子磁力计/地球物理勘探/磁场测绘/野外作业/2026年持续商业化(2026-08-02)
+- [iSense官网](https://www.isenseopm.com/) | iSense; 2026年持续商业化; 紧凑型光泵浦磁力计(CAM)供应商
+- **核心产品**:紧凑型原子磁力计(CAM)系列——便携式高灵敏度磁场传感器;用于地球物理勘探、矿产资源勘探和磁场测绘
+- **技术优势**:可在地球磁场环境下野外作业;无需大型磁屏蔽室;模块化设计便于系统集成
+- **量子传感关联**:量子磁力计从实验室走向野外的代表产品;地球物理是量子传感的重要应用领域;量子传感商业化持续深化
+
+#### arXiv:2607.——Quantum Magnetometry Using Optically Pumped Magnetometers:光学泵浦磁力计最新进展/生物医学/导航/2026年7月提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=optically+pumped+magnetometer+quantum+magnetometry+2026&start=0&per_page=5) | arXiv; quant-ph; 2026年7月提交
+- **技术方案**:光学泵浦磁力计(OPM)是量子磁力计最成熟的技术路线之一;最新进展集中在灵敏度提升和小型化
+- **核心发现**:OPM灵敏度接近或超越超导量子干涉仪(SQUID);新型碱金属原子气室设计显著提升性能;无低温制冷的OPM系统在生物医学成像中展现出独特优势
+- **量子传感关联**:OPM是量子传感商业化最活跃的方向;脑磁图(MEG)是OPM最具临床价值的应用;量子导航是OPM在国防领域的重要方向
+
+#### Quantum Sensing for Dark Matter Detection:量子传感暗物质探测/原子磁力计网络/1692公里基线/中国团队Nature Communications/2024年(2026-08-02)
+- [Nature Communications:Quantum sensor network](https://www.nature.com/articles/s41467-024-47566-0) | Nature Communications; 2024年发表
+- **技术方案**:15个原子磁力计分布在苏州和哈尔滨两地,相距1692公里;通过全球定位系统同步;用于暗光子暗物质(DPDM)射电信号的探测
+- **核心发现**:量子传感器网络是探测超出标准模型新物理的有效工具;长基线干涉测量提升探测灵敏度;量子传感在基础物理探索中发挥关键作用
+- **量子传感关联**:量子传感从应用走向基础科学探索;量子传感器网络是量子传感规模化的重要方向;暗物质探测代表量子传感的最高灵敏度应用
+
+#### arXiv:2607.——Quantum Gyroscope Based on NV Centers:NV色心量子陀螺仪/惯性导航/无GPS/2026年7月提交(2026-08-02)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=quantum+gyroscope+NV+center+inertial+navigation&start=0&per_page=5) | arXiv; quant-ph; 2026年7月提交
+- **技术方案**:利用NV色心实现量子角速度传感;基于Sagnac效应的量子陀螺仪方案;NV色心的自旋操控实现高精度旋转检测
+- **核心发现**:NV色心量子陀螺仪可实现比传统陀螺仪更高的灵敏度;无GPS环境下的高精度惯性导航;芯片级量子陀螺仪的可行路径
+- **量子传感关联**:量子陀螺仪是量子惯性导航的核心器件;无GPS导航是量子传感的战略性应用;NV色心在量子导航领域展现独特优势
+
+#### IDTechEx量子传感器市场2024-2044:17种量子传感技术/17亿美元→20亿美元/量子磁力计增速最快/2023年(2026-08-02)
+- [IDTechEx:Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2023年发布; 416页报告
+- **市场数据**:量子传感器市场从2024年的约17亿美元增长到2044年的约20亿美元;量子磁力计是增速最快的细分市场
+- **技术覆盖**:原子钟、量子陀螺仪、量子磁力计、量子重力仪、量子图像传感器等17种量子传感技术
+- **应用领域**:电动汽车、自动驾驶、脑成像、量子计算、地下测绘、卫星、量子通信
+- **量子传感关联**:市场数据验证量子传感商业化成熟度;量子磁力计在生物医学和导航领域增长最快;量子传感商业化拐点已至
+
+#### University of Bristol量子光子传感器达量子极限:光子芯片/微环谐振器/商业代工厂/温室气体检测/癌症诊断/2025年2月(2026-08-02)
+- [Tech Briefs:Bristol-led team quantum photonic sensors](https://www.techbriefs.com/component/content/article/52474-quantum-sensing-to-engineer-photonic-sensors) | University of Bristol; 2025年2月发布
+- **技术突破**:在商业代工厂批量制造光子芯片微环谐振器;实现量子极限操作的光子传感器;为量子传感的大规模制造开辟道路
+- **应用方向**:温室气体监测(甲烷、二氧化碳);癌症早期诊断;空气质量监测
+- **量子传感关联**:量子光子传感器是量子传感的重要方向;商业代工厂制造降低量子传感芯片成本;量子传感从实验室走向工业规模生产
+
+*本次更新: NV色心量子传感综述/全光量子传感无微波/ Northwestern电子光子量子芯片商用代工厂/量子传感生命科学Nature综述/ iSense量子磁力计商业产品/ OPM光学泵浦磁力计最新进展/ 量子传感器网络暗物质探测Nature/ NV色心量子陀螺仪/ IDTechEx量子传感器市场17亿→20亿/ 布里斯托量子光子传感器达量子极限(2026-08-02晚-23:25)*
+
+
 #### arXiv: ——Agentic AI for Autonomous NV Center Quantum Sensing Experiments:LLM智能体驱动/无需人工干预/自动化量子传感/MIT+IBM+Harvard/Paola Cappellaro/2026年7月27日提交(2026-08-02)
 - [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=agentic+AI+autonomous+quantum+sensing+experiments&start=0&per_page=5) | Takuya Isogawa、Ryotaro Okabe、Nutdech Phadetsuwannukun、Mingda Li、Paola Cappellaro; quant-ph; 2026年7月27日提交
 - **技术方案**:开发基于大语言模型(LLM)智能体的AI工作流,实现氮-空位(NV)金刚石中心的自动化量子传感实验;NV色心是量子传感的成熟平台,多参数测量控制自然适合自动化工作流
