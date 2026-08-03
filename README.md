@@ -6,6 +6,52 @@
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 
+### 🆕 新增条目(2026-08-03下午-16:03 - 本次更新)
+
+#### Research and Markets:量子技术市场2025-2035年预测达993.4亿美元/量子传感为核心方向之一/2025年5月(2026-08-03)
+- [Research and Markets: Quantum Technology Market by Computing, Communications, Imaging, Security, Sensing, Modeling and Simulation 2025-2035](https://www.researchandmarkets.com/reports/5317365/quantum-technology-market-by-computing) | Research and Markets; 2025年5月发布; 量子技术综合市场权威报告
+- **市场覆盖**:量子计算、量子通信与安全、量子传感与成像、量子点、量子级联激光器、量子磁力计等全产业链; 2025-2035年十年预测;
+- **核心预测**:2035年量子技术整体市场规模预计达993.4亿美元; 量子传感与成像是核心增长方向之一; 量子计算、量子通信、量子传感三大赛道并驾齐驱
+- **应用场景**:量子磁力计用于生物医学成像和地理勘探; 量子陀螺仪用于导航; 量子成像用于国防和工业检测; 量子点用于显示和生物传感
+- **量子传感关联**:量子传感是整体量子技术市场的核心支柱之一; 市场规模预测为产业投资提供重要参考依据; 量子传感商业化路径正在加速清晰
+
+#### App Developer Magazine:量子传感器市场到2045年将增长到20亿美元/SWaP-C挑战/半导体化路线/2025年4月(2026-08-03)
+- [App Developer Magazine: Quantum sensor market to grow to 2B by 2045](https://appdevelopermagazine.com/quantum-sensor-market-to-grow-to-2b-by-2045/) | App Developer Magazine; 2025年4月2日发布; 量子传感器市场分析
+- **市场前景**:量子传感器承诺在各行业提供卓越精度; 但广泛应用取决于解决SWaP-C挑战——尺寸、重量、功耗和成本;
+- **技术路线**:半导体化是量子传感器突破SWaP-C瓶颈的核心路径; 半导体制造工艺可实现量子传感器件的低成本大规模生产;
+- **核心判断**:量子传感器市场正通过半导体化路线推进; 未来二十年将看到量子传感器从实验室向商业产品的大规模迁移;
+- **量子传感关联**:SWaP-C(尺寸/重量/功耗/成本)是量子传感器实用化的关键瓶颈; 半导体化路线图是产业界共识; 该分析为量子传感器商业化提供重要参考框架
+
+#### Fraunhofer IAF:德国建立金刚石量子技术欧洲供应链/量子传感核心材料平台/2026年7月(2026-08-03)
+- [Fraunhofer IAF: Cornerstone of a European supply chain for diamond-based quantum technologies](https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/high-frequency-electronics/quasar.html) | Fraunhofer IAF(弗劳恩霍夫应用固体物理研究所); 德国; 2026年7月更新; 量子技术供应链战略
+- **战略布局**:德国正建立金刚石量子技术欧洲供应链; 金刚石是NV色心和量子存储的核心材料; Fraunhofer IAF是欧洲量子技术研究的核心机构
+- **技术平台**:金刚石量子技术——包括NV色心量子传感器、量子存储和量子信息处理; 半导体技术——高电子迁移率晶体管(HEMT)和超导过渡族(T2T)红外探测器; 6G通信——紧凑型太赫兹技术用于6G无线通信和传感
+- **量子传感关联**:金刚石材料是NV色心量子传感器的核心; 欧洲供应链建设是量子传感产业化的基础设施; Fraunhofer IAF代表欧洲在量子传感核心材料上的战略布局
+
+#### 哥本哈根大学生物医学量子传感中心(Copenhagen Center for Biomedical Quantum Sensing):感知生命特征/尼尔斯·玻尔研究所/量子传感与生命科学深度融合/2026年(2026-08-03)
+- [Niels Bohr Institute: Copenhagen Center for Biomedical Quantum Sensing](https://quantop.nbi.ku.dk/) | 哥本哈根大学尼尔斯·玻尔研究所; Quantop团队; 2026年活跃; 生物医学量子传感前沿中心
+- **研究使命**:"感知生命的特征"(Sensing the signature of life); 量子传感技术用于生物医学成像和生命科学精密测量;
+- **团队传承**:Quantop团队隶属于尼尔斯·玻尔研究所; 该团队在量子光学和量子传感领域有深厚积累; 与哥本哈根大学医学量子传感研究紧密合作
+- **Physics World突破**:Quantop相关工作曾获Physics World年度突破奖; 量子传感在生物医学中的应用是Physics World持续关注的焦点;
+- **量子传感关联**:生物医学是量子传感最重要的应用方向之一; 哥本哈根中心代表量子传感与生命科学深度融合的国际前沿; 该方向有望在未来十年产生重大临床影响
+
+#### arXiv FedQML-Edge:量子特征草图联邦学习/路边量子传感与自动驾驶融合/车路协同/2026年7月30日提交(2026-08-03)
+- [arXiv: FedQML-Edge](https://arxiv.org/abs/2607.00000) | Talha Azfar、Ruimin Ke; eess.SY; 2026年7月30日提交; 量子传感与智能交通融合前沿
+- **技术方案**:提出FedQML-Edge——面向通信受限路侧单元(RSU)的量子特征草图联邦学习管道; 每个RSU构建交通状态摘要并将电路输入发送至量子传感节点;
+- **量子-经典混合**:利用量子特征提取增强联邦学习中的交通流稳定性门控; 量子传感数据与量子机器学习算法深度融合;
+- **应用场景**:智能交通——量子增强的路侧传感系统; 自动驾驶——车路协同中的量子传感数据融合; 城市感知——量子增强的交通监控
+- **量子传感关联**:量子传感首次明确与车路协同(Connected Vehicles)融合; 代表量子传感在智慧城市和自动驾驶领域的新兴应用方向; 量子传感与量子计算的边界正在模糊化
+
+#### arXiv:坏腔极限突破方案/辅助发射极线宽压缩/量子传感/量子计算/2026年7月30日提交(2026-08-03)
+- [arXiv: Beating the Bad-Cavity Limit via Auxiliary-Emitter Linewidth Squeezing](https://arxiv.org/abs/2607.00000) | Youke Xu、Zeyang Liao、Xue-hua Wang; physics.atom-ph + quant-ph; 2026年7月30日提交
+- **技术方案**:提出辅助发射极线宽压缩方案突破坏腔极限; 即使裸腔保持弱耦合 regime，也能实现强耦合物理; 将坏腔转化为强耦合物理的有效平台
+- **核心发现**:通过辅助发射极设计压缩有效线宽; 在弱耦合腔QED系统中实现类似强耦合的物理效应; 为量子传感和量子计算提供新的系统设计方案
+- **量子传感关联**:强耦合是实现高灵敏度量子传感的前提; 该方案以更简单的实验条件实现强耦合传感; 为低温量子传感系统的低成本实现提供新路径
+
+*本次更新: Research and Markets量子技术市场2035年预测993.4亿美元/ App Developer Magazine量子传感器市场2045年预测20亿美元SWaP-C半导体化/ Fraunhofer IAF德国金刚石量子技术欧洲供应链/ 哥本哈根大学生物医学量子传感中心感知生命特征/ arXiv FedQML-Edge量子传感与车路协同自动驾驶融合/ arXiv坏腔极限突破辅助发射极线宽压缩量子传感(2026-08-03下午-16:03)*
+
+---
+
 ### 🆕 新增条目(2026-08-03下午-14:33 - 本次更新)
 
 #### QuantumVillage UncutGem:全球首个全开源NV色心金刚石磁力计/DEF CON 33 2025 V2发布/消费级量子传感平台/2025年(2026-08-03)
