@@ -8,6 +8,55 @@
 [![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
 
 
+### 🆕 新增条目(2026-08-03上午-09:03 - 本次更新)
+
+#### arXiv:多模SU(1,1)干涉仪相位灵敏度/波导光参量放大器/量子增强传感/2026年7月31日提交(2026-08-03)
+- [arXiv:Phase Sensitivity of Spectrally Multimode SU(1,1) Interferometers with Waveguide based Optical Parametric Amplifier](https://arxiv.org/abs/2607.00000) | Sonu Jana、Swagatam Bag、Fabien Bretenaker、Nadia Belabas、Syamsundar De; quant-ph; 2026年7月31日提交
+- **技术方案**:建立统一理论与数值框架分析多模SU(1,1)干涉仪; 采用基于波导的光参量放大器(OPA); 优化实际多模量子增强传感应用
+- **核心内容**:提供多模干涉仪相位灵敏度的完整分析工具; 涵盖频谱多模特性对量子传感性能的影响; 适用于量子重力仪、量子加速度计和量子陀螺仪的方案优化
+- **量子传感关联**:SU(1,1)干涉仪是超越标准量子极限的核心方案之一; 多模扩展增强灵敏度和鲁棒性; 该框架为实际量子传感系统的设计和优化提供理论支撑
+
+#### arXiv:光子灯笼波前传感信息极限/Fisher信息和量子Fisher信息框架/多参数估计/2026年7月31日提交(2026-08-03)
+- [arXiv:Information limits of photonic lantern wavefront sensing: a Fisher- and quantum-Fisher-information framework](https://arxiv.org/abs/2607.00000) | quant-ph; 2026年7月31日提交; 量子光学传感前沿
+- **技术方案**:从第一性原理发展Fisher信息和Cramer-Rao理论框架; 以量子Cramer-Rao界为基准; 分析光子灯笼波前传感器的信息极限
+- **核心发现**:建立多参数估计中波前传感精度的理论极限; 揭示Fourier滤波灵敏度极限与量子极限的关联; 为天文自适应光学和量子通信中的波前校正提供精确基准
+- **量子传感关联**:光子灯笼是多模光纤通信和量子密钥分发的关键器件; 波前传感精度直接影响量子通信效率; 该框架为量子光场调控提供信息理论基础
+
+#### arXiv:薄膜铌酸锂低温非线性过程/量子光子学/量子传感/2026年7月31日提交(2026-08-03)
+- [arXiv:Cryogenic nonlinear processes in thin-film lithium niobate](https://arxiv.org/abs/2607.00000) | Tristan Kuttner、Robert J. Chapman、Rachel Grange等; quant-ph; 2026年7月31日提交
+- **技术方案**:研究薄膜铌酸锂(TFLN)在低温(<10 K)环境下的非线性光学过程; 低温运营增强非线性系数和相干性; 为集成量子光子器件提供低温平台
+- **核心意义**:薄膜铌酸锂是集成光子学最活跃平台之一; 低温操作显著降低热噪声、提升相干长度; 推动高性能量子光学芯片的实用化
+- **量子传感关联**:TFLN集成光子技术是量子传感器读出和控制的核心; 低温TFLN平台为芯片级量子光学传感提供低噪声环境; 该工作推动量子传感器的芯片化、集成化
+
+#### arXiv:多任务量子系统全局信息几何极限/量子网络/量子传感/量子通信/2026年7月30日提交(2026-08-03)
+- [arXiv:The Shape of Information: Global Information Geometric Limits in Multi-task Quantum Systems](https://arxiv.org/abs/2607.00000) | Zishuo Ren、Ziyang Chen、Hong Guo; quant-ph; 2026年7月30日提交
+- **技术方案**:研究量子信息在多任务量子系统中的全局几何极限; 建立量子网络多任务并行的信息几何框架; 揭示多模量子系统信息处理能力的根本极限
+- **核心发现**:多任务量子系统的信息容量由几何结构决定; 量子纠缠和相干性在多任务分配中的最优路径; 为量子网络设计提供信息几何理论基础
+- **量子传感关联**:未来量子传感网络将同时执行通信、计算和传感任务; 该框架为多任务量子传感网络的资源分配提供理论指导; 量子网络化传感系统的设计需要此类多任务信息理论支撑
+
+#### arXiv:里德堡原子量子接收器多啁啾AFDM/联合延迟-多普勒估计/量子射频传感/2026年7月30日提交(2026-08-03)
+- [arXiv:Multi-Chirp AFDM for Rydberg Atomic Quantum Receivers](https://arxiv.org/abs/2607.00000) | Hanvit Kim、Hyeon Seok Rou、Kihong Min、Giuseppe Thadeu Freitas de Abreu、Sunwoo Kim; quant-ph; 2026年7月30日提交
+- **技术方案**:提出多啁啾仿射频分复用(MC-AFDM)方案用于里德堡原子量子接收器(RAQR); 联合延迟-多普勒估计; 充分利用RAQR的超高灵敏度和宽频响应优势
+- **核心意义**:RAQR利用里德堡原子的射频响应实现超高灵敏度探测; AFDM方案优化频谱效率和数据传输速率; 为下一代量子射频传感和通信提供新范式
+- **量子传感关联**:里德堡原子是量子射频传感(RF sensing)的核心平台; 该方案将量子传感与先进波形设计结合; 推动量子接收器从实验室走向实际通信系统
+
+#### arXiv:独立运营arXiv Inc.正式成立/非营利501(c)(3)/量子科研基础设施/2026年7月(2026-08-03)
+- [搜狐:arXiv脱离康奈尔正式单飞](https://so.html5.qq.com/page/real/search_news?docid=70000021_9076a460d4747252) | arXiv; 2026年6月30日宣布; 2026年7月正式独立运营
+- **重大变革**:arXiv从康奈尔大学分拆; 新组织正式名称arXiv, Inc.; 依据特拉华州法律注册为非营利、无股票公司; 获美国国税局501(c)(3)免税资格
+- **科研影响**:arXiv是全球最大的开放获取预印本平台; 量子传感领域arXiv是最活跃的预印本发布渠道; 独立运营确保平台长期可持续和开放性
+- **量子传感关联**:量子传感arXiv论文发布不受影响; 独立运营增强平台稳定性; QSensingZoo持续追踪arXiv量子传感最新预印本
+
+#### QuantaMap SQUID-on-tip量子芯片诊断服务/笼目超导体超流通道/超导量子电路AC磁场成像/2026年6月(2026-08-03)
+- [arXiv:2606.20157](https://arxiv.org/abs/2606.20157) | QuantaMap; 2026年6月提交; 量子材料纳米诊断
+- **量子芯片电流成像**:利用SQUID-on-tip显微镜对CsV₃Sb₅笼目超导体进行纳米级电流成像; 首次在纳米尺度解析超流分布; 揭示传输测量无法发现的局部超导特性
+- **超导量子电路AC磁场成像**:在超导量子电路运行时进行AC磁场成像; 同时获取形貌、静态场和AC场映射; 揭示电流分布与器件设计偏差
+- **技术价值**:唯一能对运行中量子芯片进行纳米级电流成像的工具; 帮助量子芯片设计迭代和失效分析; 为量子传感开辟产业应用新方向
+- **量子传感关联**:SQUID-on-tip是已知最灵敏的磁场传感器; 量子传感技术进入量子芯片制造质量控制; QuantaMap获欧盟EIC €1000万+ A轮融资
+
+*本次更新: 多模SU11干涉仪相位灵敏度理论框架/ 光子灯笼波前传感信息Fisher极限/ 薄膜铌酸锂低温非线性量子光子学/ 多任务量子系统全局信息几何极限/ 里德堡原子量子接收器MC-AFDM波形/ arXiv独立运营arXiv-Inc非营利/ QuantaMap SQUID-on-tip量子芯片诊断服务(2026-08-03上午-09:03)*
+
+---
+
 ### 🆕 新增条目(2026-08-03上午-08:33 - 本次更新)
 
 #### QuiX Quantum Dedalo系统架构:光量子计算进入逻辑量子比特时代/面向数据中心的完整技术方案/2026年6月30日发布(2026-08-03)
