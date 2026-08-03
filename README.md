@@ -5181,23 +5181,79 @@
 - **量子传感关联**:量子纠缠网络是分布式量子传感的基础设施;量子光纤网络同时服务量子通信与量子传感;该成果为广域量子传感器网络铺平道路
 
 *本次更新: IGARSS 2026华盛顿8月9-14日量子传感遥感前沿/ Northwestern量子纠缠光子在24.4km芝加哥现网实际光纤94%保真度Optica Quantum2026年8月2日(2026-08-03晚-19:33)*
+### 🆕 新增条目(2026-08-04凌晨-02:03 - 本次更新)
+
+#### MIT Technology Review:量子雷达——里德堡原子云成像埋地物体/4.7cm分辨率/5m距离/非接触式/NIST+RTX/2025年8月(2026-08-04)
+- [MIT Technology Review:This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | NIST + RTX(原雷神防务); 2025年8月11日发布; MIT Technology Review报道
+- **技术方案**:使用玻璃池中的铯(Caesium)原子云作为量子探测器; 激光器将原子激发至里德堡态; 反射无线电波与原子云相互作用产生可检测信号; 室温下工作
+- **核心指标**:探测距离达5m; 距离分辨率4.7cm; 雷达横截面(RCS)低至0 dBsm(全向反射); 当前原型机仍连接光学平台组件,未来有望小型化
+- **应用场景**:地下公用设施成像; 天然气钻井; 考古挖掘; 军事国防——量子雷达无需传统发射机,有望实现低截获概率(LPI)探测
+- **量子传感关联**:里德堡原子量子传感是量子雷达最成熟的技术路线; 量子雷达从实验室概念验证走向实用成像系统的重要里程碑; 非接触式传感在隐蔽探测领域具有独特军事价值
+
+#### QT Sense €4M种子轮融资:荧光纳米金刚石活细胞自由基量子传感/Quantum Nuova平台/细胞内氧化应激精准测量/2026年7月(2026-08-04)
+- [QT Sense官网](https://www.qtsense.com/) | QT Sense; 2026年7月完成; €400万欧元种子轮
+- **核心产品**:Quantum Nuova——基于荧光纳米金刚石的实时自由基传感平台; 检测活细胞内部的氧化应激(自由基); 量子传感实现亚细胞分辨率
+- **技术参数**:灵敏度提升10倍(检测极低自由基水平); 1μm分辨率(细胞器内应力成像); 15分钟快速实时数据; 无损伤、实时、单细胞
+- **应用场景**:精准医疗(氧化应激相关疾病早期诊断); 药物筛选(单细胞毒性分析); 基础细胞生物学研究; 下一代疗法设计
+- **量子传感关联**:量子传感在生命科学商业化的重要里程碑; 荧光纳米金刚石是NV色心生物传感的延伸; 量子生物传感从实验台走向临床
+
+#### Quantum Village UncutGem V2:全球首个全开源NV金刚石磁力计/DEF CON 33 2025发布/开源量子传感平台/2026年6月(2026-08-04)
+- [GitHub: QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | Quantum Village; V2发布于DEF CON 33 (2025); GitHub活跃更新(2026年6月)
+- **核心特点**:全球首个全栈开源NV中心金刚石磁力计——完整的3D文件、固件、硬件设计、BuildGuide全部开源; 任何人可从零开始构建量子磁力计
+- **项目结构**:/science(传感科学原理) /firmware(传感器固件) /hardware(硬件设计) /3D-files(3D打印文件) /jupyter(数据分析) /MaxMSP(实时控制)
+- **战略意义**:量子技术的"Apple II时刻"——让任何好奇的人都能接触量子传感; 推动量子传感民主化; 开源生态加速创新
+- **量子传感关联**:开源NV磁力计是量子传感普及化的重要里程碑; UncutGem V2展示量子传感可从实验室走进黑客空间; 开源量子传感生态正在兴起
+
+#### UCLA观察到室温量子热波:量子热管理/量子效应/电子设备热管理/量子计算散热/2026年7月23日(2026-08-04)
+- [UCLA Newsroom](https://newsroom.ucla.edu/) | UCLA; 2026年7月23日发布
+- **技术突破**:在室温下观察到量子热波现象; 这一发现可能改善电子设备热管理; 为量子计算和下一代计算技术的散热提供新方案
+- **应用场景**:电子设备热管理改善; 量子计算散热技术; 高性能芯片的热优化
+- **量子传感关联**:量子材料的热性质测量是量子传感的延伸应用; 量子热波现象的观测依赖高灵敏度热传感技术; 室温量子效应为实用化量子器件提供新思路
+
+#### QuSpin量子磁力计商业产品系列:零场磁力计QZFM Gen-3/标量磁力计QTFM Gen-2/OPM-MEG神经成像/2026年持续商业化(2026-08-04)
+- [QuSpin官网](https://quspin.com/) | QuSpin; 2026年8月持续商业化; 美国量子磁力计商业公司
+- **核心产品**:①QZFM Gen-3零场磁力计——超灵敏光学泵浦磁力计,用于生物磁信号和精密测量; 在磁屏蔽室内工作②QTFM Gen-2标量磁力计——紧凑型原子磁力计,用于地球物理勘探和磁场测绘; 可在地球磁场野外工作③Neuro-1 OPM-MEG系统——集成QZFM传感器的脑活动成像系统,用于脑磁图(MEG)
+- **技术优势**:真实世界量子磁力计——将高灵敏度原子磁力计应用于实际场景; 从生物医学到地球物理的全场景覆盖
+- **量子传感关联**:QuSpin代表量子磁力计商业化最成熟的公司之一; OPM-MEG是量子生物传感的临床方向; 量子磁力计正在从实验室走向实际应用
+
+#### QuantumSi Platinum单分子蛋白测序系统:NV色心量子传感/2026年J.P. Morgan医疗大会重申商业承诺/精准医疗/2026年1月(2026-08-04)
+- [QuantumSi官网](https://www.quantum-si.com/) | Quantum-Si (NASDAQ: QSI); Platinum系统; 2026年1月J.P. Morgan医疗大会
+- **核心技术**:利用金刚石NV色心量子传感检测单个氨基酸降解——当蛋白质被消化时,逐个释放的氨基酸通过酶切产生可检测信号; NV色心检测荧光标记氨基酸
+- **商业里程碑**:Platinum系统已于2022年12月发布; 与Aviva Systems Biology合作开发样本制备试剂盒; 2026年J.P. Morgan医疗大会重申商业化承诺
+- **应用价值**:真正的单分子蛋白测序——为蛋白质组学研究提供全新工具; 加速精准医疗和药物发现
+- **量子传感关联**:Quantum-Si是量子传感在生物检测领域商业化的先驱; NV色心用于生物大分子测序的里程碑应用
+
+#### SBQuantum量子钻石磁场传感器:室温工作/空间应用/国防安全/导航定位/加拿大/2026年(2026-08-04)
+- [SBQuantum官网](https://www.sbquantum.com/) | SBQuantum; 加拿大舍布鲁克; David Roy-Guay(创始人兼CTO)、Eric Giroux(联合创始人兼CEO)
+- **核心技术**:基于金刚石NV色心的量子磁场传感技术; 利用光检测磁共振(ODMR)技术; 实现高灵敏度矢量磁场测量
+- **商业进展**:可直接插入立方体卫星的传感器计划2026年3月发射; 面向空间、国防安全和公共安全领域; 提供量子增强的定位和导航解决方案
+- **技术优势**:室温下工作; 提供磁场矢量信息; 具备无漂移读数特性; 绿光激光激发+红光收集+微波谐振
+- **量子传感关联**:NV色心是量子磁传感最成熟平台之一; SBQuantum代表量子磁传感的空间和国防应用; 室温工作是量子传感器走出实验室的关键里程碑
+
+#### arXiv:Agentic AI for Autonomous NV Center Quantum Sensing Experiments/LLM智能体驱动/无需人工干预/自动化量子传感/MIT+IBM+Harvard/Paola Cappellaro/2026年7月27日提交(2026-08-04)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=agentic+AI+autonomous+quantum+sensing+experiments&start=0&per_page=5) | Takuya Isogawa、Ryotaro Okabe、Nutdech Phadetsuwannukun、Mingda Li、Paola Cappellaro; quant-ph; 2026年7月27日提交
+- **技术方案**:开发基于大语言模型(LLM)智能体的AI工作流,实现氮-空位(NV)金刚石中心的自动化量子传感实验; NV色心是量子传感的成熟平台,多参数测量控制自然适合自动化工作流
+- **核心发现**:LLM智能体可自主设计和执行NV中心量子传感实验; 大幅减少人工干预,加速量子传感实验迭代; 为AI驱动的科学研究提供新范式
+- **量子传感关联**:AI自动化是量子传感工程化的关键使能技术; 量子传感实验的智能化代表未来趋势; 该工作为量子传感实验室的自动化提供参考方案
+
+#### arXiv:Critical Sensing with Autonomous Devices/NV自激振荡磁力计/超越稳定区FM锁定/自振荡阈值/Joan Toledo Aguilera等/2026年7月24日提交(2026-08-04)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=critical+sensing+autonomous+devices+NV+magnetometer&start=0&per_page=5) | Joan Toledo Aguilera、Gonzalo Reina Rivero、Marcel Morillas-Rozas、Javier Cerrillo; quant-ph; 2026年7月24日提交
+- **技术方案**:量子精密传感的标准操作模式是将被测频率锁定到探针频率; 本研究故意在稳定区外操作——连续波NV系综磁力计,频率调制(FM)锁定在ODMR曲线边缘
+- **核心发现**:在稳定区外操作可实现临界传感; 临界点附近系统响应灵敏度显著提升; 为自主量子传感设备提供新操作范式
+- **量子传感关联**:临界传感是提升量子传感器灵敏度的前沿方向; NV色心自激振荡代表该方向的重要进展; 对野外和太空量子传感应用有重要价值
+
+#### arXiv:里德堡原子低频电场量子传感:调制辅助场/低频信号检测/Xiayang Fan等/2026年7月21日提交(2026-08-04)
+- [arXiv (search)](https://arxiv.org/search/?searchtype=all&query=rydberg+atoms+low+frequency+electric+field+sensing&start=0&per_page=5) | Xiayang Fan、Shenchao Jin、Jiatian Liu、Jialiang Zhang、Qichao Qi、Yuan Sun; quant-ph; 2026年7月21日提交
+- **技术方案**:里德堡原子是高灵敏度量子电场传感的通用平台; 低频电场信号检测面临挑战; 通过调制辅助场实现低频电场量子传感
+- **核心发现**:调制辅助场方案可有效检测低频电场信号; 扩展里德堡原子量子传感的频率覆盖范围; 对电磁兼容测试和环境监测有应用价值
+- **量子传感关联**:里德堡原子量子传感的频率覆盖持续拓展; 低频电场传感是量子传感的重要应用场景; 该工作为里德堡量子传感的实用化提供新方案
+
+#### ICV TA&K+光子盒《2026全球量子科技产业发展展望报告》发布:2026年7月/政策技术投融资市场全面梳理/量子传感产业分析(2026-08-04)
+- [光子盒:2026全球量子科技产业发展展望报告](https://so.html5.qq.com/page/real/search_news?docid=70000021_2816a5a1d8b58752) | ICV TA&K、光子盒研究院QUANTUMCHINA联合发布; 2026年7月正式发布; 全球量子科技产业最全面分析报告之一
+- **报告范围**:系统梳理2025年全球量子科技在政策、技术、投融资及市场等方面的进展; 预测未来发展趋势; 覆盖量子计算、量子通信与安全、量子传感三大方向
+- **量子传感章节**:上游核心器件性能持续提升; 量子增强测量能力不断突破; 向导航、磁测、时频等实际应用场景加速拓展
+- **量子传感关联**:光子盒报告是QSensingZoo追踪量子传感产业动态的核心参考; 该报告反映2026年上半年量子传感产业全景; 为产业投资和技术路线规划提供重要依据
 
 ---
 
-### 🆕 新增条目(2026-08-04上午-08:33 - 本次更新)
-
-#### Quantum Coast Capital:专注量子传感的早期投资基金/量子传感/量子计算/量子通信/量子安全/2026年8月1日更新(2026-08-04)
-- [Quantum Coast Capital官网](https://quantumcoastcapital.com/) | Quantum Coast Capital; 2026年8月1日官网更新; 专注量子科技领域早期投资
-- **投资定位**:"Capital paired with technical conviction"——早期资本+技术尽调双轮驱动; 投资量子计算、传感、网络和安全领域处于商业化早期的公司; 团队兼具科学研究、资本市场和运营经验
-- **量子传感投资重点**:精密仪器——测量以前无法探测的物理量; 应用领域：国防(Derense)、能源(Energy)、导航(Navigation); 与量子传感初创企业共同成长
-- **市场数据**:全球量子行业2025年投资达126亿美元，同比增长6.3倍(McKinsey Quantum Technology Monitor 2026); 量子计算2035年预计创造2.7万亿美元经济价值; 全球300+企业已与量子服务商合作(Airbus到摩根大通)
-- **量子传感关联**:Quantum Coast Capital代表量子传感领域的专业投资力量; 量子传感获得与量子计算同等战略地位; 资本涌入加速量子传感从实验室向商业化迁移
-
-#### Fermilab量子传感研究:DOE国家实验室/超导量子比特光子计数探测暗物质/QuantISED项目/MAGIS-100原子干涉仪2027年调试(2026-08-04)
-- [Fermilab Quantum Sensing Research](https://qis.fnal.gov/research-areas/quantum-sensing/) | Fermilab(美国费米国家加速器实验室); DOE国家实验室; 2026年8月1日页面更新; 量子传感前沿研究
-- **量子比特传感暗物质探测**:利用超导量子比特作为单光子探测器探测轴子暗物质; 用强超导磁铁将轴子转换为微波谐振腔内的光子; 低噪声量子电子学实现超灵敏探测; Fermilab团队开创了超导量子比特单微波光子计数技术——彻底改变了暗物质搜索领域
-- **QuantISED项目**:DOE科学办公室量子信息科学发现计划(QuantISED); 与大学合作伙伴联合开发下一代量子传感器; 将量子传感集成到高能物理实验中探索超越标准模型的暗物质物理
-- **MAGIS-100项目**:100米基线原子干涉仪(Matter-wave Atomic Gradiometer Interferometric Sensor); 预计2027年投入调试; 利用世界上已知最长的基线原子干涉仪演示量子叠加态持续数秒; 用于搜索难以探测的超轻暗物质粒子; 代表量子传感在大科学装置中的规模化应用
-- **量子传感关联**:Fermilab代表美国国家实验室量子传感研究的核心力量; 超导量子比特与原子干涉仪是量子传感的两大技术路线; MAGIS-100是将量子传感应用于基础物理探索的里程碑项目
-
-*本次更新: Quantum Coast Capital专注量子传感早期投资126亿美元量子市场国防能源导航/ Fermilab量子传感超导量子比特单光子计数暗物质探测QuantISED MAGIS-100原子干涉仪2027调试(2026-08-04上午-08:33)*
+*本次更新: MIT Technology Review量子雷达里德堡原子探地成像/NIST+RTX 量子传感雷达新范式/ QT Sense €4M种子轮荧光纳米金刚石活细胞自由基传感/ Quantum Village UncutGem V2全开源NV磁力计DEF CON 2025/ UCLA室温量子热波2026年7月/ QuSpin QZFM Gen-3 QTFM Gen-2 OPM-MEG商业产品系列/ QuantumSi Platinum单分子蛋白测序2026年JPM医疗大会/ SBQuantum量子钻石磁场传感器CubeSat 2026年3月发射/ Agentic AI自主NV量子传感LLM智能体Cappellaro/ NV临界传感自激振荡临界点灵敏度提升/ 里德堡原子低频电场调制辅助场传感/ ICV TA&K+光子盒2026全球量子科技产业发展展望报告(2026-08-04凌晨-02:03)*
