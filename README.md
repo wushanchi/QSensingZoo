@@ -6,6 +6,49 @@
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 
+### 🆕 新增条目(2026-08-03下午-18:33 - 本次更新)
+
+#### Imperial College London:高温运行量子传感器新方法/无需深冷的量子计算机突破/突破量子计算主要障碍/量子传感器件材料/2026年7月(2026-08-03)
+- [Imperial College London: Quantum computing breakthrough](https://www.imperial.ac.uk/news/182674/quantum-computing-breakthrough-imperial-scientist-reveals) | Imperial College London; 2026年7月23日发布; Nature Materials发表
+- **技术方案**:Dr Jonathan Breeze开发新技术使量子计算机能在比深空更冷的条件下运行;克服量子计算机必须在大约绝对零度(-273°C)条件下运行的主要障碍;
+- **核心突破**:新方法可帮助量子技术在更温和条件下工作;实现更准确科学测量;催生新型传感技术和通信系统
+- **技术意义**:降低量子传感器运行温度要求是产业化关键;该研究为量子传感器的普适化部署开辟道路
+- **量子传感关联**:量子传感与量子计算共享低温运行挑战;该突破对量子磁力计、量子陀螺仪等传感器的工程化有重要参考价值
+
+#### Quantinuum将于2026年8月11日公布第二季度财务业绩:纳斯达克QNT/量子计算+量子传感双赛道/2026年7月(2026-08-03)
+- [腾讯新闻:Quantinuum将于2026年8月11日公布Q2财报](https://so.html5.qq.com/page/real/search_news?docid=70000021_4506a68e00a11952) | Quantinuum Inc.(Nasdaq:QNT); 科罗拉多州布鲁姆菲尔德; 2026年7月29日宣布
+- **财务时间**:2026年8月11日收盘后发布截至2026年6月30日第二季度财务业绩;美国东部时间下午5:00举行电话会议
+- **公司背景**:全球最大量子计算公司之一;霍尼韦尔国际支持;2026年6月4日以168亿美元完成IPO;量子传感业务通过Hexar Group整合
+- **量子传感关联**:Quantinuum量子传感产品线包括量子重力仪、原子钟、量子加速度计;Q2财报是量子传感商业化进程的重要市场指标
+
+#### DARPA RoQS项目:量子传感器替代GPS/非太空依赖的定位导航授时/美国国防高级研究计划局/2025年9月启动2026推进(2026-08-03)
+- [Air & Space Forces Magazine: Pentagon Doubling Down on Alternatives to GPS Not in Space](https://www.airandspaceforces.com/pentagon-gps-alternatives-not-in-space/) | DARPA; 美国国防高级研究计划局; RoQS(Robust Quantum Sensors)项目Phase 1启动; 2025年9月宣布
+- **项目目标**:开发量子传感技术提供本地化、非太空依赖的GPS替代方案;解决GPS易受干扰的脆弱性问题
+- **技术路线**:基于里德堡原子射频传感器(ARL实验装置覆盖0-20GHz射频频谱);检测真实世界通信信号;无需卫星信号
+- **资金规模**:DARPA未公布具体金额;一家入选公司表示项目资金显著;
+- **量子传感关联**:量子PNT(定位、导航、授时)是量子传感最高价值应用方向;DARPA项目代表国家层面对量子传感替代GPS的战略押注
+
+#### QCi 2026财年Q1营收增长但净亏损405万美元:量子计算+量子传感垂直整合/2026年5月(2026-08-03)
+- [经济观察网:QCi 2026年Q1财报](http://www.eeo.com.cn/2026/0531/897885.shtml) | Quantum Computing Inc.(QCi); 2026年5月31日发布; 纳斯达克上市公司
+- **财务表现**:营收同比显著增长但仍出现净亏损405万美元;2026年2月完成对Luminar Semiconductor的收购;
+- **战略布局**:量子计算+半导体垂直整合;增强量子计算硬件栈的自主可控能力
+- **量子传感关联**:QCi通过旗下NuCrypt(通信和计量技术)、Freedom Photonics(激光器)等子公司布局量子传感核心组件;垂直整合是量子传感产业化的重要路径
+
+#### Q.ANT量子磁力计:皮特斯拉精度/室温运行/紧凑尺寸/汉诺威工业博览会/2024年延续(2026-08-03)
+- [Hannover Messe: Measuring with picotesla precision](https://www.hannovermesse.de/en/news/news-articles/measuring-with-picotesla-precision) | Q.ANT; 德国; 汉诺威工业博览会; 2024年展示2026年持续活跃
+- **核心产品**:量子磁力计实现皮特斯拉(picotesla)级高精度磁场测量;紧凑尺寸;室温运行——开启系列新应用
+- **技术优势**:传统工业传感+量子技术融合;室温工作大幅降低部署门槛;
+- **量子传感关联**:Q.ANT代表欧洲量子传感器商业化的重要力量;室温量子磁力计是产业化关键里程碑;汉诺威工业博览会是量子传感工业应用的重要展示平台
+
+#### SLAC量子传感研究:量子点可扩展量子比特/Q-NEXT合作/可量产量子比特类型/量子传感扩展应用/2026年7月(2026-08-03)
+- [SLAC National Accelerator Laboratory: Quantum Sensing Topics](https://www6.slac.stanford.edu/topics/quantum-information-science-qis) | SLAC; 美国能源部; Q-NEXT合作; 2026年7月持续更新
+- **研究重点**:量子点(qquantum dots)——一种可大规模量产的量子比特类型;SLAC研究员Shannon Harvey主导研发;
+- **量子传感关联**:量子点是量子传感和量子计算共用的核心平台;量子点的可量产性对量子传感器芯片化至关重要;Q-NEXT代表美国国家实验室量子传感研究网络
+
+*本次更新: Imperial College量子传感器高温运行突破无需深冷/ Quantinuum 8月11日公布Q2财报/ DARPA RoQS量子传感器替代GPS Phase1/ QCi 2026 Q1财报净亏损405万美元/ Q.ANT量子磁力计皮特斯拉精度室温/ SLAC量子点可量产量子比特Q-NEXT(2026-08-03下午-18:33)*
+
+---
+
 ### 🆕 新增条目(2026-08-03下午-18:03 - 本次更新)
 
 #### MIT Technology Review+NIST+RTX:量子雷达里德堡原子成像隐蔽物体/厘米级玻璃气室/超越传统雷达/2025年8月(2026-08-03)
