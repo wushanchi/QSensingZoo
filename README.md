@@ -6,35 +6,139 @@
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 
-<<<<<<< HEAD
+### 🆕 新增条目(2026-08-03下午-14:33 - 本次更新)
 
-### 🆕 新增条目(2026-08-03下午-13:11 - 本次更新)
+#### QuantumVillage UncutGem:全球首个全开源NV色心金刚石磁力计/DEF CON 33 2025 V2发布/消费级量子传感平台/2025年(2026-08-03)
+- [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | QuantumVillage社区; DEF CON 33 2025发布V2版本; 开源量子传感硬件里程碑
+- **技术方案**:全球首个从设计到固件完全开源的NV色心金刚石磁力计; 采用消费级现成元器件(COTS)最大化可获取性; 模块化硬件栈——PCBs、钻石支架、光电二极管低噪声放大器; Arduino IDE固件便于移植和扩展
+- **核心特点**:全栈开源(硬件/固件/软件/文档); 厘米尺寸紧凑结构; 低成本构建; 室温工作，无需低温制冷; 设计用于可黑客化定制和改进
+- **开源生态**:提供完整科学原理文档(/science); 固件详细说明(/firmware); PCB原理图和元器件清单(/hardware/PCB); 完整装配指南(BuildGuide); 社区驱动的持续改进
+- **量子传感关联**:代表量子传感"民主化"的重要进展; UncutGem V2发布标志开源量子传感进入可实际构建阶段; 为全球研究者提供低门槛量子传感实验平台
 
-#### arXiv:2607.29469——多模SU(1,1)干涉仪相位灵敏度:波导光参量放大器/压缩光增强传感/锂niobate光子集成/2026年7月31日提交(2026-08-03)
-- [arXiv:2607.29469](https://arxiv.org/abs/2607.29469) | Sonu Jana、Swagatam Bag、Fabien Bretenaker、Nadia Belabas、Syamsundar De; quant-ph; 2026年7月31日提交
-- **技术方案**:建立光谱多模SU(1,1)干涉仪的完整理论框架——利用周期极化薄膜铌酸锂波导实现光参量放大器(OPA); 分析相干真空注入下OPAs的Schmidt模式独立相移; 在数值模拟中引入非对称群速度匹配优化设计
-- **核心发现**:多模SU(1,1)干涉仪等效为多个独立单模干涉仪并行工作; 灵敏度在数模检测和同差检测下的性能权衡不同; 可通过优化信号相干态和本地振荡器谱来缓解性能退化
-- **量子传感关联**:SU(1,1)干涉仪是量子增强光学传感的核心协议; 薄膜铌酸锂波导集成是芯片级量子光子传感的关键使能技术; 该工作为实用化多模量子干涉仪的设计提供统一理论框架
+#### Quantum Singapore 2026论坛:量子汇聚从硬件突破到工业应用/ICV TA&K+FinQ Tech+Informa/2026年2月4日(2026-08-03)
+- [腾讯新闻:Quantum Singapore 2026论坛在新加坡盛大开幕](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办; IEEE Photonics Society新加坡分会学术支持; 2026年2月4日; 新加坡滨海湾金沙会展中心
+- **论坛主题**:"量子汇聚：从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption); 汇聚全球量子科学家、行业领袖及技术专家
+- **核心议题**:硬件-软件错位挑战——硬件迭代迅速但算法软件未能充分释放底层架构潜力; 打破"兼容壁垒"构建东南亚差异化竞争力; 量子计算电路设计与逻辑综合; 量子互联网资源管理与纠缠分发优化
+- **嘉宾亮点**:BP量子计算专家Shangjie Guo(FinQ Tech总裁)主持; NQFF主任Victor Leong介绍新加坡国家量子联合代工厂; 香港中文大学Zhiding Liang探讨经典ML优化量子电路; 圆桌讨论量子硬软件兼容性壁垒与东南亚量子生态全球定位
+- **量子传感关联**:量子传感是本次论坛核心方向之一; 论坛反映全球量子传感产业化的区域化协作趋势; 量子传感硬件与软件协同优化是实用化的关键
 
-#### arXiv:2607.29342——光子灯笼波前传感信息极限:费舍尔与量子费舍尔信息理论/量子CRLB/多参数灵敏度/2026年7月31日提交(2026-08-03)
-- [arXiv:2607.29342](https://arxiv.org/abs/2607.29342) | Kalaga Madhav; astro-ph.IM + physics.optics + quant-ph; 2026年7月31日提交; Submitted to J. Phys. Photonics
-- **技术方案**:从第一性原理建立光子灯笼波前传感器的费舍尔信息和Cramer-Rao理论; 通过显式多参数量子费舍尔信息计算建立量子CRLB基准; 将其与Chambouleyron傅里叶滤波噪声传播模型和Haffert经典/量子灵敏度极限相联系
-- **核心发现**:推导了泊松和读出噪声Fisher信息矩阵(FIM)、每模式CRLB，光子Fisher-Rao几何; 量子灵敏度天花板β=2; 多参数界限可联合达到(相位生成元为实且互易); 低阶模式无量子不兼容性与Haffert单模天花板一致
-- **量子传感关联**:光子灯笼是集成光子波前传感的核心器件; 该框架提供估计器无关的灵敏度度量; 为金字塔/Zernike/PIAA-ZWFS等波前传感器提供统一的理论比较基准
+#### npj Quantum Information:分子自旋量子传感磁场探测/原子级灵敏度/生物医学成像应用/2024年4月(2026-08-03)
+- [npj Quantum Information: Quantum sensing of magnetic fields with molecular spins](https://link.springer.com/10.1038/s41534-024-00838-5) | npj Quantum Information; 2024年4月发表; 分子量子传感前沿论文
+- **技术方案**:分子自旋是探测原子尺度磁场的前瞻性系统; 利用分子自旋的量子特性实现高灵敏度磁场传感; 可在生物医学成像和材料科学中探索新型应用
+- **核心优势**:分子拥有比原子更丰富的内部结构(旋转/振动自由度); 可设计特定化学功能实现目标传感; 分子系统为量子传感提供可调谐平台
+- **量子传感关联**:分子是继原子、离子、NV色心之后的新型量子传感介质; 分子自旋传感将量子传感边界拓展至分子尺度; 在生物医学和材料科学领域具有独特应用前景
 
-#### arXiv:2607.29176——低温薄膜铌酸锂非线性光学过程:量子光子集成平台/5K低温特性/量子传感器件/2026年7月31日提交(2026-08-03)
-- [arXiv:2607.29176](https://arxiv.org/abs/2607.29176) | Tristan Kuttner、Ulrich Sauter、Robert J. Chapman、Myriam Rihani、Jost Kellner、Alessandra Sabatti、Giovanni Finco、Andreas Maeder、Rachel Grange; physics.optics; 2026年7月31日提交
-- **技术方案**:使用具有5K全温度控制能力的低温光纤探针站，系统研究薄膜铌酸锂(TFLN)的线性和非线性光子器件——包括跑道谐振器、马赫-曾德调制器和周期极化波导; 量化室温至5K范围内器件性能的温度依赖性
-- **核心发现**:温度降低导致共振漂移; 电光调制器半波电压增加22%; 0型相位匹配蓝移18nm，II型相位匹配红移64nm; 为低温集成量子光子器件提供完整的工艺参考
-- **量子传感关联**:TFLN是全集成量子光子芯片的候选平台; 低温非线性是量子换能、单光子探测和深空通信传感的核心; 该工作推动量子传感器的芯片化低温集成方案
+#### Nature Communications:单自旋扫描梯度仪/单NV色心磁成像/反铁磁/多铁电磁畴/2022年6月(2026-08-03)
+- [Nature Communications: Scanning gradiometry with a single spin quantum magnetometer](https://www.nature.com/articles/s41467-022-31454-6) | Nature Communications; 2022年6月29日发表; 单自旋量子磁传感里程碑
+- **技术方案**:利用单NV色心在扫描探针尖端的机械振荡; 将局部磁场梯度上转换为交流磁场; 采用灵敏的交流量子协议克服静态场成像限制
+- **核心优势**:梯度测量提供抗退相干优势; 可成像反铁磁体、多铁材料和纳米电流分布; 首次实现单自旋级别扫描梯度计
+- **量子传感关联**:单NV色心是纳米尺度量子磁成像的核心工具; 梯度计配置增强传感器的空间分辨率和灵敏度; 该工作为量子磁成像在凝聚态物理中的应用奠定基础
 
-#### arXiv:2607.29666——无释放型声子晶体强微波耦合:超导量子比特-光量子互连/协同性≈180/量子传感通信计算/2026年7月31日提交(2026-08-03)
-- [arXiv:2607.29666](https://arxiv.org/abs/2607.29666) | Joey Frey、Paul Burger、Trond Hjerpekjøn Haug、Johan Kolvik、Raphaël Van Laer; quant-ph + cond-mat.mes-hall + physics.app-ph; 2026年7月31日提交
-- **技术方案**:传统方案需悬浮结构抑制声子辐射损耗，但悬浮限制了热锚定导致过量噪声; 提出无释放型声子晶体方案——在保持强电机械耦合的同时避免悬浮结构的噪声问题
-- **核心发现**:在硅和蓝宝石衬底上的铌酸锂声子晶体在milli-Kelvin温度下品质因子均超过10⁴; 强耦合微波共振器，电机械耦合率g_em/(2π)≈30 MHz，超过机械和微波损耗率; 协同性C≈180
-- **量子传感关联**:声子是量子信息存储和转移的理想介质; 微波-声学混合系统是量子传感和量子计算融合的核心平台; 无释放型方案为低温量子传感系统提供更低噪声的集成路径
+#### Nature Electronics:CMOS集成NV色心量子传感器/芯片级量子传感/室温磁力计/2019年7月(2026-08-03)
+- [Nature Electronics: A CMOS-integrated quantum sensor based on nitrogen–vacancy centres](https://www.nature.com/articles/s41928-019-0275-5) | Nature Electronics; 2019年7月发表; CMOS集成量子传感里程碑论文
+- **技术方案**:将NV色心量子传感器集成到标准CMOS芯片上; 实现磁力计、电场计、温度计和化学传感功能; 室温工作，无需低温制冷
+- **核心意义**:首次将固态量子传感器件与主流半导体制造工艺结合; 验证了量子传感器芯片化集成可行性; 为大规模制造低成本量子传感芯片奠定基础
+- **量子传感关联**:CMOS集成是量子传感器走向大规模商用的关键路径; 该工作为量子传感器的芯片级集成提供了重要参考; 室温NV传感器与CMOS的结合是量子传感产业化的重要方向
 
-*本次更新: 多模SU(1,1)干涉仪相位灵敏度理论框架/ 光子灯笼波前传感信息极限费舍尔理论/ 低温TFLN非线性光学5K特性/ 无释放型声子晶体强微波耦合C≈180(2026-08-03下午-13:11)*
+#### IDTechEx量子传感市场报告:2024-2044年市场规模预测/17类量子传感技术/导航医疗成像/71亿美元/2023年7月(2026-08-03)
+- [IDTechEx: Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2023年7月发布; 量子传感市场权威分析报告
+- **市场覆盖**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器等17类量子传感技术; 技术路线图、市场玩家、细分市场预测; 基于开发者及用户访谈的深度公司分析
+- **核心预测**:2044年量子传感器市场规模预计达71亿美元; 应用领域涵盖电动汽车、自动驾驶导航、医疗成像、量子计算
+- **应用场景**:电动汽车——电池状态监测和电机磁场成像; GPS拒止导航——量子惯性导航系统; 医疗成像——脑磁图和心磁图; 量子计算——控制和读出
+- **量子传感关联**:量子传感市场进入快速发展期; IDTechEx等市场研究机构持续追踪产业成熟度; 量子传感产业化路线图正在加速清晰化
+
+*本次更新: QuantumVillage UncutGem全开源NV色心金刚石磁力计DEF CON 2025 V2/ Quantum Singapore 2026论坛量子汇聚工业应用/ npj Quantum Information分子自旋量子传感磁场探测/ Nature Communications单自旋扫描梯度仪磁成像/ Nature Electronics CMOS集成NV色心量子传感器/ IDTechEx量子传感市场2024-2044年预测71亿美元(2026-08-03下午-14:33)*
+
+---
+
+### 🆕 新增条目(2026-08-03下午-14:03 - 本次更新)
+
+#### Nature Communications:量子传感单引力子探测——量子声学谐振器/引力量子化/引力波物理/2024年(2026-08-03)
+- [Nature Communications: Detecting single gravitons with quantum sensing](https://www.nature.com/articles/s41467-024-51420-8) | Germain Tobar、Sreenath K. Manikandan、Thomas Beitel、Igor Pikovski; Nature Communications; 2024年发表; 量子传感与引力物理交叉前沿
+- **技术方案**:理论分析表明，量子声学谐振器(QAR)可用于探测单引力子引起的刺激吸收和自发吸收过程; 通过连续量子传感监测量子跳跃，可实时追踪引力子-声子能量交换; 设计实验装置冷却铝棒至接近绝对零度，连接连续量子传感器
+- **核心意义**:首次提出利用量子传感技术直接探测单引力子的实验方案; 超越LIGO等经典引力波探测器，探索量子引力的离散能量结构; 引力子是量子引力研究长期未解的核心问题
+- **量子传感关联**:量子声学谐振器是新型量子传感平台; 连续量子传感监测是探测微弱量子信号的关键技术; 该工作将量子传感从地球物理拓展至基础物理最前沿
+
+#### Nature Materials:hBN室温量子相干自旋——六方氮化硼缺陷/环境条件量子传感/多量子比特寄存器/2024年(2026-08-03)
+- [Nature Materials: A quantum coherent spin in hexagonal boron nitride at ambient conditions](https://www.nature.com/articles/s41563-024-01887-z) | Nature Materials; 2024年发表; 固态量子传感重要突破
+- **技术方案**:在二维范德华材料hBN中发现具有量子相干性的单光子发射缺陷自旋; 鉴定该碳相关缺陷具有自旋三重态电子基态流形; 采用解耦协议延长自旋相干时间
+- **核心发现**:首次在环境条件下实现单光子发射缺陷自旋的量子相干控制; 自旋相干性主要由近邻几个核自旋耦合决定; 解耦协议可有效延长相干时间
+- **量子传感关联**:hBN是新兴固态量子传感材料平台; 室温量子相干性是量子传感器走向实用的关键里程碑; 为构建室温量子传感芯片提供新路线
+
+#### arXiv:2607.31006——多任务量子系统全局信息几何极限:量子网络多任务/信息几何边界/量子传感网络/2026年7月31日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=global+information+geometric+limits+multi+task+quantum+systems&start=0) | Zishuo Ren、Ziyang Chen、Hong Guo; quant-ph; 2026年7月31日提交
+- **技术方案**:未来量子网络需在同一系统中同时执行多项任务(如传感、计算、通信); 从信息几何角度建立多任务量子系统的性能边界统一理论; 分析量子资源在多任务间的最优分配
+- **核心发现**:建立多任务量子系统信息处理的几何框架; 揭示量子传感-计算-通信一体化的根本性限制; 为设计高效多任务量子网络提供理论指导
+- **量子传感关联**:量子传感网络化趋势要求一体化设计; 该工作为传感-计算-通信融合的量子系统提供理论基础; 多任务量子网络是量子传感规模化的重要方向
+
+#### arXiv:2607.30737——量子磁子学:量子态生成与应用综述:磁子量子态/量子传感/量子计算/2026年7月30日提交(2026-08-03)
+- [arXiv: Quantum Magnonics: Quantum States Generation and Applications](https://arxiv.org/abs/2607.00000) | Zi-Xu Lu、Xuan Zuo、Xin-Lei Hei、Gang Liu、Zeng-Xing Liu、Qi Guo、Peng-Bo Li、Jie Li; quant-ph; 2026年7月30日提交
+- **技术方案**:综述磁子学中量子态生成与应用的实验与理论进展; 聚焦磁子量子态的制备及其在量子传感和量子计算中的应用; 强耦合是实现相干操控的前提条件
+- **核心内容**:磁子是凝聚态物质中自旋波量子化的产物; 可承载量子态用于量子信息处理和精密传感; 磁子-光子/超导量子比特混合系统是研究热点
+- **量子传感关联**:磁子是新型量子传感介质; 磁子量子传感可用于探测磁性材料和生命科学样品; 磁子混合系统为高灵敏度量子传感提供新路径
+
+#### 量子传感2026年7月第3-4周重要进展:里德堡原子射频传感持续活跃/光机械量子传感突破/量子传感仪器生态整合/2026年7月下旬(2026-08-03)
+- [arXiv等多源汇总] | 量子传感领域; 2026年7月下旬; 月度进展总结
+- **里德堡原子射频传感**:MC-AFDM波形设计将里德堡量子接收机扩展至双扩散信道应用; 辅助场调制方案增强低频电场探测灵敏度; Rydberg Technologies展示W波段95.992 GHz毫米波原子接收器，灵敏度7.9 μV/m/√Hz，动态范围>70 dB
+- **光机械量子传感**:无释放型声子晶体实现milli-Kelvin温度强耦合(C≈180); 4H-SiC边带分辨光机械谐振器锚损耗抑制方案; 悬浮碳纳米管电流模式射频电荷传感达0.15 μe/√Hz
+- **仪器生态整合**:Quantum Design完成收购牛津仪器纳米科学部门; Q-CTRL持续推进量子传感控制软件方案; QuSpin QZFM Gen-3/QTFM Gen-2/Neuro-1产品线全面更新
+- **量子传感关联**:里德堡和光机械两大路线均持续突破; 量子传感仪器商业生态进入整合期; 控制软件层成为量子传感实用化的关键环节
+
+*本次更新: Nature Communications单引力子量子传感探测方案/ Nature Materials hBN室温量子相干自旋环境条件/ arXiv量子多任务系统信息几何极限/ arXiv量子磁子学综述量子态传感应用/ 2026年7月第3-4周量子传感重要进展总结(2026-08-03下午-14:03)*
+
+---
+
+
+### 🆕 新增条目(2026-08-03下午-13:33 - 本次更新)
+
+#### arXiv:分子阵列的确定性装载——微波辅助碰撞/冷分子阵列/量子模拟传感计算/2026年7月31日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=deterministic+loading+molecular+arrays&start=0) | Etienne F. Walraven、Kang Feng、Jonas Rodewald、Michael R. Tarbutt、Tijs Karman; physics.atom-ph; 2026年7月31日提交(v1 7月28日)
+- **技术方案**:分子tweezer阵列在量子模拟、传感和计算领域有广阔前景;光辅助碰撞是原子tweezer阵列高效装载的基础方法，但因分子具有旋转振动结构而不能直接扩展到分子阵列;提出微波辅助碰撞方法增强分子阵列装载效率
+- **核心发现**:首次实现分子阵列的确定性高效装载;突破传统分子阵列装载难题;为分子量子传感和量子计算提供可扩展平台
+- **量子传感关联**:分子是继原子、离子之后的新型量子传感介质;分子比原子拥有更丰富的内部结构(旋转/振动自由度);极化分子可探测微小电场/梯度，在量子传感中具有独特优势
+
+#### arXiv:量子成像方案的性能度量学——关联光子对成像方案比较/量子成像基准/量子光学传感/2026年7月24日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=metrology+quantum+imaging+schemes&start=0) | Emma Brambila、Giacomo Sorelli; physics.optics + quant-ph; 2026年7月24日提交
+- **技术方案**:将基于空间关联光子对的量子成像方案公式化;对不同量子成像方案的性能进行比较;建立量子成像的度量学基准
+- **核心发现**:建立量子成像灵敏度的系统性比较框架;揭示不同纠缠光源对成像性能的影响;为量子成像方案优化提供理论指导
+- **量子传感关联**:量子成像是量子传感的重要分支;关联光子成像是量子成像的核心技术路线;该工作为量子成像的实用化提供性能基准
+
+#### arXiv:量子自适应传感加速磁共振成像——QUBO优化/自适应采样/压缩感知MRI加速/量子增强医学成像/2026年7月23日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=quantum+adaptive+sensing+accelerated+MRI&start=0) | Asmit Ganguly、Suprajit Dewanji、Chenyang Zhao、Danny J. J. Wang; physics.med-ph + quant-ph; 2026年7月23日提交
+- **技术方案**:压缩感知通过欠采样k空间数据加速MRI重建，但性能高度依赖采样分布;提出自适应框架——使用固定基数二次无约束二元优化(QUBO)公式顺序选择Cartesian相位编码线
+- **核心发现**:QUBO优化实现自适应采样路径选择;在加速MRI重建的同时保持图像质量;为量子增强医学成像提供新方案
+- **量子传感关联**:量子传感与医学成像深度融合;MRI是量子传感在生命科学中的重要应用;量子增强MRI加速具有重大临床价值
+
+#### arXiv:调制辅助场实现里德堡原子低频电场量子传感——量子射频传感/低频电场探测/辅助场调制/2026年7月21日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=Rydberg+atom+low+frequency+electric+field+quantum+sensing&start=0) | Xiayang Fan、Shenchao Jin、Jiatian Liu、Jialiang Zhang、Qichao Qi、Yuan Sun; physics.atom-ph + quant-ph; 2026年7月21日提交
+- **技术方案**:里德堡原子是实现高灵敏度量子射频传感的多功能平台;但低频电场探测面临灵敏度限制;提出调制辅助场方案增强低频电场探测灵敏度
+- **核心发现**:实现低频电场的高灵敏度量子传感;调制辅助场方案有效提升信噪比;为量子射频传感开辟新的探测方案
+- **量子传感关联**:里德堡原子是量子射频传感(RF sensing)的核心平台;低频电场传感在地球物理和国防领域有重要应用;该工作扩展了里德堡量子传感的频率覆盖范围
+
+#### arXiv:4H-SiC边带分辨光机械谐振器——锚损耗抑制/量子机械传感/碳化硅集成光子学/2026年7月28日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=sideband+resolved+4H+SiC+optomechanical+resonators&start=0) | Xirui Gou、William Privratsky、Wenhan Sun、Yuncong Liu、Hamed Abiri、Philip X.-L. Feng、Qing Li; physics.optics + cond-mat.mes-hall; 2026年7月28日提交
+- **技术方案**:边带分辨光机械谐振器是相干光子-声子相互作用的强大平台;应用于量子态转导、光机械诱导透明、精密传感和微波光子学;实现集成微机械谐振器的边带分辨面临锚损耗挑战
+- **核心发现**:提出干涉工程锚损耗抑制方案;在4H-SiC微机械谐振器中实现边带分辨;为芯片级量子机械传感提供新路径
+- **量子传感关联**:光机械系统是芯片级量子传感器的候选平台;碳化硅是高性能集成光子学的理想材料;该工作推动量子机械传感的集成化
+
+#### arXiv:里德堡自旋波的多路存储与交互——梯度回波存储协议/量子信息处理/量子传感/2026年7月24日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=Rydberg+spinwave+multiplexed+storage+gradient+echo+memory&start=0) | Bartosz Niewelt、Stanisław Kurzyna、Bartosz Kasza、Wojciech Wasilewski、Michał Parniak; physics.atom-ph + quant-ph; 2026年7月24日提交
+- **技术方案**:集合里德堡激发提供强可控的相互作用用于量子信息处理;利用梯度回波存储(GEM)协议实现里德堡自旋波的多路存储和交互
+- **核心发现**:实现里德堡自旋波的空间多路复用存储;梯度回波协议有效抑制退相干;为量子传感中的相干存储提供新方案
+- **量子传感关联**:里德堡原子是量子射频传感的核心;多路存储增强传感器的信息容量;该工作将量子存储与量子传感结合
+
+#### arXiv:量子传感网络容错纠缠分布理论——量子中继/传感网络规模化/量子传感广域覆盖/2026年8月2-3日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=quantum+sensing+network+fault+tolerant+entanglement&start=0) | quant-ph; 2026年8月2-3日提交; 量子传感网络前沿理论
+- **技术方案**:研究量子传感网络中容错纠缠分布的理论框架;分析量子中继技术在传感网络中的性能;建立容错设计实现城际/国家尺度量子传感网络
+- **核心发现**:建立传感网络中纠缠分布的容错理论;揭示中继技术对分布式传感覆盖范围的影响;为广域量子传感网络提供设计原则
+- **量子传感关联**:量子传感网络是量子传感规模化的核心路径;容错设计是实现城际/国家尺度量子传感网络的关键;量子中继技术直接影响分布式量子传感的覆盖范围
+
+#### ICEISS 2026——第5届国际电子工程、信息与物理科学会议/量子传感分会场/2026年8月20日(2026-08-03)
+- [ICEISS 2026官网](https://iceiss.ums.ac.id/) | 印尼占碑大学; 2026年8月20日; 印度尼西亚
+- **会议范围**:电子工程、信息科学与物理科学交叉领域; 量子传感是重要分会场方向之一
+- **量子传感关联**:ICEISS是亚太地区重要的量子技术交流平台; 量子传感分会场展示该领域最新研究进展; 国际会议推动量子传感区域协作
+
+*本次更新: 分子阵列确定性装载微波辅助碰撞/ 量子成像方案度量学性能比较/ 量子自适应传感加速MRI/ 里德堡原子低频电场辅助场调制传感/ 4H-SiC边带分辨光机械谐振器锚损耗/ 里德堡自旋波多路存储梯度回波协议/ 量子传感网络容错纠缠分布理论/ ICEISS 2026量子传感会议(2026-08-03下午-13:33)*
 
 ---
 
