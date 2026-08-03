@@ -1,3 +1,4 @@
 e5af03b
 2026-08-04 03:33
 QSensingZoo update: 新增量子传感条目6条——布里斯托大学光量子传感器量子极限大规模可制造/MIT量子雷达成像埋地物体/澳大利亚国家量子战略2030/IDTechEx量子传感器市场71亿美元预测/Infleqtion获国防部1100万美元光钟/英国QEPNT Hub量子导航中心启用(2026-08-04 03:33)
+lastpush_qsensingzoo: 2026-08-04 04:37:25 - 新增5条: Nature分布式量子传感器暗物质约束/Infleqtion NASA量子重力梯度仪/国器传感SERF磁强计fT级/QDNL Participations荷兰量子投资/IGARSS 2026量子传感遥感
