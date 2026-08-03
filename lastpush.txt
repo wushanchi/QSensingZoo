@@ -1,3 +1,3 @@
-2026-08-03 17:33
-QSensingZoo update: 新增量子传感条目4条——Sandia国家实验室量子传感核心技术平台/物理学报机载量子重力仪绝对重力测量/2026上海时间频率展/ arXiv铁电氮化铝扫描探针量子传感(2026-08-03下午-17:33)
-Commit: ce7d8caa93a05036d4f998fd3b3122461f83971a
+2026-08-03 18:03
+QSensingZoo update: 新增量子传感条目3条——MIT TR量子雷达里德堡原子/NIST+RTX/VectorAtomic量子惯性传感/QCi收购Luminar(2026-08-03下午-18:03)
+Commit: a30738650258435cb860bc0584bc8cebb3735820
