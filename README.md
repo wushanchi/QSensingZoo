@@ -6,6 +6,51 @@
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 
+### 🆕 新增条目(2026-08-03下午-14:33 - 本次更新)
+
+#### QuantumVillage UncutGem:全球首个全开源NV色心金刚石磁力计/DEF CON 33 2025 V2发布/消费级量子传感平台/2025年(2026-08-03)
+- [GitHub - QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | QuantumVillage社区; DEF CON 33 2025发布V2版本; 开源量子传感硬件里程碑
+- **技术方案**:全球首个从设计到固件完全开源的NV色心金刚石磁力计; 采用消费级现成元器件(COTS)最大化可获取性; 模块化硬件栈——PCBs、钻石支架、光电二极管低噪声放大器; Arduino IDE固件便于移植和扩展
+- **核心特点**:全栈开源(硬件/固件/软件/文档); 厘米尺寸紧凑结构; 低成本构建; 室温工作，无需低温制冷; 设计用于可黑客化定制和改进
+- **开源生态**:提供完整科学原理文档(/science); 固件详细说明(/firmware); PCB原理图和元器件清单(/hardware/PCB); 完整装配指南(BuildGuide); 社区驱动的持续改进
+- **量子传感关联**:代表量子传感"民主化"的重要进展; UncutGem V2发布标志开源量子传感进入可实际构建阶段; 为全球研究者提供低门槛量子传感实验平台
+
+#### Quantum Singapore 2026论坛:量子汇聚从硬件突破到工业应用/ICV TA&K+FinQ Tech+Informa/2026年2月4日(2026-08-03)
+- [腾讯新闻:Quantum Singapore 2026论坛在新加坡盛大开幕](https://new.qq.com/rain/a/20260207A067DT00) | ICV TA&K、FinQ Tech Inc.、Informa Markets联合主办; IEEE Photonics Society新加坡分会学术支持; 2026年2月4日; 新加坡滨海湾金沙会展中心
+- **论坛主题**:"量子汇聚：从硬件突破到工业应用"(Quantum Convergence: From Hardware Breakthrough to Industrial Adoption); 汇聚全球量子科学家、行业领袖及技术专家
+- **核心议题**:硬件-软件错位挑战——硬件迭代迅速但算法软件未能充分释放底层架构潜力; 打破"兼容壁垒"构建东南亚差异化竞争力; 量子计算电路设计与逻辑综合; 量子互联网资源管理与纠缠分发优化
+- **嘉宾亮点**:BP量子计算专家Shangjie Guo(FinQ Tech总裁)主持; NQFF主任Victor Leong介绍新加坡国家量子联合代工厂; 香港中文大学Zhiding Liang探讨经典ML优化量子电路; 圆桌讨论量子硬软件兼容性壁垒与东南亚量子生态全球定位
+- **量子传感关联**:量子传感是本次论坛核心方向之一; 论坛反映全球量子传感产业化的区域化协作趋势; 量子传感硬件与软件协同优化是实用化的关键
+
+#### npj Quantum Information:分子自旋量子传感磁场探测/原子级灵敏度/生物医学成像应用/2024年4月(2026-08-03)
+- [npj Quantum Information: Quantum sensing of magnetic fields with molecular spins](https://link.springer.com/10.1038/s41534-024-00838-5) | npj Quantum Information; 2024年4月发表; 分子量子传感前沿论文
+- **技术方案**:分子自旋是探测原子尺度磁场的前瞻性系统; 利用分子自旋的量子特性实现高灵敏度磁场传感; 可在生物医学成像和材料科学中探索新型应用
+- **核心优势**:分子拥有比原子更丰富的内部结构(旋转/振动自由度); 可设计特定化学功能实现目标传感; 分子系统为量子传感提供可调谐平台
+- **量子传感关联**:分子是继原子、离子、NV色心之后的新型量子传感介质; 分子自旋传感将量子传感边界拓展至分子尺度; 在生物医学和材料科学领域具有独特应用前景
+
+#### Nature Communications:单自旋扫描梯度仪/单NV色心磁成像/反铁磁/多铁电磁畴/2022年6月(2026-08-03)
+- [Nature Communications: Scanning gradiometry with a single spin quantum magnetometer](https://www.nature.com/articles/s41467-022-31454-6) | Nature Communications; 2022年6月29日发表; 单自旋量子磁传感里程碑
+- **技术方案**:利用单NV色心在扫描探针尖端的机械振荡; 将局部磁场梯度上转换为交流磁场; 采用灵敏的交流量子协议克服静态场成像限制
+- **核心优势**:梯度测量提供抗退相干优势; 可成像反铁磁体、多铁材料和纳米电流分布; 首次实现单自旋级别扫描梯度计
+- **量子传感关联**:单NV色心是纳米尺度量子磁成像的核心工具; 梯度计配置增强传感器的空间分辨率和灵敏度; 该工作为量子磁成像在凝聚态物理中的应用奠定基础
+
+#### Nature Electronics:CMOS集成NV色心量子传感器/芯片级量子传感/室温磁力计/2019年7月(2026-08-03)
+- [Nature Electronics: A CMOS-integrated quantum sensor based on nitrogen–vacancy centres](https://www.nature.com/articles/s41928-019-0275-5) | Nature Electronics; 2019年7月发表; CMOS集成量子传感里程碑论文
+- **技术方案**:将NV色心量子传感器集成到标准CMOS芯片上; 实现磁力计、电场计、温度计和化学传感功能; 室温工作，无需低温制冷
+- **核心意义**:首次将固态量子传感器件与主流半导体制造工艺结合; 验证了量子传感器芯片化集成可行性; 为大规模制造低成本量子传感芯片奠定基础
+- **量子传感关联**:CMOS集成是量子传感器走向大规模商用的关键路径; 该工作为量子传感器的芯片级集成提供了重要参考; 室温NV传感器与CMOS的结合是量子传感产业化的重要方向
+
+#### IDTechEx量子传感市场报告:2024-2044年市场规模预测/17类量子传感技术/导航医疗成像/71亿美元/2023年7月(2026-08-03)
+- [IDTechEx: Quantum Sensors Market 2024-2044](https://www.idtechex.com/en/research-report/quantum-sensors-market-2024-2044/951) | IDTechEx; 2023年7月发布; 量子传感市场权威分析报告
+- **市场覆盖**:原子钟、量子陀螺仪、量子磁场传感器、量子重力仪、量子图像传感器等17类量子传感技术; 技术路线图、市场玩家、细分市场预测; 基于开发者及用户访谈的深度公司分析
+- **核心预测**:2044年量子传感器市场规模预计达71亿美元; 应用领域涵盖电动汽车、自动驾驶导航、医疗成像、量子计算
+- **应用场景**:电动汽车——电池状态监测和电机磁场成像; GPS拒止导航——量子惯性导航系统; 医疗成像——脑磁图和心磁图; 量子计算——控制和读出
+- **量子传感关联**:量子传感市场进入快速发展期; IDTechEx等市场研究机构持续追踪产业成熟度; 量子传感产业化路线图正在加速清晰化
+
+*本次更新: QuantumVillage UncutGem全开源NV色心金刚石磁力计DEF CON 2025 V2/ Quantum Singapore 2026论坛量子汇聚工业应用/ npj Quantum Information分子自旋量子传感磁场探测/ Nature Communications单自旋扫描梯度仪磁成像/ Nature Electronics CMOS集成NV色心量子传感器/ IDTechEx量子传感市场2024-2044年预测71亿美元(2026-08-03下午-14:33)*
+
+---
+
 ### 🆕 新增条目(2026-08-03下午-14:03 - 本次更新)
 
 #### Nature Communications:量子传感单引力子探测——量子声学谐振器/引力量子化/引力波物理/2024年(2026-08-03)
