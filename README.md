@@ -7,6 +7,19 @@
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 [![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
 
+### 🆕 新增条目(2026-08-03上午-11:03 - 本次更新)
+
+#### EPJ Quantum Technology:Quantum Enabled Position, Navigation and Timing (PNT)专辑征稿——量子传感赋能定位导航授时/投稿截止2026年8月31日(2026-08-03)
+- [Springer Nature:EPJ Quantum Technology Topical Collection](https://link.springer.com/journal/volumesAndIssues/40507?tabName=topicalCollections) | EPJ Quantum Technology; Springer Nature; 投稿截止日期:2026年8月31日
+- **征稿主题**:量子赋能定位、导航与授时(Quantum Enabled PNT)——量子传感技术突破传统PNT(GPS等全球导航卫星信号)的脆弱性限制
+- **技术背景**:当前GPS等卫星导航信号在建筑物内、地下、水下等环境不可用;对手干扰即可使GPS失效;量子传感提供不依赖外部信号的自主PNT解决方案
+- **征稿范围**:冷原子干涉仪量子加速度计在无GPS环境下的独立导航;量子陀螺仪和量子重力仪辅助导航;量子传感与经典PNT系统的融合架构;芯片级量子PNT的工程化挑战
+- **量子传感关联**:量子PNT是量子传感在国防和关键基础设施领域的最高价值应用;投稿截止日期2026年8月31日——QSensingZoo追踪量子PNT学术前沿作为产业参考
+
+*本次更新: EPJ Quantum Technology量子PNT专辑征稿截止2026年8月31日——量子传感赋能定位导航授时(2026-08-03上午-11:03)*
+
+---
+
 ### 🆕 新增条目(2026-08-03上午-09:33 - 本次更新)
 
 #### Nature Physics:宽频带囚禁离子射频电场量子传感/800倍频宽扩展/量子放大压缩/3.4dB量子极限突破/2025年2月(2026-08-03)
