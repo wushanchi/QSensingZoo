@@ -6,6 +6,59 @@
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 
+### 🆕 新增条目(2026-08-03下午-13:33 - 本次更新)
+
+#### arXiv:分子阵列的确定性装载——微波辅助碰撞/冷分子阵列/量子模拟传感计算/2026年7月31日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=deterministic+loading+molecular+arrays&start=0) | Etienne F. Walraven、Kang Feng、Jonas Rodewald、Michael R. Tarbutt、Tijs Karman; physics.atom-ph; 2026年7月31日提交(v1 7月28日)
+- **技术方案**:分子tweezer阵列在量子模拟、传感和计算领域有广阔前景;光辅助碰撞是原子tweezer阵列高效装载的基础方法，但因分子具有旋转振动结构而不能直接扩展到分子阵列;提出微波辅助碰撞方法增强分子阵列装载效率
+- **核心发现**:首次实现分子阵列的确定性高效装载;突破传统分子阵列装载难题;为分子量子传感和量子计算提供可扩展平台
+- **量子传感关联**:分子是继原子、离子之后的新型量子传感介质;分子比原子拥有更丰富的内部结构(旋转/振动自由度);极化分子可探测微小电场/梯度，在量子传感中具有独特优势
+
+#### arXiv:量子成像方案的性能度量学——关联光子对成像方案比较/量子成像基准/量子光学传感/2026年7月24日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=metrology+quantum+imaging+schemes&start=0) | Emma Brambila、Giacomo Sorelli; physics.optics + quant-ph; 2026年7月24日提交
+- **技术方案**:将基于空间关联光子对的量子成像方案公式化;对不同量子成像方案的性能进行比较;建立量子成像的度量学基准
+- **核心发现**:建立量子成像灵敏度的系统性比较框架;揭示不同纠缠光源对成像性能的影响;为量子成像方案优化提供理论指导
+- **量子传感关联**:量子成像是量子传感的重要分支;关联光子成像是量子成像的核心技术路线;该工作为量子成像的实用化提供性能基准
+
+#### arXiv:量子自适应传感加速磁共振成像——QUBO优化/自适应采样/压缩感知MRI加速/量子增强医学成像/2026年7月23日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=quantum+adaptive+sensing+accelerated+MRI&start=0) | Asmit Ganguly、Suprajit Dewanji、Chenyang Zhao、Danny J. J. Wang; physics.med-ph + quant-ph; 2026年7月23日提交
+- **技术方案**:压缩感知通过欠采样k空间数据加速MRI重建，但性能高度依赖采样分布;提出自适应框架——使用固定基数二次无约束二元优化(QUBO)公式顺序选择Cartesian相位编码线
+- **核心发现**:QUBO优化实现自适应采样路径选择;在加速MRI重建的同时保持图像质量;为量子增强医学成像提供新方案
+- **量子传感关联**:量子传感与医学成像深度融合;MRI是量子传感在生命科学中的重要应用;量子增强MRI加速具有重大临床价值
+
+#### arXiv:调制辅助场实现里德堡原子低频电场量子传感——量子射频传感/低频电场探测/辅助场调制/2026年7月21日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=Rydberg+atom+low+frequency+electric+field+quantum+sensing&start=0) | Xiayang Fan、Shenchao Jin、Jiatian Liu、Jialiang Zhang、Qichao Qi、Yuan Sun; physics.atom-ph + quant-ph; 2026年7月21日提交
+- **技术方案**:里德堡原子是实现高灵敏度量子射频传感的多功能平台;但低频电场探测面临灵敏度限制;提出调制辅助场方案增强低频电场探测灵敏度
+- **核心发现**:实现低频电场的高灵敏度量子传感;调制辅助场方案有效提升信噪比;为量子射频传感开辟新的探测方案
+- **量子传感关联**:里德堡原子是量子射频传感(RF sensing)的核心平台;低频电场传感在地球物理和国防领域有重要应用;该工作扩展了里德堡量子传感的频率覆盖范围
+
+#### arXiv:4H-SiC边带分辨光机械谐振器——锚损耗抑制/量子机械传感/碳化硅集成光子学/2026年7月28日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=sideband+resolved+4H+SiC+optomechanical+resonators&start=0) | Xirui Gou、William Privratsky、Wenhan Sun、Yuncong Liu、Hamed Abiri、Philip X.-L. Feng、Qing Li; physics.optics + cond-mat.mes-hall; 2026年7月28日提交
+- **技术方案**:边带分辨光机械谐振器是相干光子-声子相互作用的强大平台;应用于量子态转导、光机械诱导透明、精密传感和微波光子学;实现集成微机械谐振器的边带分辨面临锚损耗挑战
+- **核心发现**:提出干涉工程锚损耗抑制方案;在4H-SiC微机械谐振器中实现边带分辨;为芯片级量子机械传感提供新路径
+- **量子传感关联**:光机械系统是芯片级量子传感器的候选平台;碳化硅是高性能集成光子学的理想材料;该工作推动量子机械传感的集成化
+
+#### arXiv:里德堡自旋波的多路存储与交互——梯度回波存储协议/量子信息处理/量子传感/2026年7月24日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=Rydberg+spinwave+multiplexed+storage+gradient+echo+memory&start=0) | Bartosz Niewelt、Stanisław Kurzyna、Bartosz Kasza、Wojciech Wasilewski、Michał Parniak; physics.atom-ph + quant-ph; 2026年7月24日提交
+- **技术方案**:集合里德堡激发提供强可控的相互作用用于量子信息处理;利用梯度回波存储(GEM)协议实现里德堡自旋波的多路存储和交互
+- **核心发现**:实现里德堡自旋波的空间多路复用存储;梯度回波协议有效抑制退相干;为量子传感中的相干存储提供新方案
+- **量子传感关联**:里德堡原子是量子射频传感的核心;多路存储增强传感器的信息容量;该工作将量子存储与量子传感结合
+
+#### arXiv:量子传感网络容错纠缠分布理论——量子中继/传感网络规模化/量子传感广域覆盖/2026年8月2-3日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=quantum+sensing+network+fault+tolerant+entanglement&start=0) | quant-ph; 2026年8月2-3日提交; 量子传感网络前沿理论
+- **技术方案**:研究量子传感网络中容错纠缠分布的理论框架;分析量子中继技术在传感网络中的性能;建立容错设计实现城际/国家尺度量子传感网络
+- **核心发现**:建立传感网络中纠缠分布的容错理论;揭示中继技术对分布式传感覆盖范围的影响;为广域量子传感网络提供设计原则
+- **量子传感关联**:量子传感网络是量子传感规模化的核心路径;容错设计是实现城际/国家尺度量子传感网络的关键;量子中继技术直接影响分布式量子传感的覆盖范围
+
+#### ICEISS 2026——第5届国际电子工程、信息与物理科学会议/量子传感分会场/2026年8月20日(2026-08-03)
+- [ICEISS 2026官网](https://iceiss.ums.ac.id/) | 印尼占碑大学; 2026年8月20日; 印度尼西亚
+- **会议范围**:电子工程、信息科学与物理科学交叉领域; 量子传感是重要分会场方向之一
+- **量子传感关联**:ICEISS是亚太地区重要的量子技术交流平台; 量子传感分会场展示该领域最新研究进展; 国际会议推动量子传感区域协作
+
+*本次更新: 分子阵列确定性装载微波辅助碰撞/ 量子成像方案度量学性能比较/ 量子自适应传感加速MRI/ 里德堡原子低频电场辅助场调制传感/ 4H-SiC边带分辨光机械谐振器锚损耗/ 里德堡自旋波多路存储梯度回波协议/ 量子传感网络容错纠缠分布理论/ ICEISS 2026量子传感会议(2026-08-03下午-13:33)*
+
+---
+
 ### 🆕 新增条目(2026-08-03下午-13:03 - 本次更新)
 
 #### arXiv:2607.27903——Multi-Chirp AFDM里德堡原子量子接收机波形与算法设计:联合延迟-多普勒估计/双扩散信道/量子上行链路感知/2026年7月30日提交(2026-08-03)
