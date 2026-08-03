@@ -5,21 +5,46 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
-[![GitHub issues](https://img.shields.io/github/issues/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/issues)
 
-### 🆕 新增条目(2026-08-03上午-11:03 - 本次更新)
+### 🆕 新增条目(2026-08-03上午-11:33 - 本次更新)
 
-#### EPJ Quantum Technology:Quantum Enabled Position, Navigation and Timing (PNT)专辑征稿——量子传感赋能定位导航授时/投稿截止2026年8月31日(2026-08-03)
-- [Springer Nature:EPJ Quantum Technology Topical Collection](https://link.springer.com/journal/volumesAndIssues/40507?tabName=topicalCollections) | EPJ Quantum Technology; Springer Nature; 投稿截止日期:2026年8月31日
-- **征稿主题**:量子赋能定位、导航与授时(Quantum Enabled PNT)——量子传感技术突破传统PNT(GPS等全球导航卫星信号)的脆弱性限制
-- **技术背景**:当前GPS等卫星导航信号在建筑物内、地下、水下等环境不可用;对手干扰即可使GPS失效;量子传感提供不依赖外部信号的自主PNT解决方案
-- **征稿范围**:冷原子干涉仪量子加速度计在无GPS环境下的独立导航;量子陀螺仪和量子重力仪辅助导航;量子传感与经典PNT系统的融合架构;芯片级量子PNT的工程化挑战
-- **量子传感关联**:量子PNT是量子传感在国防和关键基础设施领域的最高价值应用;投稿截止日期2026年8月31日——QSensingZoo追踪量子PNT学术前沿作为产业参考
+#### Nature:暗物质轴子约束分布式城际量子传感网络/全球光学磁力计阵列/突破天体物理观测限制/2026年1月28日(2026-08-03)
+- [Nature: Constraints on axion dark matter by distributed intercity quantum sensors](https://www.nature.com/articles/s41586-025-10034-w) | Nature; 2026年1月28日发表; 量子传感网络化基础物理探索里程碑
+- **技术方案**:利用全球光学磁力计网络分布式量子传感阵列; 探测轴子暗物质粒子形成的拓扑缺陷(TDM)产生的磁场信号; 超越传统天体物理观测的约束极限
+- **核心意义**:量子传感网络化首次应用于暗物质搜索; 城际分布式传感阵列验证了量子传感组网的科学价值; 为利用全球量子传感器网络开展基础物理探索开辟新途径
+- **量子传感关联**:量子传感网络化是广域传感的核心路径; 该工作将量子传感从单点测量扩展至全球协同探测; 代表量子传感在基础科学前沿的重要应用方向
 
-*本次更新: EPJ Quantum Technology量子PNT专辑征稿截止2026年8月31日——量子传感赋能定位导航授时(2026-08-03上午-11:03)*
+#### NASA量子 Pathways 研究所:1500万美元量子传感航天技术/下一代气候测量/量子重力仪卫星/德克萨斯大学奥斯汀分校牵头/2026年3月(2026-08-03)
+- [Texas ECE: Quantum Sensing in Outer Space - NASA-funded Research](https://www.ece.utexas.edu/news/quantum-sensing-outer-space-new-nasa-funded-research-will-build-next-gen-tech-better-measure) | NASA Space Technology Research Institute; 德克萨斯大学奥斯汀分校; 2026年3月6日公布; NASA五年1500万美元资助
+- **研究机构**:量子 Pathways 研究所(Quantum Pathways Institute)——成员包括德克萨斯大学奥斯汀分校、科罗拉多大学博尔德分校、加州大学圣塔芭芭拉分校、加州理工学院(Caltech)、美国国家标准与技术研究院(NIST)
+- **技术方案**:量子传感技术用于太空观测地球重力场变化; 通过测量原子对重力变化的反应来推断冰盖融化、海平面上升等气候过程; 建立下一代量子重力卫星测量系统
+- **核心目标**:改进冰川融化速度、海平面变化、陆地水资源和海洋热存储变化的测量精度; 开发可在轨道运行的紧凑型量子传感集成电路
+- **量子传感关联**:量子重力仪卫星是量子传感航天的终极应用; 该项目代表量子传感从实验室向太空正式迈进的里程碑; NASA五年大额资助标志量子传感进入国家战略层面
+
+#### Quantum Design完成收购牛津仪器纳米科学部门/全球科学仪器巨头+量子传感/增强全球量子传感分销网络/2026年1月2日(2026-08-03)
+- [量子盒:Quantum Design完成收购牛津仪器纳米科学部门](https://so.html5.qq.com/page/real/search_news?docid=70000021_767696836eb31352) | Quantum Design; 牛津仪器(Oxford Instruments); 2026年1月2日完成; 量子传感行业重大并购
+- **并购背景**:Quantum Design是全球领先科学仪器和先进材料表征解决方案供应商; 牛津仪器纳米科学部门专注低温设备和量子技术仪器; 收购增强Quantum Design在量子传感领域的全球分销网络
+- **技术平台**:牛津仪器纳米科学部门提供低温恒温器、稀释制冷机、氦气回收系统等关键量子技术支撑设备; 这些设备是量子传感系统(尤其是NV色心和超导传感器)运行的重要基础设施
+- **量子传感关联**:量子传感仪器商业化进入整合期; 科学仪器巨头收购量子技术部门反映产业成熟度; Quantum Design全球网络将加速量子传感仪器的市场化部署
+
+#### MIT Technology Review:量子雷达 Rydberg 原子实现地下目标成像/铯原子云室/厘米尺寸/精确定位4.7cm/NIST+RTX/2025年8月(2026-08-03)
+- [MIT Technology Review: This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | 美国国家标准与技术研究院(NIST)+RTX(雷神技术子公司); MIT Technology Review; 2025年8月11日发布
+- **技术方案**:利用充满铯原子的玻璃腔(约1厘米大小)作为量子雷达接收器; 铯原子被激光激发至里德堡态——膨胀至细菌大小; 无线电波与里德堡原子相互作用引起电子分布变化; 通过监测发射光颜色变化检测无线电波
+- **核心指标**:成功探测5米内的铜板、管道和钢棒; 目标定位精度达4.7厘米; 里德堡原子可覆盖宽频段无需改变物理结构——单设备多频段能力
+- **技术优势**:相比传统雷达天线接收器更紧凑(厘米级vs大型天线结构); 基于原子固有结构——无需频繁校准; 量子传感器核心组件每个铯原子完全相同，特性可链接至基本常数
+- **应用场景**:地下管线探测; 天然气钻井; 考古发掘; 汽车雷达芯片调试; 土壤水分测量
+- **量子传感关联**:量子雷达是量子传感在目标探测领域的标杆应用; 该工作将Rydberg原子射频接收器与传统雷达系统更紧密集成; 代表量子传感从实验室走向实际目标探测系统的重要进展
+
+#### QuSpin量子磁力计:全球量子磁传感商业产品/零场磁力计QZFM Gen-3/总场磁力计QTFM Gen-2/可穿戴OPM脑磁图Neuro-1/2026年8月2日更新(2026-08-03)
+- [QuSpin官网](https://quspin.com/) | QuSpin(美国); 量子磁力计商业化领先企业; 2026年8月2日产品信息更新
+- **产品线更新**:QZFM Gen-3——零场光学泵浦磁力计,用于生物磁信号和精密测量; QTFM Gen-2——总场原子磁力计,用于地球磁场环境下的地理测量和磁场绘图; Neuro-1——集成OPM-MEG脑磁图传感器系统,用于脑活动成像
+- **核心技术**:光学泵浦磁力计(OPM)技术; 无需低温制冷,室温工作; 提供从实验室到野外的完整解决方案
+- **市场定位**:QuSpin是量子磁传感商业化最活跃的企业之一; 其产品涵盖科研(生物磁成像)和工业(地球物理勘探)两大方向
+- **量子传感关联**:光学泵浦磁力计是量子磁传感最成熟商用平台; QuSpin持续产品迭代反映量子磁传感市场正在扩大; 可穿戴OPM脑磁图是量子传感在生命科学领域的前沿应用
+
+*本次更新: Nature全球分布式量子传感网络暗物质轴子约束突破天文观测极限/ NASA Quantum Pathways研究所1500万美元量子传感太空气候测量卫星项目/ Quantum Design完成收购牛津仪器纳米科学部门强化全球量子传感分销/ MIT Technology Review Rydberg量子雷达地下目标成像4.7cm精度/ QuSpin量子磁力计产品线2026年8月更新(2026-08-03上午-11:33)*
 
 ---
-
 ### 🆕 新增条目(2026-08-03上午-09:33 - 本次更新)
 
 #### Nature Physics:宽频带囚禁离子射频电场量子传感/800倍频宽扩展/量子放大压缩/3.4dB量子极限突破/2025年2月(2026-08-03)
