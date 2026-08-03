@@ -4734,3 +4734,22 @@
 - **产品名称**:Quantum Spectrum量子射频传感系统
 - **技术方案**:利用里德堡原子实现射频信号探测; 将量子射频传感推向工程化应用
 - **商业意义**:代表基于原子的射频量子传感从实验室向产品化迈进; 为量子射频传感提供商用级解决方案
+
+---
+
+### 🆕 新增条目(2026-08-03晚-19:33 - 本次更新)
+
+#### IGARSS 2026:IEEE国际地球科学与遥感研讨会/8月9-14日华盛顿/量子传感与遥感前沿议题/2026年8月(2026-08-03)
+- [IGARSS 2026官网](https://2026.ieeeigarss.org/) | IEEE; 2026年8月9-14日; 美国华盛顿特区; 遥感领域顶级年度会议
+- **会议背景**:IGARSS(International Geoscience and Remote Sensing Symposium)是IEEE主办的全球遥感科学最大规模会议;2026年主题涵盖先进传感器、量子遥感、AI驱动遥感分析等前沿方向
+- **量子传感议题**:量子传感技术在遥感领域应用日益受到关注;量子激光雷达(Quantum LiDAR)、量子成像(Quantum Imaging)、量子光度测量等量子增强遥感方法成为新兴分会场主题
+- **量子传感关联**:量子传感与遥感交叉是量子传感产业化的重要方向;IGARSS展示量子传感在环境监测、资源勘探、气候变化等领域的应用潜力;量子增强遥感有望突破传统遥感极限
+
+#### Northwestern University:量子纠缠光子在实际光纤网络中传输/24.4km芝加哥现网/94%保真度/Optica Quantum/2026年8月2日(2026-08-03)
+- [Optica Quantum:Entanglement distribution over a deployed fiber network with co-propagating classical traffic](https://opg.optica.org/optica-quantum/fulltext.cfm?uri=optica-quantum-2026-EB56D2AF1B04C55D) | Northwestern University Prem Kumar团队; Optica Quantum; 2026年8月2日发表; 量子纠缠分发里程碑
+- **技术方案**:在芝加哥现网光纤(24.4km)中成功传输纠缠光子;与36 Tbps普通数据流量同纤共传;将量子光子置于O波段而将传统流量限制在C波段
+- **核心指标**:即使在满载商用链路上纠缠保真度仍超过94%;首次展示在实际运行的现代电信网络中进行远程纠缠分发
+- **技术意义**:证明未来量子网络无需等待专用光纤;现有电信基础设施可承载量子信号;是量子互联网从理论走向现实的关键里程碑
+- **量子传感关联**:量子纠缠网络是分布式量子传感的基础设施;量子光纤网络同时服务量子通信与量子传感;该成果为广域量子传感器网络铺平道路
+
+*本次更新: IGARSS 2026华盛顿8月9-14日量子传感遥感前沿/ Northwestern量子纠缠光子在24.4km芝加哥现网实际光纤94%保真度Optica Quantum2026年8月2日(2026-08-03晚-19:33)*
