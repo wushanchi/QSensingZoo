@@ -1,3 +1,3 @@
-2026-08-03 03:33
-QSensingZoo update: 新增量子传感条目5条——Nature全球分布式量子传感暗物质轭子约束/NASA Quantum Pathways 1500万美元量子传感太空气候测量/Quantum Design收购牛津仪器纳米科学部门/MIT TR Rydberg量子雷达地下成像/QuSpin量子磁力计朦年8月产品更新(2026-08-03上午-11:33)
-Commit: 9b2bc8d8ebf058380bc9cc276cf0286d8701d14d
+2026-08-03 17:33
+QSensingZoo update: 新增量子传感条目4条——Sandia国家实验室量子传感核心技术平台/物理学报机载量子重力仪绝对重力测量/2026上海时间频率展/ arXiv铁电氮化铝扫描探针量子传感(2026-08-03下午-17:33)
+Commit: ce7d8caa93a05036d4f998fd3b3122461f83971a
