@@ -1,3 +1,40 @@
+### 🆕 新增条目(2026-08-04 06:33 - 本次更新)
+
+#### MIT/NIST+RTX 量子雷达:Rydberg原子云探测隐藏物体/地下成像/量子传感新范式/2025年8月(2026-08-04)
+- [MIT Technology Review](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | NIST + RTX(原Raytheon); 2025年8月11日发布
+- **技术方案**:使用玻璃腔中的铯原子云作为量子探测器;激光将铯原子激发至Rydberg态(体积膨胀约10000倍);Rydberg原子对射频波敏感,当反射射频波与原子云相互作用时发射光颜色发生变化
+- **核心优势**:接收器仅需厘米级玻璃腔,远小于传统雷达天线;单一紧凑设备可覆盖多频段,无需更改物理结构;可探测隐蔽物体如地下公用设施、天然气钻井、考古遗址
+- **量子传感关联**:Rydberg原子是量子射频传感的核心平台;量子雷达代表量子传感在检测领域的新突破;该技术将量子物理原理直接转化为实用传感设备
+
+#### QuantX Labs商业量子传感产品系列:CRYO超低相噪振荡器/OPM磁力计/量子惯性导航/定位授时/2026年商业化(2026-08-04)
+- [QuantX Labs官网](https://quantxlabs.com/) | QuantX Labs; 2026年持续商业化; 澳大利亚量子传感商业公司
+- **核心产品**:①CRYO——超低相噪振荡器,用于超视距雷达、深空跟踪、高精度授时;②Quantum PNT(定位导航授时)系统——抗干扰、抗GNSS拒止,量子传感技术支撑;③OPM(光泵浦磁力计)产品线——高灵敏度磁场传感
+- **市场定位**:Solving tomorrow's positioning, navigation and timing challenges today——传统PNT基础设施脆弱,量子传感提供弹性解决方案;关键基础设施、通信、国家安全
+- **量子传感关联**:QuantX代表量子传感商业化的真实案例;量子惯性导航是量子传感最高价值应用方向之一;量子PNT正在从实验室走向关键基础设施保护
+
+#### Bosch Quantum Sensing合资公司成立:Bosch+Element Six/金刚石NV量子传感器/芯片级紧凑设计/2025年4月(2026-08-04)
+- [Bosch Quantum Sensing官网](https://www.bosch-quantumsensing.com/insights-and-updates/bosch-establishes-company-with-the-synthetic-diamond-solutions-provider-element-six/) | Bosch + Element Six(戴比尔斯集团旗下); 2025年4月宣布; 总部德国路德维希堡
+- **合资详情**:博世量子传感公司(Bosch Quantum Sensing); Bosch主导运营,Element Six持股25%;30名员工;基于Bosch 2022年内部初创公司
+- **核心技术**:合成金刚石是博世量子传感器的关键组件;NV色心金刚石量子传感器原型已达智能手机级紧凑设计,灵敏度行业顶尖;芯片级量子传感器
+- **市场前景**:医疗和移动应用全球市场潜力:未来五年内达数十亿欧元/年;应用领域:自然资源勘探、飞机导航、医疗技术
+- **量子传感关联**:工业巨头+合成金刚石龙头联手,量子传感商业化里程碑;芯片级量子传感器是产业化的关键目标;博世预计量子传感将深刻改善人们生活
+
+#### Nature Physics:量子Fisher信息在奇特金属中首次量化/多体纠缠探测/量子传感与凝聚态物理交叉/2026年6月(2026-08-04)
+- [Nature Physics](https://www.nature.com/articles/s41567-018-0161-5) | 维也纳工业大学Paschen团队+莱斯大学Si团队+维尔茨堡大学Assad团队; 2026年6月发布
+- **技术方案**:利用量子Fisher信息(QFI)量化奇特金属(strange metal)中的宏观多体纠缠;首次建立量子计量学与奇特金属物理的桥梁
+- **核心发现**:突破以往无法量化奇特金属中量子纠缠的困境;量子Fisher信息作为探测多体纠缠的敏感探针;为理解非常规超导和量子临界提供新工具
+- **量子传感关联**:量子传感技术(量子计量学)用于探测凝聚态物理前沿问题;量子Fisher信息是量子传感性能评估的核心度量;该工作展示量子传感方法在基础物理研究中的独特价值
+
+#### 量子传感器市场报告:2034年规模预计显著增长/原子钟/磁传感/重力仪/加速度计/MarketsandMarkets 2024(2026-08-04)
+- [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html) | MarketsandMarkets; 2024年12月发布; 全球量子传感器市场报告
+- **市场分类**:产品类型包括原子钟(Atomic Clocks)、磁传感器(Magnetic Sensors)、PAR量子传感器、重力仪与加速度计(Gravimeters & Accelerometers)
+- **市场驱动**:量子传感在定位导航授时(PNT)、医疗诊断、地球物理勘探、国防安全等领域的应用需求持续增长
+- **量子传感关联**:量子传感市场正在快速成长;商业化进程从产品向规模化应用延伸;量子传感产业生态日趋成熟
+
+*本次更新: MIT/NIST+RTX Rydberg量子雷达/QuantX Labs商业量子传感产品线/ Bosch Quantum Sensing合资公司/ Nature Physics量子Fisher信息奇特金属研究/ 量子传感器市场报告(2026-08-04早-06:33)*
+
+---
+
 ### 🆕 新增条目(2026-08-04 06:03 - 本次更新)
 
 #### Nature:工程化蛋白量子自旋共振/活细胞室温ODMR/单细胞灵敏度/磁共振成像/多模态量子传感/Nature 2026(2026-08-04)
