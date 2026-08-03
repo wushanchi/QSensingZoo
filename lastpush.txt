@@ -1,3 +1,2 @@
-2026-08-03 18:03
-QSensingZoo update: 新增量子传感条目3条——MIT TR量子雷达里德堡原子/NIST+RTX/VectorAtomic量子惯性传感/QCi收购Luminar(2026-08-03下午-18:03)
-Commit: a30738650258435cb860bc0584bc8cebb3735820
+2026-08-03 21:03
+QSensingZoo update: 新增量子传感条目3条——清华大学Nature动力学冻结磁场测量/ Q-CTRL Boulder Opal量子传感控制软件/ 北方材料院金刚石量子传感技术(2026-08-03晚上-21:03)
