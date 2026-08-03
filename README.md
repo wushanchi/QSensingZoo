@@ -6,6 +6,32 @@
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 
+### 🆕 新增条目(2026-08-03下午-18:03 - 本次更新)
+
+#### MIT Technology Review+NIST+RTX:量子雷达里德堡原子成像隐蔽物体/厘米级玻璃气室/超越传统雷达/2025年8月(2026-08-03)
+- [MIT Technology Review: This quantum radar could image buried objects](https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/) | MIT Technology Review; 2025年8月11日发布; 量子传感国防应用里程碑
+- **技术方案**:利用装在玻璃气室中的铯原子云检测反射无线电波的新型雷达; 铯原子被激光激发至里德堡态(比正常尺寸大约10000倍); 无线电波撞击里德堡原子时干扰其核外电子分布; 通过监测原子发光颜色变化检测返回信号
+- **核心优势**:使用约1厘米尺寸的玻璃气室替代传统雷达的大型天线和接收组件; 可探测埋地物体——地下公用设施、天然气钻探、考古挖掘; 比传统雷达设计更紧凑
+- **合作方**:NIST(美国国家标准与技术研究院)+RTX(国防承包商); 量子传感与国防工业的深度合作案例;
+- **量子传感关联**:里德堡原子射频传感从实验室走向实际雷达应用; 量子传感首次明确展示在国防领域的实用价值; 该工作将量子传感器的潜在军事价值直接呈现
+
+#### VectorAtomic:量子原子惯性传感+皮秒级时钟同步/自主导航/通信/雷达/天文/全球定位/2026年(2026-08-03)
+- [VectorAtomic官网](https://vectoratomic.com/) | VectorAtomic; 2026年7月官网活跃; 量子传感产业化前沿企业
+- **企业定位**:"Quantum Technology. Delivered."——将量子技术工程化落地; Validated in harsh thermal, dynamic, and radiation environments (land, sea, space)
+- **核心产品线**:量子原子惯性传感器——测量重力变化精度达十亿分之一; 光学原子钟(Rackmount)——皮秒级同步精度; 量子传感系统解决方案覆盖:自主导航/通信/雷达/云/天文/GPS
+- **技术架构**:金属玻璃气室(隔离原子量子态)+激光与光学(制备/探测/读出量子态)+电子学与软件(精确测量序列编排); 三大领域同时创新实现系统级解决方案
+- **应用场景**:自动驾驶厘米级导航; 超高带宽数据网络; 地球精密测绘; GPS拒止环境; 海陆空天全场景
+- **量子传感关联**:代表量子惯性传感(陀螺仪+重力仪)和量子时钟的产业化先锋; 量子传感在GPS拒止导航中的战略价值; 该公司验证了量子传感在恶劣环境中的工程可行性
+
+#### Quantum Computing Inc.收购Luminar Semiconductor:量子计算+半导体垂直整合/2026年2月(2026-08-03)
+- [PR Newswire: Quantum Computing Inc. Completes Acquisition of Luminar Semiconductor](https://www.prnewswire.com/news-releases/quantum-computing-inc-completes-acquisition-of-luminar-semiconductor-inc-302676884.html) | Quantum Computing Inc.; 2026年2月2日完成收购; 量子计算产业垂直整合
+- **交易动态**:QCi完成对Luminar Semiconductor的收购; 增强量子计算硬件栈的半导体垂直整合能力;
+- **量子传感关联**:量子计算与半导体制造的垂直整合趋势; 量子传感器的制造同样依赖先进半导体工艺; 该收购反映了量子技术全产业链整合的宏观趋势
+
+*本次更新: MIT TR+NIST+RTX量子雷达里德堡原子成像隐蔽物体/ VectorAtomic量子原子惯性传感皮秒时钟全球同步/ QCi收购Luminar Semiconductor垂直整合(2026-08-03下午-18:03)*
+
+---
+
 ### 🆕 新增条目(2026-08-03下午-17:03 - 本次更新)
 
 #### Nature Physics:宽带电场量子传感——运动喇曼跃迁/囚禁离子射频传感/800倍频谱扩展/标准量子极限以下3.4dB/2025年2月(2026-08-03)
