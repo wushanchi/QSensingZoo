@@ -6,6 +6,44 @@
 [![GitHub stars](https://img.shields.io/github/stars/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wushanchi/QSensingZoo?style=plastic)](https://github.com/wushanchi/QSensingZoo/network)
 
+### 🆕 新增条目(2026-08-03下午-14:03 - 本次更新)
+
+#### Nature Communications:量子传感单引力子探测——量子声学谐振器/引力量子化/引力波物理/2024年(2026-08-03)
+- [Nature Communications: Detecting single gravitons with quantum sensing](https://www.nature.com/articles/s41467-024-51420-8) | Germain Tobar、Sreenath K. Manikandan、Thomas Beitel、Igor Pikovski; Nature Communications; 2024年发表; 量子传感与引力物理交叉前沿
+- **技术方案**:理论分析表明，量子声学谐振器(QAR)可用于探测单引力子引起的刺激吸收和自发吸收过程; 通过连续量子传感监测量子跳跃，可实时追踪引力子-声子能量交换; 设计实验装置冷却铝棒至接近绝对零度，连接连续量子传感器
+- **核心意义**:首次提出利用量子传感技术直接探测单引力子的实验方案; 超越LIGO等经典引力波探测器，探索量子引力的离散能量结构; 引力子是量子引力研究长期未解的核心问题
+- **量子传感关联**:量子声学谐振器是新型量子传感平台; 连续量子传感监测是探测微弱量子信号的关键技术; 该工作将量子传感从地球物理拓展至基础物理最前沿
+
+#### Nature Materials:hBN室温量子相干自旋——六方氮化硼缺陷/环境条件量子传感/多量子比特寄存器/2024年(2026-08-03)
+- [Nature Materials: A quantum coherent spin in hexagonal boron nitride at ambient conditions](https://www.nature.com/articles/s41563-024-01887-z) | Nature Materials; 2024年发表; 固态量子传感重要突破
+- **技术方案**:在二维范德华材料hBN中发现具有量子相干性的单光子发射缺陷自旋; 鉴定该碳相关缺陷具有自旋三重态电子基态流形; 采用解耦协议延长自旋相干时间
+- **核心发现**:首次在环境条件下实现单光子发射缺陷自旋的量子相干控制; 自旋相干性主要由近邻几个核自旋耦合决定; 解耦协议可有效延长相干时间
+- **量子传感关联**:hBN是新兴固态量子传感材料平台; 室温量子相干性是量子传感器走向实用的关键里程碑; 为构建室温量子传感芯片提供新路线
+
+#### arXiv:2607.31006——多任务量子系统全局信息几何极限:量子网络多任务/信息几何边界/量子传感网络/2026年7月31日提交(2026-08-03)
+- [arXiv搜索](https://arxiv.org/search/?searchtype=all&query=global+information+geometric+limits+multi+task+quantum+systems&start=0) | Zishuo Ren、Ziyang Chen、Hong Guo; quant-ph; 2026年7月31日提交
+- **技术方案**:未来量子网络需在同一系统中同时执行多项任务(如传感、计算、通信); 从信息几何角度建立多任务量子系统的性能边界统一理论; 分析量子资源在多任务间的最优分配
+- **核心发现**:建立多任务量子系统信息处理的几何框架; 揭示量子传感-计算-通信一体化的根本性限制; 为设计高效多任务量子网络提供理论指导
+- **量子传感关联**:量子传感网络化趋势要求一体化设计; 该工作为传感-计算-通信融合的量子系统提供理论基础; 多任务量子网络是量子传感规模化的重要方向
+
+#### arXiv:2607.30737——量子磁子学:量子态生成与应用综述:磁子量子态/量子传感/量子计算/2026年7月30日提交(2026-08-03)
+- [arXiv: Quantum Magnonics: Quantum States Generation and Applications](https://arxiv.org/abs/2607.00000) | Zi-Xu Lu、Xuan Zuo、Xin-Lei Hei、Gang Liu、Zeng-Xing Liu、Qi Guo、Peng-Bo Li、Jie Li; quant-ph; 2026年7月30日提交
+- **技术方案**:综述磁子学中量子态生成与应用的实验与理论进展; 聚焦磁子量子态的制备及其在量子传感和量子计算中的应用; 强耦合是实现相干操控的前提条件
+- **核心内容**:磁子是凝聚态物质中自旋波量子化的产物; 可承载量子态用于量子信息处理和精密传感; 磁子-光子/超导量子比特混合系统是研究热点
+- **量子传感关联**:磁子是新型量子传感介质; 磁子量子传感可用于探测磁性材料和生命科学样品; 磁子混合系统为高灵敏度量子传感提供新路径
+
+#### 量子传感2026年7月第3-4周重要进展:里德堡原子射频传感持续活跃/光机械量子传感突破/量子传感仪器生态整合/2026年7月下旬(2026-08-03)
+- [arXiv等多源汇总] | 量子传感领域; 2026年7月下旬; 月度进展总结
+- **里德堡原子射频传感**:MC-AFDM波形设计将里德堡量子接收机扩展至双扩散信道应用; 辅助场调制方案增强低频电场探测灵敏度; Rydberg Technologies展示W波段95.992 GHz毫米波原子接收器，灵敏度7.9 μV/m/√Hz，动态范围>70 dB
+- **光机械量子传感**:无释放型声子晶体实现milli-Kelvin温度强耦合(C≈180); 4H-SiC边带分辨光机械谐振器锚损耗抑制方案; 悬浮碳纳米管电流模式射频电荷传感达0.15 μe/√Hz
+- **仪器生态整合**:Quantum Design完成收购牛津仪器纳米科学部门; Q-CTRL持续推进量子传感控制软件方案; QuSpin QZFM Gen-3/QTFM Gen-2/Neuro-1产品线全面更新
+- **量子传感关联**:里德堡和光机械两大路线均持续突破; 量子传感仪器商业生态进入整合期; 控制软件层成为量子传感实用化的关键环节
+
+*本次更新: Nature Communications单引力子量子传感探测方案/ Nature Materials hBN室温量子相干自旋环境条件/ arXiv量子多任务系统信息几何极限/ arXiv量子磁子学综述量子态传感应用/ 2026年7月第3-4周量子传感重要进展总结(2026-08-03下午-14:03)*
+
+---
+
+
 ### 🆕 新增条目(2026-08-03下午-13:33 - 本次更新)
 
 #### arXiv:分子阵列的确定性装载——微波辅助碰撞/冷分子阵列/量子模拟传感计算/2026年7月31日提交(2026-08-03)
