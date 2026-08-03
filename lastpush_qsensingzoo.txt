@@ -1,7 +1,1 @@
-2026-08-03 18:33
-QSensingZoo update: 新增量子传感条目6条——Imperial College量子传感器高温运行突破/Quantinuum 8月11日公布Q2财报/DARPA RoQS量子传感器替代GPS Phase1/QCi 2026 Q1财报净亏损405万美元/Q.ANT量子磁力计皮特斯拉精度室温/SLAC量子点可量产量子比特Q-NEXT(2026-08-03下午-18:33)
-Commit: 3fd96c3
-
-2026-08-03 20:33
-QSensingZoo update: 新增量子传感条目6条——Nature分布式城际量子传感器约束轴子暗物质/SandboxAQ E轮4.5亿美元估值57.5亿谷歌英伟达参投AQNav量子磁导航NATO DIANA/Nature Physics量子增强GPS超越标准量子极限/SAXON Q室温NV量子计算系统已商用德国/Q-CTRL Boulder Opal量子传感控制软件/Quantum Design收购牛津仪器纳米科学部低温仪器整合(2026-08-03晚上-20:33)
-Commit: e7590ab (local only - push pending network recovery)
+2026-08-03 21:33
