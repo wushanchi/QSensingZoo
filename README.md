@@ -19,6 +19,42 @@
 *本次更新: 国仪量子科创板上市688828.SH发行价21.22元/ QuSpin量子磁力计QTFM/QZFM/Neuro-1产品线(2026-08-04 15:47)*
 
 ---
+### 🆕 新增条目(2026-08-04 16:47 - 本次更新)
+
+#### EU Quantum Flagship量子传感全项目矩阵:10大专项覆盖重力/光量子/MRI/金刚石/机械量子传感/2026年持续推进(2026-08-04)
+- [Quantum Flagship EU](https://qt.eu/) | EU Quantum Flagship; 2026年7月27日更新; 欧洲最大量子技术协调行动
+- **EQUIP-G**:European Quantum Infrastructure Project for Gravimetry——量子重力仪欧洲基础设施建设;量子重力仪是商业化最成熟的量子传感方向;为欧洲量子重力传感网络奠定基础设施
+- **QUANTIFY**:Quantum enhANced phoTonic Integrated sensors For metrologY——光子集成量子增强传感器计量学;将量子传感原理集成到光子芯片平台;推动量子传感的规模化制造
+- **PoQus**:Portable Quantum Sensors for Neurosurgery——神经外科便携式量子传感器;量子磁力计用于术中神经导航;代表量子传感向临床医学的渗透
+- **RESQ**:Quantum Sensing for Metabolic Brain Imaging——代谢性脑成像量子传感;量子传感技术赋能高分辨脑功能成像;神经科学+量子物理交叉前沿
+- **PROMISE**:Prototypes of Magnetic Imaging Systems for Europe——欧洲磁成像系统原型;开发面向工业和医疗应用的量子磁成像原型;欧洲量子传感产业化的核心抓手
+- **C-QuENS**:Capacitation of Quantum-Entangled NV-Center Sensing——量子纠缠NV色心传感赋能;建立欧洲NV色心量子传感技术能力中心;NV色心是量子磁力计最成熟技术平台
+- **ACDQ_Q**:Advanced Circuits for Detection and Control of Diamond Quantum Sensors——金刚石量子传感器检测控制先进电路;配套NV色心量子传感器的电子学支持;量子传感系统完整闭环的关键环节
+- **MiSS**:Microwave Squeezing for Quantum Sensing——量子传感微波压缩态;利用微波压缩态增强传感灵敏度;超越标准量子极限的核心技术路线
+- **SuperMeQ**:Exploring nonclassical states of center-of-mass mechanical motion with superconducting magneto- and levitomechanics——超导磁力学与悬浮力学中机械质心非经典态;宏观机械振荡器的量子态操控;宏观量子传感和量子重力仪的新路径
+- **量子传感关联**:EU Quantum Flagship是全球最大量子传感协同项目群;10大项目覆盖从核心材料(NV金刚石)到终端应用(神经外科)的完整产业链;量子传感已成为欧洲战略性技术投资重点方向
+
+#### IGARSS 2026:量子传感与遥感融合/8月9-14日华盛顿特区/IEEE GRSS旗舰/地球观测未来/量子遥感(2026-08-04)
+- [IGARSS 2026官网](https://2026.ieeeigarss.org/) | IEEE GRSS; 2026年8月9-14日; 美国华盛顿特区; Registration Open
+- **会议主题**:The Future of Earth Observations——地球观测未来;探索解决地球和社会重大挑战的未来地球观测技术
+- **量子传感关联**:量子传感与遥感技术深度融合是IGARSS重要议题;量子遥感是量子传感应用拓展的前沿方向;IEEE GRSS的QUEST技术委员会(Quantum Earth Science and Technology)推动量子传感在地球科学中的应用
+- **会议规模**:IEEE Geoscience and Remote Sensing Society旗舰会议;第46届;华盛顿希尔顿酒店;全球地球科学与遥感领域最高水平学术交流平台
+
+#### QSim 2026量子模拟国际会议:8月10-14日阿姆斯特丹大学/量子传感与量子模拟交叉/里德堡气体/囚禁离子/固态自旋/NV色心(2026-08-04)
+- [QSim 2026官网](https://www.qsimconference.org/) | 阿姆斯特丹大学; 2026年8月10-14日; Roeterseiland Campus
+- **会议定位**:量子模拟领域顶级国际年度会议;桥接理论与实验;汇聚物理/工程/化学/材料/数学/计算机科学家
+- **量子传感关联系统**:①超冷原子与分子光晶格——原子干涉仪重力传感核心平台;②囚禁离子——超高精度量子传感和量子时钟;③里德堡气体——量子射频传感(量子雷达/频谱仪);④固态自旋系统——NV色心是量子磁力计核心;里德堡原子同时是量子计算和量子射频传感器的核心平台
+- **受邀演讲亮点**:Garnet Chan(Caltech)——量子模拟;Lawrence Cheok(Princeton)——中性原子量子模拟;Johannes Zeiher(MPI Quantum Optics)——里德堡原子量子传感与模拟;Monika Ringbauer(Stanford)——囚禁离子量子模拟;这些方向均与量子传感深度交叉
+
+#### Quantum Flagship 2026年路线图公共咨询:SRID更新/量子传感标准化/2030愿景/2026年7月27日(2026-08-04)
+- [Quantum Flagship SRIA](https://qt.eu/) | EU Quantum Flagship; 2026年7月27日发布; 2026年路线图公开咨询中
+- **量子传感相关内容**:更新量子传感SRIA(Strategic Research and Innovation Agenda);推进量子传感标准化和产业协调;为欧洲量子传感基础设施建设提供路线图指导
+- **重要时间节点**:QALYPSO 2026——8月31日-9月4日马耳他;EQAI 2026——8月31日-9月4日意大利Lignano Sabbiadoro;量子传感与量子AI交叉是重要议题
+
+*本次更新: EU Quantum Flagship量子传感10大项目矩阵(EQUIP-G/QUANTIFY/PoQus/RESQ/PROMISE/C-QuENS/ACDQ_Q/MiSS/SuperMeQ/QLASS)/ IGARSS 2026 8月9-14日华盛顿特区/ QSim 2026 8月10-14日阿姆斯特丹量子传感交叉/ Quantum Flagship 2026路线图公共咨询(2026-08-04 16:47)*
+
+---
+
 ### 🆕 新增条目(2026-08-04 14:47 - 本次更新)
 
 #### EQTC 2026欧洲量子技术大会:11月30日-12月3日都柏林/注册已开放/量子传感专题/欧洲量子传感产业核心会议(2026-08-04)
